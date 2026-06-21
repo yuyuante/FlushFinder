@@ -15,7 +15,7 @@ const TRANSLATIONS = {
         "filter_all": "全部",
         "filter_accessible": "無障礙",
         "filter_baby": "親子/母嬰",
-        "filter_free": "${t("drawer_free")}",
+        "filter_free": "免費使用",
         "filter_rating": "4星以上",
         "results_title": "附近廁所",
         "sort_by_distance": "依距離排序",
@@ -55,13 +55,13 @@ const TRANSLATIONS = {
         "status_available": "尚有空位",
         "status_busy": "使用中",
         "status_closed": "已關閉",
-        "drawer_planning_route": "${t("drawer_planning_route")}",
-        "drawer_accessible": "${t("drawer_accessible")}",
-        "drawer_baby": "${t("drawer_baby")}",
+        "drawer_planning_route": "正在規劃步行路徑...",
+        "drawer_accessible": "無障礙洗手間",
+        "drawer_baby": "親子/母嬰設備",
         "drawer_free": "免費使用",
         "drawer_start_nav": "開始導航",
         "drawer_report_error": "錯誤回報",
-        "drawer_address_loading": "${t("drawer_address_loading")}",
+        "drawer_address_loading": "詳細地址載入中...",
         "report_success_toast": "感謝回報！我們將盡快查證關於「{name}」的狀況。",
         "save_key_success": "成功儲存 API Key！將為您載入即時環境部開放資料。",
         "clear_key_success": "已清除 API Key，為您恢復本地離線資料。",
@@ -134,7 +134,7 @@ const TRANSLATIONS = {
         "locating_places": "Fetching nearby locations...",
         "input_empty_error": "Please enter an address or landmark!",
         "searching": "Searching...",
-        "search_failed_no_results": "Could not find any location for "{query}". Try more specific keywords.",
+        "search_failed_no_results": "Could not find any location for '{query}'. Try more specific keywords.",
         "search_error": "Search failed. Check your network connection.",
         "no_results": "No toilets match the filter",
         "distance_straight": "Straight line {dist} m",
@@ -150,7 +150,7 @@ const TRANSLATIONS = {
         "drawer_start_nav": "Navigate",
         "drawer_report_error": "Report Error",
         "drawer_address_loading": "Loading address...",
-        "report_success_toast": "Thank you for the report! We will verify "{name}" soon.",
+        "report_success_toast": "Thank you for the report! We will verify '{name}' soon.",
         "save_key_success": "API Key saved! Loading MOENV Live Data.",
         "clear_key_success": "API Key cleared. Switching back to local offline data.",
         "loading_new_data": "Loading latest data...",
@@ -310,7 +310,7 @@ const TRANSLATIONS = {
         "locating_places": "Hämtar platser i närheten...",
         "input_empty_error": "Ange en adress eller ett landmärke!",
         "searching": "Söker...",
-        "search_failed_no_results": "Hittade inga platser för "{query}". Försök med mer specifika sökord.",
+        "search_failed_no_results": "Hittade inga platser för '{query}'. Försök med mer specifika sökord.",
         "search_error": "Sökningen misslyckades. Kontrollera din anslutning.",
         "no_results": "Inga toaletter matchar filtret",
         "distance_straight": "Rak linje {dist} m",
@@ -326,7 +326,7 @@ const TRANSLATIONS = {
         "drawer_start_nav": "Navigera",
         "drawer_report_error": "Rapportera fel",
         "drawer_address_loading": "Laddar adress...",
-        "report_success_toast": "Tack för din rapport! Vi kommer att verifiera "{name}" inom kort.",
+        "report_success_toast": "Tack för din rapport! Vi kommer att verifiera '{name}' inom kort.",
         "save_key_success": "API-nyckel sparad! Laddar MOENV live-data.",
         "clear_key_success": "API-nyckel rensad. Återgår till offline-data.",
         "loading_new_data": "Laddar senaste data...",
@@ -1125,7 +1125,7 @@ function showDetailDrawer(toilet) {
             </span>
             <span style="display: flex; align-items: center; gap: 4px; font-weight: 500;" id="drawer-route-wrapper">
                 <i data-lucide="footprints" style="width: 13px; height: 13px;"></i>
-                <span id="drawer-route-text" style="color: var(--text-secondary);">正在規劃步行路徑...</span>
+                <span id="drawer-route-text" style="color: var(--text-secondary);">${t("drawer_planning_route")}</span>
             </span>
         </div>
         <div class="drawer-meta">
@@ -1143,15 +1143,15 @@ function showDetailDrawer(toilet) {
         <div class="drawer-features">
             <div class="feature-item ${accessibleActive}">
                 <i data-lucide="accessibility"></i>
-                <span>無障礙洗手間</span>
+                <span>${t("drawer_accessible")}</span>
             </div>
             <div class="feature-item ${babyActive}">
                 <i data-lucide="baby"></i>
-                <span>親子/母嬰設備</span>
+                <span>${t("drawer_baby")}</span>
             </div>
             <div class="feature-item ${freeActive}">
                 <i data-lucide="circle-dollar-sign"></i>
-                <span>免費使用</span>
+                <span>${t("drawer_free")}</span>
             </div>
             <div class="feature-item active">
                 <i data-lucide="clock"></i>
@@ -1173,7 +1173,7 @@ function showDetailDrawer(toilet) {
     lucide.createIcons();
 
     // If the address is not resolved yet, trigger dynamic reverse geocoding
-    if (toilet.address === "詳細地址載入中...") {
+    if (toilet.address === t("drawer_address_loading")) {
         resolveAddress(toilet);
     }
 
@@ -1300,15 +1300,6 @@ function setupEventListeners() {
     if (sourceSelect) sourceSelect.value = savedSource;
     if (apiKeyContainer) {
         apiKeyContainer.style.display = savedSource === "moenv" ? "block" : "none";
-    }
-
-    // Language Selection Setup
-    const langSelect = document.getElementById("lang-select");
-    if (langSelect) {
-        langSelect.value = currentLang;
-        langSelect.addEventListener("change", (e) => {
-            applyLanguage(e.target.value);
-        });
     }
 
     // Font Size Selection Setup
@@ -1684,7 +1675,7 @@ out center;`;
                             const street = tags["addr:street"] || tags["addr:road"] || "";
                             const house = tags["addr:housenumber"] || "";
                             const full = tags["addr:full"] || `${city}${dist}${street}${house}`;
-                            return full.trim() ? full : "詳細地址載入中...";
+                            return full.trim() ? full : t("drawer_address_loading");
                         })(),
                         type: type,
                         rating: mockRating,
