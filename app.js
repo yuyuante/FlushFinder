@@ -418,6 +418,22 @@ function applyLanguage(lang) {
     // Sync lang selector value
     const langSelect = document.getElementById("lang-select");
     if (langSelect) langSelect.value = lang;
+
+    // Dynamically re-render list items & map markers if toiletsData is loaded
+    if (typeof toiletsData !== 'undefined' && toiletsData && toiletsData.length > 0) {
+        renderToiletMarkers();
+        calculateAndDisplayToilets();
+        if (typeof updateUserMarker === 'function') updateUserMarker();
+        
+        // Re-open detail drawer if a toilet is selected
+        if (selectedToiletId) {
+            const selectedToilet = toiletsData.find(t => t.id === selectedToiletId);
+            if (selectedToilet) {
+                showDetailDrawer(selectedToilet);
+                fetchActualWalkingRoute(selectedToilet);
+            }
+        }
+    }
 }
 
 function initLanguage() {
@@ -1300,6 +1316,15 @@ function setupEventListeners() {
     if (sourceSelect) sourceSelect.value = savedSource;
     if (apiKeyContainer) {
         apiKeyContainer.style.display = savedSource === "moenv" ? "block" : "none";
+    }
+
+    // Language Selection Setup
+    const langSelect = document.getElementById("lang-select");
+    if (langSelect) {
+        langSelect.value = currentLang;
+        langSelect.addEventListener("change", (e) => {
+            applyLanguage(e.target.value);
+        });
     }
 
     // Font Size Selection Setup
