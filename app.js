@@ -229,17 +229,41 @@ function requestUserLocation() {
                 const lng = position.coords.longitude;
                 await setUserLocation(lat, lng);
                 map.setView(userCoords, 15);
+                selectNearestToilet();
             },
             async (error) => {
                 console.warn("無法取得精確定位，使用預設或先前位置:", error.message);
                 alert("無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。");
                 await setUserLocation(userCoords[0], userCoords[1]);
                 map.setView(userCoords, 15);
+                selectNearestToilet();
             },
             { enableHighAccuracy: true, timeout: 5000, maximumAge: 0 }
         );
     } else {
         setUserLocation(userCoords[0], userCoords[1]);
+        selectNearestToilet();
+    }
+}
+
+// Auto-select nearest toilet based on current data source
+function selectNearestToilet() {
+    if (!toiletsData || toiletsData.length === 0) return;
+    
+    // Calculate distance and sort
+    const toiletsWithDistance = toiletsData.map(t => {
+        const dist = getDistance(userCoords, t.coords);
+        return {
+            ...t,
+            distance: dist
+        };
+    });
+    
+    toiletsWithDistance.sort((a, b) => a.distance - b.distance);
+    const filtered = filterToiletData(toiletsWithDistance, activeFilter);
+    
+    if (filtered.length > 0) {
+        selectToilet(filtered[0]);
     }
 }
 
@@ -821,6 +845,7 @@ function setupEventListeners() {
             await loadToiletsData();
             renderToiletMarkers();
             calculateAndDisplayToilets();
+            selectNearestToilet();
         });
     }
 
@@ -851,6 +876,7 @@ function setupEventListeners() {
             await loadToiletsData();
             renderToiletMarkers();
             calculateAndDisplayToilets();
+            selectNearestToilet();
         });
     }
 
