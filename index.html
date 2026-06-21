@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlushFinder - 附近廁所即時搜尋</title>
+    <meta name="description" content="快速尋找附近乾淨、可用的公共與友善廁所。支援無障礙、親子設施篩選。">
+    <!-- PWA Meta Tags & Manifest -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="icon-192.jpg">
+    <!-- Google Fonts: Outfit & Noto Sans TC -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Leaflet.js CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar / Control Panel -->
+        <aside class="sidebar" id="sidebar">
+            <header class="app-header">
+                <div class="logo">
+                    <i data-lucide="map-pin" class="logo-icon"></i>
+                    <h1>FlushFinder</h1>
+                </div>
+                <p class="subtitle">尋找身邊最舒適的方便之處</p>
+                <div class="user-current-location" id="user-current-location">
+                    <i data-lucide="navigation" style="width: 12px; height: 12px;"></i>
+                    <span id="current-location-text">正在定位您的位置...</span>
+                </div>
+                <div class="search-location-bar" style="margin-top: 10px; display: flex; gap: 6px;">
+                    <input type="text" id="search-location-input" placeholder="輸入地址或地標手動定位..." style="flex: 1; padding: 8px 12px; border-radius: 8px; border: 1px solid var(--border); background-color: var(--bg-primary); color: var(--text-primary); font-size: 12px; outline: none; transition: var(--transition-smooth);">
+                    <button class="btn btn-primary" id="search-location-btn" style="padding: 8px 12px; border-radius: 8px; font-size: 12px; font-weight: 600; flex-shrink: 0;">定位</button>
+                </div>
+                <div class="location-tip">
+                    <i data-lucide="info"></i>
+                    <span>提示：拖曳地圖上的藍色定位點，或在任一處按兩下地圖即可手動修正位置。</span>
+                </div>
+            </header>
+
+            <!-- Filters Section -->
+            <section class="filters-section">
+                <h2><i data-lucide="sliders-horizontal"></i> 設施與條件篩選</h2>
+                <div class="filter-group">
+                    <button class="filter-chip active" data-filter="all">全部</button>
+                    <button class="filter-chip" data-filter="accessible">
+                        <i data-lucide="accessibility"></i> 無障礙
+                    </button>
+                    <button class="filter-chip" data-filter="baby">
+                        <i data-lucide="baby"></i> 親子/母嬰
+                    </button>
+                    <button class="filter-chip" data-filter="free">
+                        <i data-lucide="circle-dollar-sign"></i> 免費使用
+                    </button>
+                    <button class="filter-chip" data-filter="rating">
+                        <i data-lucide="star"></i> 4星以上
+                    </button>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section class="results-section">
+                <div class="results-header">
+                    <h2><i data-lucide="list"></i> 附近廁所 (<span id="results-count">0</span>)</h2>
+                    <span class="sort-label">依距離排序</span>
+                </div>
+                <div class="results-list" id="results-list">
+                    <!-- Dynamic List Items will be inserted here -->
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>正在定位並載入周邊廁所...</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Settings Section -->
+            <section class="settings-section">
+                <button class="settings-toggle" id="settings-toggle">
+                    <span class="toggle-left">
+                        <i data-lucide="settings" style="width:16px; height:16px;"></i>
+                        <span>資料來源設定</span>
+                    </span>
+                    <i data-lucide="chevron-down" class="chevron-icon" id="settings-chevron"></i>
+                </button>
+                <div class="settings-content" id="settings-content">
+                    <p class="settings-desc">選擇要載入的廁所資料來源：</p>
+                    
+                    <div style="margin-bottom: 12px;">
+                        <select id="source-select" style="width: 100%; padding: 8px; border-radius: 8px; border: 1px solid var(--border); background-color: var(--bg-primary); color: var(--text-primary); font-size: 12px; outline: none; cursor:pointer;">
+                            <option value="local">本地離線資料 (台北大安區)</option>
+                            <option value="osm">OpenStreetMap (全球即時免金鑰)</option>
+                            <option value="moenv">環境部 Open Data (已配置雲端金鑰)</option>
+                        </select>
+                    </div>
+
+                    <div id="api-key-container" style="display: none; margin-bottom: 12px;">
+                        <p style="font-size: 11px; color: var(--text-secondary); margin-bottom: 6px; line-height: 1.4;">提示：已為您設定好雲端金鑰，直接選擇即可使用。若您有自訂金鑰，可在下方輸入並儲存以進行覆蓋：</p>
+                        <div class="input-group">
+                            <input type="password" id="api-key-input" placeholder="請輸入自訂 MOENV API Key">
+                            <button class="btn btn-primary" id="save-key-btn">儲存</button>
+                        </div>
+                    </div>
+
+                    <div class="data-source-status" style="margin-top: 10px; border-top: 1px dashed var(--border); padding-top: 10px;">
+                        <span>目前資料來源：</span>
+                        <strong id="data-source-label">本地離線資料</strong>
+                    </div>
+
+                    <div style="margin-top: 8px; display: flex; align-items: center; justify-content: space-between; font-size: 11px; color: var(--text-secondary);">
+                        <span>App 版本: v22 (極速輕量)</span>
+                        <button id="clear-cache-btn" style="background: none; border: none; color: var(--primary); text-decoration: underline; cursor: pointer; font-size: 11px; padding: 0;">強制更新快取</button>
+                    </div>
+                </div>
+            </section>
+        </aside>
+
+        <!-- Main Map Area -->
+        <main class="map-area">
+            <!-- Fullscreen Leaflet Map -->
+            <div id="map"></div>
+
+            <!-- Floating Controls -->
+            <div class="map-controls">
+                <button class="control-btn" id="locate-btn" title="我的位置">
+                    <i data-lucide="locate"></i>
+                </button>
+                <button class="control-btn" id="theme-btn" title="切換深淺色地圖">
+                    <i data-lucide="moon"></i>
+                </button>
+            </div>
+
+            <!-- Detail Drawer (Mobile Bottom Sheet / Desktop Floating Card) -->
+            <div class="detail-drawer" id="detail-drawer">
+                <button class="close-drawer-btn" id="close-drawer">
+                    <i data-lucide="x"></i>
+                </button>
+                <div class="drawer-content" id="drawer-content">
+                    <!-- Dynamic Detail Content -->
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Leaflet.js JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <!-- Custom JS -->
+    <script src="app.js?v=22"></script>
+</body>
+</html>

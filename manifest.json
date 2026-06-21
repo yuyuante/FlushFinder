@@ -1,0 +1,24 @@
+{
+  "name": "FlushFinder - 附近廁所即時搜尋",
+  "short_name": "FlushFinder",
+  "description": "快速尋找附近乾淨、可用的公共與友善廁所。支援無障礙、親子設施篩選。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#10b981",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
