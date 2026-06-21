@@ -1,9 +1,9 @@
-const CACHE_NAME = 'flushfinder-v12';
+const CACHE_NAME = 'flushfinder-v25';
 const ASSETS = [
   './',
   './index.html',
-  './style.css?v=3',
-  './app.js?v=22',
+  './style.css?v=25',
+  './app.js?v=25',
   './toilets_data.json',
   './icon-192.jpg',
   './icon-512.jpg',
