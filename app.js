@@ -2,6 +2,7 @@
 
 // ==================== PWA MULTI-LANGUAGE LOCALIZATION (i18n) ====================
 let currentLang = "en"; // default fallback
+let currentSourceLabelKey = "source_label_local"; // default fallback
 
 const TRANSLATIONS = {
     "zh-TW": {
@@ -39,6 +40,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
+        "app_version": "App 版本: v27 (支援尼泊爾文)",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -127,6 +129,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
+        "app_version": "App Version: v27 (Nepali support)",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -215,6 +218,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
+        "app_version": "アプリバージョン: v27 (ネパール語対応)",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -303,6 +307,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
+        "app_version": "App-version: v27 (nepalesiskt stöd)",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -377,7 +382,7 @@ const TRANSLATIONS = {
         "source_osm": "OpenStreetMap (विश्वव्यापी, प्रत्यक्ष, निःशुल्क)",
         "source_moenv": "MOENV खुला डाटा (क्लाउड कुञ्जी कन्फिगर गरिएको)",
         "source_local": "स्थानीय अफलाइन डाटा (ताइपेई)",
-        "settings_lang_desc": "選擇介面語言 (Language)：",
+        "settings_lang_desc": "भाषा चयन गर्नुहोस् (Language):",
         "settings_font_desc": "इन्टरफेस र नक्सा फन्ट साइज:",
         "font_sm": "सानो",
         "font_md": "मध्यम (पूर्वनिर्धारित)",
@@ -391,6 +396,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
+        "app_version": "एप संस्करण: v27 (नेपाली समर्थन)",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
@@ -494,6 +500,12 @@ function applyLanguage(lang) {
         el.textContent = t(key);
     });
     
+    // Translate data source label
+    const sourceLabel = document.getElementById("data-source-label");
+    if (sourceLabel) {
+        sourceLabel.textContent = t(currentSourceLabelKey);
+    }
+    
     // Translate input placeholders
     document.querySelectorAll("[data-i18n-placeholder]").forEach(el => {
         const key = el.getAttribute("data-i18n-placeholder");
@@ -527,8 +539,21 @@ function applyLanguage(lang) {
     }
 }
 
+function getCurrentSourceLabelKey() {
+    const source = localStorage.getItem("flush_finder_source") || "osm";
+    if (source === 'moenv') {
+        const apiKey = localStorage.getItem("moenv_api_key") || "";
+        return apiKey ? "source_label_moenv_custom" : "source_label_moenv_cloud";
+    }
+    if (source === 'osm') {
+        return "source_label_osm";
+    }
+    return "source_label_local";
+}
+
 function initLanguage() {
     const lang = getInitialLanguage();
+    currentSourceLabelKey = getCurrentSourceLabelKey();
     applyLanguage(lang);
 }
 // ================================================================================
@@ -1570,7 +1595,7 @@ async function fetchWithTimeout(resource, options = {}) {
 async function loadLocalDataFallback() {
     const sourceLabel = document.getElementById("data-source-label");
     if (sourceLabel) {
-        sourceLabel.textContent = t("source_label_local_fallback");
+        currentSourceLabelKey = "source_label_local_fallback"; sourceLabel.textContent = t(currentSourceLabelKey);
         sourceLabel.style.color = "var(--text-secondary)";
     }
     try {
@@ -1646,7 +1671,7 @@ async function loadToiletsData() {
             localStorage.setItem("moenv_api_key", apiKey);
         }
         
-        sourceLabel.textContent = apiKey ? t("source_label_moenv_custom") : t("source_label_moenv_cloud");
+        currentSourceLabelKey = apiKey ? "source_label_moenv_custom" : "source_label_moenv_cloud"; sourceLabel.textContent = t(currentSourceLabelKey);
         sourceLabel.style.color = "var(--primary)";
         
         try {
@@ -1731,7 +1756,7 @@ async function loadToiletsData() {
             await loadToiletsData();
         }
     } else if (source === 'osm') {
-        sourceLabel.textContent = "OpenStreetMap (即時)";
+        currentSourceLabelKey = "source_label_osm"; sourceLabel.textContent = t(currentSourceLabelKey);
         sourceLabel.style.color = "var(--primary)";
         
         try {
@@ -1820,7 +1845,7 @@ out center;`;
     
     // Fallback/Default: Load from local toilets_data.json
     if (sourceSelect) sourceSelect.value = "local";
-    sourceLabel.textContent = t("source_label_local");
+    currentSourceLabelKey = "source_label_local"; sourceLabel.textContent = t(currentSourceLabelKey);
     sourceLabel.style.color = "var(--text-secondary)";
     try {
         const response = await fetch('toilets_data.json');
