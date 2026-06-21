@@ -1049,8 +1049,24 @@ async function fetchOverpassData(query) {
             if (data && data.elements) {
                 return data;
             }
+            throw new Error("地圖伺服器回傳格式不正確");
+        } else {
+            // Read error text from response
+            const contentType = res.headers.get("content-type") || "";
+            if (contentType.includes("application/json")) {
+                const errData = await res.json().catch(() => ({}));
+                throw new Error(errData.error || `HTTP 錯誤碼: ${res.status}`);
+            } else {
+                const errText = await res.text().catch(() => "");
+                // If it is Vercel's timeout/error HTML page, extract a clean description
+                if (errText.includes("504") || errText.includes("GATEWAY_TIMEOUT") || errText.includes("Gateway Timeout")) {
+                    throw new Error("伺服器連線超時 (504 Gateway Timeout)");
+                } else if (errText.includes("502") || errText.includes("BAD_GATEWAY") || errText.includes("Bad Gateway")) {
+                    throw new Error("伺服器連線錯誤 (502 Bad Gateway)");
+                }
+                throw new Error(`伺服器連線失敗 (HTTP ${res.status})`);
+            }
         }
-        throw new Error("伺服器代理回傳無效的格式");
     } catch (err) {
         console.warn("OSM Backend Proxy failed:", err);
         throw err;

@@ -8,10 +8,11 @@ module.exports = (req, res) => {
     return;
   }
 
-  // Active public Overpass API global mirrors (limit to 2 key mirrors to allocate longer timeout)
+  // Active public Overpass API global mirrors
   const endpoints = [
+    'https://overpass.kumi.systems/api/interpreter',
     'https://overpass-api.de/api/interpreter',
-    'https://overpass.kumi.systems/api/interpreter'
+    'https://overpass.private.coffee/api/interpreter'
   ];
 
   function tryEndpoint(index) {
@@ -66,8 +67,8 @@ module.exports = (req, res) => {
       tryEndpoint(index + 1);
     });
 
-    // Set a timeout of 4.5 seconds per mirror to stay safely under Vercel's 10-second limit
-    clientReq.setTimeout(4500, () => {
+    // Set a timeout of 2.8 seconds per mirror to stay safely under Vercel's 10-second limit (trying 3 mirrors max = 8.4 seconds)
+    clientReq.setTimeout(2800, () => {
       if (resolved) return;
       resolved = true;
       console.warn(`[Vercel Serverless OSM] Mirror ${targetUrl} timeout`);
