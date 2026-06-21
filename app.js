@@ -292,7 +292,7 @@ function updateUserMarker() {
     }
 
     const userIcon = L.divIcon({
-        className: 'custom-div-icon',
+        className: 'custom-div-icon user-marker-icon',
         html: `<div class="user-marker-pin" style="cursor: grab;"></div>`,
         iconSize: [20, 20],
         iconAnchor: [10, 10]
@@ -447,7 +447,7 @@ function renderToiletMarkers() {
         `;
 
         const customIcon = L.divIcon({
-            className: 'custom-div-icon',
+            className: 'custom-div-icon toilet-marker-icon',
             html: iconHtml,
             iconSize: [38, 38],
             iconAnchor: [19, 38] // Bottom center of pin

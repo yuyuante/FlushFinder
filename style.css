@@ -1048,9 +1048,58 @@ body.font-size-lg {
 .data-source-status { font-size: calc(11px * var(--font-scale)); }
 
 /* Map Tooltips & Popups */
+.leaflet-container {
+    font-size: calc(12px * var(--font-scale)) !important;
+}
+
 .leaflet-tooltip, 
 .leaflet-popup-content {
     font-size: calc(11px * var(--font-scale)) !important;
     font-weight: 500 !important;
+}
+
+/* Map Markers dynamic scaling using CSS variables */
+.toilet-marker-icon {
+    width: calc(38px * var(--font-scale)) !important;
+    height: calc(38px * var(--font-scale)) !important;
+    margin-left: calc(-19px * var(--font-scale)) !important;
+    margin-top: calc(-38px * var(--font-scale)) !important;
+}
+
+.toilet-marker-icon .custom-marker-pin {
+    width: 100% !important;
+    height: 100% !important;
+    left: 0 !important;
+    top: 0 !important;
+    margin: 0 !important;
+}
+
+.toilet-marker-icon .custom-marker-pin::after {
+    width: calc(24px * var(--font-scale)) !important;
+    height: calc(24px * var(--font-scale)) !important;
+}
+
+.toilet-marker-icon .custom-marker-icon {
+    width: calc(16px * var(--font-scale)) !important;
+    height: calc(16px * var(--font-scale)) !important;
+}
+
+.user-marker-icon {
+    width: calc(20px * var(--font-scale)) !important;
+    height: calc(20px * var(--font-scale)) !important;
+    margin-left: calc(-10px * var(--font-scale)) !important;
+    margin-top: calc(-10px * var(--font-scale)) !important;
+}
+
+.user-marker-icon .user-marker-pin {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.user-marker-icon .user-marker-pin::after {
+    width: calc(36px * var(--font-scale)) !important;
+    height: calc(36px * var(--font-scale)) !important;
+    left: calc(-8px * var(--font-scale)) !important;
+    top: calc(-8px * var(--font-scale)) !important;
 }
 
