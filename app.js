@@ -1,5 +1,432 @@
 // FlushFinder Application Logic
 
+// ==================== PWA MULTI-LANGUAGE LOCALIZATION (i18n) ====================
+let currentLang = "en"; // default fallback
+
+const TRANSLATIONS = {
+    "zh-TW": {
+        "app_title": "FlushFinder - 附近廁所即時搜尋",
+        "app_subtitle": "尋找身邊最舒適的方便之處",
+        "locating": "正在定位您的位置...",
+        "search_placeholder": "輸入地址或地標手動定位...",
+        "locate": "定位",
+        "location_tip": "提示：拖曳地圖上的藍色定位點，或在任一處按兩下地圖即可手動修正位置。",
+        "filters_title": "設施與條件篩選",
+        "filter_all": "全部",
+        "filter_accessible": "無障礙",
+        "filter_baby": "親子/母嬰",
+        "filter_free": "${t("drawer_free")}",
+        "filter_rating": "4星以上",
+        "results_title": "附近廁所",
+        "sort_by_distance": "依距離排序",
+        "locating_and_loading": "正在定位並載入周邊廁所...",
+        "settings_title": "資料來源設定",
+        "settings_source_desc": "選擇要載入的廁所資料來源：",
+        "source_osm": "OpenStreetMap (全球即時免金鑰)",
+        "source_moenv": "環境部 Open Data (已配置雲端金鑰)",
+        "source_local": "本地離線資料 (台北大安區)",
+        "settings_lang_desc": "選擇介面語言 (Language)：",
+        "settings_font_desc": "設定介面與地圖字體大小：",
+        "font_sm": "小 (Small)",
+        "font_md": "中 (Medium - 預設)",
+        "font_lg": "大 (Large)",
+        "moenv_key_tip": "提示：已為您設定好雲端金鑰，直接選擇即可使用。若您有自訂金鑰，可在下方輸入並儲存以進行覆蓋：",
+        "moenv_key_placeholder": "請輸入自訂 MOENV API Key",
+        "save": "儲存",
+        "current_source_label": "目前資料來源：",
+        "force_clear_cache": "強制更新快取",
+        "close_menu": "關閉選單",
+        "open_menu": "開啟選單",
+        "my_location": "我的位置",
+        "toggle_theme": "切換深淺色地圖",
+        
+        "gps_locating": "正在取得 GPS 精確定位...",
+        "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
+        "my_location_tooltip": "我現在的位置 (可拖曳修正)",
+        "locating_places": "正在讀取附近地標...",
+        "input_empty_error": "請輸入要搜尋的地址或地標名稱！",
+        "searching": "搜尋中...",
+        "search_failed_no_results": "找不到關於「{query}」的地點。請嘗試輸入更具體的路名、大樓或地標名稱。",
+        "search_error": "搜尋地點失敗，請檢查網路連線或稍後再試。",
+        "no_results": "沒有符合篩選條件的公廁",
+        "distance_straight": "直線 {dist} 公尺",
+        "distance_km": "直線 {dist} 公里",
+        "walk_time": "步行約 {mins} 分鐘",
+        "status_available": "尚有空位",
+        "status_busy": "使用中",
+        "status_closed": "已關閉",
+        "drawer_planning_route": "${t("drawer_planning_route")}",
+        "drawer_accessible": "${t("drawer_accessible")}",
+        "drawer_baby": "${t("drawer_baby")}",
+        "drawer_free": "免費使用",
+        "drawer_start_nav": "開始導航",
+        "drawer_report_error": "錯誤回報",
+        "drawer_address_loading": "${t("drawer_address_loading")}",
+        "report_success_toast": "感謝回報！我們將盡快查證關於「{name}」的狀況。",
+        "save_key_success": "成功儲存 API Key！將為您載入即時環境部開放資料。",
+        "clear_key_success": "已清除 API Key，為您恢復本地離線資料。",
+        "loading_new_data": "正在載入最新資料...",
+        "switching_source": "正在切換資料來源...",
+        "clear_cache_confirm": "是否要強制清除快取並重新載入應用程式？",
+        "data_fallback_msg": "無法自環境部 API 讀取資料，嘗試切換為本地離線資料：",
+        "data_fallback_alert": "載入環境部資料失敗！\n\n原因：{reason}\n\n系統已為您自動切換為「本地離線資料」。",
+        "osm_failed_alert": "載入 OpenStreetMap 資料失敗，系統正自動切換為第二順位「環境部 Open Data」。\n\n詳細原因：{reason}",
+        "osm_fallback_local_alert": "載入 OpenStreetMap 與環境部資料皆失敗，已為您自動切換為本地離線資料。\n\n詳細原因：{reason}",
+        "osm_planning_route": "正在規劃路徑...",
+        "osm_actual_route": "實際路程 <strong>{dist}</strong> ({time})",
+        "osm_actual_walk_time": "實際步行約 {mins} 分鐘",
+        "osm_route_fallback": "預估路程 {dist} (步行約 {mins} 分鐘)",
+        "address_resolved_failed": "請參考地圖標記定位",
+        "address_resolved_user": "已定位到您的位置",
+        "source_label_osm": "OpenStreetMap (即時)",
+        "source_label_moenv_custom": "環境部 Open Data (自訂金鑰)",
+        "source_label_moenv_cloud": "環境部 Open Data (雲端金鑰)",
+        "source_label_local_fallback": "本地離線資料 (備援)",
+        "source_label_local": "本地離線資料",
+        
+        "tag_accessible": "無障礙",
+        "tag_baby": "親子",
+        "tag_free": "免費",
+        "tag_paid": "需低消/付費",
+        
+        "moenv_desc": "管理單位: {admin}。公廁類別: {type2}。公廁評級: {grade}。",
+        "osm_desc": "OSM ID: {id}。營運管理: {operator}。是否有無障礙: {wheelchair}。"
+    },
+    "en": {
+        "app_title": "FlushFinder - Nearby Toilet Instant Finder",
+        "app_subtitle": "Find the most comfortable place near you",
+        "locating": "Locating your position...",
+        "search_placeholder": "Enter address or landmark...",
+        "locate": "Locate",
+        "location_tip": "Tip: Drag the blue marker or double click the map to manually set your location.",
+        "filters_title": "Filters",
+        "filter_all": "All",
+        "filter_accessible": "Accessible",
+        "filter_baby": "Baby Friendly",
+        "filter_free": "Free Use",
+        "filter_rating": "4+ Stars",
+        "results_title": "Nearby Toilets",
+        "sort_by_distance": "Sorted by distance",
+        "locating_and_loading": "Locating and loading nearby toilets...",
+        "settings_title": "Data Source Settings",
+        "settings_source_desc": "Select database source:",
+        "source_osm": "OpenStreetMap (Global, Live, Free)",
+        "source_moenv": "MOENV Open Data (Cloud Key Configured)",
+        "source_local": "Local Offline Data (Daan District, Taipei)",
+        "settings_lang_desc": "Select Language:",
+        "settings_font_desc": "Set UI & Map Font Size:",
+        "font_sm": "Small",
+        "font_md": "Medium (Default)",
+        "font_lg": "Large",
+        "moenv_key_tip": "Tip: Cloud Key is ready. To use your custom key, input below and save:",
+        "moenv_key_placeholder": "Input custom MOENV API Key",
+        "save": "Save",
+        "current_source_label": "Active Data Source:",
+        "force_clear_cache": "Force Clear Cache",
+        "close_menu": "Close Menu",
+        "open_menu": "Open Menu",
+        "my_location": "My Location",
+        "toggle_theme": "Toggle Dark Mode",
+        
+        "gps_locating": "Getting accurate GPS coordinates...",
+        "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
+        "my_location_tooltip": "My Position (Draggable)",
+        "locating_places": "Fetching nearby locations...",
+        "input_empty_error": "Please enter an address or landmark!",
+        "searching": "Searching...",
+        "search_failed_no_results": "Could not find any location for "{query}". Try more specific keywords.",
+        "search_error": "Search failed. Check your network connection.",
+        "no_results": "No toilets match the filter",
+        "distance_straight": "Straight line {dist} m",
+        "distance_km": "Straight line {dist} km",
+        "walk_time": "Walk approx. {mins} mins",
+        "status_available": "Available",
+        "status_busy": "Busy",
+        "status_closed": "Closed",
+        "drawer_planning_route": "Planning route...",
+        "drawer_accessible": "Accessible Toilet",
+        "drawer_baby": "Baby Changing Station",
+        "drawer_free": "Free to Use",
+        "drawer_start_nav": "Navigate",
+        "drawer_report_error": "Report Error",
+        "drawer_address_loading": "Loading address...",
+        "report_success_toast": "Thank you for the report! We will verify "{name}" soon.",
+        "save_key_success": "API Key saved! Loading MOENV Live Data.",
+        "clear_key_success": "API Key cleared. Switching back to local offline data.",
+        "loading_new_data": "Loading latest data...",
+        "switching_source": "Switching data source...",
+        "clear_cache_confirm": "Force clear cache and reload application?",
+        "data_fallback_msg": "Failed to read MOENV API data, falling back to local database:",
+        "data_fallback_alert": "Failed to load MOENV data!\n\nReason: {reason}\n\nAutomatically switched to offline local data.",
+        "osm_failed_alert": "Failed to load OSM data! Switching to MOENV Open Data.\n\nDetail: {reason}",
+        "osm_fallback_local_alert": "Failed to load OSM and MOENV data. Automatically switched to offline local data.\n\nDetail: {reason}",
+        "osm_planning_route": "Planning route...",
+        "osm_actual_route": "Route: <strong>{dist}</strong> ({time})",
+        "osm_actual_walk_time": "Walk approx. {mins} min",
+        "osm_route_fallback": "Est. Route {dist} (Walk {mins} min)",
+        "address_resolved_failed": "Refer to Map Pin location",
+        "address_resolved_user": "Located your position",
+        "source_label_osm": "OpenStreetMap (Live)",
+        "source_label_moenv_custom": "MOENV Open Data (Custom Key)",
+        "source_label_moenv_cloud": "MOENV Open Data (Cloud Key)",
+        "source_label_local_fallback": "Local Offline Data (Fallback)",
+        "source_label_local": "Local Offline Data",
+        
+        "tag_accessible": "Accessible",
+        "tag_baby": "Baby",
+        "tag_free": "Free",
+        "tag_paid": "Paid/Low Consume",
+        
+        "moenv_desc": "Admin: {admin}. Category: {type2}. Rating: {grade}.",
+        "osm_desc": "OSM ID: {id}. Operator: {operator}. Wheelchair: {wheelchair}."
+    },
+    "ja": {
+        "app_title": "FlushFinder - 周辺トイレリアルタイム検索",
+        "app_subtitle": "あなたの近くで最も快適な場所を探す",
+        "locating": "現在地を特定中...",
+        "search_placeholder": "住所やランドマークを入力してください...",
+        "locate": "検索",
+        "location_tip": "ヒント: 青いピンをドラッグするか、地図をダブルクリックして位置を調整できます。",
+        "filters_title": "施設と条件の絞り込み",
+        "filter_all": "すべて",
+        "filter_accessible": "多目的",
+        "filter_baby": "ベビー/キッズ",
+        "filter_free": "無料利用",
+        "filter_rating": "星4以上",
+        "results_title": "近くのトイレ",
+        "sort_by_distance": "距離順で並べ替え",
+        "locating_and_loading": "位置情報を取得し、周辺のトイレを読み込み中...",
+        "settings_title": "データソース設定",
+        "settings_source_desc": "ロードするデータソースを選択：",
+        "source_osm": "OpenStreetMap (グローバル/リアルタイム)",
+        "source_moenv": "環境部 Open Data (クラウドキー設定済)",
+        "source_local": "ローカルオフラインデータ (台北大安区)",
+        "settings_lang_desc": "言語を選択 (Language)：",
+        "settings_font_desc": "文字サイズの設定 (UI & 地図)：",
+        "font_sm": "小",
+        "font_md": "中 (デフォルト)",
+        "font_lg": "大",
+        "moenv_key_tip": "ヒント: クラウドキーが設定されています。カスタムキーを使用する場合は以下に入力して保存してください：",
+        "moenv_key_placeholder": "カスタム MOENV API キーを入力",
+        "save": "保存",
+        "current_source_label": "現在のデータソース：",
+        "force_clear_cache": "キャッシュの強制クリア",
+        "close_menu": "メニューを閉じる",
+        "open_menu": "メニューを開く",
+        "my_location": "現在地",
+        "toggle_theme": "テーマ切り替え",
+        
+        "gps_locating": "高精度のGPS位置情報を取得中...",
+        "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
+        "my_location_tooltip": "現在地 (ドラッグして移動)",
+        "locating_places": "近くの場所を取得中...",
+        "input_empty_error": "検索する住所またはランドマークを入力してください！",
+        "searching": "検索中...",
+        "search_failed_no_results": "「{query}」に一致する場所が見つかりませんでした。より具体的な言葉で試してください。",
+        "search_error": "場所の検索に失敗しました。接続を確認してください。",
+        "no_results": "フィルター条件に一致するトイレがありません",
+        "distance_straight": "直線 {dist} m",
+        "distance_km": "直線 {dist} km",
+        "walk_time": "徒歩約 {mins} 分",
+        "status_available": "空きあり",
+        "status_busy": "使用中",
+        "status_closed": "閉鎖",
+        "drawer_planning_route": "ルートを検索中...",
+        "drawer_accessible": "バリアフリー対応",
+        "drawer_baby": "おむつ交換台あり",
+        "drawer_free": "無料",
+        "drawer_start_nav": "ナビ開始",
+        "drawer_report_error": "エラー報告",
+        "drawer_address_loading": "詳細住所を読み込み中...",
+        "report_success_toast": "ご報告ありがとうございます！「{name}」の状況を調査いたします。",
+        "save_key_success": "API キーを保存しました！環境部ライブデータを読み込みます。",
+        "clear_key_success": "API キーをクリアしました。ローカルデータに戻ります。",
+        "loading_new_data": "最新データを読み込み中...",
+        "switching_source": "データソースを切り替え中...",
+        "clear_cache_confirm": "キャッシュを強制クリアしてアプリを再起動しますか？",
+        "data_fallback_msg": "環境部APIデータの読み込みに失敗しました。ローカルデータに切り替えます:",
+        "data_fallback_alert": "環境部データの取得に失敗しました！\n\n理由: {reason}\n\nオフラインローカルデータに自動的に切り替えました。",
+        "osm_failed_alert": "OSMデータの取得に失敗しました！環境部データに切り替えます。\n\n詳細: {reason}",
+        "osm_fallback_local_alert": "OSMおよび環境部データの取得に失敗しました。オフラインローカルデータに自動的に切り替えました。\n\n詳細: {reason}",
+        "osm_planning_route": "経路を計算中...",
+        "osm_actual_route": "実際ルート: <strong>{dist}</strong> ({time})",
+        "osm_actual_walk_time": "徒歩約 {mins} 分",
+        "osm_route_fallback": "予想ルート {dist} (徒歩約 {mins} 分)",
+        "address_resolved_failed": "地図のピン位置を参照してください",
+        "address_resolved_user": "現在地を特定しました",
+        "source_label_osm": "OpenStreetMap (ライブ)",
+        "source_label_moenv_custom": "環境部 Open Data (カスタムキー)",
+        "source_label_moenv_cloud": "環境部 Open Data (クラウドキー)",
+        "source_label_local_fallback": "ローカルオフラインデータ (代替)",
+        "source_label_local": "ローカルオフラインデータ",
+        
+        "tag_accessible": "多目的",
+        "tag_baby": "ベビー",
+        "tag_free": "無料",
+        "tag_paid": "有料/要消費",
+        
+        "moenv_desc": "管理単位: {admin}。トイレの種類: {type2}。グレード: {grade}。",
+        "osm_desc": "OSM ID: {id}。事業者: {operator}。バリアフリー: {wheelchair}。"
+    },
+    "sv": {
+        "app_title": "FlushFinder - Hitta toaletter i närheten",
+        "app_subtitle": "Hitta den mest bekväma platsen nära dig",
+        "locating": "Lokaliserar din position...",
+        "search_placeholder": "Ange adress eller landmärke...",
+        "locate": "Sök",
+        "location_tip": "Tips: Dra den blå markeringen eller dubbelklicka på kartan för att justera din position.",
+        "filters_title": "Filter",
+        "filter_all": "Alla",
+        "filter_accessible": "Tillgänglig",
+        "filter_baby": "Barnvänlig",
+        "filter_free": "Gratis",
+        "filter_rating": "4+ Stjärnor",
+        "results_title": "Toaletter i närheten",
+        "sort_by_distance": "Sorterad efter avstånd",
+        "locating_and_loading": "Söker och laddar toaletter i närheten...",
+        "settings_title": "Inställningar för datakälla",
+        "settings_source_desc": "Välj datakälla som ska laddas:",
+        "source_osm": "OpenStreetMap (Global, Live, Gratis)",
+        "source_moenv": "MOENV Open Data (Molnnyckel konfigurerad)",
+        "source_local": "Lokal offline-data (Daan, Taipei)",
+        "settings_lang_desc": "Välj språk (Language):",
+        "settings_font_desc": "Teckenstorlek för gränssnitt & karta:",
+        "font_sm": "Liten",
+        "font_md": "Mellan (Standard)",
+        "font_lg": "Stor",
+        "moenv_key_tip": "Tips: Molnnyckeln är redo. För att använda egen nyckel, ange nedan och spara:",
+        "moenv_key_placeholder": "Ange anpassad MOENV API-nyckel",
+        "save": "Spara",
+        "current_source_label": "Aktiv datakälla:",
+        "force_clear_cache": "Rensa cache",
+        "close_menu": "Stäng meny",
+        "open_menu": "Öppna meny",
+        "my_location": "Min position",
+        "toggle_theme": "Byt tema",
+        
+        "gps_locating": "Hämtar exakt GPS-position...",
+        "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
+        "my_location_tooltip": "Min position (Dra för att flytta)",
+        "locating_places": "Hämtar platser i närheten...",
+        "input_empty_error": "Ange en adress eller ett landmärke!",
+        "searching": "Söker...",
+        "search_failed_no_results": "Hittade inga platser för "{query}". Försök med mer specifika sökord.",
+        "search_error": "Sökningen misslyckades. Kontrollera din anslutning.",
+        "no_results": "Inga toaletter matchar filtret",
+        "distance_straight": "Rak linje {dist} m",
+        "distance_km": "Rak linje {dist} km",
+        "walk_time": "Gå ca {mins} min",
+        "status_available": "Ledig",
+        "status_busy": "Upptagen",
+        "status_closed": "Stängd",
+        "drawer_planning_route": "Beräknar rutt...",
+        "drawer_accessible": "Tillgänglig toalett",
+        "drawer_baby": "Skötbord tillgängligt",
+        "drawer_free": "Gratis att använda",
+        "drawer_start_nav": "Navigera",
+        "drawer_report_error": "Rapportera fel",
+        "drawer_address_loading": "Laddar adress...",
+        "report_success_toast": "Tack för din rapport! Vi kommer att verifiera "{name}" inom kort.",
+        "save_key_success": "API-nyckel sparad! Laddar MOENV live-data.",
+        "clear_key_success": "API-nyckel rensad. Återgår till offline-data.",
+        "loading_new_data": "Laddar senaste data...",
+        "switching_source": "Byter datakälla...",
+        "clear_cache_confirm": "Vill du rensa cacheminnet och starta om appen?",
+        "data_fallback_msg": "Misslyckades att hämta MOENV-data, återgår till offline-databasen:",
+        "data_fallback_alert": "Misslyckades att hämta MOENV-data!\n\nOrsak: {reason}\n\nÄndrade automatiskt till offline-data.",
+        "osm_failed_alert": "Misslyckades att hämta OSM-data! Byter till MOENV Open Data.\n\nDetaljer: {reason}",
+        "osm_fallback_local_alert": "Misslyckades att hämta OSM- och MOENV-data. Ändrade automatiskt till offline-data.\n\nDetaljer: {reason}",
+        "osm_planning_route": "Planerar rutt...",
+        "osm_actual_route": "Rutt: <strong>{dist}</strong> ({time})",
+        "osm_actual_walk_time": "Gå ca {mins} min",
+        "osm_route_fallback": "Beräknad rutt {dist} (Gå ca {mins} min)",
+        "address_resolved_failed": "Hänvisa till kartnålsposition",
+        "address_resolved_user": "Lokaliserat din position",
+        "source_label_osm": "OpenStreetMap (Live)",
+        "source_label_moenv_custom": "MOENV Open Data (Egen nyckel)",
+        "source_label_moenv_cloud": "MOENV Open Data (Molnnyckel)",
+        "source_label_local_fallback": "Lokal offline-data (Reserv)",
+        "source_label_local": "Lokal offline-data",
+        
+        "tag_accessible": "Tillgänglig",
+        "tag_baby": "Barn",
+        "tag_free": "Gratis",
+        "tag_paid": "Betal/Låg konsumtion",
+        
+        "moenv_desc": "Admin: {admin}. Kategori: {type2}. Betyg: {grade}.",
+        "osm_desc": "OSM ID: {id}. Operatör: {operator}. Rullstol: {wheelchair}."
+    }
+};
+
+function t(key, variables = {}) {
+    const langDict = TRANSLATIONS[currentLang] || TRANSLATIONS["en"];
+    let text = langDict[key] || key;
+    Object.keys(variables).forEach(varName => {
+        text = text.replace(new RegExp(`{${varName}}`, 'g'), variables[varName]);
+    });
+    return text;
+}
+
+function getInitialLanguage() {
+    const savedLang = localStorage.getItem("flush_finder_lang");
+    if (savedLang && TRANSLATIONS[savedLang]) {
+        return savedLang;
+    }
+    const systemLang = navigator.language || navigator.userLanguage || "en";
+    const primaryCode = systemLang.split('-')[0];
+    
+    // Map system language to supported list
+    if (systemLang.startsWith("zh")) {
+        return "zh-TW";
+    }
+    if (primaryCode === "ja") {
+        return "ja";
+    }
+    if (primaryCode === "sv") {
+        return "sv";
+    }
+    return "en"; // Default fallback
+}
+
+function applyLanguage(lang) {
+    if (!TRANSLATIONS[lang]) lang = "en";
+    currentLang = lang;
+    localStorage.setItem("flush_finder_lang", lang);
+    
+    // Update HTML page title and lang attribute
+    document.title = t("app_title");
+    document.documentElement.setAttribute("lang", lang);
+    
+    // Translate static elements with data-i18n
+    document.querySelectorAll("[data-i18n]").forEach(el => {
+        const key = el.getAttribute("data-i18n");
+        el.textContent = t(key);
+    });
+    
+    // Translate input placeholders
+    document.querySelectorAll("[data-i18n-placeholder]").forEach(el => {
+        const key = el.getAttribute("data-i18n-placeholder");
+        el.placeholder = t(key);
+    });
+
+    // Translate attributes like title (tooltips)
+    document.querySelectorAll("[data-i18n-title]").forEach(el => {
+        const key = el.getAttribute("data-i18n-title");
+        el.title = t(key);
+    });
+    
+    // Sync lang selector value
+    const langSelect = document.getElementById("lang-select");
+    if (langSelect) langSelect.value = lang;
+}
+
+function initLanguage() {
+    const lang = getInitialLanguage();
+    applyLanguage(lang);
+}
+// ================================================================================
+
+
 // Configuration & Default Location (Daan District, Taipei)
 const DEFAULT_COORDS = [25.033964, 121.543413]; 
 let userCoords = [...DEFAULT_COORDS];
@@ -157,6 +584,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // App Initialization
 async function initApp() {
+    // Initialize Language first
+    initLanguage();
     // Initialize Font Size
     initFontSize();
 
@@ -279,7 +708,7 @@ function requestUserLocation() {
     if ("geolocation" in navigator) {
         const locTextEl = document.getElementById("current-location-text");
         if (locTextEl) {
-            locTextEl.textContent = "正在取得 GPS 精確定位...";
+            locTextEl.textContent = t("gps_locating");
         }
 
         navigator.geolocation.getCurrentPosition(
@@ -292,7 +721,7 @@ function requestUserLocation() {
             },
             async (error) => {
                 console.warn("無法取得精確定位，使用預設或先前位置:", error.message);
-                alert("無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。");
+                alert(t("gps_failed"));
                 await setUserLocation(userCoords[0], userCoords[1]);
                 map.setView(userCoords, 15);
                 selectNearestToilet();
@@ -344,7 +773,7 @@ function updateUserMarker() {
         draggable: true
     }).addTo(map);
     
-    userMarker.bindTooltip("我現在的位置 (可拖曳修正)", { 
+    userMarker.bindTooltip(t("my_location_tooltip"), { 
         permanent: true, 
         direction: 'top', 
         className: 'user-location-tooltip',
@@ -376,7 +805,7 @@ async function setUserLocation(lat, lng) {
             resultsList.innerHTML = `
                 <div class="loading-state">
                     <div class="spinner"></div>
-                    <p>正在讀取附近地標...</p>
+                    <p>${t("locating_places")}</p>
                 </div>
             `;
         }
@@ -403,7 +832,7 @@ async function searchAndSetLocation() {
     
     const query = inputEl.value.trim();
     if (!query) {
-        alert("請輸入要搜尋的地址或地標名稱！");
+        alert(t("input_empty_error"));
         return;
     }
     
@@ -412,7 +841,7 @@ async function searchAndSetLocation() {
     if (btnEl) {
         originalBtnHtml = btnEl.innerHTML;
         btnEl.disabled = true;
-        btnEl.textContent = "搜尋中...";
+        btnEl.textContent = t("searching");
     }
     
     try {
@@ -430,7 +859,7 @@ async function searchAndSetLocation() {
         }
 
         // Query OpenStreetMap Nominatim Search API
-        const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&limit=1&accept-language=zh-TW`;
+        const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&limit=1&accept-language=${currentLang}`;
         const res = await fetch(url);
         if (!res.ok) throw new Error("Nominatim API response failed");
         
@@ -446,11 +875,11 @@ async function searchAndSetLocation() {
             // Center map smoothly on the searched location
             map.setView([lat, lng], 15);
         } else {
-            alert(`找不到關於「${query}」的地點。請嘗試輸入更具體的路名、大樓或地標名稱。`);
+            alert(t("search_failed_no_results", { query }));
         }
     } catch (err) {
         console.error("Nominatim Search API failed:", err);
-        alert("搜尋地點失敗，請檢查網路連線或稍後再試。");
+        alert(t("search_error"));
     } finally {
         if (btnEl) {
             btnEl.disabled = false;
@@ -572,7 +1001,7 @@ function calculateAndDisplayToilets() {
         listContainer.innerHTML = `
             <div class="loading-state">
                 <i data-lucide="map-pin-off" style="width: 32px; height: 32px;"></i>
-                <p>沒有符合篩選條件的公廁</p>
+                <p>${t("no_results")}</p>
             </div>
         `;
         lucide.createIcons();
@@ -582,15 +1011,15 @@ function calculateAndDisplayToilets() {
     filtered.forEach(toilet => {
         const straightDist = Math.round(toilet.distance);
         const distStr = straightDist < 1000 
-            ? `直線 ${straightDist} 公尺` 
-            : `直線 ${(straightDist / 1000).toFixed(1)} 公里`;
+            ? `${t("distance_straight", { dist: straightDist })}` 
+            : `${t("distance_km", { dist: (straightDist / 1000).toFixed(1) })}`;
             
         // Calculate estimated walking time (average 80m/min, accounting for 1.3x road winding factor)
         const estWalkingTime = Math.ceil((toilet.distance * 1.3) / 80);
-        const timeStr = `步行約 ${estWalkingTime} 分鐘`;
+        const timeStr = `${t("walk_time", { mins: estWalkingTime })}`;
 
         const isOpenedClass = toilet.status === 'open' ? 'status-open' : (toilet.status === 'busy' ? 'status-busy' : 'status-closed');
-        const statusText = toilet.status === 'open' ? '尚有空位' : (toilet.status === 'busy' ? '使用中' : '已關閉');
+        const statusText = toilet.status === 'open' ? t("status_available") : (toilet.status === 'busy' ? t("status_busy") : t("status_closed"));
 
         const card = document.createElement("div");
         card.className = `toilet-card ${selectedToiletId === toilet.id ? 'active' : ''}`;
@@ -610,9 +1039,9 @@ function calculateAndDisplayToilets() {
             </div>
             <div class="card-tags">
                 <span class="tag primary">${toilet.type}</span>
-                ${toilet.features.accessible ? '<span class="tag"><i data-lucide="accessibility" style="width: 10px; height: 10px; display:inline-block; vertical-align:-1px;"></i> 無障礙</span>' : ''}
-                ${toilet.features.baby ? '<span class="tag"><i data-lucide="baby" style="width: 10px; height: 10px; display:inline-block; vertical-align:-1px;"></i> 親子</span>' : ''}
-                ${toilet.features.free ? '<span class="tag">免費</span>' : '<span class="tag">需低消/付費</span>'}
+                ${toilet.features.accessible ? `<span class="tag"><i data-lucide="accessibility" style="width: 10px; height: 10px; display:inline-block; vertical-align:-1px;"></i> ${t("tag_accessible")}</span>` : ''}
+                ${toilet.features.baby ? `<span class="tag"><i data-lucide="baby" style="width: 10px; height: 10px; display:inline-block; vertical-align:-1px;"></i> ${t("tag_baby")}</span>` : ''}
+                ${toilet.features.free ? `<span class="tag">${t("tag_free")}</span>` : `<span class="tag">${t("tag_paid")}</span>`}
             </div>
             <div class="card-footer">
                 <div class="card-distance">
@@ -732,10 +1161,10 @@ function showDetailDrawer(toilet) {
 
         <div class="drawer-actions">
             <button class="btn btn-primary" id="nav-btn">
-                <i data-lucide="navigation"></i> 開始導航
+                <i data-lucide="navigation"></i> ${t("drawer_start_nav")}
             </button>
             <button class="btn btn-secondary" id="report-btn">
-                <i data-lucide="alert-triangle"></i> 錯誤回報
+                <i data-lucide="alert-triangle"></i> ${t("drawer_report_error")}
             </button>
         </div>
     `;
@@ -755,7 +1184,7 @@ function showDetailDrawer(toilet) {
     });
 
     document.getElementById("report-btn").addEventListener("click", () => {
-        alert(`感謝回報！我們將盡快查證關於「${toilet.name}」的狀況。`);
+        alert(t("report_success_toast", { name: toilet.name }));
     });
 }
 
@@ -873,6 +1302,15 @@ function setupEventListeners() {
         apiKeyContainer.style.display = savedSource === "moenv" ? "block" : "none";
     }
 
+    // Language Selection Setup
+    const langSelect = document.getElementById("lang-select");
+    if (langSelect) {
+        langSelect.value = currentLang;
+        langSelect.addEventListener("change", (e) => {
+            applyLanguage(e.target.value);
+        });
+    }
+
     // Font Size Selection Setup
     const fontSizeSelect = document.getElementById("font-size-select");
     const savedFontSize = localStorage.getItem("flush_finder_font_size") || "md";
@@ -909,7 +1347,7 @@ function setupEventListeners() {
             resultsList.innerHTML = `
                 <div class="loading-state">
                     <div class="spinner"></div>
-                    <p>正在切換資料來源...</p>
+                    <p>${t("switching_source")}</p>
                 </div>
             `;
             
@@ -929,10 +1367,10 @@ function setupEventListeners() {
             
             if (newKey) {
                 localStorage.setItem("moenv_api_key", newKey);
-                alert("成功儲存 API Key！將為您載入即時環境部開放資料。");
+                alert(t("save_key_success"));
             } else {
                 localStorage.removeItem("moenv_api_key");
-                alert("已清除 API Key，為您恢復本地離線資料。");
+                alert(t("clear_key_success"));
             }
             
             // Reload toilets data and refresh map / list
@@ -940,7 +1378,7 @@ function setupEventListeners() {
             resultsList.innerHTML = `
                 <div class="loading-state">
                     <div class="spinner"></div>
-                    <p>正在載入最新資料...</p>
+                    <p>${t("loading_new_data")}</p>
                 </div>
             `;
             
@@ -973,7 +1411,7 @@ function setupEventListeners() {
     const clearCacheBtn = document.getElementById("clear-cache-btn");
     if (clearCacheBtn) {
         clearCacheBtn.addEventListener("click", async () => {
-            if (confirm("是否要強制清除快取並重新載入應用程式？")) {
+            if (confirm(t("clear_cache_confirm"))) {
                 if ('serviceWorker' in navigator) {
                     try {
                         const registrations = await navigator.serviceWorker.getRegistrations();
@@ -1025,7 +1463,7 @@ async function fetchWithTimeout(resource, options = {}) {
 async function loadLocalDataFallback() {
     const sourceLabel = document.getElementById("data-source-label");
     if (sourceLabel) {
-        sourceLabel.textContent = "本地離線資料 (備援)";
+        sourceLabel.textContent = t("source_label_local_fallback");
         sourceLabel.style.color = "var(--text-secondary)";
     }
     try {
@@ -1101,7 +1539,7 @@ async function loadToiletsData() {
             localStorage.setItem("moenv_api_key", apiKey);
         }
         
-        sourceLabel.textContent = apiKey ? "環境部 Open Data (自訂金鑰)" : "環境部 Open Data (雲端金鑰)";
+        sourceLabel.textContent = apiKey ? t("source_label_moenv_custom") : t("source_label_moenv_cloud");
         sourceLabel.style.color = "var(--primary)";
         
         try {
@@ -1156,7 +1594,7 @@ async function loadToiletsData() {
                         },
                         status: idx % 8 === 0 ? "busy" : "open",
                         openingHours: (item.type2 && item.type2.includes('捷運')) ? "06:00 - 00:00" : "24 小時營業",
-                        description: `管理單位: ${item.administration || item.exec || '無'}。公廁類別: ${item.type || '一般'}。公廁評級: ${item.grade || '普通'}。`
+                        description: t("moenv_desc", { admin: item.administration || item.exec || 'N/A', type2: item.type2 || 'N/A', grade: item.grade || 'N/A' })
                     };
                 });
 
@@ -1181,7 +1619,7 @@ async function loadToiletsData() {
             }
         } catch (error) {
             console.error("無法自環境部 API 讀取資料，嘗試切換為本地離線資料:", error);
-            alert(`載入環境部資料失敗！\n\n原因：${error.message}\n\n系統已為您自動切換為「本地離線資料」。`);
+            alert(t("data_fallback_alert", { reason: error.message }));
             localStorage.setItem("flush_finder_source", "local");
             await loadToiletsData();
         }
@@ -1257,7 +1695,7 @@ out center;`;
                         },
                         status: idx % 9 === 0 ? "busy" : "open",
                         openingHours: tags.opening_hours || (type === '超商' ? "24 小時營業" : "24 小時營業"),
-                        description: `OSM ID: ${item.id}。營運管理: ${tags.operator || '未知'}。是否有無障礙: ${tags.wheelchair || '無標記'}。`
+                        description: t("osm_desc", { id: item.id, operator: tags.operator || 'N/A', wheelchair: tags.wheelchair || 'N/A' })
                     };
                 }).filter(t => t !== null);
                 console.log(`Loaded ${toiletsData.length} records from OpenStreetMap Overpass API`);
@@ -1267,7 +1705,7 @@ out center;`;
             }
         } catch (error) {
             console.error("無法自 OSM 讀取資料，嘗試切換為環境部 Open Data:", error);
-            alert("載入 OpenStreetMap 資料失敗，系統正自動切換為第二順位「環境部 Open Data」。\n\n詳細原因：" + error.message);
+            alert(t("osm_failed_alert", { reason: error.message }));
             localStorage.setItem("flush_finder_source", "moenv");
             await loadToiletsData();
         }
@@ -1275,7 +1713,7 @@ out center;`;
     
     // Fallback/Default: Load from local toilets_data.json
     if (sourceSelect) sourceSelect.value = "local";
-    sourceLabel.textContent = "本地離線資料";
+    sourceLabel.textContent = t("source_label_local");
     sourceLabel.style.color = "var(--text-secondary)";
     try {
         const response = await fetch('toilets_data.json');
@@ -1291,7 +1729,7 @@ out center;`;
 async function fetchActualWalkingRoute(toilet) {
     const routeTextEl = document.getElementById("drawer-route-text");
     if (routeTextEl) {
-        routeTextEl.textContent = "正在規劃路徑...";
+        routeTextEl.textContent = t("osm_planning_route");
     }
     
     try {
@@ -1317,7 +1755,7 @@ async function fetchActualWalkingRoute(toilet) {
             
             // Update Drawer route info
             if (selectedToiletId === toilet.id && routeTextEl) {
-                routeTextEl.innerHTML = `實際路程 <strong>${distStr}</strong> (${timeStr})`;
+                routeTextEl.innerHTML = t("osm_actual_route", { dist: distStr, time: timeStr });
                 routeTextEl.style.color = "var(--primary-hover)";
             }
             
@@ -1348,7 +1786,7 @@ async function fetchActualWalkingRoute(toilet) {
         console.warn("OSRM routing failed, fallback to straight line estimate", err);
         if (selectedToiletId === toilet.id && routeTextEl) {
             const estWalkingTime = Math.ceil((toilet.distance * 1.3) / 80);
-            routeTextEl.innerHTML = `預估路程 ${toilet.distance < 1000 ? `${Math.round(toilet.distance)}m` : `${(toilet.distance/1000).toFixed(1)}km`} (步行約 ${estWalkingTime} 分鐘)`;
+            routeTextEl.innerHTML = t("osm_route_fallback", { dist: (toilet.distance < 1000 ? `${Math.round(toilet.distance)}m` : `${(toilet.distance/1000).toFixed(1)}km`), mins: estWalkingTime });
             routeTextEl.style.color = "var(--text-secondary)";
         }
     }
@@ -1357,7 +1795,7 @@ async function fetchActualWalkingRoute(toilet) {
 // Reverse geocode coordinate using Nominatim API to fetch clean address dynamically
 async function resolveAddress(toilet) {
     try {
-        const url = `https://nominatim.openstreetmap.org/reverse?format=json&lat=${toilet.coords[0]}&lon=${toilet.coords[1]}&zoom=18&accept-language=zh-TW`;
+        const url = `https://nominatim.openstreetmap.org/reverse?format=json&lat=${toilet.coords[0]}&lon=${toilet.coords[1]}&zoom=18&accept-language=${currentLang}`;
         const res = await fetch(url);
         if (!res.ok) return;
         const data = await res.json();
@@ -1396,7 +1834,7 @@ async function resolveAddress(toilet) {
         }
     } catch (err) {
         console.warn("Nominatim address resolution failed:", err);
-        toilet.address = "請參考地圖標記定位";
+        toilet.address = t("address_resolved_failed");
         const drawerAddrEl = document.getElementById("drawer-address-text");
         if (drawerAddrEl && selectedToiletId === toilet.id) {
             drawerAddrEl.textContent = toilet.address;
@@ -1407,7 +1845,7 @@ async function resolveAddress(toilet) {
 // Reverse geocode coordinate using Nominatim API to fetch user's current address dynamically
 async function resolveUserCurrentAddress(lat, lng) {
     try {
-        const url = `https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lng}&zoom=18&accept-language=zh-TW`;
+        const url = `https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lng}&zoom=18&accept-language=${currentLang}`;
         const res = await fetch(url);
         if (!res.ok) return;
         const data = await res.json();
@@ -1436,7 +1874,7 @@ async function resolveUserCurrentAddress(lat, lng) {
         console.warn("Failed to resolve user address:", err);
         const locTextEl = document.getElementById("current-location-text");
         if (locTextEl) {
-            locTextEl.textContent = "已定位到您的位置";
+            locTextEl.textContent = t("address_resolved_user");
         }
     }
 }

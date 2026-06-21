@@ -848,7 +848,7 @@ body {
     }
     
     .settings-content.active {
-        max-height: 320px;
+        max-height: 400px;
     }
 }
 
@@ -898,7 +898,7 @@ body {
 }
 
 .settings-content.active {
-    max-height: 380px;
+    max-height: 480px;
     padding-top: 12px;
 }
 
