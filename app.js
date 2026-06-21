@@ -554,6 +554,12 @@ function calculateAndDisplayToilets() {
 function selectToilet(toilet) {
     selectedToiletId = toilet.id;
 
+    // Close sidebar on mobile when a toilet is selected
+    const sidebar = document.getElementById("sidebar");
+    const overlay = document.getElementById("sidebar-overlay");
+    if (sidebar) sidebar.classList.remove("active");
+    if (overlay) overlay.classList.remove("active");
+
     // Clear old route line from map
     if (currentRouteLine) {
         map.removeLayer(currentRouteLine);
@@ -672,6 +678,33 @@ function showDetailDrawer(toilet) {
 
 // Event Listeners Configuration
 function setupEventListeners() {
+    // Mobile Sidebar Navigation Toggles
+    const menuToggle = document.getElementById("menu-toggle");
+    const closeSidebar = document.getElementById("close-sidebar");
+    const sidebarOverlay = document.getElementById("sidebar-overlay");
+    const sidebar = document.getElementById("sidebar");
+
+    if (menuToggle && sidebar && sidebarOverlay) {
+        menuToggle.addEventListener("click", () => {
+            sidebar.classList.add("active");
+            sidebarOverlay.classList.add("active");
+        });
+    }
+
+    if (closeSidebar && sidebar && sidebarOverlay) {
+        closeSidebar.addEventListener("click", () => {
+            sidebar.classList.remove("active");
+            sidebarOverlay.classList.remove("active");
+        });
+    }
+
+    if (sidebarOverlay && sidebar) {
+        sidebarOverlay.addEventListener("click", () => {
+            sidebar.classList.remove("active");
+            sidebarOverlay.classList.remove("active");
+        });
+    }
+
     // 1. Filter Chips
     const chips = document.querySelectorAll(".filter-chip");
     chips.forEach(chip => {

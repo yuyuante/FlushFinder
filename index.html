@@ -23,12 +23,20 @@
 </head>
 <body>
     <div class="app-container">
+        <!-- Sidebar overlay for mobile -->
+        <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
         <!-- Sidebar / Control Panel -->
         <aside class="sidebar" id="sidebar">
             <header class="app-header">
-                <div class="logo">
-                    <i data-lucide="map-pin" class="logo-icon"></i>
-                    <h1>FlushFinder</h1>
+                <div class="header-main">
+                    <div class="logo">
+                        <i data-lucide="map-pin" class="logo-icon"></i>
+                        <h1>FlushFinder</h1>
+                    </div>
+                    <button class="close-sidebar-btn" id="close-sidebar" title="關閉選單">
+                        <i data-lucide="x"></i>
+                    </button>
                 </div>
                 <p class="subtitle">尋找身邊最舒適的方便之處</p>
                 <div class="user-current-location" id="user-current-location">
@@ -123,6 +131,11 @@
 
         <!-- Main Map Area -->
         <main class="map-area">
+            <!-- Menu Toggle Button for mobile -->
+            <button class="menu-toggle-btn" id="menu-toggle" title="開啟選單">
+                <i data-lucide="menu"></i>
+            </button>
+
             <!-- Fullscreen Leaflet Map -->
             <div id="map"></div>
 
