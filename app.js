@@ -310,7 +310,7 @@ async function setUserLocation(lat, lng) {
     resolveUserCurrentAddress(lat, lng);
     
     // If OpenStreetMap is the source, refetch to load new regional data
-    const source = localStorage.getItem("flush_finder_source") || "local";
+    const source = localStorage.getItem("flush_finder_source") || "osm";
     if (source === 'osm') {
         const resultsList = document.getElementById("results-list");
         if (resultsList) {
@@ -808,7 +808,7 @@ function setupEventListeners() {
     const apiKeyContainer = document.getElementById("api-key-container");
     
     // Initial UI state setup based on saved source and API Key
-    const savedSource = localStorage.getItem("flush_finder_source") || "local";
+    const savedSource = localStorage.getItem("flush_finder_source") || "osm";
     if (sourceSelect) sourceSelect.value = savedSource;
     if (apiKeyContainer) {
         apiKeyContainer.style.display = savedSource === "moenv" ? "block" : "none";
@@ -988,7 +988,7 @@ async function fetchOverpassData(query) {
 
 // Load toilets data helper (API Proxy or local static json)
 async function loadToiletsData() {
-    const source = localStorage.getItem("flush_finder_source") || "local";
+    const source = localStorage.getItem("flush_finder_source") || "osm";
     const sourceLabel = document.getElementById("data-source-label");
     const sourceSelect = document.getElementById("source-select");
     const apiKeyContainer = document.getElementById("api-key-container");
@@ -1093,12 +1093,10 @@ async function loadToiletsData() {
                 throw new Error("Invalid API response format (missing records array)");
             }
         } catch (error) {
-            console.error("無法自 API 讀取資料，改用本地資料:", error);
-            alert(`載入環境部資料失敗！\n\n原因：${error.message}\n\n系統已為您自動切換回「本地離線資料」。`);
+            console.error("無法自環境部 API 讀取資料，嘗試切換為本地離線資料:", error);
+            alert(`載入環境部資料失敗！\n\n原因：${error.message}\n\n系統已為您自動切換為「本地離線資料」。`);
             localStorage.setItem("flush_finder_source", "local");
-            const sourceSelect = document.getElementById("source-select");
-            if (sourceSelect) sourceSelect.value = "local";
-            await loadLocalDataFallback();
+            await loadToiletsData();
         }
     } else if (source === 'osm') {
         sourceLabel.textContent = "OpenStreetMap (即時)";
@@ -1181,12 +1179,10 @@ out center;`;
                 throw new Error("Invalid OSM API response format");
             }
         } catch (error) {
-            console.error("無法自 OSM 讀取資料，改用本地資料:", error);
-            alert("載入 OpenStreetMap 資料失敗，已為您自動切換為本地離線資料。\n\n詳細原因：" + error.message);
-            localStorage.setItem("flush_finder_source", "local");
-            const sourceSelect = document.getElementById("source-select");
-            if (sourceSelect) sourceSelect.value = "local";
-            await loadLocalDataFallback();
+            console.error("無法自 OSM 讀取資料，嘗試切換為環境部 Open Data:", error);
+            alert("載入 OpenStreetMap 資料失敗，系統正自動切換為第二順位「環境部 Open Data」。\n\n詳細原因：" + error.message);
+            localStorage.setItem("flush_finder_source", "moenv");
+            await loadToiletsData();
         }
     }
     
