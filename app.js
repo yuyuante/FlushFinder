@@ -355,6 +355,94 @@ const TRANSLATIONS = {
         
         "moenv_desc": "Admin: {admin}. Kategori: {type2}. Betyg: {grade}.",
         "osm_desc": "OSM ID: {id}. Operatör: {operator}. Rullstol: {wheelchair}."
+    },
+    "ne": {
+        "app_title": "FlushFinder - नजिकैको शौचालय खोज्नुहोस्",
+        "app_subtitle": "तपाईंको नजिकैको सबैभन्दा सुविधाजनक ठाउँ पत्ता लगाउनुहोस्",
+        "locating": "तपाईंको स्थान पहिचान गर्दै...",
+        "search_placeholder": "ठेगाना वा ल्यान्डमार्क प्रविष्ट गर्नुहोस्...",
+        "locate": "खोज्नुहोस्",
+        "location_tip": "सुझाव: नीलो मार्कर तान्नुहोस् वा म्यानुअल रूपमा आफ्नो स्थान सेट गर्न नक्सामा डबल क्लिक गर्नुहोस्।",
+        "filters_title": "सुविधाहरू र फिल्टरहरू",
+        "filter_all": "सबै",
+        "filter_accessible": "पहुँचयोग्य",
+        "filter_baby": "शिशु अनुकूल",
+        "filter_free": "निःशुल्क प्रयोग",
+        "filter_rating": "४+ तारा",
+        "results_title": "नजिकैका शौचालयहरू",
+        "sort_by_distance": "दूरी अनुसार क्रमबद्ध",
+        "locating_and_loading": "स्थान खोज्दै र नजिकैका शौचालयहरू लोड गर्दै...",
+        "settings_title": "डाटा स्रोत सेटिङहरू",
+        "settings_source_desc": "लोड गर्न डाटा स्रोत चयन गर्नुहोस्:",
+        "source_osm": "OpenStreetMap (विश्वव्यापी, प्रत्यक्ष, निःशुल्क)",
+        "source_moenv": "MOENV खुला डाटा (क्लाउड कुञ्जी कन्फिगर गरिएको)",
+        "source_local": "स्थानीय अफलाइन डाटा (ताइपेई)",
+        "settings_lang_desc": "選擇介面語言 (Language)：",
+        "settings_font_desc": "इन्टरफेस र नक्सा फन्ट साइज:",
+        "font_sm": "सानो",
+        "font_md": "मध्यम (पूर्वनिर्धारित)",
+        "font_lg": "ठूलो",
+        "moenv_key_tip": "सुझाव: क्लाउड कुञ्जी तयार छ। आफू अनुकूल कुञ्जी प्रयोग गर्न, तल प्रविष्ट गर्नुहोस् र बचत गर्नुहोस्:",
+        "moenv_key_placeholder": "MOENV API कुञ्जी प्रविष्ट गर्नुहोस्",
+        "save": "बचत गर्नुहोस्",
+        "current_source_label": "सक्रिय डाटा स्रोत:",
+        "force_clear_cache": "क्यास खाली गर्नुहोस्",
+        "close_menu": "मेनु बन्द गर्नुहोस्",
+        "open_menu": "मेनु खोल्नुहोस्",
+        "my_location": "मेरो स्थान",
+        "toggle_theme": "थिम स्विच गर्नुहोस्",
+        
+        "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
+        "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
+        "my_location_tooltip": "मेरो स्थान (तानुनुहोस्)",
+        "locating_places": "नजिकैका ठाउँहरू खोज्दै...",
+        "input_empty_error": "कृपया ठेगाना वा ल्यान्डमार्क प्रविष्ट गर्नुहोस्!",
+        "searching": "खोज्दै...",
+        "search_failed_no_results": "'{query}' को लागि कुनै स्थान फेला परेन। अझ स्पष्ट खोज्नुहोस्।",
+        "search_error": "खोज असफल भयो। जडान जाँच गर्नुहोस्।",
+        "no_results": "फिल्टरसँग मेल खाने कुनै शौचालय छैन",
+        "distance_straight": "सीधा रेखा {dist} मिटर",
+        "distance_km": "सीधा रेखा {dist} किमी",
+        "walk_time": "हिंड्न लगभग {mins} मिनेट",
+        "status_available": "उपलब्ध",
+        "status_busy": "व्यस्त",
+        "status_closed": "बन्द",
+        "drawer_planning_route": "मार्ग योजना गर्दै...",
+        "drawer_accessible": "पहुँचयोग्य शौचालय",
+        "drawer_baby": "शिशु परिवर्तन स्टेशन",
+        "drawer_free": "निःशुल्क प्रयोग",
+        "drawer_start_nav": "नेभिगेसन सुरु गर्नुहोस्",
+        "drawer_report_error": "त्रुटि रिपोर्ट",
+        "drawer_address_loading": "ठेगाना लोड हुँदै...",
+        "report_success_toast": "रिपोर्टको लागि धन्यवाद! हामी छिट्टै '{name}' जाँच गर्नेछौं।",
+        "save_key_success": "API कुञ्जी बचत भयो! MOENV प्रत्यक्ष डाटा लोड हुँदैछ।",
+        "clear_key_success": "API कुञ्जी खाली भयो। स्थानीय अफलाइन डाटामा फर्कदैछ।",
+        "loading_new_data": "नयाँ डाटा लोड हुँदैछ...",
+        "switching_source": "डाटा स्रोत परिवर्तन गर्दै...",
+        "clear_cache_confirm": "क्यास खाली गर्न र एप पुन: लोड गर्न चाहनुहुन्छ?",
+        "data_fallback_msg": "MOENV API डाटा लोड गर्न असफल भयो, स्थानीय डाटाबेसमा फर्कदैछ:",
+        "data_fallback_alert": "MOENV डाटा लोड गर्न असफल भयो!\n\nकारण: {reason}\n\nस्थानीय अफलाइन डाटामा स्वचालित रूपमा स्विच भयो।",
+        "osm_failed_alert": "OSM डाटा लोड गर्न असफल भयो! MOENV खुला डाटामा स्विच गर्दै।\n\nविवरण: {reason}",
+        "osm_fallback_local_alert": "OSM र MOENV डाटा लोड गर्न असफल भयो। स्थानीय अफलाइन डाटामा स्वचालित रूपमा स्विच भयो।\n\nविवरण: {reason}",
+        "osm_planning_route": "मार्ग योजना गर्दै...",
+        "osm_actual_route": "वास्तविक मार्ग: <strong>{dist}</strong> ({time})",
+        "osm_actual_walk_time": "वास्तविक पैदल यात्रा लगभग {mins} मिनेट",
+        "osm_route_fallback": "अनुमानित मार्ग {dist} (पैदल यात्रा लगभग {mins} मिनेट)",
+        "address_resolved_failed": "नक्सा पिन स्थान सन्दर्भ गर्नुहोस्",
+        "address_resolved_user": "मेरो स्थान पहिचान गरियो",
+        "source_label_osm": "OpenStreetMap (प्रत्यक्ष)",
+        "source_label_moenv_custom": "MOENV खुला डाटा (अनुकूल कुञ्जी)",
+        "source_label_moenv_cloud": "MOENV खुला डाटा (क्लाउड कुञ्जी)",
+        "source_label_local_fallback": "स्थानीय अफलाइन डाटा (ब्याकअप)",
+        "source_label_local": "स्थानीय अफलाइन डाटा",
+        
+        "tag_accessible": "पहुँचयोग्य",
+        "tag_baby": "शिशु",
+        "tag_free": "निःशुल्क",
+        "tag_paid": "भुक्तानी आवश्यक",
+        
+        "moenv_desc": "व्यवस्थापन: {admin}। प्रकार: {type2}। ग्रेड: {grade}।",
+        "osm_desc": "OSM ID: {id}। संचालक: {operator}। ह्वीलचेयर: {wheelchair}।"
     }
 };
 
@@ -384,6 +472,9 @@ function getInitialLanguage() {
     }
     if (primaryCode === "sv") {
         return "sv";
+    }
+    if (primaryCode === "ne") {
+        return "ne";
     }
     return "en"; // Default fallback
 }
