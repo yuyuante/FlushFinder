@@ -937,7 +937,7 @@ async function setUserLocation(lat, lng) {
             resultsList.innerHTML = `
                 <div class="loading-state">
                     <div class="spinner"></div>
-                    <p>${t("locating_places")}</p>
+                    <p data-i18n="locating_places">${t("locating_places")}</p>
                 </div>
             `;
         }
@@ -1133,7 +1133,7 @@ function calculateAndDisplayToilets() {
         listContainer.innerHTML = `
             <div class="loading-state">
                 <i data-lucide="map-pin-off" style="width: 32px; height: 32px;"></i>
-                <p>${t("no_results")}</p>
+                <p data-i18n="no_results">${t("no_results")}</p>
             </div>
         `;
         lucide.createIcons();
@@ -1479,7 +1479,7 @@ function setupEventListeners() {
             resultsList.innerHTML = `
                 <div class="loading-state">
                     <div class="spinner"></div>
-                    <p>${t("switching_source")}</p>
+                    <p data-i18n="switching_source">${t("switching_source")}</p>
                 </div>
             `;
             
@@ -1510,7 +1510,7 @@ function setupEventListeners() {
             resultsList.innerHTML = `
                 <div class="loading-state">
                     <div class="spinner"></div>
-                    <p>${t("loading_new_data")}</p>
+                    <p data-i18n="loading_new_data">${t("loading_new_data")}</p>
                 </div>
             `;
             
