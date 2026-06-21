@@ -848,7 +848,7 @@ body {
     }
     
     .settings-content.active {
-        max-height: 150px; /* Constrain expanded settings panel height on mobile */
+        max-height: 320px;
     }
 }
 
@@ -898,7 +898,7 @@ body {
 }
 
 .settings-content.active {
-    max-height: 250px;
+    max-height: 380px;
     padding-top: 12px;
 }
 
@@ -1006,7 +1006,7 @@ body {
     color: #ffffff !important;
     border: 1px solid #ffffff !important;
     border-radius: 6px !important;
-    font-size: 10px !important;
+    font-size: calc(10px * var(--font-scale)) !important;
     font-weight: 600 !important;
     padding: 2px 8px !important;
     box-shadow: var(--shadow-sm) !important;
@@ -1014,5 +1014,43 @@ body {
 
 .user-location-tooltip::before {
     border-top-color: #3b82f6 !important;
+}
+
+/* Font scale variables */
+:root {
+    --font-scale: 1.0;
+}
+body.font-size-sm {
+    --font-scale: 0.85;
+}
+body.font-size-md {
+    --font-scale: 1.0;
+}
+body.font-size-lg {
+    --font-scale: 1.25;
+}
+
+/* Apply Font Scale dynamically to all UI text elements & Map popups */
+.toilet-card { font-size: calc(14px * var(--font-scale)); }
+.card-title { font-size: calc(15px * var(--font-scale)); }
+.card-address { font-size: calc(12px * var(--font-scale)); }
+.card-distance { font-size: calc(12px * var(--font-scale)); }
+.drawer-title { font-size: calc(20px * var(--font-scale)); }
+.feature-item { font-size: calc(13px * var(--font-scale)); }
+.user-current-location { font-size: calc(11px * var(--font-scale)); }
+.location-tip { font-size: calc(11px * var(--font-scale)); }
+.filters-section h2 { font-size: calc(14px * var(--font-scale)); }
+.filter-chip { font-size: calc(13px * var(--font-scale)); }
+.results-header h2 { font-size: calc(14px * var(--font-scale)); }
+.sort-label { font-size: calc(12px * var(--font-scale)); }
+.settings-toggle { font-size: calc(13px * var(--font-scale)); }
+.settings-desc { font-size: calc(11px * var(--font-scale)); }
+.data-source-status { font-size: calc(11px * var(--font-scale)); }
+
+/* Map Tooltips & Popups */
+.leaflet-tooltip, 
+.leaflet-popup-content {
+    font-size: calc(11px * var(--font-scale)) !important;
+    font-weight: 500 !important;
 }
 

@@ -157,6 +157,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // App Initialization
 async function initApp() {
+    // Initialize Font Size
+    initFontSize();
+
     // Initialize Icons
     lucide.createIcons();
 
@@ -183,6 +186,21 @@ async function initApp() {
                 .catch(err => console.warn('Service Worker registration failed:', err));
         });
     }
+}
+
+// Font Size Settings Management
+function initFontSize() {
+    const savedSize = localStorage.getItem("flush_finder_font_size") || "md";
+    applyFontSize(savedSize);
+}
+
+function applyFontSize(size) {
+    document.body.classList.remove("font-size-sm", "font-size-md", "font-size-lg");
+    document.body.classList.add(`font-size-${size}`);
+    
+    // Sync UI selector
+    const fontSelect = document.getElementById("font-size-select");
+    if (fontSelect) fontSelect.value = size;
 }
 
 // Map Initialization
@@ -812,6 +830,18 @@ function setupEventListeners() {
     if (sourceSelect) sourceSelect.value = savedSource;
     if (apiKeyContainer) {
         apiKeyContainer.style.display = savedSource === "moenv" ? "block" : "none";
+    }
+
+    // Font Size Selection Setup
+    const fontSizeSelect = document.getElementById("font-size-select");
+    const savedFontSize = localStorage.getItem("flush_finder_font_size") || "md";
+    if (fontSizeSelect) {
+        fontSizeSelect.value = savedFontSize;
+        fontSizeSelect.addEventListener("change", (e) => {
+            const selectedSize = e.target.value;
+            localStorage.setItem("flush_finder_font_size", selectedSize);
+            applyFontSize(selectedSize);
+        });
     }
     
     // Pre-populate the API Key input unconditionally on page load so it is never blank in settings
