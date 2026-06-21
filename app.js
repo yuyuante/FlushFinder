@@ -390,7 +390,7 @@ function getIconName(type) {
 // Render toilet markers on the map
 function renderToiletMarkers() {
     // Clear old markers
-    toiletMarkers.forEach(marker => map.removeLayer(marker));
+    toiletMarkers.forEach(item => map.removeLayer(item.markerObject));
     toiletMarkers = [];
 
     const filtered = filterToiletData(toiletsData, activeFilter);
