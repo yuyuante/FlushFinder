@@ -201,6 +201,45 @@ function applyFontSize(size) {
     // Sync UI selector
     const fontSelect = document.getElementById("font-size-select");
     if (fontSelect) fontSelect.value = size;
+
+    // Update map tile scale dynamically
+    updateMapTileScale(size);
+}
+
+// Get Leaflet Tile options based on font size selection (Stretching tiles to scale map labels)
+function getTileOptions(size) {
+    const baseOptions = {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    };
+    
+    if (size === 'lg') {
+        return {
+            ...baseOptions,
+            tileSize: 512,
+            zoomOffset: -1
+        };
+    } else {
+        return {
+            ...baseOptions,
+            tileSize: 256,
+            zoomOffset: 0
+        };
+    }
+}
+
+// Dynamically scale/reload Leaflet map tile layer
+function updateMapTileScale(size) {
+    if (!map || !activeTileLayer) return;
+    
+    const currentTheme = document.documentElement.getAttribute("data-theme") || "light";
+    const tileUrl = currentTheme === 'dark' ? DARK_TILE : LIGHT_TILE;
+    
+    // Remove old layer
+    map.removeLayer(activeTileLayer);
+    
+    // Create new layer with updated scale options
+    const options = getTileOptions(size);
+    activeTileLayer = L.tileLayer(tileUrl, options).addTo(map);
 }
 
 // Map Initialization
@@ -210,10 +249,12 @@ function initMap() {
         doubleClickZoom: false // Disable double click zoom so we can double click to place marker
     }).setView(userCoords, 15);
 
+    // Get initial font size and tile options
+    const savedFontSize = localStorage.getItem("flush_finder_font_size") || "md";
+    const tileOptions = getTileOptions(savedFontSize);
+
     // Add Tile Layer
-    activeTileLayer = L.tileLayer(LIGHT_TILE, {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
+    activeTileLayer = L.tileLayer(LIGHT_TILE, tileOptions).addTo(map);
 
     // Re-position Zoom control to bottom right (so it doesn't conflict with sidebar)
     L.control.zoom({
@@ -799,9 +840,9 @@ function setupEventListeners() {
 
         // Switch Tile Layer
         map.removeLayer(activeTileLayer);
-        activeTileLayer = L.tileLayer(nextTheme === 'dark' ? DARK_TILE : LIGHT_TILE, {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
+        const savedFontSize = localStorage.getItem("flush_finder_font_size") || "md";
+        const options = getTileOptions(savedFontSize);
+        activeTileLayer = L.tileLayer(nextTheme === 'dark' ? DARK_TILE : LIGHT_TILE, options).addTo(map);
 
         // Update Theme Button Icon
         const themeBtn = document.getElementById("theme-btn");
