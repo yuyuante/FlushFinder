@@ -1775,6 +1775,12 @@ async function loadToiletsData() {
                 // Combine both lists
                 toiletsData = [...customToilets, ...apiToilets];
                 console.log(`Loaded ${apiToilets.length} from API, merged ${customToilets.length} custom stores`);
+                if (apiToilets.length === 0) {
+                    console.warn("環境部 API 找不到資料，將無縫切換為本地離線資料...");
+                    localStorage.setItem("flush_finder_source", "local");
+                    await loadToiletsData();
+                    return;
+                }
                 return;
             } else {
                 throw new Error("Invalid API response format (missing records array)");
@@ -1861,6 +1867,12 @@ out center;`;
                     };
                 }).filter(t => t !== null);
                 console.log(`Loaded ${toiletsData.length} records from OpenStreetMap Overpass API`);
+                if (toiletsData.length === 0) {
+                    console.warn("OSM 找不到資料，將無縫切換為環境部 Open Data...");
+                    localStorage.setItem("flush_finder_source", "moenv");
+                    await loadToiletsData();
+                    return;
+                }
                 return;
             } else {
                 throw new Error("Invalid OSM API response format");
