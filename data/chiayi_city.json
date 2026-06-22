@@ -1,0 +1,496 @@
+[
+    {
+        "id": 1261,
+        "name": "民生加油站女廁",
+        "coords": [
+            23.45249,
+            120.43236
+        ],
+        "address": "嘉義市西　區湖內里新民路30號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 民生加油站有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1262,
+        "name": "湖子內路加油站無障礙廁所",
+        "coords": [
+            23.45339,
+            120.44205
+        ],
+        "address": "嘉義市西　區湖內里湖子內路100號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 冠萌有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1263,
+        "name": "摩斯漢堡新民店女廁",
+        "coords": [
+            23.4670414,
+            120.44036
+        ],
+        "address": "嘉義市西　區自強里新民路666號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 安心食品服務股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1264,
+        "name": "星巴克新民店混合廁",
+        "coords": [
+            23.467279,
+            120.440369
+        ],
+        "address": "嘉義市西　區自強里新民路668號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 悠旅生活事業股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1274,
+        "name": "湖子內路加油站女廁",
+        "coords": [
+            23.45339,
+            120.44205
+        ],
+        "address": "嘉義市西　區湖內里湖子內路100號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 冠萌有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1275,
+        "name": "星巴克新民店無障礙廁所",
+        "coords": [
+            23.467279,
+            120.440369
+        ],
+        "address": "嘉義市西　區自強里新民路668號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 悠旅生活事業股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1276,
+        "name": "中油中山高嘉義竹村站男廁",
+        "coords": [
+            23.49199,
+            120.39807
+        ],
+        "address": "嘉義市西　區竹村里北港路1335之30號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中山高加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1308,
+        "name": "星巴克世賢店無障礙廁所",
+        "coords": [
+            23.46467,
+            120.45112
+        ],
+        "address": "嘉義市東　區安業里世賢路四段432之1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 悠旅生活事業股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1309,
+        "name": "中油新民路加油站混合廁",
+        "coords": [
+            23.4739032,
+            120.4396274
+        ],
+        "address": "嘉義市西　區永和里嘉義巿新民路906號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新民路加油站有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1310,
+        "name": "山隆嘉益站男廁",
+        "coords": [
+            23.49581,
+            120.44319
+        ],
+        "address": "嘉義市西　區北新里世賢路一段136號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 山隆通運股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1311,
+        "name": "中油千越嘉義忠孝路站男廁",
+        "coords": [
+            23.5180536,
+            120.4410514
+        ],
+        "address": "嘉義市東　區荖藤里忠孝路808號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 千越加油站實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1328,
+        "name": "麥當勞中山店無障礙廁所",
+        "coords": [
+            23.48074,
+            120.44793
+        ],
+        "address": "嘉義市西　區國華里中山路318號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 和德昌股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1340,
+        "name": "星巴克世賢店混合廁",
+        "coords": [
+            23.46467,
+            120.45112
+        ],
+        "address": "嘉義市東　區安業里世賢路四段432之1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 悠旅生活事業股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1341,
+        "name": "中油千越嘉義忠孝路站無障礙廁所",
+        "coords": [
+            23.51805635,
+            120.44105979
+        ],
+        "address": "嘉義市東　區荖藤里忠孝路808號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 千越加油站實業股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1342,
+        "name": "中油千越嘉義忠孝路站女廁",
+        "coords": [
+            23.51805635,
+            120.44105979
+        ],
+        "address": "嘉義市東　區荖藤里忠孝路808號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 千越加油站實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1371,
+        "name": "民生加油站無障礙廁所",
+        "coords": [
+            23.45249,
+            120.43236
+        ],
+        "address": "嘉義市西　區湖內里新民路30號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 民生加油站有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1372,
+        "name": "星巴克中山店女廁",
+        "coords": [
+            23.4794682,
+            120.4457994
+        ],
+        "address": "嘉義市西　區培元里中山路471號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 悠旅生活事業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1373,
+        "name": "中油中山高嘉義竹村站女廁",
+        "coords": [
+            23.49199,
+            120.39807
+        ],
+        "address": "嘉義市西　區竹村里北港路1335之30號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中山高加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1384,
+        "name": "久井嘉義站女廁",
+        "coords": [
+            23.49043,
+            120.39687
+        ],
+        "address": "嘉義市西　區竹村里埤竹路121號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 久井企業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1385,
+        "name": "山隆嘉益站女廁",
+        "coords": [
+            23.49581,
+            120.44319
+        ],
+        "address": "嘉義市西　區北新里世賢路一段136號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 山隆通運股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1440,
+        "name": "民生加油站男廁",
+        "coords": [
+            23.45249,
+            120.43236
+        ],
+        "address": "嘉義市西　區湖內里新民路30號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 民生加油站有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1441,
+        "name": "摩斯漢堡新民店混合廁",
+        "coords": [
+            23.4670414,
+            120.44036
+        ],
+        "address": "嘉義市西　區自強里新民路666號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 安心食品服務股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1442,
+        "name": "星巴克新民店女廁",
+        "coords": [
+            23.467279,
+            120.440369
+        ],
+        "address": "嘉義市西　區自強里新民路668號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 悠旅生活事業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1443,
+        "name": "久井嘉義站男廁",
+        "coords": [
+            23.49043,
+            120.39687
+        ],
+        "address": "嘉義市西　區竹村里埤竹路121號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 久井企業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1486,
+        "name": "星巴克中山店混合廁",
+        "coords": [
+            23.4794682,
+            120.4457994
+        ],
+        "address": "嘉義市西　區培元里中山路471號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 悠旅生活事業股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1487,
+        "name": "中油中山高嘉義竹村站無障礙廁所",
+        "coords": [
+            23.49199,
+            120.39807
+        ],
+        "address": "嘉義市西　區竹村里北港路1335之30號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中山高加油站股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    }
+]

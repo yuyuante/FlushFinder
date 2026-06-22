@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1277,
+        "name": "埔里鎮虎頭山山頂停車場-男廁",
+        "coords": [
+            23.963808,
+            120.98977
+        ],
+        "address": "南投縣埔里鎮大湳里知安路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部觀光署日月潭國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1374,
+        "name": "埔里鎮虎頭山山頂停車場-女廁",
+        "coords": [
+            23.963808,
+            120.98977
+        ],
+        "address": "南投縣埔里鎮大湳里知安路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部觀光署日月潭國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1386,
+        "name": "埔里鎮鞍部廣場-男廁",
+        "coords": [
+            23.972044,
+            120.983875
+        ],
+        "address": "南投縣埔里鎮大湳里知安路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部觀光署日月潭國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1387,
+        "name": "埔里鎮虎頭山山頂停車場-無障礙廁所",
+        "coords": [
+            23.963808,
+            120.98977
+        ],
+        "address": "南投縣埔里鎮大湳里知安路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部觀光署日月潭國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1444,
+        "name": "埔里鎮鞍部廣場-女廁",
+        "coords": [
+            23.972044,
+            120.983875
+        ],
+        "address": "南投縣埔里鎮大湳里知安路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部觀光署日月潭國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1488,
+        "name": "埔里鎮地理中心碑-無障礙廁所",
+        "coords": [
+            23.97383565,
+            120.97990826
+        ],
+        "address": "南投縣埔里鎮大湳里知安路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部觀光署日月潭國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    }
+]

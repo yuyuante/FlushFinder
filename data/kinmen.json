@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1025,
+        "name": "金門港旅運中心1F入境3號女廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1034,
+        "name": "慈湖三角堡女廁",
+        "coords": [
+            24.4652781,
+            118.29733639
+        ],
+        "address": "金門縣金寧鄉古寧村慈湖路三段",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    }
+]

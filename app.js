@@ -40,7 +40,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v27 (支援尼泊爾文)",
+        "app_version": "App 版本: v28 (支援分區離線備援)",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -129,7 +129,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v27 (Nepali support)",
+        "app_version": "App Version: v28 (Regional offline fallback)",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -218,7 +218,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v27 (ネパール語対応)",
+        "app_version": "アプリバージョン: v28 (オフライン地域バックアップ対応)",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -307,7 +307,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v27 (nepalesiskt stöd)",
+        "app_version": "App-version: v28 (regional offline-fallback)",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -396,7 +396,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v27 (नेपाली समर्थन)",
+        "app_version": "एप संस्करण: v28 (क्षेत्रीय अफलाइन ब्याकअप)",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
@@ -581,6 +581,34 @@ function initLanguage() {
 }
 // ================================================================================
 
+// County geographic bounding boxes for Taiwan (min/max latitude and longitude)
+const COUNTY_BOUNDS = {
+    "taipei":       { name: "臺北市", minLat: 24.960, maxLat: 25.210, minLng: 121.450, maxLng: 121.670 },
+    "new_taipei":   { name: "新北市", minLat: 24.670, maxLat: 25.300, minLng: 121.280, maxLng: 122.020 },
+    "taoyuan":      { name: "桃園市", minLat: 24.600, maxLat: 25.130, minLng: 120.970, maxLng: 121.490 },
+    "taichung":     { name: "臺中市", minLat: 24.000, maxLat: 24.440, minLng: 120.430, maxLng: 121.450 },
+    "tainan":       { name: "臺南市", minLat: 22.880, maxLat: 23.410, minLng: 120.020, maxLng: 120.650 },
+    "kaohsiung":    { name: "高雄市", minLat: 22.450, maxLat: 23.470, minLng: 120.150, maxLng: 121.110 },
+    "keelung":      { name: "基隆市", minLat: 25.090, maxLat: 25.190, minLng: 121.610, maxLng: 121.810 },
+    "hsinchu_city": { name: "新竹市", minLat: 24.730, maxLat: 24.860, minLng: 120.890, maxLng: 121.020 },
+    "hsinchu_county": { name: "新竹縣", minLat: 24.580, maxLat: 24.990, minLng: 120.960, maxLng: 121.400 },
+    "miaoli":       { name: "苗栗縣", minLat: 24.280, maxLat: 24.710, minLng: 120.630, maxLng: 121.280 },
+    "changhua":     { name: "彰化縣", minLat: 23.800, maxLat: 24.210, minLng: 120.300, maxLng: 120.650 },
+    "nantou":       { name: "南投縣", minLat: 23.430, maxLat: 24.210, minLng: 120.650, maxLng: 121.440 },
+    "yunlin":       { name: "雲林縣", minLat: 23.500, maxLat: 23.850, minLng: 120.120, maxLng: 120.730 },
+    "chiayi_city":  { name: "嘉義市", minLat: 23.430, maxLat: 23.520, minLng: 120.400, maxLng: 120.490 },
+    "chiayi_county": { name: "嘉義縣", minLat: 23.190, maxLat: 23.630, minLng: 120.130, maxLng: 120.820 },
+    "pingtung":     { name: "屏東縣", minLat: 21.890, maxLat: 22.880, minLng: 120.340, maxLng: 120.930 },
+    "yilan":        { name: "宜蘭縣", minLat: 24.300, maxLat: 24.990, minLng: 121.310, maxLng: 121.980 },
+    "hualien":      { name: "花蓮縣", minLat: 23.090, maxLat: 24.450, minLng: 121.280, maxLng: 121.780 },
+    "taitung":      { name: "臺東縣", minLat: 22.000, maxLat: 23.450, minLng: 120.730, maxLng: 121.610 },
+    "penghu":       { name: "澎湖縣", minLat: 23.180, maxLat: 23.790, minLng: 119.420, maxLng: 119.730 },
+    "kinmen":       { name: "金門縣", minLat: 24.380, maxLat: 24.540, minLng: 118.210, maxLng: 118.500 },
+    "lienchiang":   { name: "連江縣", minLat: 25.920, maxLat: 26.390, minLng: 119.910, maxLng: 120.500 }
+};
+
+let countyCache = {}; // Cache for loaded counties JSON data
+let lastQueryCoords = null; // Last center coordinates used to evaluate county bounds
 
 // Configuration & Default Location (Daan District, Taipei)
 const DEFAULT_COORDS = [25.033964, 121.543413]; 
@@ -856,7 +884,7 @@ function initMap() {
     map.on('dblclick', async (e) => {
         const lat = e.latlng.lat;
         const lng = e.latlng.lng;
-        await setUserLocation(lat, lng);
+        await setUserLocation(lat, lng, true);
     });
 
     // Initial Marker rendering
@@ -877,21 +905,21 @@ function requestUserLocation() {
             async (position) => {
                 const lat = position.coords.latitude;
                 const lng = position.coords.longitude;
-                await setUserLocation(lat, lng);
+                await setUserLocation(lat, lng, true);
                 map.setView(userCoords, 15);
                 selectNearestToilet();
             },
             async (error) => {
                 console.warn("無法取得精確定位，使用預設或先前位置:", error.message);
                 alert(t("gps_failed"));
-                await setUserLocation(userCoords[0], userCoords[1]);
+                await setUserLocation(userCoords[0], userCoords[1], true);
                 map.setView(userCoords, 15);
                 selectNearestToilet();
             },
             { enableHighAccuracy: true, timeout: 5000, maximumAge: 0 }
         );
     } else {
-        setUserLocation(userCoords[0], userCoords[1]);
+        setUserLocation(userCoords[0], userCoords[1], true);
         selectNearestToilet();
     }
 }
@@ -945,12 +973,12 @@ function updateUserMarker() {
     // Handle marker dragging
     userMarker.on('dragend', async function(e) {
         const position = e.target.getLatLng();
-        await setUserLocation(position.lat, position.lng);
+        await setUserLocation(position.lat, position.lng, true);
     });
 }
 
 // Set User Location (teleport and reload data/calculations)
-async function setUserLocation(lat, lng) {
+async function setUserLocation(lat, lng, isManualReload = false) {
     userCoords = [lat, lng];
     
     // Update user marker position and tooltip
@@ -973,6 +1001,23 @@ async function setUserLocation(lat, lng) {
         }
         await loadToiletsData();
         renderToiletMarkers();
+    } else if (source === 'local') {
+        let shouldReload = isManualReload;
+        if (!shouldReload) {
+            if (!lastQueryCoords) {
+                shouldReload = true;
+            } else {
+                const dist = getDistance(userCoords, lastQueryCoords);
+                if (dist > 1000) { // 1 km threshold
+                    shouldReload = true;
+                }
+            }
+        }
+        
+        if (shouldReload) {
+            await loadToiletsData();
+            renderToiletMarkers();
+        }
     }
     
     // Recalculate distances and update results list
@@ -1014,7 +1059,7 @@ async function searchAndSetLocation() {
             if (parts.length === 2 && !isNaN(parts[0]) && !isNaN(parts[1])) {
                 const lat = parts[0];
                 const lng = parts[1];
-                await setUserLocation(lat, lng);
+                await setUserLocation(lat, lng, true);
                 map.setView([lat, lng], 15);
                 return;
             }
@@ -1032,7 +1077,7 @@ async function searchAndSetLocation() {
             const lng = parseFloat(firstResult.lon);
             
             // Set User location
-            await setUserLocation(lat, lng);
+            await setUserLocation(lat, lng, true);
             
             // Center map smoothly on the searched location
             map.setView([lat, lng], 15);
@@ -1623,19 +1668,8 @@ async function fetchWithTimeout(resource, options = {}) {
 
 // Fallback load local data function
 async function loadLocalDataFallback() {
-    const sourceLabel = document.getElementById("data-source-label");
-    if (sourceLabel) {
-        currentSourceLabelKey = "source_label_local_fallback"; sourceLabel.textContent = t(currentSourceLabelKey);
-        sourceLabel.style.color = "var(--text-secondary)";
-    }
-    try {
-        const response = await fetch('toilets_data.json');
-        toiletsData = await response.json();
-        console.log(`Fallback: Loaded ${toiletsData.length} records from local JSON`);
-    } catch (e) {
-        console.error("無法載入本地 json Fallback:", e);
-        toiletsData = MOCK_TOILETS;
-    }
+    localStorage.setItem("flush_finder_source", "local");
+    await loadToiletsData();
 }
 
 // Fetch from Overpass API through secure Vercel Serverless backend proxy (to bypass CORS, DNS & browser block issues)
@@ -1763,8 +1797,19 @@ async function loadToiletsData() {
                 // Fetch local custom data to merge convenience stores, malls and shops
                 let customToilets = [];
                 try {
-                    const localRes = await fetch('toilets_data.json');
-                    const localData = await localRes.json();
+                    const countiesToLoad = getOverlapCounties(userCoords[0], userCoords[1]);
+                    let localData = [];
+                    for (const county of countiesToLoad) {
+                        try {
+                            const localRes = await fetch(`data/${county}.json`);
+                            if (localRes.ok) {
+                                const countyData = await localRes.json();
+                                localData = [...localData, ...countyData];
+                            }
+                        } catch (e) {
+                            console.warn(`Failed to fetch county ${county} for custom stores merge`, e);
+                        }
+                    }
                     // Merge local convenience stores, shops and department stores which are not in government open data
                     customToilets = localData.filter(t => t.type === '超商' || t.type === '商家' || t.type === '百貨');
                 } catch (err) {
@@ -1885,18 +1930,90 @@ out center;`;
         }
     }
     
-    // Fallback/Default: Load from local toilets_data.json
+    // Fallback/Default: Load county segmented local JSON files
     if (sourceSelect) sourceSelect.value = "local";
     currentSourceLabelKey = "source_label_local"; sourceLabel.textContent = t(currentSourceLabelKey);
     sourceLabel.style.color = "var(--text-secondary)";
+    
     try {
-        const response = await fetch('toilets_data.json');
-        toiletsData = await response.json();
-        console.log(`Loaded ${toiletsData.length} records from local JSON`);
+        const countiesToLoad = getOverlapCounties(userCoords[0], userCoords[1]);
+        console.log(`[Local Fallback] User coordinates: ${userCoords[0]}, ${userCoords[1]}. Loading counties:`, countiesToLoad);
+        
+        // Fetch missing counties in parallel
+        const fetchPromises = countiesToLoad.map(async (county) => {
+            if (countyCache[county]) {
+                return countyCache[county];
+            }
+            try {
+                const response = await fetch(`data/${county}.json`);
+                if (!response.ok) {
+                    throw new Error(`HTTP error ${response.status}`);
+                }
+                const data = await response.json();
+                countyCache[county] = data;
+                return data;
+            } catch (err) {
+                console.warn(`[Local Fallback] Failed to fetch data for county: ${county}`, err);
+                return [];
+            }
+        });
+        
+        const results = await Promise.all(fetchPromises);
+        
+        // Merge and deduplicate
+        let mergedToilets = [];
+        const seen = new Set();
+        for (const list of results) {
+            if (!list || !Array.isArray(list)) continue;
+            for (const t of list) {
+                // Deduplicate by coords and name
+                const hash = `${t.coords[0].toFixed(5)},${t.coords[1].toFixed(5)}_${t.name}`;
+                if (!seen.has(hash)) {
+                    seen.add(hash);
+                    mergedToilets.push(t);
+                }
+            }
+        }
+        
+        toiletsData = mergedToilets;
+        lastQueryCoords = [...userCoords];
+        console.log(`[Local Fallback] Loaded ${toiletsData.length} unique toilets across ${countiesToLoad.length} counties`);
+        
+        if (toiletsData.length === 0) {
+            console.warn("[Local Fallback] No toilets found in county databases, falling back to mock data");
+            toiletsData = MOCK_TOILETS;
+        }
     } catch (e) {
-        console.error("無法載入本地 json，改用 app.js 內建模擬資料:", e);
+        console.error("無法載入本地分區 JSON 資料，改用 app.js 內建模擬資料:", e);
         toiletsData = MOCK_TOILETS;
     }
+}
+
+// Bounding box overlap algorithm for local county fallback
+function getOverlapCounties(lat, lng) {
+    // Check if within Taiwan bounds
+    if (lat < 21.8 || lat > 25.4 || lng < 119.3 || lng > 122.1) {
+        return ["taipei"]; // Out of Taiwan, fallback to taipei
+    }
+    
+    // User query box (approx. 5.5km radius)
+    const qBox = {
+        minLat: lat - 0.05,
+        maxLat: lat + 0.05,
+        minLng: lng - 0.05,
+        maxLng: lng + 0.05
+    };
+    
+    const matchedCounties = [];
+    for (const [key, cBox] of Object.entries(COUNTY_BOUNDS)) {
+        const overlap = qBox.minLat <= cBox.maxLat && qBox.maxLat >= cBox.minLat &&
+                        qBox.minLng <= cBox.maxLng && qBox.maxLng >= cBox.minLng;
+        if (overlap) {
+            matchedCounties.push(key);
+        }
+    }
+    
+    return matchedCounties.length > 0 ? matchedCounties : ["taipei"];
 }
 
 // Fetch actual walking path and duration from OSRM API

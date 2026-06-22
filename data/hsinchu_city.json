@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1265,
+        "name": "南寮漁港竹風漁市B側親子友善廁所",
+        "coords": [
+            24.8465129,
+            120.9246683
+        ],
+        "address": "新竹市北　區南寮里新港三路1-9號1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1266,
+        "name": "南寮漁港竹風漁市B側男廁",
+        "coords": [
+            24.84772203,
+            120.92540056
+        ],
+        "address": "新竹市北　區南寮里新港三路1-9號1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1273,
+        "name": "南寮漁港竹風漁市男廁",
+        "coords": [
+            24.8465129,
+            120.9246683
+        ],
+        "address": "新竹市北　區南寮里新港三路1-9號1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1280,
+        "name": "西大路立體停車場男廁",
+        "coords": [
+            24.795025,
+            120.971759
+        ],
+        "address": "新竹市東　區南大里新竹市西大路41號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府交通處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1288,
+        "name": "南寮漁港竹風漁市B側女廁",
+        "coords": [
+            24.84634686,
+            120.92468441
+        ],
+        "address": "新竹市北　區南寮里新港三路1-9號1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1318,
+        "name": "南寮漁港竹風漁市B側無障礙廁所",
+        "coords": [
+            24.84635173,
+            120.92470855
+        ],
+        "address": "新竹市北　區南寮里新港三路1-9號1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1339,
+        "name": "南寮漁港竹風漁市女廁",
+        "coords": [
+            24.8465129,
+            120.9246683
+        ],
+        "address": "新竹市北　區南寮里新港三路1-9號1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1388,
+        "name": "北門市場男廁",
+        "coords": [
+            24.8073074,
+            120.9633112
+        ],
+        "address": "新竹市北　區新民里仁德街63號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1389,
+        "name": "西大路立體停車場女廁",
+        "coords": [
+            24.795025,
+            120.971759
+        ],
+        "address": "新竹市東　區南大里新竹市西大路41號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府交通處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1447,
+        "name": "西大路立體停車場無障礙廁所",
+        "coords": [
+            24.795025,
+            120.971759
+        ],
+        "address": "新竹市東　區南大里新竹市西大路41號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府交通處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1491,
+        "name": "北門市場女廁",
+        "coords": [
+            24.8073074,
+            120.9633112
+        ],
+        "address": "新竹市北　區仁德里仁德街63號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處 市場管理科。公廁類別: 女廁所。公廁評級: 特優級。"
+    }
+]

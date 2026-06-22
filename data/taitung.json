@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1014,
+        "name": "蘭嶼航空站",
+        "coords": [
+            22.02960299,
+            121.53583646
+        ],
+        "address": "臺東縣蘭嶼鄉紅頭村51號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 蘭嶼航空站。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1090,
+        "name": "東管處南寮公廁多功能廁所B",
+        "coords": [
+            22.6572628,
+            121.47473322
+        ],
+        "address": "臺東縣綠島鄉南寮村漁港路7號",
+        "type": "交通",
+        "rating": 4.5,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部觀光署東部海岸國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 1091,
+        "name": "東管處南寮公廁女廁B",
+        "coords": [
+            22.65747195,
+            121.47471176
+        ],
+        "address": "臺東縣綠島鄉南寮村漁港路7號",
+        "type": "交通",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部觀光署東部海岸國家風景區管理處。公廁類別: 女廁所。公廁評級: 優等級。"
+    }
+]

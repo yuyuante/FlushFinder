@@ -1,15 +1,36 @@
-const CACHE_NAME = 'flushfinder-v27';
+const CACHE_NAME = 'flushfinder-v28';
 const ASSETS = [
   './',
   './index.html',
-  './style.css?v=27',
-  './app.js?v=27',
-  './toilets_data.json',
+  './style.css?v=28',
+  './app.js?v=28',
   './icon-192.jpg',
   './icon-512.jpg',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
-  'https://unpkg.com/lucide@latest'
+  'https://unpkg.com/lucide@latest',
+  './data/taipei.json',
+  './data/new_taipei.json',
+  './data/taoyuan.json',
+  './data/taichung.json',
+  './data/tainan.json',
+  './data/kaohsiung.json',
+  './data/keelung.json',
+  './data/hsinchu_city.json',
+  './data/hsinchu_county.json',
+  './data/miaoli.json',
+  './data/changhua.json',
+  './data/nantou.json',
+  './data/yunlin.json',
+  './data/chiayi_city.json',
+  './data/chiayi_county.json',
+  './data/pingtung.json',
+  './data/yilan.json',
+  './data/hualien.json',
+  './data/taitung.json',
+  './data/penghu.json',
+  './data/kinmen.json',
+  './data/lienchiang.json'
 ];
 
 self.addEventListener('install', (e) => {

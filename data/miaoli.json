@@ -1,0 +1,268 @@
+[
+    {
+        "id": 1039,
+        "name": "苗栗縣城隍廟-男廁",
+        "coords": [
+            24.55515,
+            120.81766
+        ],
+        "address": "苗栗縣苗栗市玉苗里米市街34號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 苗栗市公所。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1040,
+        "name": "頭份田寮永貞宮-無障礙廁",
+        "coords": [
+            24.67971,
+            120.88523
+        ],
+        "address": "苗栗縣頭份市田寮里永貞路一段206號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 頭份田寮永貞宮。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1041,
+        "name": "頭份田寮永貞宮-女廁",
+        "coords": [
+            24.67971,
+            120.88523
+        ],
+        "address": "苗栗縣頭份市田寮里永貞路一段206號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 頭份田寮永貞宮。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1093,
+        "name": "苗栗縣城隍廟-女廁",
+        "coords": [
+            24.55515,
+            120.81766
+        ],
+        "address": "苗栗縣苗栗市玉苗里米市街34號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 苗栗市公所。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1121,
+        "name": "苗栗縣政府文化觀光局-無障礙廁",
+        "coords": [
+            24.56649248,
+            120.82061472
+        ],
+        "address": "苗栗縣苗栗市北苗里自治路50號",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 苗栗縣政府文化觀光局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1122,
+        "name": "苗栗縣政府文化觀光局-男廁",
+        "coords": [
+            24.56649248,
+            120.82061472
+        ],
+        "address": "苗栗縣苗栗市北苗里自治路50號",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 苗栗縣政府文化觀光局。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1169,
+        "name": "頭份田寮永貞宮-親子廁",
+        "coords": [
+            24.67971,
+            120.88523
+        ],
+        "address": "苗栗縣頭份市田寮里永貞路一段206號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 頭份田寮永貞宮。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1192,
+        "name": "頭份田寮永貞宮-男廁",
+        "coords": [
+            24.67971,
+            120.88523
+        ],
+        "address": "苗栗縣頭份市田寮里永貞路一段206號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 頭份田寮永貞宮。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1218,
+        "name": "苗栗縣政府文化觀光局-女廁",
+        "coords": [
+            24.56649248,
+            120.82061472
+        ],
+        "address": "苗栗縣苗栗市北苗里自治路50號",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 苗栗縣政府文化觀光局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1307,
+        "name": "苗栗縣獅潭鄉公所行政大樓性別友善廁2",
+        "coords": [
+            24.539447,
+            120.920219
+        ],
+        "address": "苗栗縣獅潭鄉新店村130之2號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 獅潭鄉公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1338,
+        "name": "苗栗縣獅潭鄉公所行政大樓性別友善廁1",
+        "coords": [
+            24.539447,
+            120.920219
+        ],
+        "address": "苗栗縣獅潭鄉新店村130之2號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 獅潭鄉公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1383,
+        "name": "苗栗縣獅潭鄉公所行政大樓女廁2",
+        "coords": [
+            24.539447,
+            120.920219
+        ],
+        "address": "苗栗縣獅潭鄉新店村130之2號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 獅潭鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1439,
+        "name": "苗栗縣獅潭鄉公所行政大樓男廁2",
+        "coords": [
+            24.539447,
+            120.920219
+        ],
+        "address": "苗栗縣獅潭鄉新店村130之2號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 獅潭鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1490,
+        "name": "造橋鄉大西社區活動中心-混合廁",
+        "coords": [
+            24.62319,
+            120.89476
+        ],
+        "address": "苗栗縣造橋鄉大西村大西二街128巷7號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 造橋鄉公所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    }
+]

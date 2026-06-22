@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1017,
+        "name": "埤頭清潔隊-無障礙廁所",
+        "coords": [
+            23.849689,
+            120.448831
+        ],
+        "address": "彰化縣埤頭鄉中和村溪林路767號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 埤頭鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1064,
+        "name": "員林基督教醫院大廳1F-無障礙廁所",
+        "coords": [
+            23.962623,
+            120.567568
+        ],
+        "address": "彰化縣員林市南平里員林市莒光路456號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 員林基督教醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1085,
+        "name": "彰化縣彰化戶政事務所芬園辦公室-性別友善廁所",
+        "coords": [
+            24.015241,
+            120.628495
+        ],
+        "address": "彰化縣芬園鄉社口村彰南路四段177號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 芬園鄉戶政事務所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1086,
+        "name": "埤頭清潔隊-女廁",
+        "coords": [
+            23.849689,
+            120.448831
+        ],
+        "address": "彰化縣埤頭鄉中和村溪林路767號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 埤頭鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1087,
+        "name": "埤頭清潔隊-男廁",
+        "coords": [
+            23.84968925,
+            120.44883136
+        ],
+        "address": "彰化縣埤頭鄉中和村溪林路767號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 埤頭鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1092,
+        "name": "大村鄉第七公墓-男廁所",
+        "coords": [
+            24.011419,
+            120.5408
+        ],
+        "address": "彰化縣大村鄉茄苳村茄苳路二段192巷39號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 彰化縣大村鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1469,
+        "name": "彰化縣立體育場-男廁",
+        "coords": [
+            24.06735108,
+            120.55216312
+        ],
+        "address": "彰化縣彰化市介壽里健興路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 彰化縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1485,
+        "name": "中興運動公園-無障礙廁所",
+        "coords": [
+            24.154032,
+            120.488512
+        ],
+        "address": "彰化縣伸港鄉大同村中興路一段",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 彰化縣伸港鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    }
+]

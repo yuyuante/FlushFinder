@@ -1,0 +1,1655 @@
+[
+    {
+        "id": 1002,
+        "name": "溪北公園地下停車場-無障礙廁所",
+        "coords": [
+            24.98938118,
+            121.43138242
+        ],
+        "address": "新北市板橋區堂春里篤行路二段133號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1003,
+        "name": "淡水紅毛城-親子無障礙廁所",
+        "coords": [
+            25.1747864,
+            121.43321514
+        ],
+        "address": "新北市淡水區文化里中正路28巷1號",
+        "type": "觀光地區及風景區",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1004,
+        "name": "統一超商林口愛霖門市-混合廁所",
+        "coords": [
+            25.075962,
+            121.394517
+        ],
+        "address": "新北市林口區林口村仁愛路一段252號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 統一超商股份有限公司林口愛霖門市。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1005,
+        "name": "錦和運動公園停車場1F-無障礙廁所",
+        "coords": [
+            24.992,
+            121.49
+        ],
+        "address": "新北市中和區錦中里錦和路352號",
+        "type": "其他",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1006,
+        "name": "興穀國小操場地下停車場-無障礙廁",
+        "coords": [
+            25.05084711,
+            121.47552483
+        ],
+        "address": "新北市三重區五谷里五谷王北街46號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1008,
+        "name": "十四張歷史公園無障礙",
+        "coords": [
+            24.97969355,
+            121.52763918
+        ],
+        "address": "新北市新店區中山里央北二路206巷2號",
+        "type": "公園",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新店區公所。公廁類別: 未設定。公廁評級: 不合格。"
+    },
+    {
+        "id": 1010,
+        "name": "淡水馬偕紀念醫院恩典樓前棟1F-親子廁所",
+        "coords": [
+            25.139758,
+            121.460475
+        ],
+        "address": "新北市淡水區民生里民生路45號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 淡水馬偕紀念醫院。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1011,
+        "name": "統一超商雙秀門市1F-混和廁",
+        "coords": [
+            24.99584269,
+            121.52639657
+        ],
+        "address": "新北市中和區秀福里秀朗路三段40號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 統一超級商店(股)公司。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1012,
+        "name": "溪北公園地下停車場-女廁",
+        "coords": [
+            24.98950936,
+            121.43124869
+        ],
+        "address": "新北市板橋區堂春里篤行路二段133號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1015,
+        "name": "興穀國小操場地下停車場-女廁",
+        "coords": [
+            25.05084711,
+            121.47552483
+        ],
+        "address": "新北市三重區五谷里五谷王北街46號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1016,
+        "name": "興穀國小操場地下停車場-男廁",
+        "coords": [
+            25.05084711,
+            121.47552483
+        ],
+        "address": "新北市三重區五谷里五谷王北街46號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通局。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1022,
+        "name": "錦和運動公園停車場1F-親子廁",
+        "coords": [
+            24.992,
+            121.49
+        ],
+        "address": "新北市中和區錦中里錦和路352號",
+        "type": "其他",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1027,
+        "name": "民德立體停車場北側1F-男廁",
+        "coords": [
+            24.99911097,
+            121.46836877
+        ],
+        "address": "新北市中和區清穗里民德路188號",
+        "type": "其他",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市交通局。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1028,
+        "name": "台亞三峽加油站-無障礙廁所",
+        "coords": [
+            24.92354787,
+            121.37119314
+        ],
+        "address": "新北市三峽區中正里中正路1段307號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台亞三峽加油站。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1030,
+        "name": "錦和運動公園停車場1F-女廁",
+        "coords": [
+            24.992,
+            121.49
+        ],
+        "address": "新北市中和區錦中里錦和路352號",
+        "type": "其他",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1031,
+        "name": "錦和運動公園停車場1F-男廁",
+        "coords": [
+            24.992,
+            121.49
+        ],
+        "address": "新北市中和區錦中里錦和路352號",
+        "type": "其他",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1037,
+        "name": "新北市美術館8F無障礙廁所",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1038,
+        "name": "新北市美術館8F女廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1043,
+        "name": "統一超商板橋舊社門市-混合廁所",
+        "coords": [
+            25.02080409,
+            121.48288846
+        ],
+        "address": "新北市板橋區埔墘里中山路二段412號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 統一超商板橋舊社門市。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1045,
+        "name": "統一超商新店雙城門市-混和廁",
+        "coords": [
+            24.95194311,
+            121.49152458
+        ],
+        "address": "新北市新店區雙城里安康路三段96號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 統一超商股份有限公司。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1050,
+        "name": "民德立體停車場北側1F-女廁",
+        "coords": [
+            24.99904732,
+            121.4682883
+        ],
+        "address": "新北市中和區清穗里民德路118號",
+        "type": "其他",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市交通局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1051,
+        "name": "中興低碳立體停車場-女廁",
+        "coords": [
+            24.97729626,
+            121.54732928
+        ],
+        "address": "新北市新店區寶福里中興路三段6號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1052,
+        "name": "溪北公園地下停車場-男廁",
+        "coords": [
+            24.98993723,
+            121.43124869
+        ],
+        "address": "新北市板橋區堂春里篤行路二段133號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1054,
+        "name": "淡水馬偕紀念醫院恩典樓前棟1F-無障礙廁所",
+        "coords": [
+            25.139758,
+            121.460475
+        ],
+        "address": "新北市淡水區民生里民生路45號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 淡水馬偕紀念醫院。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1055,
+        "name": "民德立體停車場北側1F-無障礙廁所",
+        "coords": [
+            24.99915468,
+            121.46824598
+        ],
+        "address": "新北市中和區清穗里民德路188號",
+        "type": "其他",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市交通局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1056,
+        "name": "中興低碳立體停車場-男廁",
+        "coords": [
+            24.97733164,
+            121.54733151
+        ],
+        "address": "新北市新店區寶福里中興路三段6號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1057,
+        "name": "八里區第一立體停車場-女廁",
+        "coords": [
+            25.14692409,
+            121.40010864
+        ],
+        "address": "新北市八里區舊城村舊城路12號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1058,
+        "name": "中興低碳立體停車場-無障礙",
+        "coords": [
+            24.9773365,
+            121.5473181
+        ],
+        "address": "新北市新店區寶福里中興路三段6號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1059,
+        "name": "溪北公園地下停車場-親子廁所",
+        "coords": [
+            24.98906734,
+            121.43126632
+        ],
+        "address": "新北市板橋區堂春里篤行路二段133號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1060,
+        "name": "統一超商板橋華江門市-混合廁所",
+        "coords": [
+            25.03390578,
+            121.46610705
+        ],
+        "address": "新北市板橋區溪頭里華江九路",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 統一超商股份有限公司。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1063,
+        "name": "忠孝公園地下停車場-男廁",
+        "coords": [
+            24.9969389,
+            121.4599138
+        ],
+        "address": "新北市板橋區重慶里國慶路149巷3弄28號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 未設定。公廁評級: 特優級。"
+    },
+    {
+        "id": 1066,
+        "name": "忠孝公園地下停車場-女廁",
+        "coords": [
+            24.9969389,
+            121.4599138
+        ],
+        "address": "新北市板橋區重慶里國慶路149巷3弄28號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1068,
+        "name": "新北市立圖書館淡水分館4F-男廁",
+        "coords": [
+            25.17283351,
+            121.43787012
+        ],
+        "address": "新北市淡水區新生里文化路65號",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1069,
+        "name": "十四張歷史公園混和廁",
+        "coords": [
+            24.97967694,
+            121.52760029
+        ],
+        "address": "新北市新店區中山里央北二路206巷2號",
+        "type": "公園",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新店區公所。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1071,
+        "name": "新北市美術館3F男廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1072,
+        "name": "新北市美術館1F女廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1073,
+        "name": "新北市美術館B1女廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1074,
+        "name": "新北市立圖書館淡水分館3F-性別友善廁所",
+        "coords": [
+            25.17280414,
+            121.43791732
+        ],
+        "address": "新北市淡水區新生里文化路65號",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 性別友善廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1075,
+        "name": "十四張歷史公園親子廁",
+        "coords": [
+            24.97969477,
+            121.52765527
+        ],
+        "address": "新北市新店區中山里央北二路206巷2號",
+        "type": "公園",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新店區公所。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1076,
+        "name": "十四張歷史公園男廁",
+        "coords": [
+            24.97967329,
+            121.52761638
+        ],
+        "address": "新北市新店區中山里央北二路206巷2號",
+        "type": "公園",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新店區公所。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1078,
+        "name": "新北市美術館4F男廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1079,
+        "name": "新北市美術館3F無障礙廁所",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1080,
+        "name": "新北市美術館F3女廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1081,
+        "name": "新北市美術館2F女廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1082,
+        "name": "八里區第一立體停車場-男廁",
+        "coords": [
+            25.14678812,
+            121.40016496
+        ],
+        "address": "新北市八里區舊城村舊城路12號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1083,
+        "name": "忠孝公園地下停車場-無障礙廁所",
+        "coords": [
+            24.9969389,
+            121.4599138
+        ],
+        "address": "新北市板橋區重慶里國慶路149巷3弄28號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1084,
+        "name": "忠孝公園地下停車場-親子廁所",
+        "coords": [
+            24.9969389,
+            121.4599138
+        ],
+        "address": "新北市板橋區重慶里國慶路149巷3弄28號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1111,
+        "name": "頭前運動公園水池區-無障礙廁所",
+        "coords": [
+            25.05192,
+            121.46309
+        ],
+        "address": "新北市新莊區頭前里頭前路123號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新莊區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1112,
+        "name": "頭前運動公園兒童遊戲場-女廁",
+        "coords": [
+            25.05116582,
+            121.4627574
+        ],
+        "address": "新北市新莊區頭前里頭前路123號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新莊區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1113,
+        "name": "國家檔案館2樓女廁",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1116,
+        "name": "新北市美術館6F男廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1117,
+        "name": "新北市美術館4F無障礙廁所",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1118,
+        "name": "新北市美術館B1兒童男廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1119,
+        "name": "新北市美術館B1男廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1153,
+        "name": "新北市美術館B3無障礙廁所",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1185,
+        "name": "新北市立圖書館淡水分館4F-女廁",
+        "coords": [
+            25.17283351,
+            121.43787012
+        ],
+        "address": "新北市淡水區新生里文化路65號",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1188,
+        "name": "新北市美術館6F無障礙廁所",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1189,
+        "name": "新北市美術館6F女廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1190,
+        "name": "新北市美術館B1無障礙廁所",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1191,
+        "name": "新北市美術館B1兒童女廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1194,
+        "name": "新北市美術館4F女廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1195,
+        "name": "新北市美術館B3男廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1196,
+        "name": "新北市美術館8F男廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1197,
+        "name": "新北市美術館B3女廁",
+        "coords": [
+            24.95293,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1209,
+        "name": "新北市美術館2F無障礙廁所",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1210,
+        "name": "新北市美術館2F男廁",
+        "coords": [
+            24.952931,
+            121.357823
+        ],
+        "address": "新北市鶯歌區東鶯里館前路300號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1244,
+        "name": "頭前運動公園兒童遊戲場-無障礙廁所",
+        "coords": [
+            25.05116582,
+            121.4627574
+        ],
+        "address": "新北市新莊區頭前里頭前路123號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新莊區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1256,
+        "name": "國家檔案館3樓女廁",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1286,
+        "name": "頭前運動公園兒童遊戲場-性別友善廁所",
+        "coords": [
+            25.05116582,
+            121.4627574
+        ],
+        "address": "新北市新莊區頭前里頭前路123號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新莊區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1287,
+        "name": "國家檔案館3樓無障礙廁所",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1297,
+        "name": "國家檔案館1樓無障礙廁所",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1315,
+        "name": "國家檔案館3樓男廁",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1316,
+        "name": "國家檔案館2樓無障礙廁所",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1317,
+        "name": "國家檔案館1樓女廁",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1323,
+        "name": "頭前運動公園水池區-女廁",
+        "coords": [
+            25.05192,
+            121.46309
+        ],
+        "address": "新北市新莊區頭前里頭前路123號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新莊區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1324,
+        "name": "頭前運動公園水池區-男廁",
+        "coords": [
+            25.05192,
+            121.46309
+        ],
+        "address": "新北市新莊區頭前里頭前路123號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市新莊區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1325,
+        "name": "國家檔案館2樓男廁",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1326,
+        "name": "國家檔案館1樓男廁",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1337,
+        "name": "紫東社區-女廁",
+        "coords": [
+            25.001649,
+            121.747024
+        ],
+        "address": "新北市平溪區東勢村火燒寮6號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市平溪區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1350,
+        "name": "國家檔案館B1男廁",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1356,
+        "name": "福德公園-無障礙廁所",
+        "coords": [
+            25.01146182,
+            121.46769494
+        ],
+        "address": "新北市板橋區深丘里區運路與新站路口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市板橋區公所。公廁類別: 未設定。公廁評級: 特優級。"
+    },
+    {
+        "id": 1358,
+        "name": "國家檔案館B1女廁",
+        "coords": [
+            25.07340908,
+            121.37412071
+        ],
+        "address": "新北市林口區仁愛村檔案館路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家發展委員會檔案管理局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1426,
+        "name": "清雲橋-性別友善廁所",
+        "coords": [
+            24.906857,
+            121.709124
+        ],
+        "address": "新北市坪林區石曹村清雲橋",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 坪林區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1437,
+        "name": "清雲橋-親子廁所",
+        "coords": [
+            24.906857,
+            121.709124
+        ],
+        "address": "新北市坪林區石曹村清雲橋",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 坪林區公所。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1458,
+        "name": "九份聖明宮管理委員會-混合廁",
+        "coords": [
+            25.10793,
+            121.84416
+        ],
+        "address": "新北市瑞芳區崇文里街頂巷56號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 九份聖明宮管理委員會。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1459,
+        "name": "太平濱海步道混合廁",
+        "coords": [
+            25.1248971,
+            121.37148255
+        ],
+        "address": "新北市林口區太平村太平嶺北79市道",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市林口區公所民政課。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1480,
+        "name": "猴硐里市民活動中心（混合廁）",
+        "coords": [
+            25.08307,
+            121.82557
+        ],
+        "address": "新北市瑞芳區猴硐里候硐路25號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 瑞芳區公區。公廁類別: 混合廁所。公廁評級: 特優級。"
+    }
+]

@@ -1,0 +1,762 @@
+[
+    {
+        "id": 1000,
+        "name": "台塑石油宏大加油站無障礙廁",
+        "coords": [
+            24.983799,
+            121.237939
+        ],
+        "address": "桃園市中壢區永福里中園路192-1號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台塑石油(股)公司。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1013,
+        "name": "龍潭運動公園立體停車場1F性別友善廁所",
+        "coords": [
+            24.8675156,
+            121.21868869
+        ],
+        "address": "桃園市龍潭區中山村公園路50號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通局。公廁類別: 性別友善廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1023,
+        "name": "自強多目標立體停車場5F性別友善廁",
+        "coords": [
+            24.968236,
+            121.258336
+        ],
+        "address": "桃園市中壢區自強里強國路66號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 性別友善廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1024,
+        "name": "自強多目標立體停車場3F性別友善廁",
+        "coords": [
+            24.968236,
+            121.258336
+        ],
+        "address": "桃園市中壢區自強里強國路66號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 性別友善廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1026,
+        "name": "中壢區中正公園B1停車場女廁",
+        "coords": [
+            24.959759,
+            121.225325
+        ],
+        "address": "桃園市中壢區興南里中美路86號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1046,
+        "name": "自強多目標立體停車場6F性別友善廁",
+        "coords": [
+            24.968236,
+            121.258336
+        ],
+        "address": "桃園市中壢區自強里強國路66號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 性別友善廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1047,
+        "name": "自強多目標立體停車場4F性別友善廁",
+        "coords": [
+            24.968236,
+            121.258336
+        ],
+        "address": "桃園市中壢區自強里強國路66號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 性別友善廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1048,
+        "name": "中壢區中正公園B1停車場無障礙廁",
+        "coords": [
+            24.959759,
+            121.225325
+        ],
+        "address": "桃園市中壢區興南里中美路86號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1049,
+        "name": "中壢區中正公園B1停車場男廁",
+        "coords": [
+            24.959759,
+            121.225325
+        ],
+        "address": "桃園市中壢區興南里中美路86號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1053,
+        "name": "自強多目標立體停車場1F女廁",
+        "coords": [
+            24.968236,
+            121.258336
+        ],
+        "address": "桃園市中壢區自強里強國路66號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1061,
+        "name": "自強多目標立體停車場1F無障礙親子廁",
+        "coords": [
+            24.968236,
+            121.258336
+        ],
+        "address": "桃園市中壢區自強里強國路66號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1062,
+        "name": "自強多目標立體停車場1F男廁",
+        "coords": [
+            24.968236,
+            121.258336
+        ],
+        "address": "桃園市中壢區自強里強國路66號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1077,
+        "name": "新屋後湖溪生態園區-親子廁所",
+        "coords": [
+            24.99531219,
+            121.0203407
+        ],
+        "address": "桃園市新屋區永安村新港路166號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府海岸及資源循環管理處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1114,
+        "name": "新屋後湖溪生態園區-無障礙廁所",
+        "coords": [
+            24.99531219,
+            121.0203407
+        ],
+        "address": "桃園市新屋區永安村新港路166號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府海岸及資源循環管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1115,
+        "name": "新屋後湖溪生態園區-男廁",
+        "coords": [
+            24.99531219,
+            121.0203407
+        ],
+        "address": "桃園市新屋區永安村新港路166號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府海岸及資源循環管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1138,
+        "name": "桃園區三民加油站無障礙廁所",
+        "coords": [
+            24.9995853,
+            121.3209514
+        ],
+        "address": "桃園市桃園區三民里三民路一段150號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油(股)公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1186,
+        "name": "新屋後湖溪生態園區-女廁",
+        "coords": [
+            24.99531219,
+            121.0203407
+        ],
+        "address": "桃園市新屋區永安村新港路166號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府海岸及資源循環管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1199,
+        "name": "桃園區長榮加油站無障礙廁所",
+        "coords": [
+            25.0324149,
+            121.2999104
+        ],
+        "address": "桃園市桃園區汴洲里經國路899號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 長榮加油站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1245,
+        "name": "中壢國小B1地下停車場無障礙廁",
+        "coords": [
+            24.95394953,
+            121.22193368
+        ],
+        "address": "桃園市中壢區中榮里延平路622號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 未設定。公廁評級: 特優級。"
+    },
+    {
+        "id": 1255,
+        "name": "中壢國小B1地下停車場女廁",
+        "coords": [
+            24.95404141,
+            121.22195128
+        ],
+        "address": "桃園市中壢區中榮里延平路622號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1296,
+        "name": "龍潭區鍾肇政文學生活園區性別友善廁所",
+        "coords": [
+            24.86452818,
+            121.21421678
+        ],
+        "address": "桃園市龍潭區龍潭村南龍路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府客家事務局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1349,
+        "name": "中壢國小B1地下停車場男廁",
+        "coords": [
+            121.22194541,
+            24.95399819
+        ],
+        "address": "桃園市中壢區中榮里延平路622號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府交通局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1357,
+        "name": "中壢區月眉環保公園無障礙廁",
+        "coords": [
+            25.01466485,
+            121.19027138
+        ],
+        "address": "桃園市中壢區月眉里環保路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市中壢區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1368,
+        "name": "KIRI國際原住民文創園區-無障礙廁所",
+        "coords": [
+            25.02306199,
+            121.21848635
+        ],
+        "address": "桃園市大園區青峰里大成路二段100號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 原住民旅行局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1369,
+        "name": "KIRI國際原住民文創園區-男廁",
+        "coords": [
+            25.02307007,
+            121.21843612
+        ],
+        "address": "桃園市大園區青峰里大成路二段100號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 原住民旅行局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1370,
+        "name": "桃園市立圖書館-微光廳無障礙廁所",
+        "coords": [
+            121.3000904,
+            25.01785985
+        ],
+        "address": "桃園市桃園區同德里南平路303號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1382,
+        "name": "龍潭區鍾肇政文學生活園區無障礙廁所",
+        "coords": [
+            24.86452818,
+            121.21421678
+        ],
+        "address": "桃園市龍潭區龍潭村南龍路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府客家事務局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1398,
+        "name": "KIRI國際原住民文創園區-性別友善廁所",
+        "coords": [
+            25.02307664,
+            121.21849364
+        ],
+        "address": "桃園市大園區青峰里大成路二段100號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 原住民旅行局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1399,
+        "name": "KIRI國際原住民文創園區-女廁",
+        "coords": [
+            25.02307309,
+            121.218467
+        ],
+        "address": "桃園市大園區青峰里大成路二段100號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 原住民旅行局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1400,
+        "name": "桃園市立圖書館-1樓無障礙廁所",
+        "coords": [
+            121.3000904,
+            25.01785985
+        ],
+        "address": "桃園市桃園區同德里南平路303號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 桃園市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1427,
+        "name": "文昌公園地下停車場B1女廁",
+        "coords": [
+            121.310287,
+            24.992823
+        ],
+        "address": "桃園市桃園區文昌里民權路69號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1430,
+        "name": "桃知道 GELEVEN PLAZA 4F無障礙廁所",
+        "coords": [
+            121.2979,
+            25.0178
+        ],
+        "address": "桃園市桃園區同安里南平路301號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1436,
+        "name": "龍潭區小人國主題樂園瘋狂急流性別友善廁所",
+        "coords": [
+            24.832159,
+            121.187175
+        ],
+        "address": "桃園市龍潭區高原村高原路891號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 小人國企業股份有限公司。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1438,
+        "name": "文昌公園地下停車場B2女廁",
+        "coords": [
+            121.310287,
+            24.992823
+        ],
+        "address": "桃園市桃園區文昌里民權路69號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1460,
+        "name": "文昌公園地下停車場B1男廁",
+        "coords": [
+            121.310172,
+            24.992794
+        ],
+        "address": "桃園市桃園區文昌里民權路69號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1478,
+        "name": "中油柑園八德加油站女廁",
+        "coords": [
+            24.95430726,
+            121.29888465
+        ],
+        "address": "桃園市八德區大華里介壽路二段167號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 柑園股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1479,
+        "name": "中油柑園八德加油站男廁",
+        "coords": [
+            24.95430726,
+            121.29888465
+        ],
+        "address": "桃園市八德區大華里介壽路二段167號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 柑園股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1482,
+        "name": "桃知道 GELEVEN PLAZA 3F無障礙廁所",
+        "coords": [
+            121.2979,
+            25.0178
+        ],
+        "address": "桃園市桃園區同安里南平路301號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1483,
+        "name": "桃知道 GELEVEN PLAZA 3F女廁",
+        "coords": [
+            121.2979,
+            25.0178
+        ],
+        "address": "桃園市桃園區同安里南平路301號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1484,
+        "name": "桃知道GELEVEN PLAZA 2F女廁",
+        "coords": [
+            25.0178,
+            121.2979
+        ],
+        "address": "桃園市桃園區同安里南平路301號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    }
+]

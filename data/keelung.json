@@ -1,0 +1,249 @@
+[
+    {
+        "id": 1152,
+        "name": "基隆祖孫館-無障礙廁所",
+        "coords": [
+            25.13901073,
+            121.79651404
+        ],
+        "address": "基隆市中正區砂子里調和街3號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1167,
+        "name": "基隆社寮島社靈廟-男廁",
+        "coords": [
+            25.15504867,
+            121.76521414
+        ],
+        "address": "基隆市中正區社寮里和一路144號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 和平島社靈廟。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1168,
+        "name": "基隆七堵親子館-混合廁所",
+        "coords": [
+            25.09612489,
+            121.71317565
+        ],
+        "address": "基隆市七堵區正光里自治街15號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1212,
+        "name": "基隆市公車處2F-親子廁所",
+        "coords": [
+            25.133577,
+            121.759576
+        ],
+        "address": "基隆市信義區信綠里正信路205號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1251,
+        "name": "基隆暖暖親子館-混合廁所",
+        "coords": [
+            25.09367416,
+            121.73518646
+        ],
+        "address": "基隆市暖暖區暖西里暖暖街350號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1252,
+        "name": "基隆祖孫館-女廁",
+        "coords": [
+            25.13901073,
+            121.79651404
+        ],
+        "address": "基隆市中正區砂子里調和街3號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1283,
+        "name": "基隆西定親子館-混合廁所",
+        "coords": [
+            25.13753242,
+            121.73214064
+        ],
+        "address": "基隆市中山區西定里西定路230號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1321,
+        "name": "基隆社寮島社靈廟-女廁",
+        "coords": [
+            25.15504867,
+            121.76521414
+        ],
+        "address": "基隆市中正區社寮里和一路144號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 和平島社靈廟。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1322,
+        "name": "基隆祖孫館-男廁",
+        "coords": [
+            25.13901073,
+            121.79651404
+        ],
+        "address": "基隆市中正區砂子里調和街3號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1345,
+        "name": "基隆仁愛親子館-女廁",
+        "coords": [
+            25.12514658,
+            121.73677245
+        ],
+        "address": "基隆市仁愛區光華里光一路28號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1346,
+        "name": "基隆祖孫館-親子廁所",
+        "coords": [
+            25.13901073,
+            121.79651404
+        ],
+        "address": "基隆市中正區砂子里調和街3號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1353,
+        "name": "基隆仁愛親子館-男廁",
+        "coords": [
+            25.12514658,
+            121.73677245
+        ],
+        "address": "基隆市仁愛區光華里光一路28號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1354,
+        "name": "基隆信義親子館-混合廁所",
+        "coords": [
+            25.1293345,
+            121.76174091
+        ],
+        "address": "基隆市信義區信綠里東信路282-2號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 基隆市政府。公廁類別: 混合廁所。公廁評級: 不合格。"
+    }
+]

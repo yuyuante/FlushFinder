@@ -1,0 +1,1484 @@
+[
+    {
+        "id": 1,
+        "name": "大安森林公園 1 號公廁",
+        "coords": [
+            25.033503,
+            121.536102
+        ],
+        "address": "台北市大安區新生南路二段1號 (靠近信義路側)",
+        "type": "公廁",
+        "rating": 4.5,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "由台北市政府環境保護局維護，設有完善的無障礙空間及嬰兒尿布台。清潔度高，洗手乳及衛生紙供應充足。"
+    },
+    {
+        "id": 2,
+        "name": "大安森林公園 2 號公廁",
+        "coords": [
+            25.029873,
+            121.536502
+        ],
+        "address": "台北市大安區新生南路二段1號 (靠近建國南路側)",
+        "type": "公廁",
+        "rating": 4.3,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "位於公園內部靠近溜冰場與遊樂區，人流量較大，設有無障礙設施，清潔維護頻繁。"
+    },
+    {
+        "id": 3,
+        "name": "大安森林公園 3 號公廁",
+        "coords": [
+            25.027103,
+            121.533202
+        ],
+        "address": "台北市大安區新生南路二段1號 (靠近和平東路側)",
+        "type": "公廁",
+        "rating": 4.1,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "位於公園南側出口附近，綠意環繞。清潔度良好，通風佳。"
+    },
+    {
+        "id": 4,
+        "name": "捷運大安站地下街公廁",
+        "coords": [
+            25.032943,
+            121.543502
+        ],
+        "address": "台北市大安區信義路四段2號 (捷運站 B1 內)",
+        "type": "捷運",
+        "rating": 4.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "06:00 - 00:00",
+        "description": "捷運站內公廁，人流量大但清潔頻率高。需刷卡進站使用，或可向服務台索取臨時進站票券。"
+    },
+    {
+        "id": 5,
+        "name": "捷運忠孝復興站公廁",
+        "coords": [
+            25.041543,
+            121.543902
+        ],
+        "address": "台北市大安區忠孝東路四段2號 (板南線大廳層)",
+        "type": "捷運",
+        "rating": 4.4,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "06:00 - 00:00",
+        "description": "板南線與文湖線轉乘站點內，設有親子側廁所與免治馬桶，乾淨程度一流。"
+    },
+    {
+        "id": 6,
+        "name": "捷運科技大樓站公廁",
+        "coords": [
+            25.026143,
+            121.543102
+        ],
+        "address": "台北市大安區復興南路二段235號",
+        "type": "捷運",
+        "rating": 4,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "06:00 - 00:00",
+        "description": "文湖線高架站體內廁所，空間精緻，定時有清潔人員維護。"
+    },
+    {
+        "id": 7,
+        "name": "大安區公所 2樓民眾公廁",
+        "coords": [
+            25.026843,
+            121.543102
+        ],
+        "address": "台北市大安區和平東路三段186號 2樓",
+        "type": "公廁",
+        "rating": 4.1,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "closed",
+        "openingHours": "08:30 - 17:30 (例假日及國定假日不開放)",
+        "description": "大安區行政中心公家機關內部公廁，環境整潔。非上班時間及週末不對外開放。"
+    },
+    {
+        "id": 8,
+        "name": "台北市立圖書館 總館公廁",
+        "coords": [
+            25.029843,
+            121.537502
+        ],
+        "address": "台北市大安區建國南路二段125號 (1樓大廳旁)",
+        "type": "公廁",
+        "rating": 3.9,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "08:30 - 21:00 (週日、週一至 17:00)",
+        "description": "圖書館附設洗手間，環境安靜，洗手台有熱水。適合讀書或在建國高架旁活動的民眾。"
+    },
+    {
+        "id": 9,
+        "name": "國立台灣大學 綜合體育館公廁",
+        "coords": [
+            25.021943,
+            121.535302
+        ],
+        "address": "台北市大安區羅斯福路四段1號 (體育館 1樓)",
+        "type": "公廁",
+        "rating": 4.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "08:00 - 22:00",
+        "description": "台大體育館內洗手間，空間寬敞，通風良好。運動民眾常在此處使用。"
+    },
+    {
+        "id": 10,
+        "name": "大安運動中心 公廁",
+        "coords": [
+            25.022543,
+            121.545102
+        ],
+        "address": "台北市大安區辛亥路三段55號 (1樓大廳)",
+        "type": "公廁",
+        "rating": 4.3,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "06:00 - 22:00",
+        "description": "市民運動中心公廁，設有專用無障礙洗手間與親子友善設備，環境乾淨、明亮。"
+    },
+    {
+        "id": 11,
+        "name": "7-ELEVEN 欣安和門市廁所",
+        "coords": [
+            25.032603,
+            121.549202
+        ],
+        "address": "台北市大安區安和路一段127巷6號",
+        "type": "超商",
+        "rating": 4,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "位於安和路巷內的 7-ELEVEN 門市內，設有顧客專用洗手間。空間較小但清潔度尚可，通常需向店員告知後使用。"
+    },
+    {
+        "id": 12,
+        "name": "全家便利商店 瑞安店廁所",
+        "coords": [
+            25.029203,
+            121.541502
+        ],
+        "address": "台北市大安區瑞安街120巷2號",
+        "type": "超商",
+        "rating": 4.3,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "全家門市內部附設廁所，提供給消費或需要的民眾使用。店內有座位區，廁所整理得挺乾淨。"
+    },
+    {
+        "id": 1029,
+        "name": "交通部公路局台北市區監理所基隆監理站1F(大樓後方)-性別友善廁所",
+        "coords": [
+            25.08812525,
+            121.69599652
+        ],
+        "address": "基隆市七堵區百福里實踐路296號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部。公廁類別: 性別友善廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1032,
+        "name": "花卉試驗中心辦公室1F無障礙",
+        "coords": [
+            25.13499998,
+            121.54386475
+        ],
+        "address": "臺北市士林區陽明里仰德大道四段175巷32號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市政府工務局公園路燈工程管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1033,
+        "name": "花卉試驗中心辦公室1F男",
+        "coords": [
+            25.13498499,
+            121.54386788
+        ],
+        "address": "臺北市士林區陽明里仰德大道四段175巷32號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市政府工務局公園路燈工程管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1067,
+        "name": "花卉試驗中心辦公室1F女",
+        "coords": [
+            25.13499998,
+            121.54386475
+        ],
+        "address": "臺北市士林區陽明里仰德大道四段175巷32號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市政府工務局公園路燈工程管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1096,
+        "name": "振華公園親子",
+        "coords": [
+            25.11516823,
+            121.51884756
+        ],
+        "address": "臺北市北投區振華里振華街15號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市北投區公所。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1125,
+        "name": "振華公園女廁",
+        "coords": [
+            25.11516823,
+            121.51884756
+        ],
+        "address": "臺北市北投區振華里振華街15號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市北投區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1187,
+        "name": "信義公園4號",
+        "coords": [
+            25.02906535,
+            121.58325687
+        ],
+        "address": "臺北市信義區松隆里松山路677之26號",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1201,
+        "name": "振華公園無障礙",
+        "coords": [
+            25.11516823,
+            121.51884756
+        ],
+        "address": "臺北市北投區振華里振華街15號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市北投區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1248,
+        "name": "潭美公園景觀公廁2混合廁",
+        "coords": [
+            25.05991676,
+            121.58745703
+        ],
+        "address": "臺北市內湖區石潭里南京東路6段380號對面",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1257,
+        "name": "市民大道地下停車場建復段B1女",
+        "coords": [
+            25.04475218,
+            121.54046078
+        ],
+        "address": "臺北市中山區埤頭里市民大道三段167號對面",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 未設定。公廁評級: 特優級。"
+    },
+    {
+        "id": 1258,
+        "name": "林森公園地下停車場-南京東路B1女",
+        "coords": [
+            25.0524238,
+            121.52644341
+        ],
+        "address": "臺北市中山區康樂里南京東路1段35號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1259,
+        "name": "林森公園地下停車場-新生北路B2女",
+        "coords": [
+            25.05292649,
+            121.5272652
+        ],
+        "address": "臺北市中山區康樂里新生高架道路與號南京東路交岔路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 未設定。公廁評級: 特優級。"
+    },
+    {
+        "id": 1260,
+        "name": "財團法人國泰綜合醫院本館西1樓無障礙",
+        "coords": [
+            25.03691331,
+            121.55373719
+        ],
+        "address": "臺北市大安區敦煌里仁愛路四段280號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1267,
+        "name": "市民大道地下停車場建復段B1無障礙",
+        "coords": [
+            25.04475218,
+            121.54046078
+        ],
+        "address": "臺北市中山區埤頭里市民大道三段167號對面",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1269,
+        "name": "市民大道地下停車場中林段B2-3號出口女",
+        "coords": [
+            25.04797851,
+            121.52228527
+        ],
+        "address": "臺北市中山區行仁里市民大道二段18號地下(中山北路-林森北路間地下)",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1270,
+        "name": "林森公園地下停車場-新生北路B3女",
+        "coords": [
+            25.05292649,
+            121.5272652
+        ],
+        "address": "臺北市中山區康樂里新生高架道路與號南京東路交岔路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1271,
+        "name": "中心綜合醫院2F無障礙",
+        "coords": [
+            25.04192602,
+            121.54740625
+        ],
+        "address": "臺北市大安區光武里忠孝東路四段77號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1289,
+        "name": "北投長安公園男",
+        "coords": [
+            25.13467323,
+            121.50076299
+        ],
+        "address": "臺北市北投區大同里中央北路一段42之1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市北投區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1291,
+        "name": "市民大道地下停車場林金段林森忠孝3號出口B1女",
+        "coords": [
+            25.04767117,
+            121.5255699
+        ],
+        "address": "臺北市中山區正守里市民大道2段(林森北路至金山北路)地下",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1292,
+        "name": "林森公園地下停車場-南京東路B2女",
+        "coords": [
+            25.0524238,
+            121.52644341
+        ],
+        "address": "臺北市中山區康樂里南京東路1段35號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1293,
+        "name": "進安公園地下停車場無障礙",
+        "coords": [
+            25.04616744,
+            121.53769941
+        ],
+        "address": "臺北市中山區埤頭里八德路二段158號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1294,
+        "name": "科技大樓地下停車場B1男",
+        "coords": [
+            25.02604622,
+            121.54321184
+        ],
+        "address": "臺北市大安區龍生里復興南路二段224號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1298,
+        "name": "北投長安公園無障礙",
+        "coords": [
+            25.13467323,
+            121.50076299
+        ],
+        "address": "臺北市北投區大同里中央北路一段42之1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市北投區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1299,
+        "name": "北投長安公園女",
+        "coords": [
+            25.13467323,
+            121.50076299
+        ],
+        "address": "臺北市北投區大同里中央北路一段42之1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市北投區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1300,
+        "name": "市民大道地下停車場林金段林森忠孝3號出口B2女",
+        "coords": [
+            25.04767117,
+            121.5255699
+        ],
+        "address": "臺北市中山區正守里市民大道2段(林森北路至金山北路)地下",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1301,
+        "name": "市民大道地下停車場林金段新生長安6號出口B1親子身心障礙",
+        "coords": [
+            25.04767117,
+            121.5255699
+        ],
+        "address": "臺北市中山區正守里市民大道2段(林森北路至金山北路)地下",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1302,
+        "name": "榮星公園地下停車場無障礙",
+        "coords": [
+            25.06421381,
+            121.538295
+        ],
+        "address": "臺北市中山區行仁里建國北路一段39號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1303,
+        "name": "榮星公園地下停車場女",
+        "coords": [
+            25.06421381,
+            121.538295
+        ],
+        "address": "臺北市中山區行仁里建國北路一段39號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1306,
+        "name": "景勤一號公園景觀混合廁所",
+        "coords": [
+            25.02686667,
+            121.56191336
+        ],
+        "address": "臺北市信義區景勤里吳興街220巷59弄旁(台北醫學院斜對)",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市政府工務局公園路燈工程管理處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1320,
+        "name": "市民大道地下停車場林金段林森長安4號出口B2女",
+        "coords": [
+            25.04767117,
+            121.5255699
+        ],
+        "address": "臺北市中山區正守里市民大道2段(林森北路至金山北路)地下",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1329,
+        "name": "市民大道地下停車場林金段林森長安1號出口B2女",
+        "coords": [
+            25.04767117,
+            121.5255699
+        ],
+        "address": "臺北市中山區正守里市民大道2段(林森北路至金山北路)地下",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1330,
+        "name": "市民大道地下停車場林金段新生長安6號出口B2女",
+        "coords": [
+            25.04767117,
+            121.5255699
+        ],
+        "address": "臺北市中山區正守里市民大道2段(林森北路至金山北路)地下",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1331,
+        "name": "林森公園地下停車場-新生北路B1女",
+        "coords": [
+            25.05293468,
+            121.5272702
+        ],
+        "address": "臺北市中山區康樂里新生高架道路與號南京東路交岔路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1332,
+        "name": "臺北第二果菜市場地下停車場(濱江)無障礙",
+        "coords": [
+            25.06714875,
+            121.53804272
+        ],
+        "address": "臺北市中山區行仁里民族東路336號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1333,
+        "name": "臺北第二果菜市場地下停車場(濱江)女",
+        "coords": [
+            25.06714875,
+            121.53804272
+        ],
+        "address": "臺北市中山區行仁里民族東路336號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1334,
+        "name": "中心綜合醫院1F無障礙",
+        "coords": [
+            25.04192602,
+            121.54740625
+        ],
+        "address": "臺北市大安區光武里忠孝東路四段77號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1336,
+        "name": "景勤一號公園景觀親子廁所",
+        "coords": [
+            25.02686667,
+            121.56191336
+        ],
+        "address": "臺北市信義區景聯里吳興街220巷59弄旁(台北醫學院斜對)",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市政府工務局公園路燈工程管理處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1352,
+        "name": "海霸王(北區)5F男",
+        "coords": [
+            25.06856977,
+            121.52307482
+        ],
+        "address": "臺北市中山區圓山里中山北路三段59號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1361,
+        "name": "海霸王(北區)5F女",
+        "coords": [
+            25.06856977,
+            121.52307482
+        ],
+        "address": "臺北市中山區圓山里中山北路三段59號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1364,
+        "name": "市民大道地下停車場中林段B1-3號出口女",
+        "coords": [
+            25.04797851,
+            121.52228527
+        ],
+        "address": "臺北市中山區行仁里市民大道二段18號地下(中山北路-林森北路間地下)",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1365,
+        "name": "林森公園地下停車場-南京東路B1無障礙",
+        "coords": [
+            25.0524238,
+            121.52644341
+        ],
+        "address": "臺北市中山區康樂里南京東路1段35號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1366,
+        "name": "財團法人國泰綜合醫院本館東1樓無障礙",
+        "coords": [
+            25.03691331,
+            121.55373719
+        ],
+        "address": "臺北市大安區敦煌里仁愛路四段280號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1367,
+        "name": "科技大樓地下停車場B1親子",
+        "coords": [
+            25.02604622,
+            121.54321184
+        ],
+        "address": "臺北市大安區龍生里復興南路二段224號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1377,
+        "name": "市民大道地下停車場林金段林森長安4號出口B1女",
+        "coords": [
+            25.04767117,
+            121.5255699
+        ],
+        "address": "臺北市中山區正守里市民大道2段(林森北路至金山北路)地下",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1378,
+        "name": "市民大道地下停車場林金段林森長安1號出口B1親子身心障礙",
+        "coords": [
+            25.04767117,
+            121.5255699
+        ],
+        "address": "臺北市中山區正守里市民大道2段(林森北路至金山北路)地下",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1379,
+        "name": "科技大樓地下停車場B1女",
+        "coords": [
+            25.02604622,
+            121.54321184
+        ],
+        "address": "臺北市大安區龍生里復興南路二段224號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1380,
+        "name": "臺北市立圖書館道藩分館無障礙",
+        "coords": [
+            25.021574,
+            121.544047
+        ],
+        "address": "臺北市大安區臥龍里辛亥路三段11號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1394,
+        "name": "市民大道地下停車場公中段北2號出口B1無障礙",
+        "coords": [
+            25.04854489,
+            121.51812304
+        ],
+        "address": "臺北市中山區民安里市民大道一段209號地下(公園路-中山北路)之間",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1395,
+        "name": "林森公園地下停車場-南京東路B3女",
+        "coords": [
+            25.0524238,
+            121.52644341
+        ],
+        "address": "臺北市中山區康樂里南京東路1段35號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1396,
+        "name": "科技大樓地下停車場B2無障礙",
+        "coords": [
+            25.02604622,
+            121.54321184
+        ],
+        "address": "臺北市大安區龍生里復興南路二段224號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1397,
+        "name": "科技大樓地下停車場B1無障礙",
+        "coords": [
+            25.02604622,
+            121.54321184
+        ],
+        "address": "臺北市大安區龍生里復興南路二段224號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1412,
+        "name": "六張犁2區社會住宅地下停車場B1棟B3混合廁",
+        "coords": [
+            25.02787319,
+            121.55981437
+        ],
+        "address": "臺北市信義區景勤里信安街15巷36號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1413,
+        "name": "六張犁2區社會住宅地下停車場B1棟B1無障礙",
+        "coords": [
+            25.02787319,
+            121.55981437
+        ],
+        "address": "臺北市信義區景勤里信安街15巷36號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1414,
+        "name": "摩斯漢堡信義通化店女",
+        "coords": [
+            25.032943,
+            121.554802
+        ],
+        "address": "臺北市大安區正聲里信義路四段304號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1420,
+        "name": "六張犁2區社會住宅地下停車場B1棟B2混合廁",
+        "coords": [
+            25.02787319,
+            121.55981437
+        ],
+        "address": "臺北市信義區景勤里信安街15巷36號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1421,
+        "name": "西雅圖咖啡台大店女",
+        "coords": [
+            25.018122,
+            121.533355
+        ],
+        "address": "臺北市大安區大學里新生南路三段88號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1422,
+        "name": "丹堤咖啡濟南店女",
+        "coords": [
+            25.04026,
+            121.534638
+        ],
+        "address": "臺北市大安區民輝里濟南路三段25號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1429,
+        "name": "北投福星公園地下停車場B1男廁",
+        "coords": [
+            25.10763026,
+            121.51258309
+        ],
+        "address": "臺北市北投區建民里北科路220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1431,
+        "name": "陶板屋台北光復南店無障礙",
+        "coords": [
+            25.039542,
+            121.557441
+        ],
+        "address": "臺北市大安區正聲里光復南路286號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 王品餐飲股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1454,
+        "name": "六張犁1區社會住宅地下停車場B3混合廁",
+        "coords": [
+            25.02756362,
+            121.55832093
+        ],
+        "address": "臺北市信義區景勤里信安街27號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1455,
+        "name": "摩斯漢堡金山店女",
+        "coords": [
+            25.030784,
+            121.526792
+        ],
+        "address": "臺北市大安區永康里金山南路二段121號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1471,
+        "name": "六張犁1區社會住宅地下停車場B2混合廁",
+        "coords": [
+            25.02756362,
+            121.55832093
+        ],
+        "address": "臺北市信義區景勤里信安街27號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1472,
+        "name": "六張犁1區社會住宅地下停車場B1無障礙",
+        "coords": [
+            25.02753998,
+            121.55835673
+        ],
+        "address": "臺北市信義區景勤里信安街27號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1473,
+        "name": "麥當勞台北信義店女",
+        "coords": [
+            25.033349,
+            121.554526
+        ],
+        "address": "臺北市大安區敦煌里信義路四段273號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1474,
+        "name": "麥當勞羅斯福店無障礙",
+        "coords": [
+            25.027517,
+            121.522347
+        ],
+        "address": "臺北市大安區錦華里羅斯福路二段45號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1481,
+        "name": "北投福星公園地下停車場B1無障礙",
+        "coords": [
+            25.10763026,
+            121.51258309
+        ],
+        "address": "臺北市北投區建民里北科路220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北市停車管理工程處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    }
+]

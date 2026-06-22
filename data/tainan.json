@@ -1,0 +1,496 @@
+[
+    {
+        "id": 1001,
+        "name": "田厝水明殿女廁",
+        "coords": [
+            22.938917,
+            120.242818
+        ],
+        "address": "臺南市仁德區文賢里田厝二街88號",
+        "type": "宗教禮儀場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 田厝水明殿管理委員會。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1007,
+        "name": "府北戶政事務所北區辦公處1F無障礙廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 府北戶政事務所北區辦公處。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1009,
+        "name": "Mitsui Outlet Park台南3F F區女客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1018,
+        "name": "Mitsui Outlet Park台南3F F區男客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 未設定。公廁評級: 不合格。"
+    },
+    {
+        "id": 1019,
+        "name": "Mitsui Outlet Park台南2F F區無障礙客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1035,
+        "name": "Mitsui Outlet Park台南3F F區無障礙客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1036,
+        "name": "Mitsui Outlet Park台南1F F區女客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1065,
+        "name": "北區區公所4F無障礙廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1070,
+        "name": "Mitsui Outlet Park台南1F F區無障礙客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1088,
+        "name": "Mitsui Outlet Park台南2F F區女客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1089,
+        "name": "Mitsui Outlet Park台南2F F區男客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1094,
+        "name": "北區區公所2F女廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1095,
+        "name": "北區區公所2F男廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1120,
+        "name": "北區區公所4F男廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1154,
+        "name": "北區區公所3F親子廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1155,
+        "name": "北區區公所3F男廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1170,
+        "name": "北區區公所3F女廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1193,
+        "name": "Mitsui Outlet Park台南1F F區男客廁",
+        "coords": [
+            22.925183,
+            120.287133
+        ],
+        "address": "臺南市歸仁區武東村歸仁大道101號",
+        "type": "商業營業場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣三井不動產商業管理股份有限公司。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1198,
+        "name": "北區區公所2F無障礙廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1211,
+        "name": "新營五興里活動中心混合廁",
+        "coords": [
+            23.27369872,
+            120.27357998
+        ],
+        "address": "臺南市新營區五興里五間厝114之1號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新營區公所。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1217,
+        "name": "北區區公所4F女廁",
+        "coords": [
+            23.01362,
+            120.199985
+        ],
+        "address": "臺南市北　區元美里海安路三段789號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北區區公所。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1241,
+        "name": "永康轉運站性別友善廁",
+        "coords": [
+            23.04339,
+            120.247863
+        ],
+        "address": "臺南市永康區蔦松里永運路２５５號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府交通局。公廁類別: 性別友善廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1242,
+        "name": "永康轉運站女廁",
+        "coords": [
+            23.04339,
+            120.247863
+        ],
+        "address": "臺南市永康區蔦松里永運路２５５號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府交通局。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1243,
+        "name": "永康轉運站內無障礙廁",
+        "coords": [
+            23.04339,
+            120.247863
+        ],
+        "address": "臺南市永康區蔦松里永運路２５５號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府交通局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1254,
+        "name": "永康轉運站無障礙廁",
+        "coords": [
+            23.04339,
+            120.247863
+        ],
+        "address": "臺南市永康區蔦松里永運路２５５號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府交通局。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1285,
+        "name": "永康轉運站男廁",
+        "coords": [
+            23.04339,
+            120.247863
+        ],
+        "address": "臺南市永康區蔦松里永運路２５５號",
+        "type": "交通",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府交通局。公廁類別: 男廁所。公廁評級: 不合格。"
+    }
+]

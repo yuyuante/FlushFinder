@@ -1,0 +1,249 @@
+[
+    {
+        "id": 1123,
+        "name": "旅運中心-1F無障礙廁所",
+        "coords": [
+            22.611188,
+            120.2926598
+        ],
+        "address": "高雄市苓雅區苓東里海邊路5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1124,
+        "name": "旅運中心-1F男廁",
+        "coords": [
+            22.611188,
+            120.2926598
+        ],
+        "address": "高雄市苓雅區苓東里海邊路5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1171,
+        "name": "台灣中油股份有限公司-杉林站-無障礙廁所",
+        "coords": [
+            22.96999612,
+            120.53819984
+        ],
+        "address": "高雄市杉林區月眉村清水路304號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1200,
+        "name": "旅運中心-1F性別友善廁所",
+        "coords": [
+            22.611188,
+            120.2926598
+        ],
+        "address": "高雄市苓雅區苓東里海邊路5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1213,
+        "name": "杉林區-區公所1F-無障礙廁所",
+        "coords": [
+            22.971729,
+            120.540161
+        ],
+        "address": "高雄市杉林區上平村山仙路6號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市杉林區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1219,
+        "name": "旅運中心-1F女廁",
+        "coords": [
+            22.611188,
+            120.2926598
+        ],
+        "address": "高雄市苓雅區苓東里海邊路5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1268,
+        "name": "棧七庫-無障礙廁所",
+        "coords": [
+            22.61686514,
+            120.28284243
+        ],
+        "address": "高雄市鼓山區麗興里蓬萊路1之15號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄港區土地開發股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1290,
+        "name": "棧七庫-男廁",
+        "coords": [
+            22.61685814,
+            120.28281967
+        ],
+        "address": "高雄市鼓山區麗興里蓬萊路1之15號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄港區土地開發股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1319,
+        "name": "棧七庫-女廁",
+        "coords": [
+            22.61690016,
+            120.28282726
+        ],
+        "address": "高雄市鼓山區麗興里蓬萊路1之15號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄港區土地開發股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1362,
+        "name": "大港倉8大港-無障礙廁所",
+        "coords": [
+            22.61752693,
+            120.2833052
+        ],
+        "address": "高雄市鼓山區麗興里蓬萊路6之6號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄港區土地開發股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1363,
+        "name": "大港倉8-男廁",
+        "coords": [
+            22.61750242,
+            120.28332417
+        ],
+        "address": "高雄市鼓山區麗興里蓬萊路6之6號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄港區土地開發股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1393,
+        "name": "大港倉8大-女廁",
+        "coords": [
+            22.61755844,
+            120.28332417
+        ],
+        "address": "高雄市鼓山區麗興里蓬萊路6之6號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄港區土地開發股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1425,
+        "name": "(三西)臺鐵-高雄站東門非付費區-1F男廁",
+        "coords": [
+            22.63847743,
+            120.3018851
+        ],
+        "address": "高雄市三民區港西里建國二路318號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中華民國交通部。公廁類別: 男廁所。公廁評級: 特優級。"
+    }
+]

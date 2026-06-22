@@ -1,0 +1,3099 @@
+[
+    {
+        "id": 1020,
+        "name": "光田綜合醫院向上院區B棟(Bb122)B1F-女廁",
+        "coords": [
+            120.56326775,
+            24.20653672
+        ],
+        "address": "臺中市沙鹿區興安里沙田路117號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1021,
+        "name": "光田綜合醫院向上院區A棟(A0751)7F-親子廁",
+        "coords": [
+            120.56326775,
+            24.20653672
+        ],
+        "address": "臺中市沙鹿區興安里沙田路117號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1042,
+        "name": "光田綜合醫院向上院區A棟(A0322)3F-女廁",
+        "coords": [
+            120.56326775,
+            24.20653672
+        ],
+        "address": "臺中市沙鹿區興安里沙田路117號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1044,
+        "name": "光田綜合醫院向上院區B棟(Bb112)B1F-男廁",
+        "coords": [
+            120.56326775,
+            24.20653672
+        ],
+        "address": "臺中市沙鹿區興安里沙田路117號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1097,
+        "name": "臺中市立圖書館(東勢許良宇圖書館)1F-男廁",
+        "coords": [
+            24.24994553,
+            120.83500812
+        ],
+        "address": "臺中市東勢區泰昌里圓樓街88號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1098,
+        "name": "清水國民暨兒童運動中心4F-女廁",
+        "coords": [
+            120.54982889,
+            24.27174091
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1099,
+        "name": "清水國民暨兒童運動中心4F-男廁",
+        "coords": [
+            24.27209906,
+            120.55016583
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1100,
+        "name": "太平國民暨兒童運動中心(淋浴間)3F-女廁",
+        "coords": [
+            24.14912428,
+            120.72833973
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1101,
+        "name": "太平國民暨兒童運動中心(淋浴間)3F-男廁",
+        "coords": [
+            24.14905537,
+            120.72834944
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1102,
+        "name": "豐原國民暨兒童運動中心B2-男廁",
+        "coords": [
+            24.24804866,
+            120.70529209
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1103,
+        "name": "豐原國民暨兒童運動中心3F-親子廁",
+        "coords": [
+            24.24796297,
+            120.70490394
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1104,
+        "name": "臺中市立圖書館(總館) G棟1F-無障礙廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1105,
+        "name": "臺中市立圖書館(總館) G棟1F-女廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1106,
+        "name": "臺中市立圖書館(總館) D棟1F前側-性別友善廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1107,
+        "name": "臺中市立圖書館(總館) F棟3F右側-無障礙廁",
+        "coords": [
+            24.19265108,
+            120.65444266
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1108,
+        "name": "臺中市立圖書館(總館) F棟3F左側-無障礙廁",
+        "coords": [
+            24.19269293,
+            120.65445402
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1109,
+        "name": "臺中市立圖書館(總館) F棟5F-無障礙廁",
+        "coords": [
+            24.19273323,
+            120.65437747
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1110,
+        "name": "臺中市立圖書館(總館) F棟5F-女廁",
+        "coords": [
+            24.19274461,
+            120.65441226
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1126,
+        "name": "臺中市立圖書館(東勢許良宇圖書館)3F-女廁",
+        "coords": [
+            24.24985484,
+            120.83512209
+        ],
+        "address": "臺中市東勢區泰昌里圓樓街88號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1127,
+        "name": "臺中市立圖書館(溪東分館)1F-親子廁所",
+        "coords": [
+            120.72213344,
+            24.16961867
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1128,
+        "name": "臺中市立圖書館(溪東分館)1F-女廁",
+        "coords": [
+            120.72213344,
+            24.16961867
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1129,
+        "name": "清水國民暨兒童運動中心(泳池)1F-男廁",
+        "coords": [
+            24.27185017,
+            120.55037644
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1130,
+        "name": "清水國民暨兒童運動中心1F-親子廁",
+        "coords": [
+            120.54982889,
+            24.27174091
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1131,
+        "name": "太平國民暨兒童運動中心2F-男廁",
+        "coords": [
+            24.14928547,
+            120.72834257
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1132,
+        "name": "太平國民暨兒童運動中心(淋浴間)1F-女廁",
+        "coords": [
+            24.14892493,
+            120.72821498
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1133,
+        "name": "豐原國民暨兒童運動中心1F-女廁",
+        "coords": [
+            24.24832126,
+            120.70494255
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1136,
+        "name": "臺中市立圖書館(總館) D棟2F後側-無障礙廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1137,
+        "name": "臺中市立圖書館(總館) D棟3F-性別友善廁",
+        "coords": [
+            24.19279214,
+            120.65438758
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1139,
+        "name": "豐原國民暨兒童運動中心(泳池B)1F-無障礙",
+        "coords": [
+            24.24816185,
+            120.7052013
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1140,
+        "name": "臺中市立圖書館(東勢許良宇圖書館)2F-男廁",
+        "coords": [
+            24.24968557,
+            120.8350242
+        ],
+        "address": "臺中市東勢區泰昌里圓樓街88號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1141,
+        "name": "臺中市立圖書館(東勢許良宇圖書館)1F-無障礙廁",
+        "coords": [
+            24.24989532,
+            120.83511614
+        ],
+        "address": "臺中市東勢區泰昌里圓樓街88號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1142,
+        "name": "臺中市立圖書館(溪東分館)3F-男廁",
+        "coords": [
+            24.169505,
+            120.7220542
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1143,
+        "name": "臺中市立圖書館(溪東分館)2F-女廁",
+        "coords": [
+            120.72213344,
+            24.16961867
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1144,
+        "name": "清水國民暨兒童運動中心1F-男廁",
+        "coords": [
+            24.2718512,
+            120.55034505
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1145,
+        "name": "太平國民暨兒童運動中心4F-女廁",
+        "coords": [
+            24.14897838,
+            120.72830512
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1146,
+        "name": "太平國民暨兒童運動中心3F-男廁",
+        "coords": [
+            24.14891246,
+            120.7283172
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1147,
+        "name": "太平國民暨兒童運動中心2F-無障礙廁所",
+        "coords": [
+            24.14925492,
+            120.72833917
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1148,
+        "name": "臺中市立圖書館(總館)汽車停車場 P1電梯 B1-親子廁",
+        "coords": [
+            24.19379387,
+            120.65298826
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1149,
+        "name": "臺中市立圖書館(總館)汽車停車場 P1電梯 B1-女廁",
+        "coords": [
+            24.19322622,
+            120.65439887
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1150,
+        "name": "臺中市立圖書館(總館) D棟1F-親子廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1151,
+        "name": "臺中市立圖書館(總館) D棟2F後側-性別友善廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1157,
+        "name": "清水國民暨兒童運動中心4F-無障礙廁",
+        "coords": [
+            24.27183821,
+            120.55023726
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1158,
+        "name": "清水國民暨兒童運動中心3F-親子廁",
+        "coords": [
+            120.54982889,
+            24.27174091
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1159,
+        "name": "清水國民暨兒童運動中心3F-男廁",
+        "coords": [
+            24.27232689,
+            120.5501757
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1160,
+        "name": "太平國民暨兒童運動中心(淋浴間)1F-男廁",
+        "coords": [
+            24.14903823,
+            120.72825338
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1161,
+        "name": "太平國民暨兒童運動中心1F-男廁",
+        "coords": [
+            24.14883954,
+            120.72818374
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1162,
+        "name": "豐原國民暨兒童運動中心2F-女廁",
+        "coords": [
+            24.24842529,
+            120.7049978
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1163,
+        "name": "豐原國民暨兒童運動中心1F-無障礙",
+        "coords": [
+            24.24831387,
+            120.70502864
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1165,
+        "name": "臺中市立圖書館(總館) D棟3F後側-無障礙廁",
+        "coords": [
+            24.19277009,
+            120.65440276
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1166,
+        "name": "臺中市立圖書館(總館) D棟4F-親子廁",
+        "coords": [
+            24.19230503,
+            120.65413859
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1172,
+        "name": "豐原國民暨兒童運動中心(泳池A)1F-無障礙",
+        "coords": [
+            24.24816983,
+            120.70516309
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1173,
+        "name": "臺中市立圖書館(東勢許良宇圖書館)1F-親子廁",
+        "coords": [
+            24.25022863,
+            120.83476757
+        ],
+        "address": "臺中市東勢區泰昌里圓樓街88號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1174,
+        "name": "臺中市立圖書館(溪東分館)3F-女廁",
+        "coords": [
+            120.72213344,
+            24.16961867
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1175,
+        "name": "臺中市立圖書館(溪東分館)2F-男廁",
+        "coords": [
+            120.72213344,
+            24.16961867
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1176,
+        "name": "清水國民暨兒童運動中心3F-女廁",
+        "coords": [
+            120.54982889,
+            24.27174091
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1177,
+        "name": "清水國民暨兒童運動中心1F-女廁",
+        "coords": [
+            120.54982889,
+            24.27174091
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1178,
+        "name": "太平國民暨兒童運動中心4F-男廁",
+        "coords": [
+            24.14901405,
+            120.72833156
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1179,
+        "name": "太平國民暨兒童運動中心2F-親子廁",
+        "coords": [
+            24.14928507,
+            120.72834319
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1180,
+        "name": "太平國民暨兒童運動中心1F-女廁",
+        "coords": [
+            24.14884155,
+            120.7281843
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1181,
+        "name": "豐原國民暨兒童運動中心2F-無障礙",
+        "coords": [
+            24.24827559,
+            120.70489356
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1182,
+        "name": "豐原國民暨兒童運動中心(泳池)1F-女廁",
+        "coords": [
+            24.24826887,
+            120.70501106
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1184,
+        "name": "臺中市立圖書館(總館)汽車停車場 P1電梯 B1-無障礙廁",
+        "coords": [
+            24.19311857,
+            120.65458663
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1202,
+        "name": "臺中市立圖書館(東勢許良宇圖書館)1F-女廁",
+        "coords": [
+            24.2499699,
+            120.83490784
+        ],
+        "address": "臺中市東勢區泰昌里圓樓街88號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1203,
+        "name": "臺中市立圖書館(溪東分館)2F-無障礙廁所",
+        "coords": [
+            120.72213344,
+            24.16961867
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1204,
+        "name": "清水國民暨兒童運動中心(泳池)1F-無障礙廁",
+        "coords": [
+            120.54982889,
+            24.27174091
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1205,
+        "name": "太平國民暨兒童運動中心4F-無障礙廁",
+        "coords": [
+            24.14897838,
+            120.72830512
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1206,
+        "name": "太平國民暨兒童運動中心3F-女廁",
+        "coords": [
+            24.14894655,
+            120.72834419
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1207,
+        "name": "豐原國民暨兒童運動中心B2-女廁",
+        "coords": [
+            24.24808791,
+            120.70523269
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1208,
+        "name": "豐原國民暨兒童運動中心2F-男廁",
+        "coords": [
+            24.24833664,
+            120.7049012
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1214,
+        "name": "豐原國民暨兒童運動中心B2-無障礙",
+        "coords": [
+            24.24804417,
+            120.70526328
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1215,
+        "name": "臺中市立圖書館(溪東分館)3F-無障礙廁所",
+        "coords": [
+            24.1693215,
+            120.7222332
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1216,
+        "name": "清水國民暨兒童運動中心4F-親子廁",
+        "coords": [
+            120.54982889,
+            24.27174091
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1220,
+        "name": "臺中市立圖書館(東勢許良宇圖書館)3F-無障礙廁",
+        "coords": [
+            24.24983548,
+            120.8352233
+        ],
+        "address": "臺中市東勢區泰昌里圓樓街88號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1221,
+        "name": "臺中市立圖書館(東勢許良宇圖書館)2F-女廁",
+        "coords": [
+            24.24992233,
+            120.83509723
+        ],
+        "address": "臺中市東勢區泰昌里圓樓街88號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1222,
+        "name": "臺中市立圖書館(溪東分館)1F-無障礙廁所",
+        "coords": [
+            120.72213344,
+            24.16961867
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1223,
+        "name": "臺中市立圖書館(溪東分館)1F-男廁",
+        "coords": [
+            120.72213344,
+            24.16961867
+        ],
+        "address": "臺中市北屯區水景里軍福九路499號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1224,
+        "name": "清水國民暨兒童運動中心(泳池)1F-女廁",
+        "coords": [
+            120.54982889,
+            24.27174091
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1225,
+        "name": "清水國民暨兒童運動中心3F-無障礙廁",
+        "coords": [
+            24.27184409,
+            120.55025944
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1226,
+        "name": "太平國民暨兒童運動中心3F-親子廁",
+        "coords": [
+            24.14893308,
+            120.72834273
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1227,
+        "name": "太平國民暨兒童運動中心3F-無障礙廁所",
+        "coords": [
+            24.14894429,
+            120.72835022
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1228,
+        "name": "豐原國民暨兒童運動中心3F-女廁",
+        "coords": [
+            24.24785946,
+            120.70520462
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1229,
+        "name": "豐原國民暨兒童運動中心3F-男廁",
+        "coords": [
+            24.24807234,
+            120.70490238
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1230,
+        "name": "臺中市立圖書館(總館) G棟1F-男廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1231,
+        "name": "臺中市立圖書館(總館) D棟1F後側-性別友善廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1232,
+        "name": "臺中市立圖書館(總館) F棟3F-親子廁",
+        "coords": [
+            24.1926799,
+            120.65441552
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1233,
+        "name": "清水國民暨兒童運動中心1F-無障礙廁",
+        "coords": [
+            24.27185596,
+            120.55033236
+        ],
+        "address": "臺中市清水區中社里鎮政路358號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1234,
+        "name": "太平國民暨兒童運動中心2F-女廁",
+        "coords": [
+            24.14929082,
+            120.72835044
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1235,
+        "name": "太平國民暨兒童運動中心1F-無障礙廁",
+        "coords": [
+            24.14889586,
+            120.72820603
+        ],
+        "address": "臺中市太平區坪林里中山路二段433號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1236,
+        "name": "豐原國民暨兒童運動中心(泳池)1F-男廁",
+        "coords": [
+            24.24833371,
+            120.70498065
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1237,
+        "name": "豐原國民暨兒童運動中心1F-男廁",
+        "coords": [
+            24.24833561,
+            120.70488092
+        ],
+        "address": "臺中市豐原區社皮里豐裕路8號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1240,
+        "name": "臺中市立圖書館(總館) D棟2F前側-無障礙廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1249,
+        "name": "臺中市立圖書館(總館) D棟2F前側-性別友善廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1250,
+        "name": "臺中市立圖書館(總館) D棟3F前側-無障礙廁",
+        "coords": [
+            24.19272838,
+            120.65439901
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1253,
+        "name": "臺中市立圖書館(總館) F棟6F-女廁",
+        "coords": [
+            24.19271595,
+            120.65460078
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1278,
+        "name": "光田綜合醫院向上院區B棟(B0541)5F-無障礙廁",
+        "coords": [
+            24.20573328,
+            120.56385554
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1279,
+        "name": "光田綜合醫院向上院區B棟(B0221)2F-女廁",
+        "coords": [
+            24.20582626,
+            120.56388507
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1281,
+        "name": "臺中市立圖書館(總館)汽車停車場 P1電梯 B1-男廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1282,
+        "name": "臺中市立圖書館(總館) D棟1F-無障礙廁",
+        "coords": [
+            24.19287204,
+            120.65510258
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1284,
+        "name": "臺中市立圖書館(總館) F棟5F-男廁",
+        "coords": [
+            24.19272266,
+            120.65443476
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1312,
+        "name": "光田綜合醫院向上院區B棟(B0341)3F-無障礙廁",
+        "coords": [
+            24.20565653,
+            120.56376788
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1313,
+        "name": "臺中市立圖書館(總館) F棟6F-無障礙廁",
+        "coords": [
+            24.1926999,
+            120.65472918
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1314,
+        "name": "臺中市立圖書館(總館) F棟6F-男廁",
+        "coords": [
+            24.19272014,
+            120.65467542
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1343,
+        "name": "光田綜合醫院向上院區B棟(B0311)3F-男廁",
+        "coords": [
+            24.20571147,
+            120.56377892
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1344,
+        "name": "光田綜合醫院向上院區B棟(B0251)2F-親子廁",
+        "coords": [
+            24.20580338,
+            120.56380256
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1347,
+        "name": "臺中市立圖書館(總館) F棟7F-無障礙廁",
+        "coords": [
+            24.19270089,
+            120.65473513
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1348,
+        "name": "臺中市立圖書館(總館) F棟7F-男廁",
+        "coords": [
+            24.19269919,
+            120.6547154
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1355,
+        "name": "臺中市立圖書館(總館) F棟7F-女廁",
+        "coords": [
+            24.19270099,
+            120.65475575
+        ],
+        "address": "臺中市西屯區港尾里中科路2201號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1390,
+        "name": "光田綜合醫院向上院區A棟(A0321)3F-女廁",
+        "coords": [
+            24.20631354,
+            120.56336818
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1391,
+        "name": "光田綜合醫院向上院區A棟(A0331 )3F-性別友善廁",
+        "coords": [
+            24.20641567,
+            120.56342458
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1392,
+        "name": "大甲區清潔隊員工休息室-混合廁所",
+        "coords": [
+            24.3407306,
+            120.632277
+        ],
+        "address": "臺中市大甲區中山里甲東路500號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1401,
+        "name": "光田綜合醫院向上院區B棟(B0631)6F-性別友善廁",
+        "coords": [
+            24.20602684,
+            120.56418849
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1402,
+        "name": "光田綜合醫院向上院區B棟(B0521)5F-女廁",
+        "coords": [
+            24.20573553,
+            120.5638657
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1403,
+        "name": "光田綜合醫院向上院區B棟(B0211)2F-男廁",
+        "coords": [
+            24.20582576,
+            120.56386266
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1404,
+        "name": "光田綜合醫院向上院區B棟(B0121)1F-女廁",
+        "coords": [
+            24.20585562,
+            120.56399684
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1405,
+        "name": "光田綜合醫院向上院區B棟(Bb121)B1F-女廁",
+        "coords": [
+            24.20661836,
+            120.56330292
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1406,
+        "name": "光田綜合醫院向上院區A棟(A0141)1F-無障礙廁",
+        "coords": [
+            24.20640028,
+            120.56347263
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1407,
+        "name": "光田綜合醫院向上院區A棟(Ab112)B1-男廁",
+        "coords": [
+            24.20649891,
+            120.5633725
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1408,
+        "name": "光田綜合醫院向上院區A棟(Ab141)B1-無障礙廁所",
+        "coords": [
+            24.20687288,
+            120.56297168
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1409,
+        "name": "沙鹿區清潔隊廚餘回收場-性別友善廁所",
+        "coords": [
+            24.23665396,
+            120.58610911
+        ],
+        "address": "臺中市沙鹿區竹林里中山路24-51號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1410,
+        "name": "沙鹿區清潔隊辦公室後方-性別友善廁所",
+        "coords": [
+            24.23200044,
+            120.56533134
+        ],
+        "address": "臺中市沙鹿區美仁里鎮南路二段451號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1411,
+        "name": "大雅區清潔隊-女廁",
+        "coords": [
+            24.21986016,
+            120.60318935
+        ],
+        "address": "臺中市大雅區橫山村通山路65號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1415,
+        "name": "光田綜合醫院向上院區A棟(A0311)3F-男廁",
+        "coords": [
+            24.20632689,
+            120.56337676
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1416,
+        "name": "光田綜合醫院向上院區A棟(A0211 )2F-男廁",
+        "coords": [
+            24.2068861,
+            120.56294574
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1417,
+        "name": "光田綜合醫院向上院區A棟(Ab121)B1-女廁",
+        "coords": [
+            24.20688069,
+            120.56298448
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1418,
+        "name": "大甲區清潔隊辦公室-混合廁所",
+        "coords": [
+            24.3407306,
+            120.632277
+        ],
+        "address": "臺中市大甲區中山里甲東路500號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1419,
+        "name": "沙鹿區清潔隊辦公室-混合廁所",
+        "coords": [
+            24.23200044,
+            120.56533134
+        ],
+        "address": "臺中市沙鹿區美仁里鎮南路二段451號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1423,
+        "name": "光田綜合醫院沙鹿院區沙鹿(S0211)2F-男廁",
+        "coords": [
+            24.23568379,
+            120.55853764
+        ],
+        "address": "臺中市沙鹿區興安里沙田路117號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1424,
+        "name": "光田綜合醫院大甲院區大甲(J0131)1F-性別友善廁",
+        "coords": [
+            24.34670796,
+            120.61675542
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1428,
+        "name": "MITSUI OUTLET PARK 台中港(二期)1F-男廁",
+        "coords": [
+            24.25785995,
+            120.5206125
+        ],
+        "address": "臺中市梧棲區安仁里臺灣大道十段１６８號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司臺中港務分公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1432,
+        "name": "光田綜合醫院沙鹿院區二醫(T0131)1F-親子廁",
+        "coords": [
+            24.23568379,
+            120.55853764
+        ],
+        "address": "臺中市沙鹿區興安里沙田路117號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1433,
+        "name": "光田綜合醫院大甲院區新棟(N0421)5AF-女廁",
+        "coords": [
+            24.34717693,
+            120.61658688
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1434,
+        "name": "光田綜合醫院大甲院區大甲(J0231)2F-性別友善廁",
+        "coords": [
+            24.34660516,
+            120.61672106
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1435,
+        "name": "光田綜合醫院大甲院區大甲(J0122)1F-女廁",
+        "coords": [
+            24.34674173,
+            120.61677216
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1445,
+        "name": "光田綜合醫院向上院區B棟(B0511)5F-男廁",
+        "coords": [
+            24.20570858,
+            120.56386999
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1446,
+        "name": "光田綜合醫院向上院區B棟(B0141)1F-無障礙廁",
+        "coords": [
+            24.2058791,
+            120.5639996
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1448,
+        "name": "光田綜合醫院向上院區A棟(A0241)2F-無障礙廁",
+        "coords": [
+            24.20631364,
+            120.56335257
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1449,
+        "name": "光田綜合醫院向上院區B棟(Bb111)B1F-男廁",
+        "coords": [
+            24.20675534,
+            120.56305251
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1450,
+        "name": "光田綜合醫院向上院區B棟(Bb141)B1F-無障礙",
+        "coords": [
+            24.20694301,
+            120.56299211
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1451,
+        "name": "石岡區清潔隊辦公室-女廁",
+        "coords": [
+            24.27451,
+            120.78047
+        ],
+        "address": "臺中市石岡區九房村明德路20號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1452,
+        "name": "龍井區清潔隊-男廁",
+        "coords": [
+            24.192243,
+            120.54088
+        ],
+        "address": "臺中市龍井區田中村中華路一段陸橋南巷1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1453,
+        "name": "沙鹿區清潔隊員工休息室-混合廁所",
+        "coords": [
+            24.23200044,
+            120.56533134
+        ],
+        "address": "臺中市沙鹿區美仁里鎮南路二段451號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1456,
+        "name": "光田綜合醫院大甲院區新棟(N0451)5AF-親子廁",
+        "coords": [
+            24.34715763,
+            120.61649622
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1457,
+        "name": "光田綜合醫院大甲院區新棟(N0211)2F-男廁",
+        "coords": [
+            24.34718383,
+            120.6165704
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1461,
+        "name": "MITSUI OUTLET PARK 台中港(二期)1F-無障礙",
+        "coords": [
+            24.25786484,
+            120.5205964
+        ],
+        "address": "臺中市梧棲區安仁里臺灣大道十段１６８號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司臺中港務分公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1462,
+        "name": "光田綜合醫院向上院區B棟(B0321)3F-女廁",
+        "coords": [
+            24.20584964,
+            120.56394137
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1463,
+        "name": "光田綜合醫院向上院區A棟(A0731)7F-性別友善廁",
+        "coords": [
+            24.20658207,
+            120.56310199
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1464,
+        "name": "光田綜合醫院向上院區A棟(A0332)3F-性別友善廁",
+        "coords": [
+            24.20671892,
+            120.56302217
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1465,
+        "name": "光田綜合醫院向上院區A棟(A0121)1F-女廁",
+        "coords": [
+            24.20640935,
+            120.56346722
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1466,
+        "name": "光田綜合醫院向上院區A棟(Ab122)B1-女廁",
+        "coords": [
+            24.20643943,
+            120.56344674
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1467,
+        "name": "石岡區清潔隊辦公室-男廁",
+        "coords": [
+            24.27451,
+            120.78047
+        ],
+        "address": "臺中市石岡區九房村明德路20號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1468,
+        "name": "大里區清潔隊員工休息區A區-混合廁所",
+        "coords": [
+            24.080652,
+            120.721049
+        ],
+        "address": "臺中市大里區塗城里健東路181號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1470,
+        "name": "大雅區清潔隊地磅室-混合廁所",
+        "coords": [
+            24.21986016,
+            120.60318935
+        ],
+        "address": "臺中市大雅區橫山村通山路65號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1475,
+        "name": "光田綜合醫院大甲院區新棟(N0411)5AF-男廁",
+        "coords": [
+            24.34715497,
+            120.61656178
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1476,
+        "name": "光田綜合醫院大甲院區新棟(N0311)3F-男廁",
+        "coords": [
+            24.34721766,
+            120.61655684
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1477,
+        "name": "光田綜合醫院大甲院區新棟(N0221)2F-女廁",
+        "coords": [
+            24.34714495,
+            120.61657027
+        ],
+        "address": "臺中市大甲區庄美里經國路321號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1492,
+        "name": "光田綜合醫院向上院區A棟(A0212)2F-男廁",
+        "coords": [
+            24.20631363,
+            120.56335245
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1493,
+        "name": "光田綜合醫院向上院區A棟(A0733)7F-性別友善廁",
+        "coords": [
+            24.20679437,
+            120.56270673
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1494,
+        "name": "光田綜合醫院向上院區A棟(A0732)7F-性別友善廁",
+        "coords": [
+            24.20658116,
+            120.56292049
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1495,
+        "name": "光田綜合醫院向上院區A棟(A0341)3F-無障礙廁",
+        "coords": [
+            24.20626465,
+            120.56331184
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1496,
+        "name": "光田綜合醫院向上院區A棟(A0111 )1F -男廁",
+        "coords": [
+            24.20642324,
+            120.563485
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1497,
+        "name": "光田綜合醫院向上院區A棟(Ab143)B1-無障礙廁",
+        "coords": [
+            24.20663197,
+            120.56322816
+        ],
+        "address": "臺中市沙鹿區三鹿里向上路七段127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 光田醫療社團法人光田綜合醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1498,
+        "name": "大里區清潔隊員工休息區C區-混合廁所",
+        "coords": [
+            24.080652,
+            120.721049
+        ],
+        "address": "臺中市大里區塗城里健東路181號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1499,
+        "name": "大里區清潔隊員工休息區B區-混合廁所",
+        "coords": [
+            24.080652,
+            120.721049
+        ],
+        "address": "臺中市大里區塗城里健東路181號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    }
+]

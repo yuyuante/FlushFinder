@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1134,
+        "name": "東勢鄉公所2F-男廁",
+        "coords": [
+            23.67506719,
+            120.2526123
+        ],
+        "address": "雲林縣東勢鄉東南村所前街3號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東勢鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1135,
+        "name": "東勢鄉公所1F-女廁",
+        "coords": [
+            23.67506925,
+            120.25261004
+        ],
+        "address": "雲林縣東勢鄉東南村所前街3號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東勢鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1164,
+        "name": "東勢鄉公所2F-女廁",
+        "coords": [
+            23.67505996,
+            120.25261004
+        ],
+        "address": "雲林縣東勢鄉東南村所前街3號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東勢鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1183,
+        "name": "東勢鄉公所2F-無障礙廁",
+        "coords": [
+            23.67506615,
+            120.25261343
+        ],
+        "address": "雲林縣東勢鄉東南村所前街3號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東勢鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1238,
+        "name": "東勢鄉公所1F-無障礙廁",
+        "coords": [
+            23.67506305,
+            120.25261343
+        ],
+        "address": "雲林縣東勢鄉東南村所前街3號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東勢鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1239,
+        "name": "東勢鄉公所1F-男廁",
+        "coords": [
+            23.67506168,
+            120.25261042
+        ],
+        "address": "雲林縣東勢鄉東南村所前街3號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東勢鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1272,
+        "name": "崙背鄉立圖書館-1F男廁",
+        "coords": [
+            23.7617357,
+            120.3593156
+        ],
+        "address": "雲林縣崙背鄉東明村行政街2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 崙背鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1295,
+        "name": "崙背鄉立圖書館-1F無障礙廁",
+        "coords": [
+            23.76179711,
+            120.35938134
+        ],
+        "address": "雲林縣崙背鄉東明村行政街2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 崙背鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1304,
+        "name": "崙背鄉立圖書館-2F女廁",
+        "coords": [
+            23.7618204,
+            120.3594216
+        ],
+        "address": "雲林縣崙背鄉東明村行政街2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 崙背鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1305,
+        "name": "崙背鄉立圖書館-2F男廁",
+        "coords": [
+            23.7618511,
+            120.3594417
+        ],
+        "address": "雲林縣崙背鄉東明村行政街2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 崙背鄉公所。公廁類別: 未設定。公廁評級: 特優級。"
+    },
+    {
+        "id": 1335,
+        "name": "崙背鄉立圖書館-2F無障礙廁",
+        "coords": [
+            23.76188549,
+            120.35943498
+        ],
+        "address": "雲林縣崙背鄉東明村行政街2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 崙背鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1375,
+        "name": "北港文化中心-1F無障礙廁",
+        "coords": [
+            23.57837707,
+            120.30178603
+        ],
+        "address": "雲林縣北港鎮新街里公園路",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 雲林縣文觀處展覽藝術科。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1376,
+        "name": "北港文化中心-1F男廁",
+        "coords": [
+            23.57833535,
+            120.30169499
+        ],
+        "address": "雲林縣北港鎮新街里公園路",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 雲林縣文觀處。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1381,
+        "name": "崙背鄉立圖書館-1F女廁",
+        "coords": [
+            23.7617382,
+            120.35934915
+        ],
+        "address": "雲林縣崙背鄉東明村行政街2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 崙背鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1489,
+        "name": "北港文化中心-1F女廁",
+        "coords": [
+            23.57829363,
+            120.30172534
+        ],
+        "address": "雲林縣北港鎮新街里公園路",
+        "type": "文化育樂活動場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 雲林縣文觀處展覽藝術科。公廁類別: 女廁所。公廁評級: 不合格。"
+    }
+]

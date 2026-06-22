@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1156,
+        "name": "全家超商五結公園店-混合廁所",
+        "coords": [
+            24.67319744,
+            121.80287118
+        ],
+        "address": "宜蘭縣五結鄉孝威村親河路二段289號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 全家五結公園店。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1246,
+        "name": "冬山公有零售市場2F-女廁",
+        "coords": [
+            24.63798335,
+            121.78929885
+        ],
+        "address": "宜蘭縣冬山鄉冬山村冬山路",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1247,
+        "name": "冬山公有零售市場2F-男廁",
+        "coords": [
+            24.63688002,
+            121.79026991
+        ],
+        "address": "宜蘭縣冬山鄉冬山村冬山路",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1327,
+        "name": "冬山公有零售市場1F-無障礙廁所",
+        "coords": [
+            24.63754202,
+            121.78990576
+        ],
+        "address": "宜蘭縣冬山鄉冬山村冬山路",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1351,
+        "name": "冬山公有零售市場3F-女廁",
+        "coords": [
+            24.63517969,
+            121.789884
+        ],
+        "address": "宜蘭縣冬山鄉冬山村冬山路",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1359,
+        "name": "冬山公有零售市場3F-親子廁所",
+        "coords": [
+            24.63518944,
+            121.78989473
+        ],
+        "address": "宜蘭縣冬山鄉冬山村冬山路",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1360,
+        "name": "冬山公有零售市場3F-男廁",
+        "coords": [
+            24.63514068,
+            121.789884
+        ],
+        "address": "宜蘭縣冬山鄉冬山村冬山路",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    }
+]
