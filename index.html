@@ -19,7 +19,7 @@
     <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest"></script>
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="style.css?v=28">
+    <link rel="stylesheet" href="style.css?v=29">
 </head>
 <body>
     <div class="app-container">
@@ -103,7 +103,7 @@
                         <select id="source-select" style="width: 100%; padding: 8px; border-radius: 8px; border: 1px solid var(--border); background-color: var(--bg-primary); color: var(--text-primary); font-size: 12px; outline: none; cursor:pointer;">
                             <option value="osm" data-i18n="source_osm">OpenStreetMap (全球即時免金鑰)</option>
                             <option value="moenv" data-i18n="source_moenv">環境部 Open Data (已配置雲端金鑰)</option>
-                            <option value="local" data-i18n="source_local">本地離線資料 (台北大安區)</option>
+                            <option value="local" data-i18n="source_local">本地分區離線資料</option>
                         </select>
                     </div>
 
@@ -141,7 +141,7 @@
                     </div>
 
                     <div style="margin-top: 8px; display: flex; align-items: center; justify-content: space-between; font-size: 11px; color: var(--text-secondary);">
-                        <span id="app-version-label" data-i18n="app_version">App 版本: v27 (支援尼泊爾文)</span>
+                        <span id="app-version-label" data-i18n="app_version">App 版本: v29 (支援分區離線備援)</span>
                         <button id="clear-cache-btn" style="background: none; border: none; color: var(--primary); text-decoration: underline; cursor: pointer; font-size: 11px; padding: 0;" data-i18n="force_clear_cache">強制更新快取</button>
                     </div>
                 </div>
@@ -183,6 +183,6 @@
     <!-- Leaflet.js JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <!-- Custom JS -->
-    <script src="app.js?v=28"></script>
+    <script src="app.js?v=29"></script>
 </body>
 </html>
