@@ -462,33 +462,56 @@ function t(key, variables = {}) {
 }
 
 function getInitialLanguage() {
+    const isManual = localStorage.getItem("flush_finder_lang_manual") === "true";
     const savedLang = localStorage.getItem("flush_finder_lang");
-    if (savedLang && TRANSLATIONS[savedLang]) {
+    if (isManual && savedLang && TRANSLATIONS[savedLang]) {
         return savedLang;
     }
-    const systemLang = navigator.language || navigator.userLanguage || "en";
-    const primaryCode = systemLang.split('-')[0];
-    
-    // Map system language to supported list
-    if (systemLang.startsWith("zh")) {
-        return "zh-TW";
+
+    // Gather all candidate language codes from system preferences
+    let candidates = [];
+    if (navigator.languages && navigator.languages.length > 0) {
+        candidates = [...navigator.languages];
+    } else {
+        const singleLang = navigator.language || navigator.userLanguage;
+        if (singleLang) {
+            candidates.push(singleLang);
+        }
     }
-    if (primaryCode === "ja") {
-        return "ja";
+
+    // Find the first system language that starts with our supported language codes
+    for (let systemLang of candidates) {
+        if (!systemLang) continue;
+        const normalized = systemLang.toLowerCase();
+        
+        if (normalized.startsWith("zh")) {
+            return "zh-TW";
+        }
+        if (normalized.startsWith("ja")) {
+            return "ja";
+        }
+        if (normalized.startsWith("sv")) {
+            return "sv";
+        }
+        if (normalized.startsWith("ne")) {
+            return "ne";
+        }
+        if (normalized.startsWith("en")) {
+            return "en";
+        }
     }
-    if (primaryCode === "sv") {
-        return "sv";
-    }
-    if (primaryCode === "ne") {
-        return "ne";
-    }
+
     return "en"; // Default fallback
 }
 
-function applyLanguage(lang) {
+function applyLanguage(lang, isManual = false) {
     if (!TRANSLATIONS[lang]) lang = "en";
     currentLang = lang;
-    localStorage.setItem("flush_finder_lang", lang);
+    
+    if (isManual) {
+        localStorage.setItem("flush_finder_lang", lang);
+        localStorage.setItem("flush_finder_lang_manual", "true");
+    }
     
     // Update HTML page title and lang attribute
     document.title = t("app_title");
@@ -554,7 +577,7 @@ function getCurrentSourceLabelKey() {
 function initLanguage() {
     const lang = getInitialLanguage();
     currentSourceLabelKey = getCurrentSourceLabelKey();
-    applyLanguage(lang);
+    applyLanguage(lang, false);
 }
 // ================================================================================
 
@@ -1446,7 +1469,7 @@ function setupEventListeners() {
     if (langSelect) {
         langSelect.value = currentLang;
         langSelect.addEventListener("change", (e) => {
-            applyLanguage(e.target.value);
+            applyLanguage(e.target.value, true);
         });
     }
 
