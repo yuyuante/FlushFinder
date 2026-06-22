@@ -1,0 +1,41 @@
+name: Update Public Toilets Data
+
+on:
+  schedule:
+    # Run every Sunday at 18:00 UTC (Monday 02:00 AM Taiwan time)
+    - cron: '0 18 * * 0'
+  workflow_dispatch:
+    # Allows manual triggering from GitHub UI
+
+jobs:
+  update-database:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Run County Compiler
+        env:
+          MOENV_API_KEY: ${{ secrets.MOENV_API_KEY }}
+        run: node scripts/compile_counties.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if git diff --staged --quiet; then
+            echo "No database changes detected."
+          else
+            git commit -m "chore(data): auto-update 22 county public toilet JSON databases"
+            git push
+          fi

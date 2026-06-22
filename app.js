@@ -25,7 +25,7 @@ const TRANSLATIONS = {
         "settings_source_desc": "選擇要載入的廁所資料來源：",
         "source_osm": "OpenStreetMap (全球即時免金鑰)",
         "source_moenv": "環境部 Open Data (已配置雲端金鑰)",
-        "source_local": "本地分區離線資料",
+        "source_local": "台灣環境部公廁與商家資料 (支援離線)",
         "settings_lang_desc": "選擇介面語言 (Language)：",
         "settings_font_desc": "設定介面與地圖字體大小：",
         "font_sm": "小 (Small)",
@@ -40,7 +40,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v30 (支援分區離線備援)",
+        "app_version": "App 版本: v31 (支援全台離線資料自動更新)",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -72,7 +72,7 @@ const TRANSLATIONS = {
         "clear_cache_confirm": "是否要強制清除快取並重新載入應用程式？",
         "data_fallback_msg": "無法自環境部 API 讀取資料，嘗試切換為本地離線資料：",
         "data_fallback_alert": "載入環境部資料失敗！\n\n原因：{reason}\n\n系統已為您自動切換為「本地離線資料」。",
-        "osm_failed_alert": "載入 OpenStreetMap 資料失敗，系統正自動切換為第二順位「環境部 Open Data」。\n\n詳細原因：{reason}",
+        "osm_failed_alert": "載入 OpenStreetMap 資料失敗，系統已自動切換至「台灣環境部公廁與商家資料」。\n\n詳細原因：{reason}",
         "osm_fallback_local_alert": "載入 OpenStreetMap 與環境部資料皆失敗，已為您自動切換為本地離線資料。\n\n詳細原因：{reason}",
         "osm_planning_route": "正在規劃路徑...",
         "osm_actual_route": "實際路程 <strong>{dist}</strong> ({time})",
@@ -84,7 +84,7 @@ const TRANSLATIONS = {
         "source_label_moenv_custom": "環境部 Open Data (自訂金鑰)",
         "source_label_moenv_cloud": "環境部 Open Data (雲端金鑰)",
         "source_label_local_fallback": "本地離線資料 (備援)",
-        "source_label_local": "本地離線資料",
+        "source_label_local": "台灣環境部公廁與商家資料",
         
         "tag_accessible": "無障礙",
         "tag_baby": "親子",
@@ -114,7 +114,7 @@ const TRANSLATIONS = {
         "settings_source_desc": "Select database source:",
         "source_osm": "OpenStreetMap (Global, Live, Free)",
         "source_moenv": "MOENV Open Data (Cloud Key Configured)",
-        "source_local": "Local Offline Data",
+        "source_local": "MOENV Toilets & Local Stores (Offline Capable)",
         "settings_lang_desc": "Select Language:",
         "settings_font_desc": "Set UI & Map Font Size:",
         "font_sm": "Small",
@@ -129,7 +129,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v30 (Regional offline fallback)",
+        "app_version": "App Version: v31 (Full Taiwan offline auto-updates)",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -161,7 +161,7 @@ const TRANSLATIONS = {
         "clear_cache_confirm": "Force clear cache and reload application?",
         "data_fallback_msg": "Failed to read MOENV API data, falling back to local database:",
         "data_fallback_alert": "Failed to load MOENV data!\n\nReason: {reason}\n\nAutomatically switched to offline local data.",
-        "osm_failed_alert": "Failed to load OSM data! Switching to MOENV Open Data.\n\nDetail: {reason}",
+        "osm_failed_alert": "Failed to load OpenStreetMap data. Switched to 'MOENV Toilets & Local Stores' automatically.\n\nDetail: {reason}",
         "osm_fallback_local_alert": "Failed to load OSM and MOENV data. Automatically switched to offline local data.\n\nDetail: {reason}",
         "osm_planning_route": "Planning route...",
         "osm_actual_route": "Route: <strong>{dist}</strong> ({time})",
@@ -173,7 +173,7 @@ const TRANSLATIONS = {
         "source_label_moenv_custom": "MOENV Open Data (Custom Key)",
         "source_label_moenv_cloud": "MOENV Open Data (Cloud Key)",
         "source_label_local_fallback": "Local Offline Data (Fallback)",
-        "source_label_local": "Local Offline Data",
+        "source_label_local": "MOENV Toilets & Local Stores",
         
         "tag_accessible": "Accessible",
         "tag_baby": "Baby",
@@ -203,7 +203,7 @@ const TRANSLATIONS = {
         "settings_source_desc": "ロードするデータソースを選択：",
         "source_osm": "OpenStreetMap (グローバル/リアルタイム)",
         "source_moenv": "環境部 Open Data (クラウドキー設定済)",
-        "source_local": "ローカルオフラインデータ",
+        "source_local": "環境部公衆トイレ＆店舗データ (オフライン対応)",
         "settings_lang_desc": "言語を選択 (Language)：",
         "settings_font_desc": "文字サイズの設定 (UI & 地図)：",
         "font_sm": "小",
@@ -218,7 +218,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v30 (オフライン地域バックアップ対応)",
+        "app_version": "アプリバージョン: v31 (全台湾オフライン自動更新対応)",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -250,7 +250,7 @@ const TRANSLATIONS = {
         "clear_cache_confirm": "キャッシュを強制クリアしてアプリを再起動しますか？",
         "data_fallback_msg": "環境部APIデータの読み込みに失敗しました。ローカルデータに切り替えます:",
         "data_fallback_alert": "環境部データの取得に失敗しました！\n\n理由: {reason}\n\nオフラインローカルデータに自動的に切り替えました。",
-        "osm_failed_alert": "OSMデータの取得に失敗しました！環境部データに切り替えます。\n\n詳細: {reason}",
+        "osm_failed_alert": "OpenStreetMapデータの取得に失敗しました。「環境部公衆トイレ＆店舗データ」に自動的に切り替えました。\n\n詳細: {reason}",
         "osm_fallback_local_alert": "OSMおよび環境部データの取得に失敗しました。オフラインローカルデータに自動的に切り替えました。\n\n詳細: {reason}",
         "osm_planning_route": "経路を計算中...",
         "osm_actual_route": "実際ルート: <strong>{dist}</strong> ({time})",
@@ -262,7 +262,7 @@ const TRANSLATIONS = {
         "source_label_moenv_custom": "環境部 Open Data (カスタムキー)",
         "source_label_moenv_cloud": "環境部 Open Data (クラウドキー)",
         "source_label_local_fallback": "ローカルオフラインデータ (代替)",
-        "source_label_local": "ローカルオフラインデータ",
+        "source_label_local": "環境部公衆トイレ＆店舗データ",
         
         "tag_accessible": "多目的",
         "tag_baby": "ベビー",
@@ -292,7 +292,7 @@ const TRANSLATIONS = {
         "settings_source_desc": "Välj datakälla som ska laddas:",
         "source_osm": "OpenStreetMap (Global, Live, Gratis)",
         "source_moenv": "MOENV Open Data (Molnnyckel konfigurerad)",
-        "source_local": "Lokal offline-data",
+        "source_local": "MOENV-toaletter & butiker (offline-kapabel)",
         "settings_lang_desc": "Välj språk (Language):",
         "settings_font_desc": "Teckenstorlek för gränssnitt & karta:",
         "font_sm": "Liten",
@@ -307,7 +307,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v30 (regional offline-fallback)",
+        "app_version": "App-version: v31 (full offline-autouppdatering)",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -339,7 +339,7 @@ const TRANSLATIONS = {
         "clear_cache_confirm": "Vill du rensa cacheminnet och starta om appen?",
         "data_fallback_msg": "Misslyckades att hämta MOENV-data, återgår till offline-databasen:",
         "data_fallback_alert": "Misslyckades att hämta MOENV-data!\n\nOrsak: {reason}\n\nÄndrade automatiskt till offline-data.",
-        "osm_failed_alert": "Misslyckades att hämta OSM-data! Byter till MOENV Open Data.\n\nDetaljer: {reason}",
+        "osm_failed_alert": "Misslyckades att hämta OpenStreetMap-data. Ändrade automatiskt till 'MOENV-toaletter & butiker'.\n\nDetaljer: {reason}",
         "osm_fallback_local_alert": "Misslyckades att hämta OSM- och MOENV-data. Ändrade automatiskt till offline-data.\n\nDetaljer: {reason}",
         "osm_planning_route": "Planerar rutt...",
         "osm_actual_route": "Rutt: <strong>{dist}</strong> ({time})",
@@ -351,7 +351,7 @@ const TRANSLATIONS = {
         "source_label_moenv_custom": "MOENV Open Data (Egen nyckel)",
         "source_label_moenv_cloud": "MOENV Open Data (Molnnyckel)",
         "source_label_local_fallback": "Lokal offline-data (Reserv)",
-        "source_label_local": "Lokal offline-data",
+        "source_label_local": "MOENV-toaletter & butiker",
         
         "tag_accessible": "Tillgänglig",
         "tag_baby": "Barn",
@@ -381,7 +381,7 @@ const TRANSLATIONS = {
         "settings_source_desc": "लोड गर्न डाटा स्रोत चयन गर्नुहोस्:",
         "source_osm": "OpenStreetMap (विश्वव्यापी, प्रत्यक्ष, निःशुल्क)",
         "source_moenv": "MOENV खुला डाटा (क्लाउड कुञ्जी कन्फिगर गरिएको)",
-        "source_local": "स्थानीय अफलाइन डाटा",
+        "source_local": "MOENV शौचालय र पसलहरू (अफलाइन सक्षम)",
         "settings_lang_desc": "भाषा चयन गर्नुहोस् (Language):",
         "settings_font_desc": "इन्टरफेस र नक्सा फन्ट साइज:",
         "font_sm": "सानो",
@@ -396,7 +396,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v30 (क्षेत्रीय अफलाइन ब्याकअप)",
+        "app_version": "एप संस्करण: v31 (ताइवान अफलाइन स्वचालित अपडेट)",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
@@ -428,7 +428,7 @@ const TRANSLATIONS = {
         "clear_cache_confirm": "क्यास खाली गर्न र एप पुन: लोड गर्न चाहनुहुन्छ?",
         "data_fallback_msg": "MOENV API डाटा लोड गर्न असफल भयो, स्थानीय डाटाबेसमा फर्कदैछ:",
         "data_fallback_alert": "MOENV डाटा लोड गर्न असफल भयो!\n\nकारण: {reason}\n\nस्थानीय अफलाइन डाटामा स्वचालित रूपमा स्विच भयो।",
-        "osm_failed_alert": "OSM डाटा लोड गर्न असफल भयो! MOENV खुला डाटामा स्विच गर्दै।\n\nविवरण: {reason}",
+        "osm_failed_alert": "OpenStreetMap डाटा लोड गर्न असफल भयो। 'MOENV शौचालय र पसलहरू' मा स्वचालित रूपमा स्विच गरियो।\n\nविवरण: {reason}",
         "osm_fallback_local_alert": "OSM र MOENV डाटा लोड गर्न असफल भयो। स्थानीय अफलाइन डाटामा स्वचालित रूपमा स्विच भयो।\n\nविवरण: {reason}",
         "osm_planning_route": "मार्ग योजना गर्दै...",
         "osm_actual_route": "वास्तविक मार्ग: <strong>{dist}</strong> ({time})",
@@ -440,7 +440,7 @@ const TRANSLATIONS = {
         "source_label_moenv_custom": "MOENV खुला डाटा (अनुकूल कुञ्जी)",
         "source_label_moenv_cloud": "MOENV खुला डाटा (क्लाउड कुञ्जी)",
         "source_label_local_fallback": "स्थानीय अफलाइन डाटा (ब्याकअप)",
-        "source_label_local": "स्थानीय अफलाइन डाटा",
+        "source_label_local": "MOENV शौचालय र पसलहरू",
         
         "tag_accessible": "पहुँचयोग्य",
         "tag_baby": "शिशु",
@@ -1503,14 +1503,14 @@ function setupEventListeners() {
 
     // 6. Source Selection Change
     const sourceSelect = document.getElementById("source-select");
-    const apiKeyContainer = document.getElementById("api-key-container");
     
-    // Initial UI state setup based on saved source and API Key
-    const savedSource = localStorage.getItem("flush_finder_source") || "osm";
-    if (sourceSelect) sourceSelect.value = savedSource;
-    if (apiKeyContainer) {
-        apiKeyContainer.style.display = savedSource === "moenv" ? "block" : "none";
+    // Initial UI state setup based on saved source
+    let savedSource = localStorage.getItem("flush_finder_source") || "osm";
+    if (savedSource === "moenv") {
+        savedSource = "local";
+        localStorage.setItem("flush_finder_source", "local");
     }
+    if (sourceSelect) sourceSelect.value = savedSource;
 
     // Language Selection Setup
     const langSelect = document.getElementById("lang-select");
@@ -1532,21 +1532,16 @@ function setupEventListeners() {
             applyFontSize(selectedSize);
         });
     }
-    
-    // Pre-populate the API Key input unconditionally on page load so it is never blank in settings
-    const apiKeyInput = document.getElementById("api-key-input");
-    const savedKey = localStorage.getItem("moenv_api_key");
-    if (apiKeyInput && savedKey) {
-        apiKeyInput.value = savedKey;
-    }
 
     if (sourceSelect) {
         sourceSelect.addEventListener("change", async (e) => {
-            const selectedValue = e.target.value;
-            localStorage.setItem("flush_finder_source", selectedValue);
-            
-            if (apiKeyContainer) {
-                apiKeyContainer.style.display = selectedValue === "moenv" ? "block" : "none";
+            let selectedValue = e.target.value;
+            if (selectedValue === "moenv") {
+                selectedValue = "local";
+                localStorage.setItem("flush_finder_source", "local");
+                if (sourceSelect) sourceSelect.value = "local";
+            } else {
+                localStorage.setItem("flush_finder_source", selectedValue);
             }
             
             // Reload toilets data and refresh map / list
@@ -1558,37 +1553,6 @@ function setupEventListeners() {
                 <div class="loading-state">
                     <div class="spinner"></div>
                     <p data-i18n="switching_source">${t("switching_source")}</p>
-                </div>
-            `;
-            
-            await loadToiletsData();
-            renderToiletMarkers();
-            calculateAndDisplayToilets();
-            selectNearestToilet();
-        });
-    }
-
-    // 7. Save API Key Button
-    const saveKeyBtn = document.getElementById("save-key-btn");
-    if (saveKeyBtn) {
-        saveKeyBtn.addEventListener("click", async () => {
-            const keyInput = document.getElementById("api-key-input");
-            const newKey = keyInput ? keyInput.value.trim() : "";
-            
-            if (newKey) {
-                localStorage.setItem("moenv_api_key", newKey);
-                alert(t("save_key_success"));
-            } else {
-                localStorage.removeItem("moenv_api_key");
-                alert(t("clear_key_success"));
-            }
-            
-            // Reload toilets data and refresh map / list
-            const resultsList = document.getElementById("results-list");
-            resultsList.innerHTML = `
-                <div class="loading-state">
-                    <div class="spinner"></div>
-                    <p data-i18n="loading_new_data">${t("loading_new_data")}</p>
                 </div>
             `;
             
@@ -1712,136 +1676,24 @@ async function fetchOverpassData(query) {
 
 // Load toilets data helper (API Proxy or local static json)
 async function loadToiletsData() {
-    const source = localStorage.getItem("flush_finder_source") || "osm";
+    let source = localStorage.getItem("flush_finder_source") || "osm";
     const sourceLabel = document.getElementById("data-source-label");
     const sourceSelect = document.getElementById("source-select");
-    const apiKeyContainer = document.getElementById("api-key-container");
     
-    // Sync UI elements
-    if (sourceSelect) sourceSelect.value = source;
-    if (apiKeyContainer) {
-        apiKeyContainer.style.display = source === "moenv" ? "block" : "none";
+    // Sync source value and migrate legacy moenv settings
+    if (source === "moenv") {
+        source = "local";
+        localStorage.setItem("flush_finder_source", "local");
     }
     
-    if (source === 'moenv') {
-        const apiKeyInput = document.getElementById("api-key-input");
-        let apiKey = apiKeyInput ? apiKeyInput.value.trim() : "";
-        
-        // If the input is currently empty, try retrieving from localStorage
-        if (!apiKey) {
-            apiKey = localStorage.getItem("moenv_api_key") || "";
-            if (apiKeyInput && apiKey) {
-                apiKeyInput.value = apiKey;
-            }
-        } else {
-            // Auto-save the key to localStorage in case the user typed it but forgot to click Save
-            localStorage.setItem("moenv_api_key", apiKey);
+    if (sourceSelect) sourceSelect.value = source;
+    
+    if (source === 'osm') {
+        currentSourceLabelKey = "source_label_osm";
+        if (sourceLabel) {
+            sourceLabel.textContent = t(currentSourceLabelKey);
+            sourceLabel.style.color = "var(--primary)";
         }
-        
-        currentSourceLabelKey = apiKey ? "source_label_moenv_custom" : "source_label_moenv_cloud"; sourceLabel.textContent = t(currentSourceLabelKey);
-        sourceLabel.style.color = "var(--primary)";
-        
-        try {
-            const url = apiKey ? `/api/toilets?api_key=${apiKey}` : `/api/toilets`;
-            const response = await fetch(url);
-            if (!response.ok) {
-                const errText = await response.text();
-                // Extract clean text if it contains HTML
-                let cleanText = errText;
-                if (errText.includes('<html') || errText.includes('<body')) {
-                    if (errText.includes('該 API KEY 不存在或是已經到期。')) {
-                        cleanText = '該 API KEY 不存在或是已經到期。';
-                    } else {
-                        cleanText = '伺服器端錯誤 (500)';
-                    }
-                }
-                throw new Error(cleanText || `HTTP 錯誤代碼: ${response.status}`);
-            }
-            const data = await response.json();
-            
-            // Handle both flat array and wrapped records formats
-            const recordsList = Array.isArray(data) ? data : (data && data.records ? data.records : null);
-            
-            if (recordsList && Array.isArray(recordsList)) {
-                // Map real data structure to our app structure
-                const apiToilets = recordsList.map((item, idx) => {
-                    const lat = parseFloat(item.latitude);
-                    const lng = parseFloat(item.longitude);
-                    
-                    // Determine features from real fields
-                    const isAccessible = item.type === '無障礙廁所' || (item.name && item.name.includes('無障礙'));
-                    const isBaby = item.diaper === '1' || item.diaper === '是' || (item.name && item.name.includes('親子'));
-                    
-                    // Mock a realistic rating based on toilet grade
-                    let mockRating = 4.2;
-                    if (item.grade === '特優' || item.grade === '特優級') mockRating = 4.8;
-                    else if (item.grade === '優等' || item.grade === '優等級') mockRating = 4.5;
-                    else if (item.grade === '普通' || item.grade === '普通級') mockRating = 3.9;
-                    else if (item.grade === '加強' || item.grade === '不合格') mockRating = 3.2;
-
-                    return {
-                        id: 1000 + idx, // avoid duplicate IDs
-                        name: item.name || `${item.exec || item.town || ''}公廁`,
-                        coords: [lat, lng],
-                        address: item.address || '',
-                        type: item.type2 || "公廁",
-                        rating: mockRating,
-                        features: {
-                            accessible: isAccessible,
-                            baby: isBaby,
-                            free: true // default free
-                        },
-                        status: idx % 8 === 0 ? "busy" : "open",
-                        openingHours: (item.type2 && item.type2.includes('捷運')) ? "06:00 - 00:00" : "24 小時營業",
-                        description: t("moenv_desc", { admin: item.administration || item.exec || 'N/A', type2: item.type2 || 'N/A', grade: item.grade || 'N/A' })
-                    };
-                });
-
-                // Fetch local custom data to merge convenience stores, malls and shops
-                let customToilets = [];
-                try {
-                    const countiesToLoad = getOverlapCounties(userCoords[0], userCoords[1]);
-                    let localData = [];
-                    for (const county of countiesToLoad) {
-                        try {
-                            const localRes = await fetch(`data/${county}.json`);
-                            if (localRes.ok) {
-                                const countyData = await localRes.json();
-                                localData = [...localData, ...countyData];
-                            }
-                        } catch (e) {
-                            console.warn(`Failed to fetch county ${county} for custom stores merge`, e);
-                        }
-                    }
-                    // Merge local convenience stores, shops and department stores which are not in government open data
-                    customToilets = localData.filter(t => t.type === '超商' || t.type === '商家' || t.type === '百貨');
-                } catch (err) {
-                    console.warn("無法讀取本地資料進行合併，改用 MOCK_TOILETS", err);
-                    customToilets = MOCK_TOILETS.filter(t => t.type === '超商' || t.type === '商家' || t.type === '百貨');
-                }
-
-                // Combine both lists
-                toiletsData = [...customToilets, ...apiToilets];
-                console.log(`Loaded ${apiToilets.length} from API, merged ${customToilets.length} custom stores`);
-                if (apiToilets.length === 0) {
-                    console.warn("環境部 API 找不到資料，將無縫切換為本地離線資料...");
-                    localStorage.setItem("flush_finder_source", "local");
-                    await loadToiletsData();
-                    return;
-                }
-                return;
-            } else {
-                throw new Error("Invalid API response format (missing records array)");
-            }
-        } catch (error) {
-            console.error("無法自環境部 API 讀取資料，嘗試切換為本地離線資料:", error);
-            alert(t("data_fallback_alert", { reason: error.message }));
-            localStorage.setItem("flush_finder_source", "local");
-            await loadToiletsData();
-        }
-    } else if (source === 'osm') {
-        currentSourceLabelKey = "source_label_osm"; sourceLabel.textContent = t(currentSourceLabelKey);
-        sourceLabel.style.color = "var(--primary)";
         
         try {
             console.log(`[OSM] Fetching toilets and fuel stations at 500m...`);
@@ -1916,8 +1768,8 @@ out center;`;
                 }).filter(t => t !== null);
                 console.log(`Loaded ${toiletsData.length} records from OpenStreetMap Overpass API`);
                 if (toiletsData.length === 0) {
-                    console.warn("OSM 找不到資料，將無縫切換為環境部 Open Data...");
-                    localStorage.setItem("flush_finder_source", "moenv");
+                    console.warn("OSM 找不到資料，將無縫切換為台灣環境部離線資料...");
+                    localStorage.setItem("flush_finder_source", "local");
                     await loadToiletsData();
                     return;
                 }
@@ -1926,17 +1778,21 @@ out center;`;
                 throw new Error("Invalid OSM API response format");
             }
         } catch (error) {
-            console.error("無法自 OSM 讀取資料，嘗試切換為環境部 Open Data:", error);
+            console.error("無法自 OSM 讀取資料，嘗試切換為台灣環境部離線資料:", error);
             alert(t("osm_failed_alert", { reason: error.message }));
-            localStorage.setItem("flush_finder_source", "moenv");
+            localStorage.setItem("flush_finder_source", "local");
             await loadToiletsData();
+            return;
         }
     }
     
     // Fallback/Default: Load county segmented local JSON files
     if (sourceSelect) sourceSelect.value = "local";
-    currentSourceLabelKey = "source_label_local"; sourceLabel.textContent = t(currentSourceLabelKey);
-    sourceLabel.style.color = "var(--text-secondary)";
+    currentSourceLabelKey = "source_label_local";
+    if (sourceLabel) {
+        sourceLabel.textContent = t(currentSourceLabelKey);
+        sourceLabel.style.color = "var(--text-secondary)";
+    }
     
     try {
         const countiesToLoad = getOverlapCounties(userCoords[0], userCoords[1]);
