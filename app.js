@@ -40,7 +40,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v29 (支援分區離線備援)",
+        "app_version": "App 版本: v30 (支援分區離線備援)",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -129,7 +129,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v29 (Regional offline fallback)",
+        "app_version": "App Version: v30 (Regional offline fallback)",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -218,7 +218,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v29 (オフライン地域バックアップ対応)",
+        "app_version": "アプリバージョン: v30 (オフライン地域バックアップ対応)",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -307,7 +307,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v29 (regional offline-fallback)",
+        "app_version": "App-version: v30 (regional offline-fallback)",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -396,7 +396,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v29 (क्षेत्रीय अफलाइन ब्याकअप)",
+        "app_version": "एप संस्करण: v30 (क्षेत्रीय अफलाइन ब्याकअप)",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
@@ -528,6 +528,9 @@ function applyLanguage(lang, isManual = false) {
     if (sourceLabel) {
         sourceLabel.textContent = t(currentSourceLabelKey);
     }
+    
+    // Update local source option and label with active counties
+    updateLocalSourceLabels();
     
     // Translate input placeholders
     document.querySelectorAll("[data-i18n-placeholder]").forEach(el => {
@@ -1986,6 +1989,41 @@ out center;`;
     } catch (e) {
         console.error("無法載入本地分區 JSON 資料，改用 app.js 內建模擬資料:", e);
         toiletsData = MOCK_TOILETS;
+    }
+    
+    // Update local source dropdown option and active status label
+    updateLocalSourceLabels();
+}
+
+// Update the options list and active label for regional fallback to list loaded counties
+function updateLocalSourceLabels() {
+    const countiesToLoad = getOverlapCounties(userCoords[0], userCoords[1]);
+    const countyNames = countiesToLoad.map(c => COUNTY_BOUNDS[c] ? COUNTY_BOUNDS[c].name : c).join("、");
+    
+    // Suffix format based on current language
+    let suffix = "";
+    if (currentLang === "zh-TW") {
+        suffix = ` (已載入：${countyNames})`;
+    } else if (currentLang === "ja") {
+        suffix = ` (ロード済み: ${countyNames})`;
+    } else if (currentLang === "sv") {
+        suffix = ` (laddad: ${countyNames})`;
+    } else if (currentLang === "ne") {
+        suffix = ` (लोड गरिएको: ${countyNames})`;
+    } else {
+        suffix = ` (Loaded: ${countyNames})`;
+    }
+    
+    // 1. Update the option in the dropdown select
+    const localOption = document.querySelector('option[value="local"]');
+    if (localOption) {
+        localOption.textContent = t("source_local") + suffix;
+    }
+    
+    // 2. Update the status label if currently active
+    const sourceLabel = document.getElementById("data-source-label");
+    if (sourceLabel && (currentSourceLabelKey === "source_label_local" || currentSourceLabelKey === "source_label_local_fallback")) {
+        sourceLabel.textContent = t(currentSourceLabelKey) + suffix;
     }
 }
 
