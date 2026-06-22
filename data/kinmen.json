@@ -36,5 +36,6769 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1517,
+        "name": "金門港旅運中心1F入境3號男廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3408,
+        "name": "黃厝周邊女廁",
+        "coords": [
+            24.44639782,
+            118.25443
+        ],
+        "address": "金門縣烈嶼鄉黃埔村黃厝",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3515,
+        "name": "黃厝周邊無障礙廁所",
+        "coords": [
+            24.44641032,
+            118.25442731
+        ],
+        "address": "金門縣烈嶼鄉黃埔村黃厝",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3516,
+        "name": "黃厝周邊男廁",
+        "coords": [
+            24.4463905,
+            118.25443268
+        ],
+        "address": "金門縣烈嶼鄉黃埔村黃厝",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3577,
+        "name": "環保公園親子廁所",
+        "coords": [
+            24.43983041,
+            118.36849101
+        ],
+        "address": "金門縣金湖鎮正義里尚義",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3646,
+        "name": "環保公園無障礙廁所",
+        "coords": [
+            24.43983041,
+            118.36850058
+        ],
+        "address": "金門縣金湖鎮正義里尚義",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3661,
+        "name": "環保公園性別友善廁所",
+        "coords": [
+            24.43984493,
+            118.36850058
+        ],
+        "address": "金門縣金湖鎮正義里尚義",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3931,
+        "name": "家樂福金門店-女廁",
+        "coords": [
+            24.44028363,
+            118.3380333
+        ],
+        "address": "金門縣金寧鄉盤山村伯玉路二段223號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 康達盛通生活事業股份有限公司金門分公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3932,
+        "name": "家樂福金門店-男廁",
+        "coords": [
+            24.44028363,
+            118.3380333
+        ],
+        "address": "金門縣金寧鄉盤山村伯玉路二段223號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 康達盛通生活事業股份有限公司金門分公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3937,
+        "name": "家樂福金門店-無障礙廁所",
+        "coords": [
+            24.44028363,
+            118.3380333
+        ],
+        "address": "金門縣金寧鄉盤山村伯玉路二段223號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 康達盛通生活事業股份有限公司金門分公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 4990,
+        "name": "金門縣政府1號無障礙廁所",
+        "coords": [
+            24.43708405,
+            118.3196844
+        ],
+        "address": "金門縣金城鎮西門里民生路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 4995,
+        "name": "環保公園1號無障礙廁所",
+        "coords": [
+            24.43806152,
+            118.3688427
+        ],
+        "address": "金門縣金湖鎮正義里環保公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 5778,
+        "name": "金門港旅運中心3F出境2號男廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 5789,
+        "name": "金門港旅運中心3F出境2號女廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6178,
+        "name": "金門港旅運中心3F出境1號女廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6180,
+        "name": "金門港旅運中心3F出境1號無障礙廁所",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6195,
+        "name": "金門航空站候機室1號無障礙廁所",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6196,
+        "name": "金門港旅運中心3F出境1號男廁",
+        "coords": [
+            24.41786098,
+            118.29134122
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6217,
+        "name": "金門航空站候機室1號女廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6251,
+        "name": "陳景蘭洋樓女廁",
+        "coords": [
+            24.43733984,
+            118.38998482
+        ],
+        "address": "金門縣金湖鎮正義里成功村1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6254,
+        "name": "金門港旅運中心3F無障礙廁所",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6257,
+        "name": "金門港旅運中心1F入境1號男廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6259,
+        "name": "翟山坑道無障礙廁所",
+        "coords": [
+            24.39072378,
+            118.3206135
+        ],
+        "address": "金門縣金城鎮古城里翟山坑道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6260,
+        "name": "瓊林坑道男廁",
+        "coords": [
+            24.45658926,
+            118.37441996
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊林大風獅爺",
+        "type": "觀光地區及風景區",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 6277,
+        "name": "金門航空站候機室2號無障礙廁所",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6278,
+        "name": "金門航空站候機室2號男廁",
+        "coords": [
+            24.435551,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6279,
+        "name": "金湖鎮公有零售市場無障礙廁所",
+        "coords": [
+            24.44165859,
+            118.41286272
+        ],
+        "address": "金門縣金湖鎮山外里黃海路90之5號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6280,
+        "name": "中正公園女廁",
+        "coords": [
+            24.43698698,
+            118.4256877
+        ],
+        "address": "金門縣金湖鎮新市里太湖路三段",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6281,
+        "name": "瓊林坑道女廁",
+        "coords": [
+            24.45653688,
+            118.3742926
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊林大風獅爺",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6286,
+        "name": "特約茶室展示館無障礙廁所",
+        "coords": [
+            24.44853462,
+            118.38491946
+        ],
+        "address": "金門縣金湖鎮瓊林里小徑126號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6287,
+        "name": "迎賓館女廁",
+        "coords": [
+            24.44785192,
+            118.41793801
+        ],
+        "address": "金門縣金湖鎮山外里山外72之1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6288,
+        "name": "金門港旅運中心3F女廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6294,
+        "name": "水頭商港5號男廁",
+        "coords": [
+            24.41569418,
+            118.28659303
+        ],
+        "address": "金門縣金城鎮金水里西海路一段5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6296,
+        "name": "金門港旅運中心3F男廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6299,
+        "name": "體育館-民族路側無障礙廁所",
+        "coords": [
+            24.43012638,
+            118.31430383
+        ],
+        "address": "金門縣金城鎮南門里民族路261號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6301,
+        "name": "金門航空站候機室1號男廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6302,
+        "name": "金門航空站候機室2號女廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6303,
+        "name": "金湖鎮公有零售市場女廁",
+        "coords": [
+            24.44167812,
+            118.41286272
+        ],
+        "address": "金門縣金湖鎮山外里黃海路90之5號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6304,
+        "name": "中正公園男廁",
+        "coords": [
+            24.4369451,
+            118.4256881
+        ],
+        "address": "金門縣金湖鎮新市里太湖路三段",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6305,
+        "name": "水頭商港5號無障礙廁所",
+        "coords": [
+            24.41541866,
+            118.28673854
+        ],
+        "address": "金門縣金城鎮金水里西海路一段5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6306,
+        "name": "水頭商港5號女廁",
+        "coords": [
+            24.41572838,
+            118.28661986
+        ],
+        "address": "金門縣金城鎮金水里西海路一段5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6307,
+        "name": "金門港旅運中心1F入境1號無障礙廁所",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6309,
+        "name": "體育場司令台下方女廁",
+        "coords": [
+            24.43004013,
+            118.31241449
+        ],
+        "address": "金門縣金城鎮南門里民族路",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6312,
+        "name": "金城民防坑道入口處女廁",
+        "coords": [
+            24.43307019,
+            118.32021757
+        ],
+        "address": "金門縣金城鎮北門里民生路7號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6313,
+        "name": "金沙清潔隊部性別友善廁所",
+        "coords": [
+            24.49955502,
+            118.42118113
+        ],
+        "address": "金門縣金沙鎮汶沙里英坑60之1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6315,
+        "name": "迎賓館無障礙廁所",
+        "coords": [
+            24.44785192,
+            118.41793801
+        ],
+        "address": "金門縣金湖鎮山外里山外72之1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6316,
+        "name": "金門港旅運中心1F入境2號女廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6319,
+        "name": "金門港旅運中心1F入境1號女廁",
+        "coords": [
+            24.41530125,
+            118.28667921
+        ],
+        "address": "金門縣金城鎮金水里西海路一段5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6320,
+        "name": "統精加油站女廁",
+        "coords": [
+            24.44341397,
+            118.32587868
+        ],
+        "address": "金門縣金城鎮西門里環島北路一段138號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 統精股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6324,
+        "name": "古崗樓無障礙廁所",
+        "coords": [
+            24.39580769,
+            118.3152818
+        ],
+        "address": "金門縣金城鎮古城里珠水路旁",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6325,
+        "name": "金城民防坑道入口處男廁",
+        "coords": [
+            24.43307019,
+            118.32021757
+        ],
+        "address": "金門縣金城鎮北門里民生路7號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6326,
+        "name": "金沙清潔隊部親子廁",
+        "coords": [
+            24.49963128,
+            118.42119098
+        ],
+        "address": "金門縣金沙鎮汶沙里英坑60之1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6328,
+        "name": "雙鯉濕地自然中心無障礙廁所",
+        "coords": [
+            24.47619365,
+            118.30982029
+        ],
+        "address": "金門縣金寧鄉古寧村南山1之6號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6331,
+        "name": "金門港旅運中心1F入境2號無障礙廁所",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6332,
+        "name": "金門港旅運中心1F入境2號男廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6335,
+        "name": "風獅爺文物坊女廁",
+        "coords": [
+            24.40955565,
+            118.29856875
+        ],
+        "address": "金門縣金城鎮金水里前水頭42號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6338,
+        "name": "金酒公司福利大樓無障礙廁所",
+        "coords": [
+            24.43212308,
+            118.34260366
+        ],
+        "address": "金門縣金寧鄉榜林村桃園路1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門酒廠實業股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6347,
+        "name": "金酒公司福利大樓女廁",
+        "coords": [
+            24.43212308,
+            118.34260366
+        ],
+        "address": "金門縣金寧鄉榜林村桃園路1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門酒廠實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6348,
+        "name": "金門加油站女廁",
+        "coords": [
+            24.43591642,
+            118.32726052
+        ],
+        "address": "金門縣金寧鄉榜林村伯玉路一段222號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 安佳信股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6349,
+        "name": "蔣經國先生紀念館後側無障礙廁所",
+        "coords": [
+            24.43714599,
+            118.3537817
+        ],
+        "address": "金門縣金寧鄉盤山村桃園路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6354,
+        "name": "和平公園無障礙廁所",
+        "coords": [
+            24.4767045,
+            118.31685742
+        ],
+        "address": "金門縣金寧鄉古寧村頂林路和平公園",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6355,
+        "name": "和平公園男廁",
+        "coords": [
+            24.4767045,
+            118.31685742
+        ],
+        "address": "金門縣金寧鄉古寧村頂林路和平公園",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6378,
+        "name": "乳山遊客中心無障礙廁所",
+        "coords": [
+            24.43671334,
+            118.35338834
+        ],
+        "address": "金門縣金寧鄉盤山村桃園路196號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6379,
+        "name": "和平公園女廁",
+        "coords": [
+            24.4767045,
+            118.31685742
+        ],
+        "address": "金門縣金寧鄉古寧村頂林路和平公園",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6397,
+        "name": "金酒公司福利大樓男廁",
+        "coords": [
+            24.43212308,
+            118.34260366
+        ],
+        "address": "金門縣金寧鄉榜林村桃園路1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門酒廠實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6398,
+        "name": "金民加油站女廁",
+        "coords": [
+            24.43926669,
+            118.33426118
+        ],
+        "address": "金門縣金寧鄉榜林村伯玉路二段161號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金民股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6404,
+        "name": "風獅爺文物坊男廁",
+        "coords": [
+            24.40955565,
+            118.29856875
+        ],
+        "address": "金門縣金城鎮金水里前水頭42號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6405,
+        "name": "金城民防坑道出口處女廁",
+        "coords": [
+            24.43707977,
+            118.31228659
+        ],
+        "address": "金門縣金城鎮西門里光前路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6406,
+        "name": "后湖海濱公園無障礙廁所",
+        "coords": [
+            24.41655493,
+            118.34448248
+        ],
+        "address": "金門縣金寧鄉榜林村東湖路后湖",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6407,
+        "name": "金民加油站無障礙廁所",
+        "coords": [
+            24.43926669,
+            118.33426118
+        ],
+        "address": "金門縣金寧鄉榜林村伯玉路二段161號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金民股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6463,
+        "name": "國家公園大門左側無障礙廁所",
+        "coords": [
+            24.44385594,
+            118.35352287
+        ],
+        "address": "金門縣金寧鄉后盤村伯玉路二段",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6464,
+        "name": "雙鯉濕地自然中心女廁",
+        "coords": [
+            24.47618116,
+            118.30981895
+        ],
+        "address": "金門縣金寧鄉古寧村南山1之6號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6470,
+        "name": "雙鯉濕地自然中心男廁",
+        "coords": [
+            24.47621806,
+            118.30978543
+        ],
+        "address": "金門縣金寧鄉古寧村南山1之6號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6515,
+        "name": "金門植物園無障礙廁所",
+        "coords": [
+            24.45535261,
+            118.39671314
+        ],
+        "address": "金門縣金湖鎮山外里太武山10號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6519,
+        "name": "四維坑道女廁",
+        "coords": [
+            24.42410055,
+            118.26238811
+        ],
+        "address": "金門縣烈嶼鄉林湖村四維坑道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6520,
+        "name": "五虎山無障礙廁所",
+        "coords": [
+            24.49986099,
+            118.434425
+        ],
+        "address": "金門縣金沙鎮三山里山西五虎山",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6521,
+        "name": "五虎山男廁",
+        "coords": [
+            24.49982926,
+            118.43441695
+        ],
+        "address": "金門縣金沙鎮三山里山西五虎山",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6542,
+        "name": "沙美加油站女廁",
+        "coords": [
+            24.49061784,
+            118.40998731
+        ],
+        "address": "金門縣金沙鎮汶沙里環島北路四段569號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 旺達鴻股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6566,
+        "name": "金門植物園性別友善廁所",
+        "coords": [
+            24.45536237,
+            118.39671984
+        ],
+        "address": "金門縣金湖鎮山外里太武山10號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6571,
+        "name": "沙美加油站無障礙廁所",
+        "coords": [
+            24.49061784,
+            118.40998731
+        ],
+        "address": "金門縣金沙鎮汶沙里環島北路四段569號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 旺達鴻股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6572,
+        "name": "獅山砲陣地男廁",
+        "coords": [
+            24.50389826,
+            118.43700918
+        ],
+        "address": "金門縣金沙鎮三山里陽沙路376號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6586,
+        "name": "衛福部金門醫院烈嶼分院無障礙廁所",
+        "coords": [
+            24.43074404,
+            118.24249819
+        ],
+        "address": "金門縣烈嶼鄉上林村后井37號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 行政院衛生福利部。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6591,
+        "name": "五虎山女廁",
+        "coords": [
+            24.49986343,
+            118.43441159
+        ],
+        "address": "金門縣金沙鎮三山里山西五虎山",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6603,
+        "name": "衛福部金門醫院烈嶼分院女廁",
+        "coords": [
+            24.43076235,
+            118.24251831
+        ],
+        "address": "金門縣烈嶼鄉上林村后井37號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 行政院衛生福利部。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6604,
+        "name": "四維坑道無障礙廁所",
+        "coords": [
+            24.42410544,
+            118.26239616
+        ],
+        "address": "金門縣烈嶼鄉林湖村四維坑道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6621,
+        "name": "湖井頭戰史館無障礙廁所",
+        "coords": [
+            24.44666426,
+            118.23159099
+        ],
+        "address": "金門縣烈嶼鄉西口村北環道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6623,
+        "name": "馬山觀測站女廁",
+        "coords": [
+            24.5275034,
+            118.40829584
+        ],
+        "address": "金門縣金沙鎮官嶼里馬山觀測站",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6624,
+        "name": "楓香林女廁",
+        "coords": [
+            24.49291181,
+            118.44459057
+        ],
+        "address": "金門縣金沙鎮三山里陽沙路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6650,
+        "name": "四維坑道男廁",
+        "coords": [
+            24.42406119,
+            118.26236933
+        ],
+        "address": "金門縣烈嶼鄉林湖村四維坑道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6651,
+        "name": "上林將軍廟女廁",
+        "coords": [
+            24.42856937,
+            118.22856814
+        ],
+        "address": "金門縣烈嶼鄉上林村上林",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6652,
+        "name": "楓香林無障礙廁所",
+        "coords": [
+            24.49290571,
+            118.44457582
+        ],
+        "address": "金門縣金沙鎮三山里陽沙路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6653,
+        "name": "獅山砲陣地無障礙廁所",
+        "coords": [
+            24.50389826,
+            118.43700918
+        ],
+        "address": "金門縣金沙鎮三山里陽沙路376號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6678,
+        "name": "獅山砲陣地女廁",
+        "coords": [
+            24.50394911,
+            118.43697041
+        ],
+        "address": "金門縣金沙鎮三山里陽沙路376號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6693,
+        "name": "呂厝村落周邊無障礙廁所",
+        "coords": [
+            24.48551815,
+            118.38888911
+        ],
+        "address": "金門縣金沙鎮浦山里呂厝鶯山廟旁",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6695,
+        "name": "呂厝村落周邊女廁",
+        "coords": [
+            24.48551815,
+            118.38888911
+        ],
+        "address": "金門縣金沙鎮浦山里呂厝鶯山廟旁",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6701,
+        "name": "呂厝村落周邊男廁",
+        "coords": [
+            24.48551815,
+            118.38888911
+        ],
+        "address": "金門縣金沙鎮浦山里呂厝鶯山廟旁",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6710,
+        "name": "浯江溪停車場2號親子廁所",
+        "coords": [
+            24.42948601,
+            118.31829607
+        ],
+        "address": "金門縣金城鎮東門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6711,
+        "name": "浯江溪停車場1號親子廁所",
+        "coords": [
+            24.42960726,
+            118.32125992
+        ],
+        "address": "金門縣金城鎮南門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6745,
+        "name": "浯江溪停車場1號無障礙廁所",
+        "coords": [
+            24.42960848,
+            118.32123041
+        ],
+        "address": "金門縣金城鎮南門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6764,
+        "name": "浯江溪停車場2號無障礙廁所",
+        "coords": [
+            24.42950555,
+            118.31831217
+        ],
+        "address": "金門縣金城鎮東門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6783,
+        "name": "蘭湖公園男廁",
+        "coords": [
+            24.45080499,
+            118.38360427
+        ],
+        "address": "金門縣金湖鎮瓊林里蘭湖",
+        "type": "公園",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 6787,
+        "name": "浯江溪停車場3號無障礙廁所",
+        "coords": [
+            24.42905808,
+            118.31569165
+        ],
+        "address": "金門縣金城鎮東門里浯江溪停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6848,
+        "name": "浯江溪停車場3號親子廁所",
+        "coords": [
+            24.4290825,
+            118.31570774
+        ],
+        "address": "金門縣金城鎮東門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6885,
+        "name": "蘭湖公園女廁",
+        "coords": [
+            24.45080499,
+            118.38360427
+        ],
+        "address": "金門縣金湖鎮瓊林里蘭湖",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6888,
+        "name": "金沙清潔隊部男廁",
+        "coords": [
+            24.49964226,
+            118.42120707
+        ],
+        "address": "金門縣金沙鎮汶沙里英坑60之1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6920,
+        "name": "金沙清潔隊部女廁",
+        "coords": [
+            24.49964377,
+            118.42118561
+        ],
+        "address": "金門縣金沙鎮汶沙里英坑60之1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6966,
+        "name": "翟山坑道女廁",
+        "coords": [
+            24.39066917,
+            118.32065855
+        ],
+        "address": "金門縣金城鎮古城里翟山坑道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6978,
+        "name": "文化園區C棟B1女廁",
+        "coords": [
+            24.49959484,
+            118.40383776
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6979,
+        "name": "文化園區C棟B1男廁",
+        "coords": [
+            24.49950796,
+            118.40384815
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6992,
+        "name": "金沙清潔隊部無障礙廁所",
+        "coords": [
+            24.4996755,
+            118.42122585
+        ],
+        "address": "金門縣金沙鎮汶沙里英坑60之1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6994,
+        "name": "浯江溪停車場2號女廁",
+        "coords": [
+            24.42940701,
+            118.31831083
+        ],
+        "address": "金門縣金城鎮東門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7016,
+        "name": "文化園區C棟1F後方無障礙廁所",
+        "coords": [
+            24.49931484,
+            118.4035868
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7021,
+        "name": "蘭湖公園無障礙廁所",
+        "coords": [
+            24.45080499,
+            118.38360427
+        ],
+        "address": "金門縣金湖鎮瓊林里蘭湖",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7025,
+        "name": "浯江溪停車場1號女廁",
+        "coords": [
+            24.42961092,
+            118.32124516
+        ],
+        "address": "金門縣金城鎮南門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7030,
+        "name": "浯江溪停車場3號女廁",
+        "coords": [
+            24.42907273,
+            118.31572652
+        ],
+        "address": "金門縣金城鎮東門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7033,
+        "name": "翟山坑道男廁",
+        "coords": [
+            24.39066917,
+            118.32065855
+        ],
+        "address": "金門縣金城鎮古城里翟山坑道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7045,
+        "name": "榕園無障礙廁所",
+        "coords": [
+            24.44370288,
+            118.43013279
+        ],
+        "address": "金門縣金湖鎮山外里安民",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7046,
+        "name": "畜試所野放鹿園男廁",
+        "coords": [
+            24.43480955,
+            118.44012669
+        ],
+        "address": "金門縣金湖鎮蓮庵里惠民富康農莊17號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣畜產試驗所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7051,
+        "name": "文化園區E棟男廁",
+        "coords": [
+            24.49786494,
+            118.40303814
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7052,
+        "name": "文化園區D棟無障礙廁所",
+        "coords": [
+            24.49865443,
+            118.40426298
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7053,
+        "name": "文化園區D棟男廁",
+        "coords": [
+            24.49874646,
+            118.40449456
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7054,
+        "name": "文化園區C棟1F後方女廁",
+        "coords": [
+            24.49957163,
+            118.40360272
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7068,
+        "name": "畜試所野放鹿園女廁",
+        "coords": [
+            24.43480955,
+            118.44012669
+        ],
+        "address": "金門縣金湖鎮蓮庵里惠民富康農莊17號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣畜產試驗所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7072,
+        "name": "文化園區D棟女廁",
+        "coords": [
+            24.49865443,
+            118.40426298
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7073,
+        "name": "文化園區C棟1F後方男廁",
+        "coords": [
+            24.49957163,
+            118.40360272
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7111,
+        "name": "文化園區E棟女廁",
+        "coords": [
+            24.49786494,
+            118.40303814
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7124,
+        "name": "東林海濱公園無障礙廁所",
+        "coords": [
+            24.42509757,
+            118.25104668
+        ],
+        "address": "金門縣烈嶼鄉林湖村南環道",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7155,
+        "name": "金湖鎮立圖書館2F女廁",
+        "coords": [
+            24.44197374,
+            118.41680305
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7186,
+        "name": "金湖鎮立圖書館2F無障礙廁所",
+        "coords": [
+            24.44200914,
+            118.41681378
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7187,
+        "name": "金湖鎮立圖書館2F男廁",
+        "coords": [
+            24.44203551,
+            118.41681127
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7216,
+        "name": "金湖鎮立圖書館3F無障礙廁所",
+        "coords": [
+            24.44199205,
+            118.41681244
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7217,
+        "name": "金湖鎮立圖書館3F男廁",
+        "coords": [
+            24.44203307,
+            118.41681663
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7218,
+        "name": "金湖鎮立圖書館1F無障礙廁所",
+        "coords": [
+            24.44200548,
+            118.41679769
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7219,
+        "name": "料羅海濱公園女廁",
+        "coords": [
+            24.41640317,
+            118.43414364
+        ],
+        "address": "金門縣金湖鎮料羅里金港路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7234,
+        "name": "烈嶼鄉圖書館2F男廁",
+        "coords": [
+            24.4289141,
+            118.2427387
+        ],
+        "address": "金門縣烈嶼鄉上林村后井40號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7235,
+        "name": "烈嶼鄉圖書館1F女廁",
+        "coords": [
+            24.4289141,
+            118.2427387
+        ],
+        "address": "金門縣烈嶼鄉上林村后井40號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7243,
+        "name": "金湖鎮立圖書館3F女廁",
+        "coords": [
+            24.44197862,
+            118.41680707
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7244,
+        "name": "金湖鎮立圖書館1F女廁",
+        "coords": [
+            24.44200182,
+            118.41680976
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7270,
+        "name": "金門縣立體育場親子廁所",
+        "coords": [
+            24.43012394,
+            118.31248924
+        ],
+        "address": "金門縣金城鎮南門里民族路",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7271,
+        "name": "料羅海濱公園男廁",
+        "coords": [
+            24.41639585,
+            118.43413827
+        ],
+        "address": "金門縣金湖鎮料羅里金港路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7330,
+        "name": "烈嶼鄉圖書館2F女廁",
+        "coords": [
+            24.42895883,
+            118.24278418
+        ],
+        "address": "金門縣烈嶼鄉上林村后井40號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7331,
+        "name": "烈嶼鄉圖書館1F無障礙廁所",
+        "coords": [
+            24.42898813,
+            118.24282978
+        ],
+        "address": "金門縣烈嶼鄉上林村后井40號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7332,
+        "name": "烈嶼鄉圖書館1F男廁",
+        "coords": [
+            24.42901305,
+            118.24285107
+        ],
+        "address": "金門縣烈嶼鄉上林村后井40號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7507,
+        "name": "北山海堤混合廁所",
+        "coords": [
+            24.4853545,
+            118.30449808
+        ],
+        "address": "金門縣金寧鄉古寧村北山海堤",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金寧鄉公所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7722,
+        "name": "慢速壘球場無障礙廁所",
+        "coords": [
+            24.43111933,
+            118.3116162
+        ],
+        "address": "金門縣金城鎮南門里慢速壘球場旁",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7729,
+        "name": "慢速壘球場男廁",
+        "coords": [
+            24.43110346,
+            118.31162157
+        ],
+        "address": "金門縣金城鎮南門里慢速壘球場旁",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7756,
+        "name": "慢速壘球場女廁",
+        "coords": [
+            24.43111322,
+            118.31161754
+        ],
+        "address": "金門縣金城鎮南門里慢速壘球場旁",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7786,
+        "name": "畜試所1F女廁",
+        "coords": [
+            24.43336897,
+            118.43838688
+        ],
+        "address": "金門縣金湖鎮蓮庵里惠民富康農莊17號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣畜產試驗所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7787,
+        "name": "畜試所1F男廁",
+        "coords": [
+            24.43336897,
+            118.43838688
+        ],
+        "address": "金門縣金湖鎮蓮庵里惠民富康農莊17號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣畜產試驗所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7800,
+        "name": "畜試所1F無障礙廁所",
+        "coords": [
+            24.43336897,
+            118.43838688
+        ],
+        "address": "金門縣金湖鎮蓮庵里惠民富康農莊17號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣畜產試驗所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7891,
+        "name": "烈嶼鄉公所3F無障礙廁所",
+        "coords": [
+            24.42964365,
+            118.24458892
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7892,
+        "name": "烈嶼鄉公所3F女廁",
+        "coords": [
+            24.42964365,
+            118.24458892
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7920,
+        "name": "烈嶼鄉公所3F男廁",
+        "coords": [
+            24.42964365,
+            118.24458892
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 8754,
+        "name": "榕園女廁",
+        "coords": [
+            24.44378141,
+            118.43013112
+        ],
+        "address": "金門縣金湖鎮山外里安民",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 8803,
+        "name": "太武山2號無障礙廁所",
+        "coords": [
+            24.46270235,
+            118.4171796
+        ],
+        "address": "金門縣金湖鎮山外里太武山上",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9085,
+        "name": "新市里菜市場無障礙廁所",
+        "coords": [
+            24.44071985,
+            118.41447892
+        ],
+        "address": "金門縣金湖鎮新市里新市里菜市場停車場旁",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9109,
+        "name": "82據點無障礙廁所",
+        "coords": [
+            24.42491873,
+            118.42759877
+        ],
+        "address": "金門縣金湖鎮新湖里82據點",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9110,
+        "name": "82據點女廁",
+        "coords": [
+            24.42491873,
+            118.42759877
+        ],
+        "address": "金門縣金湖鎮新湖里82據點",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9182,
+        "name": "新市里菜市場女廁",
+        "coords": [
+            24.4407052,
+            118.41448562
+        ],
+        "address": "金門縣金湖鎮新市里新市里菜市場停車場旁",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9274,
+        "name": "料羅碼頭1號無障礙廁所",
+        "coords": [
+            24.40788481,
+            118.42782268
+        ],
+        "address": "金門縣金湖鎮料羅里金港路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9297,
+        "name": "料羅碼頭1號女廁",
+        "coords": [
+            24.40788481,
+            118.42782268
+        ],
+        "address": "金門縣金湖鎮料羅里金港路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9323,
+        "name": "九宮碼頭2號無障礙廁所",
+        "coords": [
+            24.42551541,
+            118.26314446
+        ],
+        "address": "金門縣烈嶼鄉林湖村九宮碼頭",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9324,
+        "name": "九宮碼頭2號男廁",
+        "coords": [
+            24.42551541,
+            118.26314446
+        ],
+        "address": "金門縣烈嶼鄉林湖村九宮碼頭",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9351,
+        "name": "九宮碼頭2號女廁",
+        "coords": [
+            24.42551541,
+            118.26314446
+        ],
+        "address": "金門縣烈嶼鄉林湖村九宮碼頭",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9421,
+        "name": "莒光湖公園女廁",
+        "coords": [
+            24.42670708,
+            118.31802991
+        ],
+        "address": "金門縣金城鎮南門里莒光湖公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9436,
+        "name": "太武山2號男廁",
+        "coords": [
+            24.46270235,
+            118.4171796
+        ],
+        "address": "金門縣金湖鎮山外里太武山上",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9476,
+        "name": "太武山2號女廁",
+        "coords": [
+            24.46270235,
+            118.4171796
+        ],
+        "address": "金門縣金湖鎮山外里太武山上",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9485,
+        "name": "莒光樓2號無障礙廁所",
+        "coords": [
+            24.42461829,
+            118.31880569
+        ],
+        "address": "金門縣金城鎮南門里賢城路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9493,
+        "name": "金門縣政府3號男廁",
+        "coords": [
+            24.43728267,
+            118.31900213
+        ],
+        "address": "金門縣金城鎮西門里民生路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9496,
+        "name": "山外車站女廁",
+        "coords": [
+            24.44210306,
+            118.41367077
+        ],
+        "address": "金門縣金湖鎮山外里黃海路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣公共車船管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9497,
+        "name": "金門縣政府2號男廁",
+        "coords": [
+            24.43729251,
+            118.31968814
+        ],
+        "address": "金門縣金城鎮西門里民生路",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9502,
+        "name": "莒光樓2號女廁",
+        "coords": [
+            24.4246133,
+            118.31890292
+        ],
+        "address": "金門縣金城鎮南門里賢城路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9503,
+        "name": "莒光湖公園無障礙廁所",
+        "coords": [
+            24.42670708,
+            118.31802991
+        ],
+        "address": "金門縣金城鎮南門里莒光湖公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9504,
+        "name": "國家公園大門左側女廁",
+        "coords": [
+            24.44384661,
+            118.3535351
+        ],
+        "address": "金門縣金寧鄉后盤村伯玉路二段",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9505,
+        "name": "山外車站無障礙廁所",
+        "coords": [
+            24.44210306,
+            118.41367077
+        ],
+        "address": "金門縣金湖鎮山外里黃海路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣公共車船管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9506,
+        "name": "金門縣政府1號女廁",
+        "coords": [
+            24.43706785,
+            118.31961304
+        ],
+        "address": "金門縣金城鎮西門里民生路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9507,
+        "name": "金門縣政府1號男廁",
+        "coords": [
+            24.43706324,
+            118.31965827
+        ],
+        "address": "金門縣金城鎮西門里民生路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9512,
+        "name": "烈嶼鄉文化館無障礙廁所",
+        "coords": [
+            24.43122691,
+            118.24486767
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9517,
+        "name": "金門縣政府3號女廁",
+        "coords": [
+            24.43728267,
+            118.31900213
+        ],
+        "address": "金門縣金城鎮西門里民生路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9518,
+        "name": "金門縣政府2號女廁",
+        "coords": [
+            24.4372803,
+            118.31969082
+        ],
+        "address": "金門縣金城鎮西門里民生路",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9527,
+        "name": "烈嶼車站女廁",
+        "coords": [
+            24.4268986,
+            118.2571272
+        ],
+        "address": "金門縣烈嶼鄉林湖村九井路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣公共車船管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9534,
+        "name": "山外車站男廁",
+        "coords": [
+            24.44210306,
+            118.41367077
+        ],
+        "address": "金門縣金湖鎮山外里黃海路",
+        "type": "交通",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣公共車船管理處。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 9540,
+        "name": "蔣經國先生紀念館後側女廁",
+        "coords": [
+            24.43716885,
+            118.35377131
+        ],
+        "address": "金門縣金寧鄉盤山村桃園路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9541,
+        "name": "金湖鎮公有零售市場男廁",
+        "coords": [
+            24.44169565,
+            118.41296653
+        ],
+        "address": "金門縣金湖鎮山外里黃海路90之5號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9542,
+        "name": "后湖海濱公園女廁",
+        "coords": [
+            24.41650068,
+            118.34450134
+        ],
+        "address": "金門縣金寧鄉榜林村東湖路后湖",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10111,
+        "name": "環保公園低碳教育館女廁",
+        "coords": [
+            24.43757542,
+            118.36967268
+        ],
+        "address": "金門縣金湖鎮正義里環保公園低碳教育館",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10112,
+        "name": "雄獅堡無障礙廁所",
+        "coords": [
+            24.43123899,
+            118.31003102
+        ],
+        "address": "金門縣金城鎮南門里民權路34之1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10113,
+        "name": "金城車站無障礙廁所",
+        "coords": [
+            24.43323118,
+            118.32006985
+        ],
+        "address": "金門縣金城鎮北門里民生路7號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣公共車船管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10156,
+        "name": "李光前將軍廟女廁",
+        "coords": [
+            24.46866946,
+            118.31683561
+        ],
+        "address": "金門縣金寧鄉古寧村西浦頭",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金寧鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10157,
+        "name": "牧馬侯祠無障礙廁所",
+        "coords": [
+            24.42024323,
+            118.3224483
+        ],
+        "address": "金門縣金城鎮賢庵里庵前牧馬侯祠前",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金城鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10158,
+        "name": "沙美車站無障礙廁所",
+        "coords": [
+            24.48903566,
+            118.41332178
+        ],
+        "address": "金門縣金沙鎮汶沙里環島東路一段112號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10174,
+        "name": "社福館B1女廁",
+        "coords": [
+            24.45269446,
+            118.38090154
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10175,
+        "name": "李光前將軍廟無障礙廁所",
+        "coords": [
+            24.46872589,
+            118.31683427
+        ],
+        "address": "金門縣金寧鄉古寧村西浦頭",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金寧鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10242,
+        "name": "社福館B1無障礙廁所",
+        "coords": [
+            24.45269446,
+            118.38090154
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10243,
+        "name": "雄獅堡女廁",
+        "coords": [
+            24.43118743,
+            118.310034
+        ],
+        "address": "金門縣金城鎮南門里民權路34之1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10244,
+        "name": "烈嶼車站男廁",
+        "coords": [
+            24.42692383,
+            118.25717943
+        ],
+        "address": "金門縣烈嶼鄉林湖村九井路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣公共車船管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10260,
+        "name": "汶沙里菜市場女廁",
+        "coords": [
+            24.4898903,
+            118.41428429
+        ],
+        "address": "金門縣金沙鎮汶沙里汶沙里菜市場旁",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10261,
+        "name": "沙溪堡男廁",
+        "coords": [
+            24.41162758,
+            118.21308172
+        ],
+        "address": "金門縣烈嶼鄉上岐村濱海大道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10262,
+        "name": "雄獅堡男廁",
+        "coords": [
+            24.43118743,
+            118.310034
+        ],
+        "address": "金門縣金城鎮南門里民權路34之1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10269,
+        "name": "金寧鄉公所女廁",
+        "coords": [
+            24.45087159,
+            118.3347768
+        ],
+        "address": "金門縣金寧鄉盤山村仁愛新村1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金寧鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10270,
+        "name": "金沙鎮公所3F女廁",
+        "coords": [
+            24.48907633,
+            118.41321792
+        ],
+        "address": "金門縣金沙鎮汶沙里環島東路一段112號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10271,
+        "name": "沙溪堡女廁",
+        "coords": [
+            24.41162758,
+            118.21308172
+        ],
+        "address": "金門縣烈嶼鄉上岐村濱海大道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10274,
+        "name": "社福館B1男廁",
+        "coords": [
+            24.45269446,
+            118.38090154
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10275,
+        "name": "金城鎮公所無障礙廁所",
+        "coords": [
+            24.43282947,
+            118.32086597
+        ],
+        "address": "金門縣金城鎮北門里民生路",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金城鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10282,
+        "name": "金城鎮公所女廁",
+        "coords": [
+            24.43286122,
+            118.32087401
+        ],
+        "address": "金門縣金城鎮北門里民生路2號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金城鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10283,
+        "name": "牧馬侯祠女廁",
+        "coords": [
+            24.42024201,
+            118.32245367
+        ],
+        "address": "金門縣金城鎮賢庵里庵前牧馬侯祠前",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金城鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10284,
+        "name": "沙美車站女廁",
+        "coords": [
+            24.48903566,
+            118.41332178
+        ],
+        "address": "金門縣金沙鎮汶沙里環島東路一段112號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10297,
+        "name": "金城車站女廁",
+        "coords": [
+            24.43323118,
+            118.32006985
+        ],
+        "address": "金門縣金城鎮北門里民生路7號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣公共車船管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10320,
+        "name": "文化園區C棟博物館女廁",
+        "coords": [
+            24.49932205,
+            118.40357004
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10321,
+        "name": "文化園區C棟博物館男廁",
+        "coords": [
+            24.49932205,
+            118.40357004
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10395,
+        "name": "金門陶瓷廠無障礙廁所",
+        "coords": [
+            24.43536089,
+            118.4069599
+        ],
+        "address": "金門縣金湖鎮新湖里漁村14號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣陶瓷廠。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10396,
+        "name": "復國墩漁港無障礙廁所",
+        "coords": [
+            24.44660565,
+            118.4728986
+        ],
+        "address": "金門縣金湖鎮溪湖里復國墩漁港",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門區漁會。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10406,
+        "name": "料羅碼頭2號女廁",
+        "coords": [
+            24.40806574,
+            118.430054
+        ],
+        "address": "金門縣金湖鎮料羅里金港路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10407,
+        "name": "文化園區A棟1F女廁",
+        "coords": [
+            24.49869039,
+            118.40229931
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10408,
+        "name": "文化園區A棟1F男廁",
+        "coords": [
+            24.49869039,
+            118.40229931
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10416,
+        "name": "復國墩漁港男廁",
+        "coords": [
+            24.44657729,
+            118.47287044
+        ],
+        "address": "金門縣金湖鎮溪湖里復國墩漁港",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門區漁會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10417,
+        "name": "文化園區A棟2F女廁",
+        "coords": [
+            24.49869039,
+            118.40229931
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10423,
+        "name": "文化園區C棟博物館無障礙廁所",
+        "coords": [
+            24.49932205,
+            118.40357004
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10425,
+        "name": "烈嶼鄉公所1F無障礙廁所",
+        "coords": [
+            24.42964365,
+            118.24458892
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10426,
+        "name": "烈嶼鄉公所1F女廁",
+        "coords": [
+            24.42964365,
+            118.24458892
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10437,
+        "name": "烈嶼鄉公所2F男廁",
+        "coords": [
+            24.42964365,
+            118.24458892
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10443,
+        "name": "復國墩漁港女廁",
+        "coords": [
+            24.44658124,
+            118.47287446
+        ],
+        "address": "金門縣金湖鎮溪湖里復國墩漁港",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門區漁會。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10444,
+        "name": "文化園區A棟2F無障礙廁所",
+        "coords": [
+            24.49869039,
+            118.40229931
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10445,
+        "name": "文化園區A棟1F無障礙廁所",
+        "coords": [
+            24.49869039,
+            118.40229931
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10446,
+        "name": "烈嶼鄉公所2F女廁",
+        "coords": [
+            24.42964365,
+            118.24458892
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10447,
+        "name": "森林公園無障礙廁所",
+        "coords": [
+            24.45887351,
+            118.44244905
+        ],
+        "address": "金門縣金沙鎮大洋里林務所停車場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10451,
+        "name": "文化園區A棟2F男廁",
+        "coords": [
+            24.49869039,
+            118.40229931
+        ],
+        "address": "金門縣金沙鎮西園里文化路450巷52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化園區管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10452,
+        "name": "森林公園女廁",
+        "coords": [
+            24.45887351,
+            118.44244905
+        ],
+        "address": "金門縣金沙鎮大洋里林務所停車場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12036,
+        "name": "勇士堡男廁",
+        "coords": [
+            24.44744894,
+            118.25215421
+        ],
+        "address": "金門縣烈嶼鄉黃埔村黃厝勇士堡",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12080,
+        "name": "勇士堡女廁",
+        "coords": [
+            24.44744894,
+            118.25215421
+        ],
+        "address": "金門縣烈嶼鄉黃埔村黃厝勇士堡",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13270,
+        "name": "茅山塔女廁",
+        "coords": [
+            24.40948055,
+            118.2902509
+        ],
+        "address": "金門縣金城鎮金水里茅山塔停車場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13312,
+        "name": "牧馬侯祠男廁",
+        "coords": [
+            24.4202318,
+            118.32245216
+        ],
+        "address": "金門縣金城鎮賢庵里庵前牧馬侯祠前",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金城鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13462,
+        "name": "成功海灘女廁",
+        "coords": [
+            24.4359525,
+            118.38692721
+        ],
+        "address": "金門縣金湖鎮正義里成功海灘",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13519,
+        "name": "成功海灘無障礙廁所",
+        "coords": [
+            24.4359525,
+            118.38692721
+        ],
+        "address": "金門縣金湖鎮正義里成功海灘",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13540,
+        "name": "市港重劃區公園無障礙廁所",
+        "coords": [
+            24.43949128,
+            118.41163445
+        ],
+        "address": "金門縣金湖鎮新湖里市港五路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13548,
+        "name": "市港重劃區公園女廁",
+        "coords": [
+            24.43958565,
+            118.41170543
+        ],
+        "address": "金門縣金湖鎮新湖里市港五路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13549,
+        "name": "市港重劃區公園男廁",
+        "coords": [
+            24.43960176,
+            118.4116582
+        ],
+        "address": "金門縣金湖鎮新湖里市港五路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15552,
+        "name": "環保公園低碳教育館男廁",
+        "coords": [
+            24.43757542,
+            118.36967268
+        ],
+        "address": "金門縣金湖鎮正義里環保公園低碳教育館",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15553,
+        "name": "金門縣環境保護局無障礙廁所",
+        "coords": [
+            24.44033755,
+            118.36954772
+        ],
+        "address": "金門縣金湖鎮正義里尚義100號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15572,
+        "name": "社福館演藝廳旁女廁",
+        "coords": [
+            24.45269446,
+            118.38090154
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15602,
+        "name": "社福館演藝廳旁無障礙廁所",
+        "coords": [
+            24.45269446,
+            118.38090154
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17671,
+        "name": "烈嶼鄉文化館女廁",
+        "coords": [
+            24.43122691,
+            118.24486767
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路1之1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17675,
+        "name": "金門航空站候機室3號女廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17676,
+        "name": "金門航空站入境處3號男廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17689,
+        "name": "湖井頭戰史館女廁",
+        "coords": [
+            24.44662607,
+            118.23160473
+        ],
+        "address": "金門縣烈嶼鄉西口村北環道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17692,
+        "name": "烈嶼鄉公所1F男廁",
+        "coords": [
+            24.42964365,
+            118.24458892
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路60號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17694,
+        "name": "乳山遊客中心女廁",
+        "coords": [
+            24.43671334,
+            118.35338834
+        ],
+        "address": "金門縣金寧鄉盤山村桃園路196號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17710,
+        "name": "金門航空站入境處2號女廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17711,
+        "name": "金門航空站入境處2號男廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17739,
+        "name": "東林海濱公園男廁",
+        "coords": [
+            24.42512226,
+            118.25102929
+        ],
+        "address": "金門縣烈嶼鄉林湖村南環道",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17748,
+        "name": "烈嶼鄉文化館男廁",
+        "coords": [
+            24.43122691,
+            118.24486767
+        ],
+        "address": "金門縣烈嶼鄉林湖村西路1之1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17749,
+        "name": "金門航空站入境處3號無障礙廁所",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17751,
+        "name": "莒光樓2號男廁",
+        "coords": [
+            24.42544251,
+            118.31923441
+        ],
+        "address": "金門縣金城鎮南門里賢城路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17782,
+        "name": "金門縣環境保護局女廁",
+        "coords": [
+            24.44033354,
+            118.36956684
+        ],
+        "address": "金門縣金湖鎮正義里尚義100號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17798,
+        "name": "金門航空站候機室3號男廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17799,
+        "name": "金門航空站入境處3號女廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17803,
+        "name": "金門航空站入境處1號無障礙廁所",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17804,
+        "name": "金門航空站入境處1號女廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17805,
+        "name": "莒光湖公園男廁",
+        "coords": [
+            24.4267414,
+            118.31802282
+        ],
+        "address": "金門縣金城鎮南門里莒光湖公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17806,
+        "name": "延平郡王祠無障礙廁所",
+        "coords": [
+            24.42442918,
+            118.30509709
+        ],
+        "address": "金門縣金城鎮賢庵里夏墅西北方",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18804,
+        "name": "金門航空站入境處1號男廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18825,
+        "name": "金門航空站大廳2號無障礙廁所",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18972,
+        "name": "金門航空站大廳2號女廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20288,
+        "name": "金門航空站大廳2號男廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 22390,
+        "name": "休閒農場女廁",
+        "coords": [
+            24.44669737,
+            118.44712006
+        ],
+        "address": "金門縣金湖鎮溪湖里后壟",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣農產試驗所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23075,
+        "name": "特約茶室展示館女廁",
+        "coords": [
+            24.44837978,
+            118.3848777
+        ],
+        "address": "金門縣金湖鎮瓊林里小徑126號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25171,
+        "name": "體育場司令台下方性別友善廁所",
+        "coords": [
+            24.43017519,
+            118.31240414
+        ],
+        "address": "金門縣金城鎮南門里民族路",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25214,
+        "name": "楓香林男廁",
+        "coords": [
+            24.4929081,
+            118.44457749
+        ],
+        "address": "金門縣金沙鎮三山里陽沙路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25809,
+        "name": "沙美加油站男廁",
+        "coords": [
+            24.49061784,
+            118.40998731
+        ],
+        "address": "金門縣金沙鎮汶沙里環島北路四段569號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 旺達鴻股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25825,
+        "name": "迎賓館男廁",
+        "coords": [
+            24.44785192,
+            118.41793801
+        ],
+        "address": "金門縣金湖鎮山外里山外72之1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25888,
+        "name": "古寧頭戰史館無障礙廁所",
+        "coords": [
+            24.4832288,
+            118.32089777
+        ],
+        "address": "金門縣金寧鄉古寧村北山村456號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25905,
+        "name": "慈湖三角堡男廁",
+        "coords": [
+            24.4652781,
+            118.29733639
+        ],
+        "address": "金門縣金寧鄉古寧村慈湖路三段",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25930,
+        "name": "82據點男廁",
+        "coords": [
+            24.42500748,
+            118.42756424
+        ],
+        "address": "金門縣金湖鎮新湖里82據點",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25931,
+        "name": "金門港旅運中心1F女廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25942,
+        "name": "成功海灘男廁",
+        "coords": [
+            24.43602846,
+            118.38689659
+        ],
+        "address": "金門縣金湖鎮正義里成功海灘",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25946,
+        "name": "金門港旅運中心1F無障礙廁所",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25947,
+        "name": "金門港旅運中心1F男廁",
+        "coords": [
+            24.41811815,
+            118.29135344
+        ],
+        "address": "金門縣金城鎮金水里金豐路300號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25953,
+        "name": "延平郡王祠女廁",
+        "coords": [
+            24.4244304,
+            118.30509173
+        ],
+        "address": "金門縣金城鎮賢庵里夏墅西北方",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 27732,
+        "name": "新市里菜市場男廁",
+        "coords": [
+            24.44070032,
+            118.41447221
+        ],
+        "address": "金門縣金湖鎮新市里新市里菜市場停車場旁",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 27768,
+        "name": "休閒農場男廁",
+        "coords": [
+            24.44671885,
+            118.44712291
+        ],
+        "address": "金門縣金湖鎮溪湖里后壟",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣農業試驗所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 27783,
+        "name": "延平郡王祠男廁",
+        "coords": [
+            24.42441697,
+            118.30509977
+        ],
+        "address": "金門縣金城鎮賢庵里夏墅西北方",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣養護工程所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 29817,
+        "name": "金門航空站特產中心旁無障礙廁所",
+        "coords": [
+            24.43522385,
+            118.3673601
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 29969,
+        "name": "金門航空站大廳1號無障礙廁所",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 30032,
+        "name": "金門航空站大廳1號女廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 38062,
+        "name": "文化中心男廁",
+        "coords": [
+            24.44097831,
+            118.32308553
+        ],
+        "address": "金門縣金城鎮西門里環島北路一段66號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 38063,
+        "name": "金湖鎮立圖書館1F男廁",
+        "coords": [
+            24.44181475,
+            118.41677137
+        ],
+        "address": "金門縣金湖鎮新市里林森路6之2號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 38072,
+        "name": "金城鎮公所男廁",
+        "coords": [
+            24.43282982,
+            118.32068981
+        ],
+        "address": "金門縣金城鎮北門里民生路2號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金城鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 38096,
+        "name": "金沙鎮公所3F男廁",
+        "coords": [
+            24.48907633,
+            118.41321792
+        ],
+        "address": "金門縣金沙鎮汶沙里環島東路一段112號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 38119,
+        "name": "金寧鄉公所男廁",
+        "coords": [
+            24.45087159,
+            118.3347768
+        ],
+        "address": "金門縣金寧鄉盤山村仁愛新村1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金寧鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39796,
+        "name": "總兵署女廁",
+        "coords": [
+            24.43266032,
+            118.31890884
+        ],
+        "address": "金門縣金城鎮北門里浯江街53號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39840,
+        "name": "環保公園1號男廁",
+        "coords": [
+            24.43806152,
+            118.3688427
+        ],
+        "address": "金門縣金湖鎮正義里環保公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39841,
+        "name": "李光前將軍廟男廁",
+        "coords": [
+            24.46865891,
+            118.31684383
+        ],
+        "address": "金門縣金寧鄉古寧村西浦頭",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金寧鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39842,
+        "name": "金門縣環境保護局男廁",
+        "coords": [
+            24.44031206,
+            118.36957203
+        ],
+        "address": "金門縣金湖鎮正義里尚義100號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39844,
+        "name": "金門航空站大廳1號男廁",
+        "coords": [
+            24.43541676,
+            118.3679274
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39854,
+        "name": "環保公園1號女廁",
+        "coords": [
+            24.43806152,
+            118.3688427
+        ],
+        "address": "金門縣金湖鎮正義里環保公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39855,
+        "name": "八達樓子無障礙廁所",
+        "coords": [
+            24.43004555,
+            118.24609939
+        ],
+        "address": "金門縣烈嶼鄉林湖村九井路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39856,
+        "name": "衛福部金門醫院烈嶼分院男廁",
+        "coords": [
+            24.43094911,
+            118.24262861
+        ],
+        "address": "金門縣烈嶼鄉上林村后井37號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 行政院衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39865,
+        "name": "金門陶瓷廠男廁",
+        "coords": [
+            24.43536089,
+            118.4069599
+        ],
+        "address": "金門縣金湖鎮新湖里漁村14號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣陶瓷廠。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39870,
+        "name": "北基后園68號加油站混合廁所",
+        "coords": [
+            24.43863571,
+            118.40502815
+        ],
+        "address": "金門縣金湖鎮新湖里后園68號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北基國際股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39873,
+        "name": "陳景蘭洋樓男廁",
+        "coords": [
+            24.43734437,
+            118.39001474
+        ],
+        "address": "金門縣金湖鎮正義里成功1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39886,
+        "name": "金城民防坑道出口處男廁",
+        "coords": [
+            24.43705946,
+            118.31229346
+        ],
+        "address": "金門縣金城鎮西門里光前路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 39916,
+        "name": "衛福部金門醫院女廁",
+        "coords": [
+            24.44160164,
+            118.4187438
+        ],
+        "address": "金門縣金湖鎮新市里復興路2之1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 行政院衛生福利部。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43408,
+        "name": "總兵署男廁",
+        "coords": [
+            24.43266032,
+            118.31890884
+        ],
+        "address": "金門縣金城鎮北門里浯江街53號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43410,
+        "name": "料羅碼頭1號男廁",
+        "coords": [
+            24.40788481,
+            118.42782268
+        ],
+        "address": "金門縣金湖鎮料羅里金港路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43421,
+        "name": "古崗樓男廁",
+        "coords": [
+            24.39586426,
+            118.31528429
+        ],
+        "address": "金門縣金城鎮古城里珠水路旁",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43849,
+        "name": "東林海濱公園女廁",
+        "coords": [
+            24.42514424,
+            118.25105343
+        ],
+        "address": "金門縣烈嶼鄉林湖村南環道",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43863,
+        "name": "社福館1F女廁",
+        "coords": [
+            24.45269446,
+            118.38090154
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43864,
+        "name": "社福館1F無障礙廁所",
+        "coords": [
+            24.45269446,
+            118.38090154
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43865,
+        "name": "金門陶瓷廠女廁",
+        "coords": [
+            24.43536089,
+            118.4069599
+        ],
+        "address": "金門縣金湖鎮新湖里漁村號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣陶瓷廠。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43876,
+        "name": "金酒公司行政大樓女廁",
+        "coords": [
+            24.43247195,
+            118.34323592
+        ],
+        "address": "金門縣金寧鄉榜林村桃園路1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門酒廠實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43877,
+        "name": "金民加油站男廁",
+        "coords": [
+            24.43921078,
+            118.33430635
+        ],
+        "address": "金門縣金寧鄉榜林村伯玉路二段161號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金民股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43878,
+        "name": "金門航空站特產中心旁女廁",
+        "coords": [
+            24.43529488,
+            118.36739726
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43879,
+        "name": "體育館-民族路側男廁",
+        "coords": [
+            24.43012638,
+            118.31430383
+        ],
+        "address": "金門縣金城鎮南門里民族路261號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43880,
+        "name": "體育館-北堤路側男廁",
+        "coords": [
+            24.42976496,
+            118.31432638
+        ],
+        "address": "金門縣金城鎮南門里民族路261號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43881,
+        "name": "金水國小男廁",
+        "coords": [
+            24.40947069,
+            118.29808426
+        ],
+        "address": "金門縣金城鎮金水里前水頭",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43928,
+        "name": "八達樓子女廁",
+        "coords": [
+            24.43004311,
+            118.24608866
+        ],
+        "address": "金門縣烈嶼鄉林湖村九井路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43929,
+        "name": "湖井頭戰史館男廁",
+        "coords": [
+            24.4466456,
+            118.23160741
+        ],
+        "address": "金門縣烈嶼鄉西口村北環道",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43930,
+        "name": "社福館1F男廁",
+        "coords": [
+            24.45269446,
+            118.38090154
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43931,
+        "name": "乳山遊客中心男廁",
+        "coords": [
+            24.43671334,
+            118.35338834
+        ],
+        "address": "金門縣金寧鄉盤山村桃園路196號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43932,
+        "name": "浯江溪停車場1號男廁",
+        "coords": [
+            24.42965971,
+            118.32124952
+        ],
+        "address": "金門縣金城鎮南門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43933,
+        "name": "文化中心女廁",
+        "coords": [
+            24.44097831,
+            118.32308553
+        ],
+        "address": "金門縣金城鎮西門里環島北路一段66號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43934,
+        "name": "古崗樓女廁",
+        "coords": [
+            24.39586195,
+            118.31528538
+        ],
+        "address": "金門縣金城鎮古城里珠水路旁",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43941,
+        "name": "金酒公司行政大樓男廁",
+        "coords": [
+            24.43243776,
+            118.34326275
+        ],
+        "address": "金門縣金寧鄉榜林村桃園路1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門酒廠實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43942,
+        "name": "蔣經國先生紀念館後側男廁",
+        "coords": [
+            24.43708466,
+            118.35366606
+        ],
+        "address": "金門縣金寧鄉盤山村桃園路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43943,
+        "name": "太武山1號男廁",
+        "coords": [
+            24.45612284,
+            118.40260996
+        ],
+        "address": "金門縣金湖鎮山外里玉章路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43944,
+        "name": "體育館-北堤路側女廁",
+        "coords": [
+            24.42978082,
+            118.31436463
+        ],
+        "address": "金門縣金城鎮南門里民族路261號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43949,
+        "name": "金門加油站男廁",
+        "coords": [
+            24.43602846,
+            118.32715038
+        ],
+        "address": "金門縣金寧鄉榜林村伯玉路一段",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 安佳信股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43950,
+        "name": "古寧頭戰史館女廁",
+        "coords": [
+            24.4832288,
+            118.32089777
+        ],
+        "address": "金門縣金寧鄉古寧村北山村456號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43951,
+        "name": "料羅碼頭2號男廁",
+        "coords": [
+            24.40801378,
+            118.43018208
+        ],
+        "address": "金門縣金湖鎮料羅里金港路",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43952,
+        "name": "水頭商港旅客服務中心無障礙廁所",
+        "coords": [
+            24.41539912,
+            118.2866849
+        ],
+        "address": "金門縣金城鎮金水里西海路一段5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43955,
+        "name": "上林將軍廟男廁",
+        "coords": [
+            24.42856004,
+            118.22855489
+        ],
+        "address": "金門縣烈嶼鄉上林村上林",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43956,
+        "name": "社福館演藝廳旁男廁",
+        "coords": [
+            24.45252838,
+            118.3811618
+        ],
+        "address": "金門縣金湖鎮瓊林里瓊徑路35號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣社會福利館。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43957,
+        "name": "衛福部金門醫院男廁",
+        "coords": [
+            24.44160164,
+            118.4187438
+        ],
+        "address": "金門縣金湖鎮新市里復興路2之1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 行政院衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43958,
+        "name": "金門航空站特產中心旁男廁",
+        "coords": [
+            24.43522385,
+            118.3673601
+        ],
+        "address": "金門縣金湖鎮正義里尚義機場2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43959,
+        "name": "水頭商港旅客服務中心男廁",
+        "coords": [
+            24.41541866,
+            118.28673854
+        ],
+        "address": "金門縣金城鎮金水里西海路一段5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43960,
+        "name": "浯江溪停車場2號男廁",
+        "coords": [
+            24.42940378,
+            118.31830429
+        ],
+        "address": "金門縣金城鎮東門里浯江溪停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43964,
+        "name": "后湖海濱公園男廁",
+        "coords": [
+            24.41655293,
+            118.34449874
+        ],
+        "address": "金門縣金寧鄉榜林村東湖路后湖",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43965,
+        "name": "古寧頭戰史館男廁",
+        "coords": [
+            24.4832288,
+            118.32089777
+        ],
+        "address": "金門縣金寧鄉古寧村北山村456號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43966,
+        "name": "中正公園老人休閒中心男廁",
+        "coords": [
+            24.43756878,
+            118.42374865
+        ],
+        "address": "金門縣金湖鎮新市里太湖路三段2號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43967,
+        "name": "中正公園老人休閒中心女廁",
+        "coords": [
+            24.43756878,
+            118.42374865
+        ],
+        "address": "金門縣金湖鎮新市里太湖路三段2號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金湖鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43968,
+        "name": "茅山塔男廁",
+        "coords": [
+            24.40947854,
+            118.29024838
+        ],
+        "address": "金門縣金城鎮金水里茅山塔停車場",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43969,
+        "name": "八達樓子男廁",
+        "coords": [
+            24.43003578,
+            118.24610207
+        ],
+        "address": "金門縣烈嶼鄉林湖村九井路",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 烈嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43970,
+        "name": "國家公園大門左側男廁",
+        "coords": [
+            24.44385638,
+            118.35353242
+        ],
+        "address": "金門縣金寧鄉后盤村伯玉路二段",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43971,
+        "name": "特約茶室展示館男廁",
+        "coords": [
+            24.44852012,
+            118.38492634
+        ],
+        "address": "金門縣金湖鎮瓊林里小徑126號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43972,
+        "name": "榕園男廁",
+        "coords": [
+            24.44373013,
+            118.43014453
+        ],
+        "address": "金門縣金湖鎮山外里安民",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43973,
+        "name": "體育館-民族路側女廁",
+        "coords": [
+            24.43012638,
+            118.31430383
+        ],
+        "address": "金門縣金城鎮南門里民族路261號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣運動發展中心。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43974,
+        "name": "統精加油站男廁",
+        "coords": [
+            24.4433729,
+            118.32587348
+        ],
+        "address": "金門縣金城鎮西門里環島北路一段138號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 統精股份有限公司。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 43985,
+        "name": "太武山1號女廁",
+        "coords": [
+            24.45612863,
+            118.4026125
+        ],
+        "address": "金門縣金湖鎮山外里太武山",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43986,
+        "name": "馬山觀測站男廁",
+        "coords": [
+            24.52762724,
+            118.40831922
+        ],
+        "address": "金門縣金沙鎮官嶼里馬山觀測站",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43987,
+        "name": "森林公園男廁",
+        "coords": [
+            24.45888717,
+            118.44245167
+        ],
+        "address": "金門縣金沙鎮大洋里林務所停車場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣林務所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43993,
+        "name": "水頭商港旅客服務中心女廁",
+        "coords": [
+            24.41550658,
+            118.28672782
+        ],
+        "address": "金門縣金城鎮金水里西海路一段5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣港務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43994,
+        "name": "沙美車站男廁",
+        "coords": [
+            24.48903257,
+            118.4133272
+        ],
+        "address": "金門縣金沙鎮汶沙里環島東路一段112號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 44001,
+        "name": "金水國小女廁",
+        "coords": [
+            24.40947069,
+            118.29808426
+        ],
+        "address": "金門縣金城鎮金水里前水頭",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 內政部國家公園署。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 44009,
+        "name": "浯江溪停車場3號男廁",
+        "coords": [
+            24.4290216,
+            118.31571059
+        ],
+        "address": "金門縣金城鎮東門里北堤路停車場",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣政府觀光處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 44010,
+        "name": "汶沙里菜市場男廁",
+        "coords": [
+            24.48989118,
+            118.41428462
+        ],
+        "address": "金門縣金沙鎮汶沙里汶沙里菜市場旁",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金沙鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 44017,
+        "name": "金城車站男廁",
+        "coords": [
+            24.43328784,
+            118.32006114
+        ],
+        "address": "金門縣金城鎮北門里民生路7號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金門縣公共車船管理處。公廁類別: 男廁所。公廁評級: 特優級。"
     }
 ]

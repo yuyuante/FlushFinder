@@ -1,1 +1,1750 @@
-[]
+[
+    {
+        "id": 1893,
+        "name": "南竿鄉仁愛遊客中心公廁-無障礙廁所",
+        "coords": [
+            26.1411603,
+            119.92727548
+        ],
+        "address": "連江縣南竿鄉仁愛村無",
+        "type": "觀光地區及風景區",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1914,
+        "name": "南竿鄉仁愛遊客中心公廁-女廁",
+        "coords": [
+            26.1411603,
+            119.92727548
+        ],
+        "address": "連江縣南竿鄉仁愛村無",
+        "type": "觀光地區及風景區",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖國家風景區管理處。公廁類別: 女廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 7193,
+        "name": "漁船碼頭公廁-男廁",
+        "coords": [
+            26.36566169,
+            120.48658864
+        ],
+        "address": "連江縣東引鄉樂華村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7249,
+        "name": "漁船碼頭公廁-無障礙廁",
+        "coords": [
+            26.367003,
+            120.48679
+        ],
+        "address": "連江縣東引鄉樂華村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7266,
+        "name": "漁船碼頭公廁-女廁",
+        "coords": [
+            26.36566169,
+            120.48658864
+        ],
+        "address": "連江縣東引鄉樂華村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7372,
+        "name": "南竿機場第二航廈公廁女廁",
+        "coords": [
+            26.15873531,
+            119.95568275
+        ],
+        "address": "連江縣南竿鄉復興村220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7389,
+        "name": "南竿機場第二航廈公廁無障礙廁所",
+        "coords": [
+            26.15810358,
+            119.9563694
+        ],
+        "address": "連江縣南竿鄉復興村220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 7446,
+        "name": "南竿機場第二航廈公廁男廁",
+        "coords": [
+            26.15741022,
+            119.95533943
+        ],
+        "address": "連江縣南竿鄉復興村220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10568,
+        "name": "津沙村(海堤旁)公廁-女廁",
+        "coords": [
+            26.14567733,
+            119.91236776
+        ],
+        "address": "連江縣南竿鄉津沙村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10569,
+        "name": "津沙村(海堤旁)公廁-男廁",
+        "coords": [
+            26.14567131,
+            119.91236508
+        ],
+        "address": "連江縣南竿鄉津沙村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10780,
+        "name": "枕戈待旦園區公廁-男廁",
+        "coords": [
+            26.15553186,
+            119.94023591
+        ],
+        "address": "連江縣南竿鄉福沃村福沃村",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10811,
+        "name": "枕戈待旦園區公廁-女廁",
+        "coords": [
+            26.15541871,
+            119.94025469
+        ],
+        "address": "連江縣南竿鄉福沃村福沃村",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10989,
+        "name": "莒光鄉公所二樓公廁-女廁",
+        "coords": [
+            25.97179489,
+            119.93286252
+        ],
+        "address": "連江縣莒光鄉青帆村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10990,
+        "name": "莒光鄉公所二樓公廁-男廁",
+        "coords": [
+            25.9716695,
+            119.93292153
+        ],
+        "address": "連江縣莒光鄉青帆村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12194,
+        "name": "大坪村公廁-無障礙廁所",
+        "coords": [
+            25.96280028,
+            119.9753058
+        ],
+        "address": "連江縣莒光鄉大坪村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12195,
+        "name": "田沃村公廁-男廁",
+        "coords": [
+            25.97589891,
+            119.9410218
+        ],
+        "address": "連江縣莒光鄉田沃村無",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12196,
+        "name": "西莒青帆村公廁-男廁",
+        "coords": [
+            25.97196369,
+            119.93239045
+        ],
+        "address": "連江縣莒光鄉青帆村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12217,
+        "name": "西莒青帆村公廁-女廁",
+        "coords": [
+            25.97199262,
+            119.9333024
+        ],
+        "address": "連江縣莒光鄉青帆村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12227,
+        "name": "大坪村公廁-女廁",
+        "coords": [
+            25.96288709,
+            119.97531652
+        ],
+        "address": "連江縣莒光鄉大坪村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12228,
+        "name": "田沃村公廁-女廁",
+        "coords": [
+            25.97586997,
+            119.94118273
+        ],
+        "address": "連江縣莒光鄉田沃村無",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12255,
+        "name": "大坪村公廁-男廁",
+        "coords": [
+            25.96117008,
+            119.97039199
+        ],
+        "address": "連江縣莒光鄉大坪村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12256,
+        "name": "田沃村公廁-無障礙廁所",
+        "coords": [
+            25.97588444,
+            119.941172
+        ],
+        "address": "連江縣莒光鄉田沃村無",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12438,
+        "name": "馬港天后宮下方入口處公廁-無障礙廁所",
+        "coords": [
+            26.15842811,
+            119.91830349
+        ],
+        "address": "連江縣南竿鄉馬祖村4-1號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖境天后宮廟宇管理委員會。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12443,
+        "name": "惠民市場公廁-男廁",
+        "coords": [
+            26.22295273,
+            119.9976781
+        ],
+        "address": "連江縣北竿鄉塘岐村無",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12444,
+        "name": "芹壁村新公廁-男廁",
+        "coords": [
+            26.22430498,
+            119.98202339
+        ],
+        "address": "連江縣北竿鄉芹壁村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12445,
+        "name": "珠螺村海濱公廁-女廁",
+        "coords": [
+            26.15834626,
+            119.93032515
+        ],
+        "address": "連江縣南竿鄉珠螺村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12446,
+        "name": "介壽村山隴澳口公園公廁-無障礙廁所",
+        "coords": [
+            26.15517554,
+            119.95137513
+        ],
+        "address": "連江縣南竿鄉介壽村介壽路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12447,
+        "name": "塘岐村停車場公廁-女廁",
+        "coords": [
+            26.22317121,
+            119.99875367
+        ],
+        "address": "連江縣北竿鄉塘岐村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12448,
+        "name": "塘岐村停車場公廁-男廁",
+        "coords": [
+            26.22293829,
+            119.99829769
+        ],
+        "address": "連江縣北竿鄉塘岐村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12449,
+        "name": "清水沃公園公廁-男廁",
+        "coords": [
+            26.15413066,
+            119.93754297
+        ],
+        "address": "連江縣南竿鄉清水村127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 清水境白馬尊王廟宇管理委員會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12450,
+        "name": "福澳救生大隊旁公廁-男廁",
+        "coords": [
+            26.15749039,
+            119.94080722
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12459,
+        "name": "惠民市場公廁-無障礙廁所",
+        "coords": [
+            26.22295634,
+            119.99768883
+        ],
+        "address": "連江縣北竿鄉塘岐村無",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12460,
+        "name": "芹壁村新公廁-女廁",
+        "coords": [
+            26.2243122,
+            119.98201668
+        ],
+        "address": "連江縣北竿鄉芹壁村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12461,
+        "name": "后澳村公廁-女廁",
+        "coords": [
+            26.22295273,
+            120.00657499
+        ],
+        "address": "連江縣北竿鄉后沃村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12466,
+        "name": "芹壁村新公廁-無障礙廁所",
+        "coords": [
+            26.22430739,
+            119.98202741
+        ],
+        "address": "連江縣北竿鄉芹壁村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12467,
+        "name": "清水沃公園公廁-無障礙廁所",
+        "coords": [
+            26.15414149,
+            119.93758321
+        ],
+        "address": "連江縣南竿鄉清水村127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 清水境白馬尊王廟宇管理委員會。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12470,
+        "name": "福澳港小三通航線-女廁",
+        "coords": [
+            26.16035891,
+            119.94406611
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12477,
+        "name": "后澳村公廁-男廁",
+        "coords": [
+            26.22295995,
+            120.00659913
+        ],
+        "address": "連江縣北竿鄉后沃村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12478,
+        "name": "馬港天后宮下方入口處公廁-女廁",
+        "coords": [
+            26.15844015,
+            119.91833031
+        ],
+        "address": "連江縣南竿鄉馬祖村4-1號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖境天后宮廟宇管理委員會。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12482,
+        "name": "福澳救生大隊旁公廁-無障礙廁所",
+        "coords": [
+            26.15751808,
+            119.94099498
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12483,
+        "name": "福澳救生大隊旁公廁-女廁",
+        "coords": [
+            26.15750845,
+            119.94097888
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12484,
+        "name": "福澳港旅客檢疫處(落地簽)-無障礙廁所",
+        "coords": [
+            26.158761,
+            119.945427
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12485,
+        "name": "福澳港旅客檢疫處(落地簽)-女廁",
+        "coords": [
+            26.1604865,
+            119.94417205
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12486,
+        "name": "福澳港旅客服務中心-男廁",
+        "coords": [
+            26.16019279,
+            119.94415998
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12491,
+        "name": "珠螺村海濱公廁-無障礙廁所",
+        "coords": [
+            26.15834144,
+            119.93031979
+        ],
+        "address": "連江縣南竿鄉珠螺村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12492,
+        "name": "珠螺村海濱公廁-男廁",
+        "coords": [
+            26.15834385,
+            119.93030906
+        ],
+        "address": "連江縣南竿鄉珠螺村無",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12493,
+        "name": "清水沃公園公廁-女廁",
+        "coords": [
+            26.15413668,
+            119.93754297
+        ],
+        "address": "連江縣南竿鄉清水村127號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 清水境白馬尊王廟宇管理委員會。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12494,
+        "name": "福澳運動場公廁-女廁",
+        "coords": [
+            26.15907813,
+            119.94354844
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12495,
+        "name": "馬港天后宮下方入口處公廁-男廁",
+        "coords": [
+            26.15844978,
+            119.91825789
+        ],
+        "address": "連江縣南竿鄉馬祖村4-1號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖境天后宮廟宇管理委員會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12496,
+        "name": "介壽村山隴澳口公園公廁-性別友善廁",
+        "coords": [
+            26.15506239,
+            119.95132148
+        ],
+        "address": "連江縣南竿鄉介壽村介壽路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12498,
+        "name": "福澳港台馬航線-女廁",
+        "coords": [
+            26.16023853,
+            119.94444698
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12499,
+        "name": "福澳港旅運大樓-無障礙廁所",
+        "coords": [
+            26.16020242,
+            119.94438529
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12504,
+        "name": "福澳港旅客檢疫處(落地簽)-男廁",
+        "coords": [
+            26.16045761,
+            119.94410902
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12505,
+        "name": "福澳港旅客服務中心-女廁",
+        "coords": [
+            26.16011094,
+            119.94413182
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12512,
+        "name": "福澳港台馬航線-無障礙廁所",
+        "coords": [
+            26.16023853,
+            119.94439602
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12513,
+        "name": "福澳港台馬航線-男廁",
+        "coords": [
+            26.16029631,
+            119.94432628
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12534,
+        "name": "福澳運動場公廁-男廁",
+        "coords": [
+            26.15912147,
+            119.94353235
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12535,
+        "name": "福澳港旅運大樓-女廁",
+        "coords": [
+            26.16013261,
+            119.94436249
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12536,
+        "name": "福澳港旅客服務中心-無障礙廁所",
+        "coords": [
+            26.16014224,
+            119.94432092
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12542,
+        "name": "福澳港小三通航線-無障礙廁所",
+        "coords": [
+            26.16033483,
+            119.94408488
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12543,
+        "name": "福澳港小三通航線-男廁",
+        "coords": [
+            26.16033242,
+            119.94403392
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12550,
+        "name": "福澳港旅運大樓-男廁",
+        "coords": [
+            26.16015668,
+            119.94442552
+        ],
+        "address": "連江縣南竿鄉福沃村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12741,
+        "name": "西莒陳元帥廟公廁-女廁",
+        "coords": [
+            25.97133433,
+            119.93236095
+        ],
+        "address": "連江縣莒光鄉青帆村無",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12794,
+        "name": "西莒陳元帥廟公廁-男廁",
+        "coords": [
+            25.97147177,
+            119.93232608
+        ],
+        "address": "連江縣莒光鄉青帆村無",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18855,
+        "name": "北竿機場航廈大廳女廁",
+        "coords": [
+            26.22342554,
+            119.99932632
+        ],
+        "address": "連江縣北竿鄉塘岐村261-2 號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18886,
+        "name": "南竿機場內候機室男廁",
+        "coords": [
+            26.15755058,
+            119.95558888
+        ],
+        "address": "連江縣南竿鄉復興村220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18912,
+        "name": "南竿機場內候機室女廁",
+        "coords": [
+            26.15737092,
+            119.95778561
+        ],
+        "address": "連江縣南竿鄉復興村220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18932,
+        "name": "南竿機場內候機室公廁無障礙廁所",
+        "coords": [
+            26.15754697,
+            119.95554328
+        ],
+        "address": "連江縣南竿鄉復興村220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18958,
+        "name": "南竿機場外候機室南側廁所",
+        "coords": [
+            26.15757104,
+            119.95536089
+        ],
+        "address": "連江縣南竿鄉復興村220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19003,
+        "name": "北竿機場航廈大廳男廁",
+        "coords": [
+            26.22339065,
+            119.99946445
+        ],
+        "address": "連江縣北竿鄉塘岐村261-2 號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19004,
+        "name": "北竿機場航廈內候機室女廁",
+        "coords": [
+            26.22350968,
+            119.99949603
+        ],
+        "address": "連江縣北竿鄉塘岐村261-2 號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19005,
+        "name": "南竿機場外候機室北側廁所",
+        "coords": [
+            26.15813199,
+            119.95568275
+        ],
+        "address": "連江縣南竿鄉復興村220號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19012,
+        "name": "北竿機場航廈內候機室男廁",
+        "coords": [
+            26.22350968,
+            119.99949603
+        ],
+        "address": "連江縣北竿鄉塘岐村261-2 號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19018,
+        "name": "北竿機場航廈大廳無障礙廁所",
+        "coords": [
+            26.22338584,
+            119.99936387
+        ],
+        "address": "連江縣北竿鄉塘岐村261-2 號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20285,
+        "name": "南竿鄉仁愛遊客中心公廁-男廁",
+        "coords": [
+            26.1411603,
+            119.92727548
+        ],
+        "address": "連江縣南竿鄉仁愛村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20296,
+        "name": "北海坑道旁公廁",
+        "coords": [
+            26.14241478,
+            119.92868364
+        ],
+        "address": "連江縣南竿鄉仁愛村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖國家風景區管理處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20304,
+        "name": "福正遊客中心公廁",
+        "coords": [
+            25.96526656,
+            119.98112692
+        ],
+        "address": "連江縣莒光鄉福正村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖國家風景區管理處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21195,
+        "name": "北竿鄉圖書館",
+        "coords": [
+            26.22338463,
+            119.99717653
+        ],
+        "address": "連江縣北竿鄉塘岐村塘岐村",
+        "type": "公廁",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 29402,
+        "name": "福正村公廁",
+        "coords": [
+            25.96934013,
+            119.98448968
+        ],
+        "address": "連江縣莒光鄉福正村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 30333,
+        "name": "樂華村公廁",
+        "coords": [
+            26.36650446,
+            120.48718929
+        ],
+        "address": "連江縣東引鄉樂華村無",
+        "type": "休閒娛樂場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 30347,
+        "name": "東湧燈塔公廁",
+        "coords": [
+            26.36709083,
+            120.50777793
+        ],
+        "address": "連江縣東引鄉樂華村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖國家風景區管理處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 30348,
+        "name": "中柳村公廁",
+        "coords": [
+            26.3678286,
+            120.48695058
+        ],
+        "address": "連江縣東引鄉中柳村無",
+        "type": "休閒娛樂場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 30407,
+        "name": "獅子村公廁",
+        "coords": [
+            26.36255115,
+            120.49007803
+        ],
+        "address": "連江縣東引鄉樂華村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 30408,
+        "name": "忠誠門公廁",
+        "coords": [
+            26.36707882,
+            120.48647314
+        ],
+        "address": "連江縣東引鄉中柳村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43591,
+        "name": "大浦公廁(聚落內)",
+        "coords": [
+            25.9552134,
+            119.97332633
+        ],
+        "address": "連江縣莒光鄉大坪村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43608,
+        "name": "東莒大埔石刻",
+        "coords": [
+            25.94975687,
+            119.96274233
+        ],
+        "address": "連江縣莒光鄉大坪村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣政府文化處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43616,
+        "name": "體育館公廁",
+        "coords": [
+            26.36841978,
+            120.48795372
+        ],
+        "address": "連江縣東引鄉中柳村無",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43617,
+        "name": "東引遊客服務中心",
+        "coords": [
+            26.36000847,
+            120.48374802
+        ],
+        "address": "連江縣東引鄉樂華村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖國家風景區管理處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43618,
+        "name": "西莒青帆碼頭",
+        "coords": [
+            25.967663,
+            119.93326217
+        ],
+        "address": "連江縣莒光鄉青帆村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站 。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43626,
+        "name": "四維公廁",
+        "coords": [
+            26.16876543,
+            119.91753235
+        ],
+        "address": "連江縣南竿鄉四維村無",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 縣市政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43634,
+        "name": "北竿遊客中心",
+        "coords": [
+            26.21594217,
+            119.97463524
+        ],
+        "address": "連江縣北竿鄉坂里村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬祖國家風景區管理處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43635,
+        "name": "北竿白沙碼頭",
+        "coords": [
+            26.20582683,
+            119.96922255
+        ],
+        "address": "連江縣北竿鄉白沙村無",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 連江縣港務處-西莒港務站。公廁類別: 混合廁所。公廁評級: 特優級。"
+    }
+]

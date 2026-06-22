@@ -1,1 +1,7412 @@
-[]
+[
+    {
+        "id": 1933,
+        "name": "隘門沙灘水上服務站女廁",
+        "coords": [
+            23.555598,
+            119.639189
+        ],
+        "address": "澎湖縣湖西鄉隘門村隘門沙灘",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1961,
+        "name": "隘門沙灘水上服務站男廁",
+        "coords": [
+            23.556134,
+            119.638918
+        ],
+        "address": "澎湖縣湖西鄉隘門村隘門沙灘",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2059,
+        "name": "隘門沙灘水上服務站無障礙廁",
+        "coords": [
+            23.556134,
+            159.638918
+        ],
+        "address": "澎湖縣湖西鄉隘門村隘門沙灘",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2523,
+        "name": "馬公重光休憩區親子廁",
+        "coords": [
+            23.584046,
+            119.564871
+        ],
+        "address": "澎湖縣馬公市重光里媽祖觀光文化園區",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2533,
+        "name": "馬公重光休憩區女廁",
+        "coords": [
+            23.583824,
+            119.564802
+        ],
+        "address": "澎湖縣馬公市重光里媽祖觀光文化園區",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2534,
+        "name": "馬公重光休憩區男廁",
+        "coords": [
+            23.584175,
+            119.565239
+        ],
+        "address": "澎湖縣馬公市重光里媽祖觀光文化園區",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2539,
+        "name": "馬公重光休憩區無障礙廁",
+        "coords": [
+            23.584248,
+            119.565876
+        ],
+        "address": "澎湖縣馬公市重光里媽祖觀光文化園區",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2681,
+        "name": "外垵三仙塔無障礙廁",
+        "coords": [
+            23.564554,
+            119.483454
+        ],
+        "address": "澎湖縣西嶼鄉外垵村三仙塔",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2682,
+        "name": "外垵三仙塔親子廁",
+        "coords": [
+            23.564554,
+            119.483545
+        ],
+        "address": "澎湖縣西嶼鄉外垵村三仙塔",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2749,
+        "name": "外垵三仙塔女廁",
+        "coords": [
+            23.564554,
+            119.483454
+        ],
+        "address": "澎湖縣西嶼鄉外垵村三仙塔",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2750,
+        "name": "外垵三仙塔男廁",
+        "coords": [
+            23.564554,
+            119.483454
+        ],
+        "address": "澎湖縣西嶼鄉外垵村三仙塔",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2831,
+        "name": "馬公國小停車場B1西側男廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2835,
+        "name": "中興國小停車場B1西側無障礙廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2836,
+        "name": "中興國小停車場B1西側男廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2848,
+        "name": "馬公國小停車場B2西側男廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2849,
+        "name": "馬公國小停車場B1東側無障礙廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2852,
+        "name": "中興國小停車場B2東側女廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2869,
+        "name": "馬公國小停車場B2東側男廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2870,
+        "name": "馬公國小停車場B1東側女廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2873,
+        "name": "中興國小停車場B1東側無障礙廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2893,
+        "name": "馬公國小停車場B2西側女廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2894,
+        "name": "馬公國小停車場B1西側親子廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2940,
+        "name": "馬公國小停車場B2東側女廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2941,
+        "name": "馬公國小停車場B2西側無障礙廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2942,
+        "name": "馬公國小停車場B1東側男廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2943,
+        "name": "馬公國小停車場B1西側無障礙廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2951,
+        "name": "馬公國小停車場B1西側女廁",
+        "coords": [
+            23.571981,
+            119.569868
+        ],
+        "address": "澎湖縣馬公市光明里明遠路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2955,
+        "name": "中興國小停車場B1東側男廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2956,
+        "name": "中興國小停車場B1西側女廁",
+        "coords": [
+            23.574066,
+            119.574118
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2962,
+        "name": "中興國小停車場B2東側男廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2963,
+        "name": "中興國小停車場B2西側男廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2964,
+        "name": "中興國小停車場B1東側女廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3017,
+        "name": "中興國小停車場B2西側女廁",
+        "coords": [
+            23.570827,
+            119.581594
+        ],
+        "address": "澎湖縣馬公市朝陽里光復路186號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府建設處工商發展科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3630,
+        "name": "五德自行園區無障礙廁",
+        "coords": [
+            23.52674,
+            119.59178
+        ],
+        "address": "澎湖縣馬公市五德里雞母塢41-11號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3631,
+        "name": "五德自行園區女廁",
+        "coords": [
+            23.52672,
+            119.59171
+        ],
+        "address": "澎湖縣馬公市五德里雞母塢41-11號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 3682,
+        "name": "五德自行園區男廁",
+        "coords": [
+            23.526728,
+            119.591718
+        ],
+        "address": "澎湖縣馬公市五德里雞母塢41-11號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 4916,
+        "name": "澎湖國際廣場北側性別友善廁",
+        "coords": [
+            23.56679476,
+            119.57763612
+        ],
+        "address": "澎湖縣馬公市西文里國際廣場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府工務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 4917,
+        "name": "澎湖國際廣場南側女廁",
+        "coords": [
+            23.56738972,
+            119.57654715
+        ],
+        "address": "澎湖縣馬公市西文里國際廣場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府工務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 4921,
+        "name": "澎湖國際廣場北側女廁",
+        "coords": [
+            23.56669151,
+            119.57764149
+        ],
+        "address": "澎湖縣馬公市西文里國際廣場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府工務處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 4935,
+        "name": "澎湖國際廣場北側無障礙廁",
+        "coords": [
+            23.56668167,
+            119.57772732
+        ],
+        "address": "澎湖縣馬公市西文里國際廣場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府工務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 4953,
+        "name": "澎湖國際廣場南側無障礙廁",
+        "coords": [
+            23.56749789,
+            119.57636476
+        ],
+        "address": "澎湖縣馬公市西文里國際廣場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府工務處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 4954,
+        "name": "澎湖國際廣場南側男廁",
+        "coords": [
+            23.5670947,
+            119.57779169
+        ],
+        "address": "澎湖縣馬公市西文里國際廣場",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府工務處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 5380,
+        "name": "池東公有零售市場女廁",
+        "coords": [
+            23.5993801,
+            119.5047889
+        ],
+        "address": "澎湖縣西嶼鄉池東村池東",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 5381,
+        "name": "池東公有零售市場男廁",
+        "coords": [
+            23.602519,
+            119.510334
+        ],
+        "address": "澎湖縣西嶼鄉池東村池東",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 5627,
+        "name": "西嶼大菓葉男廁",
+        "coords": [
+            23.60544,
+            119.519616
+        ],
+        "address": "澎湖縣西嶼鄉二崁村大果葉12號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 5661,
+        "name": "西嶼大菓葉親子廁所",
+        "coords": [
+            23.60544,
+            119.519616
+        ],
+        "address": "澎湖縣西嶼鄉二崁村大果葉12號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 5662,
+        "name": "西嶼大菓葉無障礙廁",
+        "coords": [
+            23.60544,
+            119.519616
+        ],
+        "address": "澎湖縣西嶼鄉二崁村大果葉12號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 5732,
+        "name": "西嶼大菓葉女廁",
+        "coords": [
+            23.60544,
+            119.519616
+        ],
+        "address": "澎湖縣西嶼鄉二崁村大果葉12號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6135,
+        "name": "北辰公有市場二樓後女廁",
+        "coords": [
+            23.571269,
+            119.57256
+        ],
+        "address": "澎湖縣馬公市陽明里北辰街20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6136,
+        "name": "北辰公有市場二樓前女廁",
+        "coords": [
+            23.57217,
+            119.572509
+        ],
+        "address": "澎湖縣馬公市陽明里北辰街20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6146,
+        "name": "北辰公有市場二樓前男廁",
+        "coords": [
+            23.57217,
+            119.572509
+        ],
+        "address": "澎湖縣馬公市陽明里北辰街20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 6149,
+        "name": "北辰公有市場二樓後男廁",
+        "coords": [
+            23.571269,
+            119.57256
+        ],
+        "address": "澎湖縣馬公市陽明里北辰街20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9051,
+        "name": "山水30高地公廁無障礙廁",
+        "coords": [
+            23.5125819,
+            119.58770692
+        ],
+        "address": "澎湖縣馬公市山水里山水",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9123,
+        "name": "山水30高地公廁女廁",
+        "coords": [
+            23.513653,
+            119.595918
+        ],
+        "address": "澎湖縣馬公市山水里山水",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9178,
+        "name": "山水30高地公廁男廁",
+        "coords": [
+            23.513653,
+            119.595918
+        ],
+        "address": "澎湖縣馬公市山水里山水",
+        "type": "觀光地區及風景區",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 9585,
+        "name": "龍門閉鎖陣地無障礙廁",
+        "coords": [
+            23.56539,
+            119.675994
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 9586,
+        "name": "龍門閉鎖陣地男廁",
+        "coords": [
+            23.55574581,
+            119.67567086
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門",
+        "type": "觀光地區及風景區",
+        "rating": 3.9,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 男廁所。公廁評級: 普通級。"
+    },
+    {
+        "id": 9620,
+        "name": "龍門閉鎖陣地女廁",
+        "coords": [
+            23.56539,
+            119.675994
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10094,
+        "name": "澎湖天后宮無障礙公廁",
+        "coords": [
+            23.5646445,
+            119.5637093
+        ],
+        "address": "澎湖縣馬公市中央里民族路正義街1號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣文化局展演科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10341,
+        "name": "馬公市清潔隊一樓男廁",
+        "coords": [
+            23.563665,
+            119.60475
+        ],
+        "address": "澎湖縣馬公市東衛里東衛600號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 10412,
+        "name": "馬公市清潔隊一樓女廁",
+        "coords": [
+            23.563665,
+            119.60475
+        ],
+        "address": "澎湖縣馬公市東衛里東衛600號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 11770,
+        "name": "龍門社區公廁男廁",
+        "coords": [
+            23.56539,
+            119.675994
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門99-1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 湖西鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 11781,
+        "name": "龍門社區公廁無障礙廁",
+        "coords": [
+            23.56539,
+            119.675994
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門99-1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 湖西鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 11801,
+        "name": "龍門社區公廁女廁",
+        "coords": [
+            23.56539,
+            119.675994
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門99-1號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 湖西鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12277,
+        "name": "台灣中油湖西加油站無障礙",
+        "coords": [
+            23.58450951,
+            119.6553719
+        ],
+        "address": "澎湖縣湖西鄉湖西村77號之15",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司湖西站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12283,
+        "name": "西嶼鄉立圖書館無障礙廁",
+        "coords": [
+            23.58438168,
+            119.50674534
+        ],
+        "address": "澎湖縣西嶼鄉赤馬村78-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12284,
+        "name": "西嶼鄉立圖書館男廁",
+        "coords": [
+            23.58399821,
+            119.50508237
+        ],
+        "address": "澎湖縣西嶼鄉赤馬村78-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12298,
+        "name": "西嶼鄉立圖書館女廁",
+        "coords": [
+            23.583853,
+            119.506947
+        ],
+        "address": "澎湖縣西嶼鄉赤馬村78-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12303,
+        "name": "東昌營區無障礙廁所",
+        "coords": [
+            23.56862879,
+            119.50668097
+        ],
+        "address": "澎湖縣西嶼鄉內垵村東昌營區",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12453,
+        "name": "赤崁攤販集中場女廁",
+        "coords": [
+            23.66713685,
+            119.60148096
+        ],
+        "address": "澎湖縣白沙鄉赤崁村359號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 12507,
+        "name": "瓦硐社區活動中心無障礙廁所",
+        "coords": [
+            23.6564096,
+            119.58832338
+        ],
+        "address": "澎湖縣白沙鄉瓦硐村40-2號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 無障礙廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 12520,
+        "name": "赤崁攤販集中場男廁",
+        "coords": [
+            23.711776,
+            119.609153
+        ],
+        "address": "澎湖縣白沙鄉赤崁村359號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 12544,
+        "name": "瓦硐社區活動中心女廁",
+        "coords": [
+            23.65638257,
+            119.58802029
+        ],
+        "address": "澎湖縣白沙鄉瓦硐村40-2號",
+        "type": "社福機構、集會場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 12545,
+        "name": "赤崁攤販集中場無障礙廁所",
+        "coords": [
+            23.66728425,
+            119.60197449
+        ],
+        "address": "澎湖縣白沙鄉赤崁村359號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 無障礙廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 12552,
+        "name": "瓦硐社區活動中心男廁",
+        "coords": [
+            23.65444,
+            119.589751
+        ],
+        "address": "澎湖縣白沙鄉瓦硐村40-2號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12985,
+        "name": "澎湖縣政府第3棟辦公大樓4樓男廁",
+        "coords": [
+            23.570475,
+            119.566998
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12986,
+        "name": "澎湖縣政府第3棟辦公大樓3樓男廁",
+        "coords": [
+            23.570502,
+            119.567091
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 12992,
+        "name": "菜園候船室無障礙公廁",
+        "coords": [
+            23.5493119,
+            119.5951027
+        ],
+        "address": "澎湖縣馬公市菜園里菜園45-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13000,
+        "name": "澎湖縣政府第3棟辦公大樓3樓女廁",
+        "coords": [
+            23.570502,
+            119.567091
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13001,
+        "name": "澎湖縣政府第3棟辦公大樓1樓男廁",
+        "coords": [
+            23.570476,
+            119.567231
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13017,
+        "name": "澎湖縣政府第3棟辦公大樓1樓女廁",
+        "coords": [
+            23.570476,
+            119.567231
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13043,
+        "name": "澎湖縣政府第3棟辦公大樓5樓女廁",
+        "coords": [
+            23.570179,
+            119.566761
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13044,
+        "name": "澎湖縣政府第3棟辦公大樓5樓男廁",
+        "coords": [
+            23.57088072,
+            119.5664835
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13088,
+        "name": "澎湖縣政府第3棟辦公大樓2樓女廁",
+        "coords": [
+            23.570439,
+            119.566904
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13111,
+        "name": "澎湖縣政府第3棟辦公大樓4樓女廁",
+        "coords": [
+            23.570475,
+            119.566998
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13120,
+        "name": "澎湖縣政府第3棟辦公大樓2樓男廁",
+        "coords": [
+            23.570439,
+            119.566904
+        ],
+        "address": "澎湖縣馬公市中興里治平路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13537,
+        "name": "吉貝大將軍爺廟男廁",
+        "coords": [
+            23.74674,
+            119.605778
+        ],
+        "address": "澎湖縣白沙鄉吉貝村吉貝",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13637,
+        "name": "吉貝大將軍爺廟女廁",
+        "coords": [
+            23.746693,
+            119.605918
+        ],
+        "address": "澎湖縣白沙鄉吉貝村吉貝",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13683,
+        "name": "吉貝大將軍爺廟無障礙廁",
+        "coords": [
+            23.746675,
+            119.605898
+        ],
+        "address": "澎湖縣白沙鄉吉貝村吉貝",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 13696,
+        "name": "吉貝海上樂園無障礙廁",
+        "coords": [
+            23.733147,
+            119.601919
+        ],
+        "address": "澎湖縣白沙鄉吉貝村吉貝",
+        "type": "觀光地區及風景區",
+        "rating": 4.5,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 無障礙廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 14474,
+        "name": "澎湖水族館一樓男廁",
+        "coords": [
+            23.650001,
+            119.604305
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 14524,
+        "name": "澎湖水族館二樓無障礙廁",
+        "coords": [
+            23.650001,
+            119.604305
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 14525,
+        "name": "澎湖水族館二樓男廁",
+        "coords": [
+            23.650001,
+            119.604305
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 14526,
+        "name": "澎湖水族館一樓女廁",
+        "coords": [
+            23.650001,
+            119.604305
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 14534,
+        "name": "澎湖水族館外無障礙廁",
+        "coords": [
+            23.650001,
+            119.604305
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 14560,
+        "name": "澎湖水族館二樓女廁",
+        "coords": [
+            23.650001,
+            119.604305
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 14565,
+        "name": "澎湖水族館外男廁",
+        "coords": [
+            23.6499845,
+            119.6040977
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 14609,
+        "name": "澎湖水族館外女廁",
+        "coords": [
+            23.650001,
+            119.604305
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 14639,
+        "name": "澎湖水族館一樓無障礙廁",
+        "coords": [
+            23.650001,
+            119.604305
+        ],
+        "address": "澎湖縣白沙鄉岐頭村58號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖水族館。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15497,
+        "name": "七美鄉公所男廁",
+        "coords": [
+            23.2067217,
+            119.4244895
+        ],
+        "address": "澎湖縣七美鄉中和村2鄰10號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15508,
+        "name": "白沙社福館一樓混合廁",
+        "coords": [
+            23.6488223,
+            119.6003081
+        ],
+        "address": "澎湖縣白沙鄉港子村54-2號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府社會處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15509,
+        "name": "七美鄉公所女廁",
+        "coords": [
+            23.2067077,
+            119.424478
+        ],
+        "address": "澎湖縣七美鄉中和村2鄰10號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15527,
+        "name": "白沙社福館一樓無障礙廁",
+        "coords": [
+            23.6488145,
+            119.6003131
+        ],
+        "address": "澎湖縣白沙鄉港子村54-2號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府社會處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 15528,
+        "name": "七美鄉公所無障礙廁",
+        "coords": [
+            23.2067105,
+            119.4244879
+        ],
+        "address": "澎湖縣七美鄉中和村2鄰10號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17160,
+        "name": "西嶼福利館女廁",
+        "coords": [
+            23.65410877,
+            119.51661587
+        ],
+        "address": "澎湖縣西嶼鄉小門村小門11-9號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼社會福利服務中心。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17273,
+        "name": "西嶼福利館親子廁所",
+        "coords": [
+            23.65407928,
+            119.5166266
+        ],
+        "address": "澎湖縣西嶼鄉小門村小門11-9號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼社會福利服務中心。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17291,
+        "name": "西嶼福利館男廁",
+        "coords": [
+            23.65408911,
+            119.5166266
+        ],
+        "address": "澎湖縣西嶼鄉小門村小門11-9號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼社會福利服務中心。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17567,
+        "name": "台灣中油通樑汽車加油站無障礙廁所",
+        "coords": [
+            23.65954569,
+            119.56277132
+        ],
+        "address": "澎湖縣白沙鄉通梁村25-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油通樑加油站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17983,
+        "name": "虎井西山女廁",
+        "coords": [
+            23.4864526,
+            119.5100982
+        ],
+        "address": "澎湖縣馬公市虎井里西山公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 17994,
+        "name": "桶盤公廁女廁",
+        "coords": [
+            23.51233389,
+            119.51764852
+        ],
+        "address": "澎湖縣馬公市桶盤里31-2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18014,
+        "name": "虎井西山無障礙公廁",
+        "coords": [
+            23.5656788,
+            119.4819465
+        ],
+        "address": "澎湖縣馬公市虎井里西山公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18015,
+        "name": "虎井西山男廁",
+        "coords": [
+            23.486455,
+            119.510095
+        ],
+        "address": "澎湖縣馬公市虎井里西山公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18026,
+        "name": "桶盤公廁無障礙廁",
+        "coords": [
+            23.5124826,
+            119.5179036
+        ],
+        "address": "澎湖縣馬公市桶盤里31-2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18027,
+        "name": "桶盤公廁男廁",
+        "coords": [
+            23.51233266,
+            119.51765656
+        ],
+        "address": "澎湖縣馬公市桶盤里31-2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18030,
+        "name": "菜園里女廁",
+        "coords": [
+            23.549818,
+            119.5967339
+        ],
+        "address": "澎湖縣馬公市菜園里海洋牧場",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18058,
+        "name": "吉貝海上樂園女廁",
+        "coords": [
+            23.733525,
+            119.602028
+        ],
+        "address": "澎湖縣白沙鄉吉貝村吉貝",
+        "type": "觀光地區及風景區",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 18059,
+        "name": "吉貝社區女廁",
+        "coords": [
+            23.7408178,
+            119.613157
+        ],
+        "address": "澎湖縣白沙鄉吉貝村78-9號",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18073,
+        "name": "菜園里男廁",
+        "coords": [
+            23.5498091,
+            119.596731
+        ],
+        "address": "澎湖縣馬公市菜園里海洋牧場",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 18080,
+        "name": "菜園里無障礙廁所",
+        "coords": [
+            23.5498059,
+            119.5967356
+        ],
+        "address": "澎湖縣馬公市菜園里海洋牧場",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 18103,
+        "name": "吉貝社區男廁",
+        "coords": [
+            23.7408178,
+            119.613157
+        ],
+        "address": "澎湖縣白沙鄉吉貝村78-9號",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18122,
+        "name": "菜園候船室女廁",
+        "coords": [
+            23.5495036,
+            119.595479
+        ],
+        "address": "澎湖縣馬公市菜園里菜園45-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18125,
+        "name": "東昌營區公廁女廁",
+        "coords": [
+            23.5687763,
+            119.50657368
+        ],
+        "address": "澎湖縣西嶼鄉內垵村東昌營區",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18167,
+        "name": "菜園候船室男廁",
+        "coords": [
+            23.5493077,
+            119.5952595
+        ],
+        "address": "澎湖縣馬公市菜園里菜園45-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18171,
+        "name": "東昌營區公廁男廁",
+        "coords": [
+            23.56865829,
+            119.50689554
+        ],
+        "address": "澎湖縣西嶼鄉內垵村東昌營區",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18235,
+        "name": "澎湖休憩園區女廁2(林務所旁)",
+        "coords": [
+            23.5572232,
+            119.6080235
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18236,
+        "name": "澎湖休憩園區無障礙廁1(水土教室旁)",
+        "coords": [
+            23.5586594,
+            119.6052821
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18257,
+        "name": "澎湖休憩園區男廁1(水土教室旁)",
+        "coords": [
+            23.5586363,
+            119.6053118
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18278,
+        "name": "澎湖休憩園區女廁3(花海區)",
+        "coords": [
+            23.5567444,
+            119.6109764
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18279,
+        "name": "澎湖休憩園區無障礙廁2(林務所旁)",
+        "coords": [
+            23.557574,
+            119.607939
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18286,
+        "name": "東衛石雕公園女廁",
+        "coords": [
+            23.570828,
+            119.598256
+        ],
+        "address": "澎湖縣馬公市東衛里東衛石雕公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18287,
+        "name": "澎湖休憩園區男廁2(林務所旁)",
+        "coords": [
+            23.5569492,
+            119.6081482
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18294,
+        "name": "澎湖休憩園區女廁1(水土教室旁)",
+        "coords": [
+            23.5587032,
+            119.60528
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18312,
+        "name": "澎湖休憩園區無障礙廁3(花海區)",
+        "coords": [
+            23.5567444,
+            119.6109764
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18313,
+        "name": "澎湖休憩園區男廁3(花海區)",
+        "coords": [
+            23.5567444,
+            119.6109764
+        ],
+        "address": "澎湖縣馬公市光華里光華休憩園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣林務公園管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18321,
+        "name": "岐頭遊客中心男廁",
+        "coords": [
+            23.6495006,
+            119.6092843
+        ],
+        "address": "澎湖縣白沙鄉岐頭村16-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18322,
+        "name": "澎湖海洋地質公園中心女廁",
+        "coords": [
+            23.566455,
+            119.579037
+        ],
+        "address": "澎湖縣馬公市西文里新明路71號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18324,
+        "name": "觀日樓公廁男廁",
+        "coords": [
+            23.5799569,
+            119.68042374
+        ],
+        "address": "澎湖縣湖西鄉菓葉村果葉觀日樓",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18334,
+        "name": "岐頭遊客中心無障礙廁",
+        "coords": [
+            23.6495369,
+            119.6096242
+        ],
+        "address": "澎湖縣白沙鄉岐頭村16-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18347,
+        "name": "東衛石雕公園無障礙廁",
+        "coords": [
+            23.5710184,
+            119.59768295
+        ],
+        "address": "澎湖縣馬公市東衛里東衛石雕公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18348,
+        "name": "東衛石雕公園男廁",
+        "coords": [
+            23.57068897,
+            119.59785461
+        ],
+        "address": "澎湖縣馬公市東衛里東衛石雕公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18372,
+        "name": "澎湖海洋地質公園中心男廁",
+        "coords": [
+            23.566455,
+            119.579037
+        ],
+        "address": "澎湖縣馬公市西文里新明路71號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府旅遊處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18386,
+        "name": "岐頭遊客中心女廁",
+        "coords": [
+            23.649513,
+            119.609282
+        ],
+        "address": "澎湖縣白沙鄉岐頭村16-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18387,
+        "name": "觀日樓公廁女廁",
+        "coords": [
+            23.58035022,
+            119.68008041
+        ],
+        "address": "澎湖縣湖西鄉菓葉村果葉觀日樓",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18440,
+        "name": "漁翁島遊客中心女廁",
+        "coords": [
+            23.645559,
+            119.548484
+        ],
+        "address": "澎湖縣西嶼鄉橫礁村1-2號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18455,
+        "name": "漁翁島遊客中心男廁",
+        "coords": [
+            23.639695,
+            119.540802
+        ],
+        "address": "澎湖縣西嶼鄉橫礁村1-2號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18644,
+        "name": "網垵口男廁",
+        "coords": [
+            23.35640073,
+            119.50303853
+        ],
+        "address": "澎湖縣望安鄉東安村東安",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18661,
+        "name": "網垵口女廁",
+        "coords": [
+            23.35640073,
+            119.50301707
+        ],
+        "address": "澎湖縣望安鄉東安村東安",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18673,
+        "name": "網垵口親子廁所",
+        "coords": [
+            23.35642043,
+            119.50301707
+        ],
+        "address": "澎湖縣望安鄉東安村東安",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18849,
+        "name": "虎井資訊站無障礙公廁",
+        "coords": [
+            23.486765,
+            119.517575
+        ],
+        "address": "澎湖縣馬公市虎井里虎井",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18867,
+        "name": "虎井資訊站女廁",
+        "coords": [
+            23.486827,
+            119.517547
+        ],
+        "address": "澎湖縣馬公市虎井里虎井",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18870,
+        "name": "北寮奎壁山男廁",
+        "coords": [
+            23.5972223,
+            119.6713827
+        ],
+        "address": "澎湖縣湖西鄉北寮村奎壁山地質公園",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18926,
+        "name": "虎井資訊站男廁",
+        "coords": [
+            23.48678,
+            119.51762
+        ],
+        "address": "澎湖縣馬公市虎井里虎井",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18928,
+        "name": "澎湖天后宮男廁",
+        "coords": [
+            23.5646364,
+            119.5637113
+        ],
+        "address": "澎湖縣馬公市中央里民族路正義街1號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣文化局展演科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18968,
+        "name": "內垵遊憩區無障礙廁所",
+        "coords": [
+            23.5701254,
+            119.5011633
+        ],
+        "address": "澎湖縣西嶼鄉內垵村內垵",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18969,
+        "name": "內垵遊憩區男廁",
+        "coords": [
+            23.5701254,
+            119.5011633
+        ],
+        "address": "澎湖縣西嶼鄉內垵村內垵",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18990,
+        "name": "北寮奎壁山女廁",
+        "coords": [
+            23.5973535,
+            119.6715053
+        ],
+        "address": "澎湖縣湖西鄉北寮村奎壁山地質公園",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18996,
+        "name": "澎湖天后宮女廁",
+        "coords": [
+            23.5646361,
+            119.5637332
+        ],
+        "address": "澎湖縣馬公市中央里民族路正義街1號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣文化局展演科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 18997,
+        "name": "北寮奎壁山無障礙廁",
+        "coords": [
+            23.5968131,
+            119.6712085
+        ],
+        "address": "澎湖縣湖西鄉北寮村奎壁山地質公園",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19047,
+        "name": "內垵遊憩區女廁",
+        "coords": [
+            23.570278,
+            119.4971751
+        ],
+        "address": "澎湖縣西嶼鄉內垵村內垵",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19522,
+        "name": "小赤社區活動中心無障礙廁所",
+        "coords": [
+            23.65977416,
+            119.59755957
+        ],
+        "address": "澎湖縣白沙鄉小赤村11-8號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19571,
+        "name": "小赤社區活動中心混合廁",
+        "coords": [
+            23.6597152,
+            119.59754884
+        ],
+        "address": "澎湖縣白沙鄉小赤村11-8號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19617,
+        "name": "潭邊社區混合廁",
+        "coords": [
+            23.59482971,
+            119.60793704
+        ],
+        "address": "澎湖縣湖西鄉潭邊村53號",
+        "type": "社福機構、集會場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 湖西鄉公所。公廁類別: 混合廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 19664,
+        "name": "統一超商揚光門市混合廁",
+        "coords": [
+            23.57190342,
+            119.57455158
+        ],
+        "address": "澎湖縣馬公市陽明里中華路175號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 統一超商揚光門市。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19702,
+        "name": "大池治安宮混合廁",
+        "coords": [
+            23.615848,
+            119.507037
+        ],
+        "address": "澎湖縣西嶼鄉大池村大池村",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 治安宮管理委員會。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19886,
+        "name": "望安綠觿龜保育中心女廁2",
+        "coords": [
+            23.364895,
+            119.507448
+        ],
+        "address": "澎湖縣望安鄉東安村1-4號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19911,
+        "name": "望安綠觿龜保育中心男廁2",
+        "coords": [
+            23.365178,
+            119.506995
+        ],
+        "address": "澎湖縣望安鄉東安村1-4號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19957,
+        "name": "望安綠蠵龜保育中心販賣部男廁",
+        "coords": [
+            23.364875,
+            119.506897
+        ],
+        "address": "澎湖縣望安鄉東安村1-4號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19966,
+        "name": "三十人公廟公廁男廁",
+        "coords": [
+            23.6628447,
+            119.5741759
+        ],
+        "address": "澎湖縣白沙鄉後寮村澎8-1縣道",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19972,
+        "name": "南海遊客服務中心無障礙廁",
+        "coords": [
+            23.56672101,
+            119.57270086
+        ],
+        "address": "澎湖縣馬公市光復里新營路25號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19982,
+        "name": "小門資訊站無障礙廁",
+        "coords": [
+            23.6514233,
+            119.5181317
+        ],
+        "address": "澎湖縣西嶼鄉小門村澎2鄉道",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19987,
+        "name": "望安綠觿龜保育中心販賣部女廁",
+        "coords": [
+            23.364992,
+            119.506597
+        ],
+        "address": "澎湖縣望安鄉東安村1-4號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19990,
+        "name": "二崁公廁女廁",
+        "coords": [
+            23.60400624,
+            119.51817155
+        ],
+        "address": "澎湖縣西嶼鄉二崁村二崁12之1",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19996,
+        "name": "二崁公廁無障礙廁",
+        "coords": [
+            23.60400624,
+            119.51830029
+        ],
+        "address": "澎湖縣西嶼鄉二崁村二崁12之1",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 19997,
+        "name": "二崁公廁男廁",
+        "coords": [
+            23.60407014,
+            119.51836467
+        ],
+        "address": "澎湖縣西嶼鄉二崁村二崁12之1",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20011,
+        "name": "小門資訊站女廁",
+        "coords": [
+            23.65138408,
+            119.51820374
+        ],
+        "address": "澎湖縣西嶼鄉小門村澎2鄉道",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20012,
+        "name": "三十人公廟公廁女廁",
+        "coords": [
+            23.6625892,
+            119.5742693
+        ],
+        "address": "澎湖縣白沙鄉後寮村澎8-1縣道",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20026,
+        "name": "小門資訊站男廁",
+        "coords": [
+            23.6513783,
+            119.5179633
+        ],
+        "address": "澎湖縣西嶼鄉小門村澎2鄉道",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西嶼鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20147,
+        "name": "澎湖縣長青活動中心無障礙廁",
+        "coords": [
+            23.567373,
+            119.561568
+        ],
+        "address": "澎湖縣馬公市中興里介壽路7-1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府社會處。公廁類別: 無障礙廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 20154,
+        "name": "林投公園無障礙廁(北側)",
+        "coords": [
+            23.5594452,
+            119.6426809
+        ],
+        "address": "澎湖縣湖西鄉林投村1-1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20188,
+        "name": "林投公園女廁(北側)",
+        "coords": [
+            23.5594251,
+            119.6426652
+        ],
+        "address": "澎湖縣湖西鄉林投村1-1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20193,
+        "name": "林投公園男廁(北側)",
+        "coords": [
+            23.5594452,
+            119.6426809
+        ],
+        "address": "澎湖縣湖西鄉林投村1-1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20286,
+        "name": "觀音亭運動公園北男廁",
+        "coords": [
+            23.5695481,
+            119.5631819
+        ],
+        "address": "澎湖縣馬公市中興里介壽路運動公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府林務公園管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20291,
+        "name": "西嶼西臺遊客中心男廁",
+        "coords": [
+            23.56503938,
+            119.4883883
+        ],
+        "address": "澎湖縣西嶼鄉外垵村8811 鄰 1 之 15 號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20298,
+        "name": "觀音亭運動公園北無障礙廁",
+        "coords": [
+            23.5695548,
+            119.5631527
+        ],
+        "address": "澎湖縣馬公市中興里介壽路運動公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府林務公園管理所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20299,
+        "name": "觀音亭運動公園北女廁",
+        "coords": [
+            23.569539,
+            119.5631943
+        ],
+        "address": "澎湖縣馬公市中興里介壽路運動公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府林務公園管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20302,
+        "name": "西嶼西臺遊客中心女廁",
+        "coords": [
+            23.56520656,
+            119.48812008
+        ],
+        "address": "澎湖縣西嶼鄉外垵村8811 鄰 1 之 15 號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 20345,
+        "name": "西嶼西臺遊客中心無障礙廁",
+        "coords": [
+            23.56520656,
+            119.48803425
+        ],
+        "address": "澎湖縣西嶼鄉外垵村8811 鄰 1 之 15 號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21322,
+        "name": "湖西鄉公所男廁",
+        "coords": [
+            23.58420469,
+            119.6524483
+        ],
+        "address": "澎湖縣湖西鄉湖西村43-11號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 湖西鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21405,
+        "name": "湖西鄉公所女廁",
+        "coords": [
+            23.58420961,
+            119.65245366
+        ],
+        "address": "澎湖縣湖西鄉湖西村43-11號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 湖西鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21429,
+        "name": "湖西鄉公所無障礙廁",
+        "coords": [
+            23.58416045,
+            119.65250731
+        ],
+        "address": "澎湖縣湖西鄉湖西村43-11號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 湖西鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21768,
+        "name": "雙心石滬女廁",
+        "coords": [
+            23.2192855,
+            119.4461516
+        ],
+        "address": "澎湖縣七美鄉東湖村頂隙20號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21771,
+        "name": "澎南圖書分館女廁",
+        "coords": [
+            23.52846119,
+            119.60276842
+        ],
+        "address": "澎湖縣馬公市鎖港里鎖港309號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21779,
+        "name": "雙心石滬無障礙廁",
+        "coords": [
+            23.2195226,
+            119.4461716
+        ],
+        "address": "澎湖縣七美鄉東湖村頂隙20號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21780,
+        "name": "雙心石滬男廁",
+        "coords": [
+            23.2195604,
+            119.4461977
+        ],
+        "address": "澎湖縣七美鄉東湖村頂隙20號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21800,
+        "name": "白沙鄉立圖書館二樓女廁",
+        "coords": [
+            23.66633108,
+            119.59852517
+        ],
+        "address": "澎湖縣白沙鄉赤崁村368號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21815,
+        "name": "澎南圖書分館男廁",
+        "coords": [
+            23.52844151,
+            119.60268259
+        ],
+        "address": "澎湖縣馬公市鎖港里鎖港309號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21825,
+        "name": "澎南圖書分館無障礙廁",
+        "coords": [
+            23.52852021,
+            119.60268259
+        ],
+        "address": "澎湖縣馬公市鎖港里鎖港309號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 21847,
+        "name": "白沙鄉立圖書館一樓男廁",
+        "coords": [
+            23.66632617,
+            119.59848225
+        ],
+        "address": "澎湖縣白沙鄉赤崁村368號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23142,
+        "name": "澎湖縣圖書館二樓女廁",
+        "coords": [
+            23.57018253,
+            119.57800627
+        ],
+        "address": "澎湖縣馬公市陽明里中華路236-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23143,
+        "name": "澎湖縣圖書館一樓無障礙廁",
+        "coords": [
+            23.57028087,
+            119.57798481
+        ],
+        "address": "澎湖縣馬公市陽明里中華路236-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23144,
+        "name": "生活博物館四樓男廁",
+        "coords": [
+            23.5670947,
+            119.57948685
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23145,
+        "name": "生活博物館三樓男廁",
+        "coords": [
+            23.56717337,
+            119.57946539
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23167,
+        "name": "演藝廳二樓女廁",
+        "coords": [
+            23.57153958,
+            119.5780921
+        ],
+        "address": "澎湖縣馬公市陽明里中華路230號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局展演科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23174,
+        "name": "演藝廳二樓男廁",
+        "coords": [
+            23.57149041,
+            119.57823157
+        ],
+        "address": "澎湖縣馬公市陽明里中華路230號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局展演科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23175,
+        "name": "演藝廳一樓女廁",
+        "coords": [
+            23.57154941,
+            119.57825303
+        ],
+        "address": "澎湖縣馬公市陽明里中華路230號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局展演科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23176,
+        "name": "生活博物館三樓無障礙廁",
+        "coords": [
+            23.56705536,
+            119.57948685
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23198,
+        "name": "演藝廳一樓男廁",
+        "coords": [
+            23.57148058,
+            119.57818866
+        ],
+        "address": "澎湖縣馬公市陽明里中華路230號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局展演科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23204,
+        "name": "澎湖縣圖書館一樓男廁",
+        "coords": [
+            23.5702022,
+            119.5780009
+        ],
+        "address": "澎湖縣馬公市陽明里中華路236-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23205,
+        "name": "演藝廳三樓男廁",
+        "coords": [
+            23.57140191,
+            119.57811356
+        ],
+        "address": "澎湖縣馬公市陽明里中華路230號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局展演科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23206,
+        "name": "生活博物館二樓無障礙廁",
+        "coords": [
+            23.56707503,
+            119.57940102
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23207,
+        "name": "生活博物館四樓無障礙廁",
+        "coords": [
+            23.56702586,
+            119.5793581
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23208,
+        "name": "生活博物館B1男廁",
+        "coords": [
+            23.56710453,
+            119.57941175
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23221,
+        "name": "演藝廳三樓女廁",
+        "coords": [
+            23.57157891,
+            119.57814574
+        ],
+        "address": "澎湖縣馬公市陽明里中華路230號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局展演科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23230,
+        "name": "澎湖縣圖書館二樓無障礙廁",
+        "coords": [
+            23.57024153,
+            119.57792044
+        ],
+        "address": "澎湖縣馬公市陽明里中華路236-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23231,
+        "name": "生活博物館一樓女廁",
+        "coords": [
+            23.5670947,
+            119.57946539
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23232,
+        "name": "生活博物館B1女廁",
+        "coords": [
+            23.56707503,
+            119.5795083
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23246,
+        "name": "生活博物館四樓女廁",
+        "coords": [
+            23.5670947,
+            119.57948685
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23247,
+        "name": "生活博物館一樓男廁",
+        "coords": [
+            23.5671537,
+            119.57955122
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23258,
+        "name": "澎湖縣圖書館二樓男廁",
+        "coords": [
+            23.57016286,
+            119.57794189
+        ],
+        "address": "澎湖縣馬公市陽明里中華路236-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23259,
+        "name": "澎湖縣圖書館一樓女廁",
+        "coords": [
+            23.5703202,
+            119.57796335
+        ],
+        "address": "澎湖縣馬公市陽明里中華路236-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23260,
+        "name": "生活博物館三樓女廁",
+        "coords": [
+            23.5670947,
+            119.57944393
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23261,
+        "name": "生活博物館二樓女廁",
+        "coords": [
+            23.56711437,
+            119.57946539
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23262,
+        "name": "生活博物館一樓無障礙廁",
+        "coords": [
+            23.56711437,
+            119.57944393
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23277,
+        "name": "生活博物館B1無障礙廁",
+        "coords": [
+            23.56704553,
+            119.57934737
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23278,
+        "name": "生活博物館二樓男廁",
+        "coords": [
+            23.56707503,
+            119.57944393
+        ],
+        "address": "澎湖縣馬公市西文里新生路327號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局博物館科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23297,
+        "name": "三總4F婦兒門診區混合廁",
+        "coords": [
+            23.5543503,
+            119.5836646
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23298,
+        "name": "三總2F門診區混合廁",
+        "coords": [
+            23.554834,
+            119.5839936
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23394,
+        "name": "三總B1購物區男廁",
+        "coords": [
+            23.5546832,
+            119.5839376
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23395,
+        "name": "三總1F急診室混合廁",
+        "coords": [
+            23.5543483,
+            119.5837472
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23396,
+        "name": "三總1F急診室女廁",
+        "coords": [
+            23.5545089,
+            119.5837293
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23411,
+        "name": "三總3F加護病房區女廁",
+        "coords": [
+            23.5546255,
+            119.5838046
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23412,
+        "name": "三總2F檢驗科前女廁",
+        "coords": [
+            23.5546545,
+            119.583826
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23413,
+        "name": "三總2F門診區無障礙廁所",
+        "coords": [
+            23.5548454,
+            119.5840455
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23414,
+        "name": "三總1F急診室無障礙廁所",
+        "coords": [
+            23.5543621,
+            119.5837191
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23427,
+        "name": "鴛鴦窟女廁",
+        "coords": [
+            23.362529,
+            119.506796
+        ],
+        "address": "澎湖縣望安鄉東安村東安",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23438,
+        "name": "三總B1購物區女廁",
+        "coords": [
+            23.55450661,
+            119.58390713
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23439,
+        "name": "三總4F婦兒門診區無障礙廁所",
+        "coords": [
+            23.5543332,
+            119.5837607
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23447,
+        "name": "三總2F復健區前混合廁",
+        "coords": [
+            23.55486067,
+            119.58420753
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23451,
+        "name": "三總2F復健區前無障礙廁所",
+        "coords": [
+            23.5543263,
+            119.5837009
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23452,
+        "name": "三總2F體檢區前男廁",
+        "coords": [
+            23.55462463,
+            119.58399296
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23458,
+        "name": "三總3F加護病房區男廁",
+        "coords": [
+            23.55458529,
+            119.5838213
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23459,
+        "name": "三總2F檢驗科前男廁",
+        "coords": [
+            23.5547305,
+            119.5838647
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23463,
+        "name": "七美鄉立圖書館男廁",
+        "coords": [
+            23.2047006,
+            119.4299926
+        ],
+        "address": "澎湖縣七美鄉中和村3-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23478,
+        "name": "鴛鴦窟男廁",
+        "coords": [
+            23.362529,
+            119.506796
+        ],
+        "address": "澎湖縣望安鄉東安村東安",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23479,
+        "name": "南海碼頭候船室男廁",
+        "coords": [
+            23.567122,
+            119.573642
+        ],
+        "address": "澎湖縣馬公市陽明里新營路100號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府車船管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23481,
+        "name": "鴛鴦窟親子廁",
+        "coords": [
+            23.362529,
+            119.506796
+        ],
+        "address": "澎湖縣望安鄉東安村東安",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23491,
+        "name": "三總1F門診區混合廁",
+        "coords": [
+            23.5548011,
+            119.5839337
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23493,
+        "name": "七美鄉立圖書館無障礙廁",
+        "coords": [
+            23.2047053,
+            119.4300168
+        ],
+        "address": "澎湖縣七美鄉中和村3-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23494,
+        "name": "七美鄉立圖書館女廁",
+        "coords": [
+            23.2046793,
+            119.4300535
+        ],
+        "address": "澎湖縣七美鄉中和村3-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 23511,
+        "name": "台灣中油望安加油站男廁",
+        "coords": [
+            23.36368929,
+            119.50760365
+        ],
+        "address": "澎湖縣望安鄉東安村2-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司望安站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23528,
+        "name": "三總2F體檢區前女廁",
+        "coords": [
+            23.5544867,
+            119.5837623
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23543,
+        "name": "三總1F放射科混合廁",
+        "coords": [
+            23.5547671,
+            119.5838776
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23544,
+        "name": "三總1F門診區無障礙公廁",
+        "coords": [
+            23.5548101,
+            119.5839137
+        ],
+        "address": "澎湖縣馬公市前寮里90號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三軍總醫院澎湖分院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23560,
+        "name": "南海碼頭候船室女廁",
+        "coords": [
+            23.567122,
+            119.573642
+        ],
+        "address": "澎湖縣馬公市陽明里新營路100號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府車船管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 23571,
+        "name": "南海碼頭候船室無障礙廁",
+        "coords": [
+            23.567122,
+            119.573642
+        ],
+        "address": "澎湖縣馬公市陽明里新營路100號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府車船管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 24150,
+        "name": "龍門後灣濱海公園無障礙廁",
+        "coords": [
+            23.5653445,
+            119.6822664
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門濱海園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 24307,
+        "name": "龍門後灣濱海公園男廁",
+        "coords": [
+            23.5653445,
+            119.6822664
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門濱海園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 24353,
+        "name": "龍門後灣濱海公園女廁",
+        "coords": [
+            23.5653445,
+            119.6822664
+        ],
+        "address": "澎湖縣湖西鄉龍門村龍門濱海園區",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 25194,
+        "name": "七美人塚無障礙廁",
+        "coords": [
+            23.1920893,
+            119.4264635
+        ],
+        "address": "澎湖縣七美鄉南港村1鄰1-4號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 28611,
+        "name": "澎湖縣環境保護局1F無障礙廁",
+        "coords": [
+            23.5619416,
+            119.61317539
+        ],
+        "address": "澎湖縣湖西鄉城北村大城北6-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 28612,
+        "name": "澎湖縣環境保護局1F男廁",
+        "coords": [
+            23.56217762,
+            119.61304665
+        ],
+        "address": "澎湖縣湖西鄉城北村大城北6-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 28647,
+        "name": "澎湖縣環境保護局2F女廁",
+        "coords": [
+            23.56202027,
+            119.61308956
+        ],
+        "address": "澎湖縣湖西鄉城北村大城北6-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 28648,
+        "name": "澎湖縣環境保護局2F男廁",
+        "coords": [
+            23.5616944,
+            119.6180606
+        ],
+        "address": "澎湖縣湖西鄉城北村大城北6-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 28655,
+        "name": "澎湖縣環境保護局1F女廁",
+        "coords": [
+            23.56190226,
+            119.61304665
+        ],
+        "address": "澎湖縣湖西鄉城北村大城北6-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 28663,
+        "name": "澎湖縣環境保護局2F無障礙廁",
+        "coords": [
+            23.56186292,
+            119.61308956
+        ],
+        "address": "澎湖縣湖西鄉城北村大城北6-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31695,
+        "name": "澎湖機場一樓旅客入境室男廁",
+        "coords": [
+            23.56001405,
+            119.63016987
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31729,
+        "name": "澎湖機場二樓內候機室國際線男廁",
+        "coords": [
+            23.55997471,
+            119.63023424
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31732,
+        "name": "望安機場候機室男廁",
+        "coords": [
+            23.36760426,
+            119.50181544
+        ],
+        "address": "澎湖縣望安鄉中社村156號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局望安航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31733,
+        "name": "澎湖機場二樓內候機室國際線無障礙廁",
+        "coords": [
+            23.55991571,
+            119.62996602
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31735,
+        "name": "澎湖機場二樓內候機室北側無障礙廁",
+        "coords": [
+            23.55999438,
+            119.63034153
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31736,
+        "name": "澎湖機場二樓外候機室南側無障礙廁",
+        "coords": [
+            23.56034842,
+            119.62936521
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31737,
+        "name": "澎湖機場地下室男廁",
+        "coords": [
+            23.56103683,
+            119.62982655
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31741,
+        "name": "七美機場候機室男廁",
+        "coords": [
+            23.2116004,
+            119.4177994
+        ],
+        "address": "澎湖縣七美鄉平和村頂茄埕55號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局七美航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31742,
+        "name": "望安機場候機室無障礙廁",
+        "coords": [
+            23.36743191,
+            119.50198174
+        ],
+        "address": "澎湖縣望安鄉中社村望安鄉156號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局望安航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31756,
+        "name": "文澳公有零售市場前女廁",
+        "coords": [
+            23.5652284,
+            119.5818213
+        ],
+        "address": "澎湖縣馬公市西文里文德路3號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 31757,
+        "name": "菊島之星農特產中心混合廁所",
+        "coords": [
+            23.56579661,
+            119.56989527
+        ],
+        "address": "澎湖縣馬公市光復里漁隆路50號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖區漁會。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31765,
+        "name": "七美機場候機室無障礙廁",
+        "coords": [
+            23.2116198,
+            119.4177883
+        ],
+        "address": "澎湖縣七美鄉平和村頂茄埕55號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局七美航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31766,
+        "name": "七美機場候機室女廁",
+        "coords": [
+            23.2116163,
+            119.4177975
+        ],
+        "address": "澎湖縣七美鄉平和村頂茄埕55號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局七美航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31768,
+        "name": "澎湖機場二樓內候機室國際線女廁",
+        "coords": [
+            23.55995504,
+            119.63032007
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31771,
+        "name": "澎湖機場二樓內候機室北側親子廁",
+        "coords": [
+            23.56003372,
+            119.63032007
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31772,
+        "name": "澎湖機場二樓外候機室北側無障礙廁",
+        "coords": [
+            23.56032875,
+            119.63044882
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31773,
+        "name": "澎湖機場二樓外候機室北側女廁",
+        "coords": [
+            23.56046644,
+            119.63038445
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31774,
+        "name": "澎湖機場二樓外候機室南側男廁",
+        "coords": [
+            23.56049594,
+            119.62940812
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31775,
+        "name": "澎湖機場一樓國際線候機室無障礙廁",
+        "coords": [
+            23.56049102,
+            119.62938666
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31776,
+        "name": "澎湖機場地下室女廁",
+        "coords": [
+            23.56097783,
+            119.6296978
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31777,
+        "name": "北辰公有零售市場後混合公廁",
+        "coords": [
+            23.57085122,
+            119.57089841
+        ],
+        "address": "澎湖縣馬公市陽明里北辰街20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31779,
+        "name": "澎湖機場二樓內候機室南側男廁",
+        "coords": [
+            23.56034842,
+            119.63047028
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31780,
+        "name": "澎湖機場二樓外候機室北側男廁",
+        "coords": [
+            23.56060412,
+            119.6302557
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31781,
+        "name": "澎湖機場二樓外候機室南側女廁",
+        "coords": [
+            23.56046644,
+            119.6294564
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31782,
+        "name": "澎湖機場一樓外候機室南側女廁",
+        "coords": [
+            23.56080081,
+            119.62955832
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31783,
+        "name": "文澳公有零售市場前男廁",
+        "coords": [
+            23.5652407,
+            119.5818608
+        ],
+        "address": "澎湖縣馬公市西文里文德路3號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 31784,
+        "name": "北辰公有零售市場後無障礙公廁",
+        "coords": [
+            23.57083156,
+            119.57087159
+        ],
+        "address": "澎湖縣馬公市陽明里北辰街20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31785,
+        "name": "台灣中油望安加油站女廁",
+        "coords": [
+            23.36284226,
+            119.50729251
+        ],
+        "address": "澎湖縣望安鄉東安村2之1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司望安站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31788,
+        "name": "澎湖機場一樓旅客入境室女廁",
+        "coords": [
+            23.5601714,
+            119.63021278
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31792,
+        "name": "澎湖機場二樓內候機室北側男廁",
+        "coords": [
+            23.5601714,
+            119.6302557
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31793,
+        "name": "澎湖機場二樓內候機室南側女廁",
+        "coords": [
+            23.56013698,
+            119.63023424
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31794,
+        "name": "北辰公有市場前男廁",
+        "coords": [
+            23.57011861,
+            119.57205176
+        ],
+        "address": "澎湖縣馬公市陽明里北辰街20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31796,
+        "name": "台灣中油池東加油站男廁",
+        "coords": [
+            23.60375062,
+            119.51127291
+        ],
+        "address": "澎湖縣西嶼鄉池東村小池角2之1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司池東站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31801,
+        "name": "七美人塚男廁",
+        "coords": [
+            23.1922967,
+            119.4263528
+        ],
+        "address": "澎湖縣七美鄉南港村1鄰1-4號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31802,
+        "name": "望安機場候機室女廁",
+        "coords": [
+            23.3675107,
+            119.50193882
+        ],
+        "address": "澎湖縣望安鄉中社村望安鄉156號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局望安航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31803,
+        "name": "澎湖機場一樓外候機室北側無障礙廁所",
+        "coords": [
+            23.55997471,
+            119.63016987
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31807,
+        "name": "澎湖機場二樓內候機室北側女廁",
+        "coords": [
+            23.56013206,
+            119.63021278
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31809,
+        "name": "澎湖機場一樓外候機室北側男廁",
+        "coords": [
+            23.56055495,
+            119.62945104
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31812,
+        "name": "澎湖機場二樓內候機室南側無障礙廁",
+        "coords": [
+            23.55995504,
+            119.63027716
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31813,
+        "name": "澎湖機場一樓國際線候機室男廁",
+        "coords": [
+            23.56063362,
+            119.62943494
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31814,
+        "name": "澎湖機場一樓外候機室北側女廁",
+        "coords": [
+            23.56087457,
+            119.62952077
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31815,
+        "name": "澎湖機場一樓外候機室南側男廁",
+        "coords": [
+            23.56093849,
+            119.62966561
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31816,
+        "name": "北辰公有市場前女廁",
+        "coords": [
+            23.56965642,
+            119.57169771
+        ],
+        "address": "澎湖縣馬公市陽明里北辰街20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31817,
+        "name": "台灣中油七美加油站女廁",
+        "coords": [
+            23.1948267,
+            119.4221713
+        ],
+        "address": "澎湖縣七美鄉南港村南滬1-2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司七美站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31818,
+        "name": "台灣中油外垵加油站混合廁",
+        "coords": [
+            23.564345,
+            119.4830972
+        ],
+        "address": "澎湖縣西嶼鄉外垵村89-2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油外垵加油站。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31819,
+        "name": "台灣中油池東加油站女廁",
+        "coords": [
+            23.60390792,
+            119.51120853
+        ],
+        "address": "澎湖縣西嶼鄉池東村小池角2之1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司池東站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31820,
+        "name": "台灣中油湖西加油站女廁",
+        "coords": [
+            23.58420469,
+            119.65523243
+        ],
+        "address": "澎湖縣湖西鄉湖西村湖西77號之15",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司湖西站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31828,
+        "name": "澎湖機場二樓內候機室南側親子廁",
+        "coords": [
+            23.56052544,
+            119.63029861
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31830,
+        "name": "澎湖機場一樓國際線候機室女廁",
+        "coords": [
+            23.56055003,
+            119.62940276
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31833,
+        "name": "台灣中油七美加油站男廁",
+        "coords": [
+            23.1947935,
+            119.422182
+        ],
+        "address": "澎湖縣七美鄉南港村南滬1-2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司七美站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31834,
+        "name": "澎湖機場一樓外候機室南側無障礙廁所",
+        "coords": [
+            23.56067296,
+            119.62947249
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31836,
+        "name": "文澳公有零售市場後無障礙廁",
+        "coords": [
+            23.5644832,
+            119.5816831
+        ],
+        "address": "澎湖縣馬公市西文里文德路3號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31837,
+        "name": "文澳公有零售市場前無障礙廁",
+        "coords": [
+            23.5651592,
+            119.5815409
+        ],
+        "address": "澎湖縣馬公市西文里文德路3號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 無障礙廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 31838,
+        "name": "台灣中油通梁加油站女廁",
+        "coords": [
+            23.6595384,
+            119.5629513
+        ],
+        "address": "澎湖縣白沙鄉通梁村25-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司通梁站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31851,
+        "name": "小門地質探索館男廁",
+        "coords": [
+            23.6539902,
+            119.5173751
+        ],
+        "address": "澎湖縣西嶼鄉小門村11-12號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31852,
+        "name": "吉貝海上樂園男廁",
+        "coords": [
+            23.733147,
+            119.601919
+        ],
+        "address": "澎湖縣白沙鄉吉貝村吉貝",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31853,
+        "name": "通樑社區無障礙廁",
+        "coords": [
+            23.65613075,
+            119.55749273
+        ],
+        "address": "澎湖縣白沙鄉通梁村通樑39-5號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31854,
+        "name": "通樑社區女廁",
+        "coords": [
+            23.65618971,
+            119.55753565
+        ],
+        "address": "澎湖縣白沙鄉通梁村通樑39-5號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31857,
+        "name": "港子社區活動中心男廁",
+        "coords": [
+            23.64900576,
+            119.59965706
+        ],
+        "address": "澎湖縣白沙鄉港子村54-5號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31860,
+        "name": "潭門港旅客服務中心無障礙廁",
+        "coords": [
+            23.36215281,
+            119.50749636
+        ],
+        "address": "澎湖縣望安鄉東安村2-13號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31870,
+        "name": "台灣中油馬公加油站男廁",
+        "coords": [
+            23.564964,
+            119.568673
+        ],
+        "address": "澎湖縣馬公市重慶里民福路18號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司馬公站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31871,
+        "name": "天台山親子廁",
+        "coords": [
+            23.38104233,
+            119.49488997
+        ],
+        "address": "澎湖縣望安鄉水垵村水垵",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31872,
+        "name": "天台山女廁",
+        "coords": [
+            23.38098325,
+            119.4949007
+        ],
+        "address": "澎湖縣望安鄉水垵村水垵",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31873,
+        "name": "潭門港旅客服務中心男廁",
+        "coords": [
+            23.36217251,
+            119.50751781
+        ],
+        "address": "澎湖縣望安鄉東安村2-13號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 31875,
+        "name": "潭門港旅客服務中心女廁",
+        "coords": [
+            23.36210357,
+            119.50745344
+        ],
+        "address": "澎湖縣望安鄉東安村2-13號",
+        "type": "觀光地區及風景區",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 31878,
+        "name": "大義宮男廁",
+        "coords": [
+            23.6329512,
+            119.5213838
+        ],
+        "address": "澎湖縣西嶼鄉竹灣村76號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大義宮管委會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31879,
+        "name": "小門地質探索館無障礙廁",
+        "coords": [
+            23.6539975,
+            119.5173624
+        ],
+        "address": "澎湖縣西嶼鄉小門村11-12號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31881,
+        "name": "吉貝遊客服務中心無障礙廁",
+        "coords": [
+            23.738588,
+            119.612922
+        ],
+        "address": "澎湖縣白沙鄉吉貝村182-2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31882,
+        "name": "澎湖機場一樓外候機室南側親子廁",
+        "coords": [
+            23.56056478,
+            119.62947249
+        ],
+        "address": "澎湖縣湖西鄉隘門村126-5號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部民用航空局澎湖航空站。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31883,
+        "name": "文澳公有零售市場後男廁",
+        "coords": [
+            23.5647688,
+            119.5814982
+        ],
+        "address": "澎湖縣馬公市西文里文德路3號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31884,
+        "name": "文澳公有零售市場後女廁",
+        "coords": [
+            23.5645093,
+            119.5816677
+        ],
+        "address": "澎湖縣馬公市西文里文德路3號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 馬公市公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31885,
+        "name": "台灣中油通梁加油站男廁",
+        "coords": [
+            23.6596453,
+            119.5630114
+        ],
+        "address": "澎湖縣白沙鄉通梁村25-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司通梁站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31886,
+        "name": "台灣中油湖西加油站男廁",
+        "coords": [
+            23.58416536,
+            119.65524316
+        ],
+        "address": "澎湖縣湖西鄉湖西村77號之15",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司湖西站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31892,
+        "name": "台灣中油馬公加油站女廁",
+        "coords": [
+            23.56525,
+            119.568712
+        ],
+        "address": "澎湖縣馬公市重慶里民福路18號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油公司馬公站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31903,
+        "name": "小門地質探索館女廁",
+        "coords": [
+            23.6539846,
+            119.5173948
+        ],
+        "address": "澎湖縣西嶼鄉小門村11-12號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31905,
+        "name": "跨海大橋橋頭公廁男廁",
+        "coords": [
+            23.65830747,
+            119.55447257
+        ],
+        "address": "澎湖縣白沙鄉通梁村橋頭",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31906,
+        "name": "天台山男廁",
+        "coords": [
+            23.38096355,
+            119.4949007
+        ],
+        "address": "澎湖縣望安鄉水垵村水垵",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31912,
+        "name": "大義宮女廁",
+        "coords": [
+            23.6329427,
+            119.5214023
+        ],
+        "address": "澎湖縣西嶼鄉竹灣村76號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大義宮管委會。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31914,
+        "name": "七美人塚女廁",
+        "coords": [
+            23.192258,
+            119.4263813
+        ],
+        "address": "澎湖縣七美鄉南港村1鄰1-4號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七美鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31920,
+        "name": "跨海大橋橋頭無障礙廁所",
+        "coords": [
+            23.65833204,
+            119.55452621
+        ],
+        "address": "澎湖縣白沙鄉通梁村橋頭",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31921,
+        "name": "後寮遊客服務中心無障礙廁",
+        "coords": [
+            23.6711383,
+            119.5708339
+        ],
+        "address": "澎湖縣白沙鄉後寮村104-18號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31923,
+        "name": "跨海大橋橋頭公廁女廁",
+        "coords": [
+            23.65836644,
+            119.55455303
+        ],
+        "address": "澎湖縣白沙鄉通梁村橋頭",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31924,
+        "name": "後寮遊客服務中心女廁",
+        "coords": [
+            23.6711089,
+            119.5707993
+        ],
+        "address": "澎湖縣白沙鄉後寮村104-18號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31925,
+        "name": "林投公園女廁(南側)",
+        "coords": [
+            23.5593931,
+            119.6419203
+        ],
+        "address": "澎湖縣湖西鄉林投村1-1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31928,
+        "name": "澎湖遊客服務中心男廁",
+        "coords": [
+            23.5560719,
+            119.606921
+        ],
+        "address": "澎湖縣馬公市光華里171號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31933,
+        "name": "吉貝遊客服務中心女廁",
+        "coords": [
+            23.738559,
+            119.61247
+        ],
+        "address": "澎湖縣白沙鄉吉貝村182-2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31942,
+        "name": "林投公園無障礙廁(南側)",
+        "coords": [
+            23.5593417,
+            119.642604
+        ],
+        "address": "澎湖縣湖西鄉林投村1-1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31944,
+        "name": "嵵裡社區公廁男廁",
+        "coords": [
+            23.5250802,
+            119.5701413
+        ],
+        "address": "澎湖縣馬公市嵵裡里蒔裡水仙宮",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 水仙宮管委會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31946,
+        "name": "後寮社區公廁女廁",
+        "coords": [
+            23.66710737,
+            119.5750773
+        ],
+        "address": "澎湖縣白沙鄉後寮村後寮92-1號",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31952,
+        "name": "林投公園男廁(南側)",
+        "coords": [
+            23.5594194,
+            119.6426619
+        ],
+        "address": "澎湖縣湖西鄉林投村1-1號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31954,
+        "name": "吉貝遊客服務中心男廁",
+        "coords": [
+            23.738558,
+            119.612555
+        ],
+        "address": "澎湖縣白沙鄉吉貝村182-2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31955,
+        "name": "通樑社區男廁",
+        "coords": [
+            23.65617006,
+            119.55755711
+        ],
+        "address": "澎湖縣白沙鄉通梁村通樑39-5號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31956,
+        "name": "後寮遊客服務中心男廁",
+        "coords": [
+            23.6711332,
+            119.5708937
+        ],
+        "address": "澎湖縣白沙鄉後寮村104-18號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處北海管理站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31966,
+        "name": "隘門沙灘無障礙廁",
+        "coords": [
+            23.55480658,
+            119.63831574
+        ],
+        "address": "澎湖縣湖西鄉隘門村隘門沙灘",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31967,
+        "name": "澎湖遊客服務中心女廁",
+        "coords": [
+            23.5560719,
+            119.606921
+        ],
+        "address": "澎湖縣馬公市光華里171號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31973,
+        "name": "港子社區活動中心女廁",
+        "coords": [
+            23.64900576,
+            119.59961414
+        ],
+        "address": "澎湖縣白沙鄉港子村54-5號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31975,
+        "name": "蒔裡社區公廁女廁",
+        "coords": [
+            23.5249728,
+            119.5701642
+        ],
+        "address": "澎湖縣馬公市嵵裡里蒔裡水仙宮",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 水仙宮管委會。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31983,
+        "name": "南海遊客服務中心女廁2",
+        "coords": [
+            23.56632765,
+            119.5720464
+        ],
+        "address": "澎湖縣馬公市光復里新營路25號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 31984,
+        "name": "澎湖縣長青活動中心男廁",
+        "coords": [
+            23.567373,
+            119.561568
+        ],
+        "address": "澎湖縣馬公市中興里介壽路7-1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府社會處。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 31985,
+        "name": "觀音亭運動公園南女廁",
+        "coords": [
+            23.56898281,
+            119.56279278
+        ],
+        "address": "澎湖縣馬公市中興里介壽路運動公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府林務公園管理所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32003,
+        "name": "後寮社區公廁男廁",
+        "coords": [
+            23.6670829,
+            119.57489
+        ],
+        "address": "澎湖縣白沙鄉後寮村後寮92-1號",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白沙鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32007,
+        "name": "隘門沙灘男廁",
+        "coords": [
+            23.55482133,
+            119.63830233
+        ],
+        "address": "澎湖縣湖西鄉隘門村隘門沙灘",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32008,
+        "name": "澎湖遊客服務中心無障礙廁",
+        "coords": [
+            23.5560719,
+            119.606921
+        ],
+        "address": "澎湖縣馬公市光華里171號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32017,
+        "name": "赤崁漁港加油站無障礙廁",
+        "coords": [
+            23.66687154,
+            119.60268259
+        ],
+        "address": "澎湖縣白沙鄉赤崁村37號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油赤崁漁船加油站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32024,
+        "name": "南海遊客服務中心男廁2",
+        "coords": [
+            23.56635715,
+            119.57211614
+        ],
+        "address": "澎湖縣馬公市光復里新營路25號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32025,
+        "name": "赤崁漁港加油站混合廁",
+        "coords": [
+            23.66687154,
+            119.60268259
+        ],
+        "address": "澎湖縣白沙鄉赤崁村37號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油赤崁漁船加油站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32037,
+        "name": "救國團青年活動中心女廁",
+        "coords": [
+            23.56851078,
+            119.56371546
+        ],
+        "address": "澎湖縣馬公市中興里介壽路11號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 救國團總部。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32038,
+        "name": "七美旅客服務中心女廁",
+        "coords": [
+            23.195792,
+            119.4191032
+        ],
+        "address": "澎湖縣七美鄉南港村南滬59號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32048,
+        "name": "澎湖公車總站女廁",
+        "coords": [
+            23.56736795,
+            119.56455029
+        ],
+        "address": "澎湖縣馬公市長安里民族路58-1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府公共車船管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32054,
+        "name": "澎湖縣立文化中心男廁",
+        "coords": [
+            23.57132324,
+            119.57756639
+        ],
+        "address": "澎湖縣馬公市陽明里中華路230號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32056,
+        "name": "七美旅客服務中心無障礙廁",
+        "coords": [
+            23.1963494,
+            119.4210158
+        ],
+        "address": "澎湖縣七美鄉南港村南滬59號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32058,
+        "name": "澎湖縣立文化中心女廁",
+        "coords": [
+            23.57150024,
+            119.57744837
+        ],
+        "address": "澎湖縣馬公市陽明里中華路230號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32059,
+        "name": "南海遊客服務中心男廁1",
+        "coords": [
+            23.5668046,
+            119.57253993
+        ],
+        "address": "澎湖縣馬公市光復里新營路25號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32060,
+        "name": "澎湖縣長青活動中心女廁",
+        "coords": [
+            23.567373,
+            119.561568
+        ],
+        "address": "澎湖縣馬公市中興里介壽路7-1號",
+        "type": "社福機構、集會場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府社會處。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 32066,
+        "name": "南海遊客服務中心男廁3",
+        "coords": [
+            23.56613097,
+            119.57182646
+        ],
+        "address": "澎湖縣馬公市光復里新營路25號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32067,
+        "name": "南海遊客服務中心女廁3",
+        "coords": [
+            23.56589495,
+            119.5719552
+        ],
+        "address": "澎湖縣馬公市光復里新營路25號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32068,
+        "name": "南海遊客服務中心女廁1",
+        "coords": [
+            23.56683902,
+            119.57254529
+        ],
+        "address": "澎湖縣馬公市光復里新營路25號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32070,
+        "name": "救國團青年活動中心男廁",
+        "coords": [
+            23.56855012,
+            119.56371546
+        ],
+        "address": "澎湖縣馬公市中興里介壽路11號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 救國團總部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32098,
+        "name": "觀音亭運動公園南男廁",
+        "coords": [
+            23.56949417,
+            119.5631361
+        ],
+        "address": "澎湖縣馬公市中興里介壽路運動公園",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府林務公園管理所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32112,
+        "name": "澎湖公車總站男廁",
+        "coords": [
+            23.5675138,
+            119.5645863
+        ],
+        "address": "澎湖縣馬公市長安里民族路58-1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府公共車船管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32123,
+        "name": "澎湖公車總站無障礙廁",
+        "coords": [
+            23.5675078,
+            119.5645053
+        ],
+        "address": "澎湖縣馬公市長安里民族路58-1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖縣政府公共車船管理處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32135,
+        "name": "馬公港旅客服務中心1F女廁",
+        "coords": [
+            23.56299387,
+            119.56440747
+        ],
+        "address": "澎湖縣馬公市啟明里臨海路36-1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司高雄港務公司馬公營運處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32195,
+        "name": "馬公港旅客服務中心1F男廁",
+        "coords": [
+            23.56301846,
+            119.56443429
+        ],
+        "address": "澎湖縣馬公市啟明里臨海路36-1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司高雄港務公司馬公營運處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 32242,
+        "name": "馬公港旅客服務中心1F無障礙廁",
+        "coords": [
+            23.56298404,
+            119.56439137
+        ],
+        "address": "澎湖縣馬公市啟明里臨海路36-1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣港務股份有限公司高雄港務公司馬公營運處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 43644,
+        "name": "七美旅客服務中心男廁",
+        "coords": [
+            23.1957767,
+            119.4190509
+        ],
+        "address": "澎湖縣七美鄉南港村南滬59號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澎湖國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    }
+]

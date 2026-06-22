@@ -93,9 +93,12 @@ async function run() {
 
     // 2. Fetch MOENV toilets with pagination (all 45,000+ records)
     const apiKey = process.env.MOENV_API_KEY;
-    if (!apiKey) {
-        console.error("ERROR: MOENV_API_KEY environment variable is not set. Cannot run full compilation.");
-        process.exit(1);
+    let getFetchUrl = (offset) => `https://flush-finder-sepia.vercel.app/api/toilets?limit=${limit}&offset=${offset}`;
+    if (apiKey) {
+        console.log("Found MOENV_API_KEY locally. Compiling directly from official MOENV API.");
+        getFetchUrl = (offset) => `https://data.moenv.gov.tw/api/v2/FAC_P_07?format=json&limit=${limit}&offset=${offset}&api_key=${apiKey}`;
+    } else {
+        console.log("No local MOENV_API_KEY found. Proxying request through live Vercel proxy.");
     }
 
     let apiToilets = [];
@@ -104,9 +107,9 @@ async function run() {
     let hasMore = true;
 
     while (hasMore) {
-        const moenvUrl = `https://data.moenv.gov.tw/api/v2/FAC_P_07?format=json&limit=${limit}&offset=${offset}&api_key=${apiKey}`;
+        const moenvUrl = getFetchUrl(offset);
         try {
-            console.log(`Fetching from MOENV API: offset ${offset}...`);
+            console.log(`Fetching offset ${offset}...`);
             const response = await fetch(moenvUrl);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
