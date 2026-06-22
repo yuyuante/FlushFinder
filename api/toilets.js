@@ -10,7 +10,9 @@ module.exports = (req, res) => {
     return;
   }
 
-  const moenvUrl = `https://data.moenv.gov.tw/api/v2/FAC_P_07?format=json&limit=500&api_key=${apiKey}`;
+  const limit = req.query.limit || 500;
+  const offset = req.query.offset || 0;
+  const moenvUrl = `https://data.moenv.gov.tw/api/v2/FAC_P_07?format=json&limit=${limit}&offset=${offset}&api_key=${apiKey}`;
   console.log(`[Vercel Serverless] Proxying request to MOENV API`);
   
   https.get(moenvUrl, (apiRes) => {
