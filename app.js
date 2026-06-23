@@ -930,10 +930,10 @@ function requestUserLocation() {
 }
 
 // Auto-select nearest toilet based on current data source
-function selectNearestToilet() {
+function selectNearestToilet(panMap = true) {
     const displayed = getSortedAndFilteredToilets();
     if (displayed.length > 0) {
-        selectToilet(displayed[0]);
+        selectToilet(displayed[0], panMap);
     }
 }
 
@@ -1024,8 +1024,12 @@ async function setUserLocation(lat, lng, isManualReload = false) {
     renderToiletMarkers();
     calculateAndDisplayToilets();
     
-    // If there is a currently selected toilet, update route and drawer details
-    if (selectedToiletId) {
+    // If it is a manual user action (search, drag, double-click, my location button),
+    // automatically select the new nearest toilet.
+    if (isManualReload) {
+        selectNearestToilet(false);
+    } else if (selectedToiletId) {
+        // If it is a periodic/background reload, keep the current selection and update path
         const selectedToilet = toiletsData.find(t => t.id === selectedToiletId);
         if (selectedToilet) {
             fetchActualWalkingRoute(selectedToilet);
@@ -1325,7 +1329,7 @@ function calculateAndDisplayToilets() {
 }
 
 // Select a toilet: pan map, highlight card & marker, display bottom sheet
-function selectToilet(toilet) {
+function selectToilet(toilet, panMap = true) {
     selectedToiletId = toilet.id;
 
     // Close sidebar on mobile when a toilet is selected
@@ -1360,7 +1364,9 @@ function selectToilet(toilet) {
     }
 
     // Pan map to toilet location
-    map.setView(toilet.coords, 16);
+    if (panMap) {
+        map.setView(toilet.coords, 16);
+    }
 
     // Open detail drawer
     showDetailDrawer(toilet);
