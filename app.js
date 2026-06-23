@@ -59,7 +59,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v35 (支援全台離線資料自動更新與境外切換)",
+        "app_version": "App 版本: v37 (優先使用環境部離線資料與語系優化版)",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -149,7 +149,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v35 (Full Taiwan offline auto-updates and automatic global source switching)",
+        "app_version": "App Version: v37 (Full Taiwan offline auto-updates and automatic global source switching)",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -238,7 +238,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v35 (台湾全土オフライン自動更新と自動グローバルソース切り替え)",
+        "app_version": "アプリバージョン: v37 (台湾全土オフライン自動更新と自動グローバルソース切り替え)",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -327,7 +327,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v35 (full offline-autouppdatering och automatisk global källbyte)",
+        "app_version": "App-version: v37 (full offline-autouppdatering och automatisk global källbyte)",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -416,7 +416,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v35 (ताइवान अफलाइन स्वचालित अपडेट र स्वचालित विश्वव्यापी स्रोत स्विचिङ)",
+        "app_version": "एप संस्करण: v37 (ताइवान अफलाइन स्वचालित अपडेट र स्वचालित विश्वव्यापी स्रोत स्विचिङ)",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
