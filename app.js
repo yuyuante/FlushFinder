@@ -40,7 +40,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v33 (支援全台離線資料自動更新與效能優化)",
+        "app_version": "App 版本: v34 (支援全台離線資料自動更新與搜尋/數量優化)",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -129,7 +129,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v33 (Full Taiwan offline auto-updates and performance optimizations)",
+        "app_version": "App Version: v34 (Full Taiwan offline auto-updates, search and radius optimizations)",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -218,7 +218,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v33 (台湾全土オフライン自動更新とパフォーマンス最適化)",
+        "app_version": "アプリバージョン: v34 (台湾全土オフライン自動更新と検索/数量最適化)",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -307,7 +307,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v33 (full offline-autouppdatering och prestandaoptimering)",
+        "app_version": "App-version: v34 (full offline-autouppdatering och radieoptimering)",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -396,7 +396,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v33 (ताइवान अफलाइन स्वचालित अपडेट र प्रदर्शन सुधार)",
+        "app_version": "एप संस्करण: v34 (ताइवान अफलाइन स्वचालित अपडेट र त्रिज्या सुधार)",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
@@ -1235,8 +1235,13 @@ function calculateAndDisplayToilets() {
     // 修改：改用 getSortedAndFilteredToilets() 限制前 50 筆
     const displayedToilets = getSortedAndFilteredToilets();
     
-    // 側邊欄上方標頭顯示篩選後的總數量（不受限制，提供直觀統計）
-    const totalCount = filterToiletData(toiletsData, activeFilter).length;
+    // 側邊欄上方標頭顯示篩選後的周邊 5 公里內數量（不受 50 筆限制，提供直觀統計）
+    const nearbyToilets = toiletsData.map(t => {
+        const dist = getDistance(userCoords, t.coords);
+        return { ...t, distance: dist };
+    }).filter(t => t.distance <= 5000); // 5000 公尺 (5公里)
+    
+    const totalCount = filterToiletData(nearbyToilets, activeFilter).length;
     document.getElementById("results-count").textContent = totalCount;
 
     // Render list
