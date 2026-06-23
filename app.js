@@ -94,7 +94,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v40 (新增境外搜尋半徑階梯式手動擴大功能)",
+        "app_version": "App 版本: v41 (修復 SW 靜態快取與全面移除原生 confirm)",
         "confirm_ok": "確定",
         "confirm_cancel": "取消",
         "modal_title_notice": "系統提示",
@@ -190,7 +190,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v40 (Stepped manual search radius expansion for global queries)",
+        "app_version": "App Version: v41 (Service Worker static cache fix & unified custom confirmations)",
         "confirm_ok": "OK",
         "confirm_cancel": "Cancel",
         "modal_title_notice": "Notice",
@@ -285,7 +285,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v40 (境外検索半径の段階的手動拡大機能追加)",
+        "app_version": "アプリバージョン: v41 (SW静的キャッシュの修正と自作confirmへの統一)",
         "confirm_ok": "確定",
         "confirm_cancel": "キャンセル",
         "modal_title_notice": "システム通知",
@@ -380,7 +380,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v40 (stegvis manuell sökradieexpansion för globala frågor)",
+        "app_version": "App-version: v41 (SW statisk cache-fix & enhetliga anpassade bekräftelser)",
         "confirm_ok": "OK",
         "confirm_cancel": "Avbryt",
         "modal_title_notice": "Meddelande",
@@ -475,7 +475,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v40 (म्यानुअल खोज दायरा विस्तार प्रकार्य थपियो)",
+        "app_version": "एप संस्करण: v41 (SW स्थिर क्यास फिक्स र एकीकृत अनुकूलन पुष्टिकरण)",
         "confirm_ok": "ठीक छ",
         "confirm_cancel": "रद्द गर्नुहोस्",
         "modal_title_notice": "सूचना",
@@ -1789,8 +1789,8 @@ function setupEventListeners() {
     // Clear cache button click listener
     const clearCacheBtn = document.getElementById("clear-cache-btn");
     if (clearCacheBtn) {
-        clearCacheBtn.addEventListener("click", async () => {
-            if (confirm(t("clear_cache_confirm"))) {
+        clearCacheBtn.addEventListener("click", () => {
+            showCustomConfirm(t("clear_cache_confirm"), async () => {
                 if ('serviceWorker' in navigator) {
                     try {
                         const registrations = await navigator.serviceWorker.getRegistrations();
@@ -1814,7 +1814,7 @@ function setupEventListeners() {
                     }
                 }
                 window.location.href = window.location.pathname + '?t=' + Date.now();
-            }
+            });
         });
     }
 }

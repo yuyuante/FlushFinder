@@ -4,7 +4,7 @@ const path = require('path');
 const selfsigned = require('selfsigned');
 const url = require('url');
 
-const PORT = 8443;
+const PORT = 8080;
 const KEY_PATH = path.join(__dirname, 'key.pem');
 const CERT_PATH = path.join(__dirname, 'cert.pem');
 
@@ -91,8 +91,9 @@ async function startServer() {
 
         const absPath = path.resolve(__dirname, filePath);
         
-        // Safety check: ensure the requested file is inside the workspace directory
-        if (!absPath.startsWith(__dirname)) {
+        // Safety check: ensure the requested file is inside the workspace directory (prevent traversal)
+        const relative = path.relative(__dirname, absPath);
+        if (relative.startsWith('..') || path.isAbsolute(relative)) {
             res.writeHead(403);
             res.end('Access Denied');
             return;

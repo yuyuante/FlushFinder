@@ -1,36 +1,14 @@
-const CACHE_NAME = 'flushfinder-v40';
+const CACHE_NAME = 'flushfinder-v41';
 const ASSETS = [
   './',
   './index.html',
-  './style.css?v=40',
-  './app.js?v=40',
+  './style.css?v=41',
+  './app.js?v=41',
   './icon-192.jpg',
   './icon-512.jpg',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
-  'https://unpkg.com/lucide@latest',
-  './data/taipei.json',
-  './data/new_taipei.json',
-  './data/taoyuan.json',
-  './data/taichung.json',
-  './data/tainan.json',
-  './data/kaohsiung.json',
-  './data/keelung.json',
-  './data/hsinchu_city.json',
-  './data/hsinchu_county.json',
-  './data/miaoli.json',
-  './data/changhua.json',
-  './data/nantou.json',
-  './data/yunlin.json',
-  './data/chiayi_city.json',
-  './data/chiayi_county.json',
-  './data/pingtung.json',
-  './data/yilan.json',
-  './data/hualien.json',
-  './data/taitung.json',
-  './data/penghu.json',
-  './data/kinmen.json',
-  './data/lienchiang.json'
+  'https://unpkg.com/lucide@latest'
 ];
 
 self.addEventListener('install', (e) => {
@@ -57,8 +35,8 @@ self.addEventListener('activate', (e) => {
 });
 
 self.addEventListener('fetch', (e) => {
-  // Only intercept GET requests and bypass proxy API requests
-  if (e.request.method !== 'GET' || e.request.url.includes('/api/toilets')) {
+  // Only intercept GET requests and bypass proxy API requests (both toilets and osm backend)
+  if (e.request.method !== 'GET' || e.request.url.includes('/api/toilets') || e.request.url.includes('/api/osm')) {
     return;
   }
   
