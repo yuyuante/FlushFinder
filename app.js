@@ -19,16 +19,21 @@ try {
 // Shadow the global localStorage with our safe version for the scope of this script
 const localStorage = safeLocalStorage;
 
-// ==================== CUSTOM ALERT MODAL OVERRIDE ====================
-window.alert = function(msg) {
+// ==================== CUSTOM ALERT MODAL ====================
+function showCustomAlert(msg) {
     const modal = document.getElementById("custom-alert-modal");
     const msgEl = document.getElementById("custom-alert-message");
     if (modal && msgEl) {
         msgEl.textContent = msg;
         modal.classList.add("active");
     } else {
-        console.log("Alert Fallback: " + msg);
+        console.log("Custom Alert Fallback: " + msg);
     }
+}
+
+// Keep window.alert override as an extra safety measure to catch other native alert calls
+window.alert = function(msg) {
+    showCustomAlert(msg);
 };
 
 // ==================== PWA MULTI-LANGUAGE LOCALIZATION (i18n) ====================
@@ -71,7 +76,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v38 (支援自訂提示視窗與選單遮罩修復)",
+        "app_version": "App 版本: v39 (優化自動更新與境外來源切換邏輯)",
         "confirm_ok": "確定",
         "modal_title_notice": "系統提示",
         
@@ -163,7 +168,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v38 (Custom alert dialogs and menu overlay fix)",
+        "app_version": "App Version: v39 (Auto updates and global source check optimizations)",
         "confirm_ok": "OK",
         "modal_title_notice": "Notice",
         
@@ -254,7 +259,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v38 (カスタムアラートダイアログとメニューオーバーレイ修正)",
+        "app_version": "アプリバージョン: v39 (自動更新とグローバルソース切り替え最適化)",
         "confirm_ok": "確定",
         "modal_title_notice": "システム通知",
         
@@ -345,7 +350,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v38 (anpassade varningsdialoger och menyöverläggningsfix)",
+        "app_version": "App-version: v39 (automatisk uppdatering och global källkontrolloptimering)",
         "confirm_ok": "OK",
         "modal_title_notice": "Meddelande",
         
@@ -436,7 +441,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v38 (अनुकूलन चेतावनी र मेनु ओभरले फिक्स)",
+        "app_version": "एप संस्करण: v39 (स्वचालित अपडेट र विश्वव्यापी स्रोत जाँच अनुकूलन)",
         "confirm_ok": "ठीक छ",
         "modal_title_notice": "सूचना",
         
@@ -844,8 +849,33 @@ async function initApp() {
     if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => {
             navigator.serviceWorker.register('./service-worker.js')
-                .then(reg => console.log('Service Worker registered successfully!', reg.scope))
+                .then(reg => {
+                    console.log('Service Worker registered successfully!', reg.scope);
+                    
+                    // Listen for updates to trigger automatic reload
+                    reg.addEventListener('updatefound', () => {
+                        const newWorker = reg.installing;
+                        if (newWorker) {
+                            newWorker.addEventListener('statechange', () => {
+                                if (newWorker.state === 'activated') {
+                                    console.log('[SW] New service worker activated, reloading...');
+                                    window.location.reload();
+                                }
+                            });
+                        }
+                    });
+                })
                 .catch(err => console.warn('Service Worker registration failed:', err));
+        });
+        
+        // Auto reload when the controller changes (e.g. claim() called on new service worker activation)
+        let refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', () => {
+            if (!refreshing) {
+                refreshing = true;
+                console.log('[SW] Controller changed, auto-reloading page...');
+                window.location.reload();
+            }
         });
     }
 
@@ -963,7 +993,7 @@ function requestUserLocation() {
             },
             async (error) => {
                 console.warn("無法取得精確定位，使用預設或先前位置:", error.message);
-                alert(t("gps_failed"));
+                showCustomAlert(t("gps_failed"));
                 await setUserLocation(userCoords[0], userCoords[1], true);
                 map.setView(userCoords, 15);
                 selectNearestToilet();
@@ -1034,7 +1064,7 @@ async function setUserLocation(lat, lng, isManualReload = false) {
         console.log(`[Source Auto Switch] Position [${lat}, ${lng}] is outside Taiwan. Switching source to 'osm'...`);
         source = 'osm';
         localStorage.setItem("flush_finder_source", "osm");
-        alert(t("source_switched_to_osm_alert"));
+        showCustomAlert(t("source_switched_to_osm_alert"));
     }
     
     // If OpenStreetMap is the source, refetch to load new regional data
@@ -1112,7 +1142,7 @@ async function searchAndSetLocation() {
     
     const query = inputEl.value.trim();
     if (!query) {
-        alert(t("input_empty_error"));
+        showCustomAlert(t("input_empty_error"));
         return;
     }
     
@@ -1169,11 +1199,11 @@ async function searchAndSetLocation() {
             // Center map smoothly on the searched location
             map.setView([lat, lng], 15);
         } else {
-            alert(t("search_failed_no_results", { query }));
+            showCustomAlert(t("search_failed_no_results", { query }));
         }
     } catch (err) {
         console.error("Nominatim Search API failed:", err);
-        alert(t("search_error"));
+        showCustomAlert(t("search_error"));
     } finally {
         if (btnEl) {
             btnEl.disabled = false;
@@ -1499,7 +1529,7 @@ function showDetailDrawer(toilet) {
     });
 
     document.getElementById("report-btn").addEventListener("click", () => {
-        alert(t("report_success_toast", { name: toilet.name }));
+        showCustomAlert(t("report_success_toast", { name: toilet.name }));
     });
 }
 
@@ -1907,9 +1937,15 @@ out center;`;
                 }).filter(t => t !== null);
                 console.log(`Loaded ${toiletsData.length} records from OpenStreetMap Overpass API`);
                 if (toiletsData.length === 0) {
-                    console.warn("OSM 找不到資料，將無縫切換為台灣環境部離線資料...");
-                    localStorage.setItem("flush_finder_source", "local");
-                    await loadToiletsData();
+                    const isUserWithinTaiwan = userCoords[0] >= 21.8 && userCoords[0] <= 25.4 && userCoords[1] >= 119.3 && userCoords[1] <= 122.1;
+                    if (isUserWithinTaiwan) {
+                        console.warn("OSM 找不到資料，將無縫切換為台灣環境部離線資料...");
+                        localStorage.setItem("flush_finder_source", "local");
+                        await loadToiletsData();
+                    } else {
+                        console.warn("OSM 找不到資料，但使用者在境外，不切換為本地離線資料");
+                        toiletsData = []; // Clear current toilets
+                    }
                     return;
                 }
                 return;
@@ -1918,9 +1954,16 @@ out center;`;
             }
         } catch (error) {
             console.error("無法自 OSM 讀取資料，嘗試切換為台灣環境部離線資料:", error);
-            alert(t("osm_failed_alert", { reason: error.message }));
-            localStorage.setItem("flush_finder_source", "local");
-            await loadToiletsData();
+            showCustomAlert(t("osm_failed_alert", { reason: error.message }));
+            
+            const isUserWithinTaiwan = userCoords[0] >= 21.8 && userCoords[0] <= 25.4 && userCoords[1] >= 119.3 && userCoords[1] <= 122.1;
+            if (isUserWithinTaiwan) {
+                localStorage.setItem("flush_finder_source", "local");
+                await loadToiletsData();
+            } else {
+                console.warn("載入 OSM 資料失敗，但使用者在境外，不切換為本地離線資料");
+                toiletsData = []; // Clear current toilets
+            }
             return;
         }
     }
