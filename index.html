@@ -19,7 +19,7 @@
     <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest"></script>
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="style.css?v=37">
+    <link rel="stylesheet" href="style.css?v=38">
 </head>
 <body>
     <div class="app-container">
@@ -134,7 +134,7 @@
                     </div>
 
                     <div style="margin-top: 8px; display: flex; align-items: center; justify-content: space-between; font-size: 11px; color: var(--text-secondary);">
-                        <span id="app-version-label" data-i18n="app_version">App 版本: v37 (優先使用環境部離線資料與語系優化版)</span>
+                        <span id="app-version-label" data-i18n="app_version">App 版本: v38 (支援自訂提示視窗與選單遮罩修復)</span>
                         <button id="clear-cache-btn" style="background: none; border: none; color: var(--primary); text-decoration: underline; cursor: pointer; font-size: 11px; padding: 0;" data-i18n="force_clear_cache">強制更新快取</button>
                     </div>
                 </div>
@@ -173,9 +173,25 @@
         </main>
     </div>
 
+    <!-- Custom Alert Modal -->
+    <div class="custom-modal-overlay" id="custom-alert-modal">
+        <div class="custom-modal-content">
+            <div class="custom-modal-header">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="modal-info-icon"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
+                <h3 class="custom-modal-title" data-i18n="modal_title_notice">系統提示</h3>
+            </div>
+            <div class="custom-modal-body">
+                <p id="custom-alert-message"></p>
+            </div>
+            <div class="custom-modal-footer">
+                <button class="btn btn-primary" id="custom-alert-close-btn" data-i18n="confirm_ok">確定</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Leaflet.js JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <!-- Custom JS -->
-    <script src="app.js?v=37"></script>
+    <script src="app.js?v=38"></script>
 </body>
 </html>
