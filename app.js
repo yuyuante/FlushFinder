@@ -40,7 +40,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v31 (支援全台離線資料自動更新)",
+        "app_version": "App 版本: v33 (支援全台離線資料自動更新與效能優化)",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -129,7 +129,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v31 (Full Taiwan offline auto-updates)",
+        "app_version": "App Version: v33 (Full Taiwan offline auto-updates and performance optimizations)",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -218,7 +218,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v31 (全台湾オフライン自動更新対応)",
+        "app_version": "アプリバージョン: v33 (台湾全土オフライン自動更新とパフォーマンス最適化)",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -307,7 +307,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v31 (full offline-autouppdatering)",
+        "app_version": "App-version: v33 (full offline-autouppdatering och prestandaoptimering)",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -396,7 +396,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v31 (ताइवान अफलाइन स्वचालित अपडेट)",
+        "app_version": "एप संस्करण: v33 (ताइवान अफलाइन स्वचालित अपडेट र प्रदर्शन सुधार)",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
@@ -616,6 +616,7 @@ let lastQueryCoords = null; // Last center coordinates used to evaluate county b
 // Configuration & Default Location (Daan District, Taipei)
 const DEFAULT_COORDS = [25.033964, 121.543413]; 
 let userCoords = [...DEFAULT_COORDS];
+const MAX_DISPLAY_TOILETS = 50; // 限制地圖標記與側邊卡片最大顯示數量，防止瀏覽器崩潰
 let map = null;
 let toiletMarkers = [];
 let userMarker = null;
@@ -929,22 +930,9 @@ function requestUserLocation() {
 
 // Auto-select nearest toilet based on current data source
 function selectNearestToilet() {
-    if (!toiletsData || toiletsData.length === 0) return;
-    
-    // Calculate distance and sort
-    const toiletsWithDistance = toiletsData.map(t => {
-        const dist = getDistance(userCoords, t.coords);
-        return {
-            ...t,
-            distance: dist
-        };
-    });
-    
-    toiletsWithDistance.sort((a, b) => a.distance - b.distance);
-    const filtered = filterToiletData(toiletsWithDistance, activeFilter);
-    
-    if (filtered.length > 0) {
-        selectToilet(filtered[0]);
+    const displayed = getSortedAndFilteredToilets();
+    if (displayed.length > 0) {
+        selectToilet(displayed[0]);
     }
 }
 
@@ -1003,7 +991,6 @@ async function setUserLocation(lat, lng, isManualReload = false) {
             `;
         }
         await loadToiletsData();
-        renderToiletMarkers();
     } else if (source === 'local') {
         let shouldReload = isManualReload;
         if (!shouldReload) {
@@ -1019,11 +1006,11 @@ async function setUserLocation(lat, lng, isManualReload = false) {
         
         if (shouldReload) {
             await loadToiletsData();
-            renderToiletMarkers();
         }
     }
     
-    // Recalculate distances and update results list
+    // Re-render markers and side panel list once
+    renderToiletMarkers();
     calculateAndDisplayToilets();
     
     // If there is a currently selected toilet, update route and drawer details
@@ -1033,6 +1020,27 @@ async function setUserLocation(lat, lng, isManualReload = false) {
             fetchActualWalkingRoute(selectedToilet);
         }
     }
+}
+
+// Helper to simplify Taiwan address search queries to street level by stripping house numbers
+function simplifyAddress(addr) {
+    if (!/[\u4e00-\u9fa5]/.test(addr)) {
+        return addr;
+    }
+    
+    // Strip leading postal code if any (e.g. 3 or 5 digits at the start)
+    let cleaned = addr.replace(/^\s*\d{3,5}\s+/, '');
+    
+    // Find the first index of an arabic digit
+    const match = cleaned.match(/\d/);
+    if (match) {
+        let simplified = cleaned.substring(0, match.index).trim();
+        simplified = simplified.replace(/[,，\s\-#之號]+$/, '');
+        if (simplified.length >= 3) {
+            return simplified;
+        }
+    }
+    return addr;
 }
 
 // Search location using Nominatim API and teleport userCoords
@@ -1069,11 +1077,25 @@ async function searchAndSetLocation() {
         }
 
         // Query OpenStreetMap Nominatim Search API
-        const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&limit=1&accept-language=${currentLang}`;
-        const res = await fetch(url);
+        let url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&limit=1&accept-language=${currentLang}`;
+        let res = await fetch(url);
         if (!res.ok) throw new Error("Nominatim API response failed");
         
-        const data = await res.json();
+        let data = await res.json();
+        
+        // Fallback: If no results found, simplify the address and try again
+        if ((!data || data.length === 0) && query) {
+            const simplifiedQuery = simplifyAddress(query);
+            if (simplifiedQuery && simplifiedQuery !== query) {
+                console.log(`Original query [${query}] returned no results. Trying simplified query [${simplifiedQuery}]...`);
+                url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(simplifiedQuery)}&limit=1&accept-language=${currentLang}`;
+                res = await fetch(url);
+                if (res.ok) {
+                    data = await res.json();
+                }
+            }
+        }
+        
         if (data && data.length > 0) {
             const firstResult = data[0];
             const lat = parseFloat(firstResult.lat);
@@ -1109,15 +1131,40 @@ function getIconName(type) {
     }
 }
 
+// ==================== 新增輔助函式 ====================
+// 取得排序、篩選且限制數量（前 50 筆）的公廁列表
+function getSortedAndFilteredToilets() {
+    if (!toiletsData || toiletsData.length === 0) return [];
+
+    // 1. 計算每座公廁與使用者目前的距離
+    const toiletsWithDistance = toiletsData.map(t => {
+        const dist = getDistance(userCoords, t.coords);
+        return {
+            ...t,
+            distance: dist // 公尺
+        };
+    });
+
+    // 2. 依距離由近到遠排序
+    toiletsWithDistance.sort((a, b) => a.distance - b.distance);
+
+    // 3. 套用目前的篩選條件（無障礙、親子、免費等）
+    const filtered = filterToiletData(toiletsWithDistance, activeFilter);
+
+    // 4. 僅回傳最近的前 50 筆
+    return filtered.slice(0, MAX_DISPLAY_TOILETS);
+}
+
 // Render toilet markers on the map
 function renderToiletMarkers() {
     // Clear old markers
     toiletMarkers.forEach(item => map.removeLayer(item.markerObject));
     toiletMarkers = [];
 
-    const filtered = filterToiletData(toiletsData, activeFilter);
+    // 修改：改用 getSortedAndFilteredToilets() 限制前 50 筆
+    const displayedToilets = getSortedAndFilteredToilets();
 
-    filtered.forEach(toilet => {
+    displayedToilets.forEach(toilet => {
         const iconName = getIconName(toilet.type);
         // Create custom Leaflet Marker HTML
         const iconHtml = `
@@ -1185,29 +1232,18 @@ function getDistance(coords1, coords2) {
 
 // Main logic to compute distances, sorting, and display
 function calculateAndDisplayToilets() {
-    // Add dynamic distance to toilets
-    const toiletsWithDistance = toiletsData.map(t => {
-        const dist = getDistance(userCoords, t.coords);
-        return {
-            ...t,
-            distance: dist // meters
-        };
-    });
-
-    // Sort by distance ascending
-    toiletsWithDistance.sort((a, b) => a.distance - b.distance);
-
-    // Apply active filter
-    const filtered = filterToiletData(toiletsWithDistance, activeFilter);
-
-    // Render count
-    document.getElementById("results-count").textContent = filtered.length;
+    // 修改：改用 getSortedAndFilteredToilets() 限制前 50 筆
+    const displayedToilets = getSortedAndFilteredToilets();
+    
+    // 側邊欄上方標頭顯示篩選後的總數量（不受限制，提供直觀統計）
+    const totalCount = filterToiletData(toiletsData, activeFilter).length;
+    document.getElementById("results-count").textContent = totalCount;
 
     // Render list
     const listContainer = document.getElementById("results-list");
     listContainer.innerHTML = "";
 
-    if (filtered.length === 0) {
+    if (displayedToilets.length === 0) {
         listContainer.innerHTML = `
             <div class="loading-state">
                 <i data-lucide="map-pin-off" style="width: 32px; height: 32px;"></i>
@@ -1218,7 +1254,7 @@ function calculateAndDisplayToilets() {
         return;
     }
 
-    filtered.forEach(toilet => {
+    displayedToilets.forEach(toilet => {
         const straightDist = Math.round(toilet.distance);
         const distStr = straightDist < 1000 
             ? `${t("distance_straight", { dist: straightDist })}` 
@@ -1674,17 +1710,42 @@ async function fetchOverpassData(query) {
     }
 }
 
+let activeLoadPromise = null;
+let activeLoadCounties = null;
+let activeLoadSource = null;
+
 // Load toilets data helper (API Proxy or local static json)
 async function loadToiletsData() {
     let source = localStorage.getItem("flush_finder_source") || "osm";
-    const sourceLabel = document.getElementById("data-source-label");
-    const sourceSelect = document.getElementById("source-select");
-    
-    // Sync source value and migrate legacy moenv settings
     if (source === "moenv") {
         source = "local";
         localStorage.setItem("flush_finder_source", "local");
     }
+    
+    // Evaluate target counties to fetch for local source
+    const countiesToLoad = source === 'local' ? getOverlapCounties(userCoords[0], userCoords[1]).sort().join(",") : "";
+
+    // Reuse the active loading Promise if details match exactly
+    if (activeLoadPromise && activeLoadSource === source && activeLoadCounties === countiesToLoad) {
+        console.log(`[Load Lock] Sharing existing active loading Promise for source: ${source}, counties: ${countiesToLoad}`);
+        return activeLoadPromise;
+    }
+
+    activeLoadSource = source;
+    activeLoadCounties = countiesToLoad;
+
+    activeLoadPromise = performLoadToiletsData(source);
+    try {
+        await activeLoadPromise;
+    } finally {
+        activeLoadPromise = null;
+    }
+}
+
+// Perform the actual toilets data loading (wrapped from original loadToiletsData)
+async function performLoadToiletsData(source) {
+    const sourceLabel = document.getElementById("data-source-label");
+    const sourceSelect = document.getElementById("source-select");
     
     if (sourceSelect) sourceSelect.value = source;
     
@@ -1806,7 +1867,7 @@ out center;`;
             try {
                 const response = await fetch(`data/${county}.json`);
                 if (!response.ok) {
-                    throw new Error(`HTTP error ${response.status}`);
+                    throw new Error("HTTP error " + response.status);
                 }
                 const data = await response.json();
                 countyCache[county] = data;
