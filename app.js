@@ -592,7 +592,7 @@ function applyLanguage(lang, isManual = false) {
 }
 
 function getCurrentSourceLabelKey() {
-    const source = localStorage.getItem("flush_finder_source") || "osm";
+    const source = localStorage.getItem("flush_finder_source") || "local";
     if (source === 'moenv') {
         const apiKey = localStorage.getItem("moenv_api_key") || "";
         return apiKey ? "source_label_moenv_custom" : "source_label_moenv_cloud";
@@ -1006,7 +1006,7 @@ async function setUserLocation(lat, lng, isManualReload = false) {
     
     // Check if within Taiwan bounds
     const isWithinTaiwan = lat >= 21.8 && lat <= 25.4 && lng >= 119.3 && lng <= 122.1;
-    let source = localStorage.getItem("flush_finder_source") || "osm";
+    let source = localStorage.getItem("flush_finder_source") || "local";
     
     if (!isWithinTaiwan && source === 'local') {
         console.log(`[Source Auto Switch] Position [${lat}, ${lng}] is outside Taiwan. Switching source to 'osm'...`);
@@ -1588,7 +1588,7 @@ function setupEventListeners() {
     const sourceSelect = document.getElementById("source-select");
     
     // Initial UI state setup based on saved source
-    let savedSource = localStorage.getItem("flush_finder_source") || "osm";
+    let savedSource = localStorage.getItem("flush_finder_source") || "local";
     if (savedSource === "moenv") {
         savedSource = "local";
         localStorage.setItem("flush_finder_source", "local");
@@ -1763,7 +1763,7 @@ let activeLoadSource = null;
 
 // Load toilets data helper (API Proxy or local static json)
 async function loadToiletsData() {
-    let source = localStorage.getItem("flush_finder_source") || "osm";
+    let source = localStorage.getItem("flush_finder_source") || "local";
     if (source === "moenv") {
         source = "local";
         localStorage.setItem("flush_finder_source", "local");

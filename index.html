@@ -19,7 +19,7 @@
     <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest"></script>
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="style.css?v=36">
+    <link rel="stylesheet" href="style.css?v=37">
 </head>
 <body>
     <div class="app-container">
@@ -101,8 +101,8 @@
                     <p class="settings-desc" data-i18n="settings_source_desc">選擇要載入的廁所資料來源：</p>
                     <div style="margin-bottom: 12px;">
                         <select id="source-select" style="width: 100%; padding: 8px; border-radius: 8px; border: 1px solid var(--border); background-color: var(--bg-primary); color: var(--text-primary); font-size: 12px; outline: none; cursor:pointer;">
-                            <option value="osm" data-i18n="source_osm">OpenStreetMap (全球即時免金鑰)</option>
                             <option value="local" data-i18n="source_local">台灣環境部公廁與商家資料 (支援離線)</option>
+                            <option value="osm" data-i18n="source_osm">OpenStreetMap (全球即時免金鑰)</option>
                         </select>
                     </div>
 
@@ -134,7 +134,7 @@
                     </div>
 
                     <div style="margin-top: 8px; display: flex; align-items: center; justify-content: space-between; font-size: 11px; color: var(--text-secondary);">
-                        <span id="app-version-label" data-i18n="app_version">App 版本: v36 (修正定位拖曳與系統語系偵測問題)</span>
+                        <span id="app-version-label" data-i18n="app_version">App 版本: v37 (優先使用環境部離線資料與語系優化版)</span>
                         <button id="clear-cache-btn" style="background: none; border: none; color: var(--primary); text-decoration: underline; cursor: pointer; font-size: 11px; padding: 0;" data-i18n="force_clear_cache">強制更新快取</button>
                     </div>
                 </div>
@@ -176,6 +176,6 @@
     <!-- Leaflet.js JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <!-- Custom JS -->
-    <script src="app.js?v=36"></script>
+    <script src="app.js?v=37"></script>
 </body>
 </html>
