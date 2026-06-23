@@ -40,7 +40,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v34 (支援全台離線資料自動更新與搜尋/數量優化)",
+        "app_version": "App 版本: v35 (支援全台離線資料自動更新與境外切換)",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -92,7 +92,8 @@ const TRANSLATIONS = {
         "tag_paid": "需低消/付費",
         
         "moenv_desc": "管理單位: {admin}。公廁類別: {type2}。公廁評級: {grade}。",
-        "osm_desc": "OSM ID: {id}。營運管理: {operator}。是否有無障礙: {wheelchair}。"
+        "osm_desc": "OSM ID: {id}。營運管理: {operator}。是否有無障礙: {wheelchair}。",
+        "source_switched_to_osm_alert": "偵測到您的位置在台灣境外，已自動將資料來源切換為 OpenStreetMap 以支援全球搜尋。"
     },
     "en": {
         "app_title": "FlushFinder - Nearby Toilet Instant Finder",
@@ -129,7 +130,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v34 (Full Taiwan offline auto-updates, search and radius optimizations)",
+        "app_version": "App Version: v35 (Full Taiwan offline auto-updates and automatic global source switching)",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -218,7 +219,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v34 (台湾全土オフライン自動更新と検索/数量最適化)",
+        "app_version": "アプリバージョン: v35 (台湾全土オフライン自動更新と自動グローバルソース切り替え)",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -307,7 +308,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v34 (full offline-autouppdatering och radieoptimering)",
+        "app_version": "App-version: v35 (full offline-autouppdatering och automatisk global källbyte)",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -396,7 +397,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v34 (ताइवान अफलाइन स्वचालित अपडेट र त्रिज्या सुधार)",
+        "app_version": "एप संस्करण: v35 (ताइवान अफलाइन स्वचालित अपडेट र स्वचालित विश्वव्यापी स्रोत स्विचिङ)",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
@@ -978,8 +979,18 @@ async function setUserLocation(lat, lng, isManualReload = false) {
     // Resolve user's actual location address in header
     resolveUserCurrentAddress(lat, lng);
     
+    // Check if within Taiwan bounds
+    const isWithinTaiwan = lat >= 21.8 && lat <= 25.4 && lng >= 119.3 && lng <= 122.1;
+    let source = localStorage.getItem("flush_finder_source") || "osm";
+    
+    if (!isWithinTaiwan && source === 'local') {
+        console.log(`[Source Auto Switch] Position [${lat}, ${lng}] is outside Taiwan. Switching source to 'osm'...`);
+        source = 'osm';
+        localStorage.setItem("flush_finder_source", "osm");
+        alert(t("source_switched_to_osm_alert"));
+    }
+    
     // If OpenStreetMap is the source, refetch to load new regional data
-    const source = localStorage.getItem("flush_finder_source") || "osm";
     if (source === 'osm') {
         const resultsList = document.getElementById("results-list");
         if (resultsList) {
