@@ -36,6 +36,24 @@ window.alert = function(msg) {
     showCustomAlert(msg);
 };
 
+// ==================== CUSTOM CONFIRM MODAL ====================
+let customConfirmCallback = null;
+
+function showCustomConfirm(msg, callback) {
+    const modal = document.getElementById("custom-confirm-modal");
+    const msgEl = document.getElementById("custom-confirm-message");
+    if (modal && msgEl) {
+        msgEl.textContent = msg;
+        customConfirmCallback = callback;
+        modal.classList.add("active");
+    } else {
+        // Fallback to native confirm if DOM is not ready
+        if (confirm(msg)) {
+            callback();
+        }
+    }
+}
+
 // ==================== PWA MULTI-LANGUAGE LOCALIZATION (i18n) ====================
 let currentLang = "en"; // default fallback
 let currentSourceLabelKey = "source_label_local"; // default fallback
@@ -76,9 +94,13 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v39 (優化自動更新與境外來源切換邏輯)",
+        "app_version": "App 版本: v40 (新增境外搜尋半徑階梯式手動擴大功能)",
         "confirm_ok": "確定",
+        "confirm_cancel": "取消",
         "modal_title_notice": "系統提示",
+        "radius_expand_confirm_1km": "附近 500 公尺內無公廁，是否嘗試擴大搜尋範圍至 1 公里？",
+        "radius_expand_confirm_2km": "附近 1 公里內無公廁，是否嘗試擴大搜尋範圍至 2 公里？",
+        "radius_max_reached": "已達到最大搜尋範圍（2公里），在此區域找不到任何公廁資訊。",
         
         "gps_locating": "正在取得 GPS 精確定位...",
         "gps_failed": "無法取得 GPS 精確定位，系統已為您使用預設或先前的位置。您可以透過搜尋欄、拖曳藍色定位點或在地圖上按兩下，手動修正位置。",
@@ -168,9 +190,13 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v39 (Auto updates and global source check optimizations)",
+        "app_version": "App Version: v40 (Stepped manual search radius expansion for global queries)",
         "confirm_ok": "OK",
+        "confirm_cancel": "Cancel",
         "modal_title_notice": "Notice",
+        "radius_expand_confirm_1km": "No toilets found within 500m. Expand search radius to 1km?",
+        "radius_expand_confirm_2km": "No toilets found within 1km. Expand search radius to 2km?",
+        "radius_max_reached": "Maximum search radius (2km) reached. No toilets found in this area.",
         
         "gps_locating": "Getting accurate GPS coordinates...",
         "gps_failed": "Could not get GPS precision location. Loaded default or previous location. You can search, drag the blue marker, or double-click to modify.",
@@ -259,9 +285,13 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v39 (自動更新とグローバルソース切り替え最適化)",
+        "app_version": "アプリバージョン: v40 (境外検索半径の段階的手動拡大機能追加)",
         "confirm_ok": "確定",
+        "confirm_cancel": "キャンセル",
         "modal_title_notice": "システム通知",
+        "radius_expand_confirm_1km": "500m以内にトイレが見つかりません。検索範囲を1kmに拡大しますか？",
+        "radius_expand_confirm_2km": "1km以内にトイレが見つかりません。検索範囲を2kmに拡大しますか？",
+        "radius_max_reached": "最大検索範囲（2km）に達しました。この地域にトイレが見つかりませんでした。",
         
         "gps_locating": "高精度のGPS位置情報を取得中...",
         "gps_failed": "GPS位置情報を取得できませんでした。デフォルトまたは前回の位置を使用します。検索、ピンのドラッグ、または地図のダブルクリックで位置を調整できます。",
@@ -350,9 +380,13 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v39 (automatisk uppdatering och global källkontrolloptimering)",
+        "app_version": "App-version: v40 (stegvis manuell sökradieexpansion för globala frågor)",
         "confirm_ok": "OK",
+        "confirm_cancel": "Avbryt",
         "modal_title_notice": "Meddelande",
+        "radius_expand_confirm_1km": "Inga toaletter hittades inom 500m. Expandera sökradien till 1km?",
+        "radius_expand_confirm_2km": "Inga toaletter hittades inom 1km. Expandera sökradien till 2km?",
+        "radius_max_reached": "Maximal sökradie (2km) uppnådd. Inga toaletter hittades i detta område.",
         
         "gps_locating": "Hämtar exakt GPS-position...",
         "gps_failed": "Kunde inte hämta exakt GPS-position. Laddade standard eller tidigare position. Du kan söka, dra den blå markeringen eller dubbelklicka för att ändra.",
@@ -441,9 +475,13 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v39 (स्वचालित अपडेट र विश्वव्यापी स्रोत जाँच अनुकूलन)",
+        "app_version": "एप संस्करण: v40 (म्यानुअल खोज दायरा विस्तार प्रकार्य थपियो)",
         "confirm_ok": "ठीक छ",
+        "confirm_cancel": "रद्द गर्नुहोस्",
         "modal_title_notice": "सूचना",
+        "radius_expand_confirm_1km": "५०० मिटर भित्र कुनै शौचालय भेटिएन। खोज दायरा १ किलोमिटरमा विस्तार गर्ने हो?",
+        "radius_expand_confirm_2km": "१ किलोमिटर भित्र कुनै शौचालय भेटिएन। खोज दायरा २ किलोमिटरमा विस्तार गर्ने हो?",
+        "radius_max_reached": "अधिकतम खोज दायरा (२ किमी) पुग्यो। यस क्षेत्रमा कुनै शौचालय भेटिएन।",
         
         "gps_locating": "सही GPS स्थान प्राप्त गर्दै...",
         "gps_failed": "सही GPS स्थान प्राप्त गर्न सकिएन। पूर्वनिर्धारित वा अघिल्लो स्थान लोड भयो। तपाईं खोज्न सक्नुहुन्छ, मार्कर तान्न सक्नुहुन्छ वा स्थान सेट गर्न डबल-क्लिक गर्न सक्नुहुन्छ।",
@@ -678,6 +716,7 @@ let activeFilter = 'all';
 let selectedToiletId = null;
 let toiletsData = [];
 let currentRouteLine = null;
+let currentSearchRadius = 500; // Default search radius in meters for OSM
 
 // Tile Layers for Map
 const LIGHT_TILE = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
@@ -1104,6 +1143,7 @@ async function setUserLocation(lat, lng, isManualReload = false) {
     // If it is a manual user action (search, drag, double-click, my location button),
     // automatically select the new nearest toilet.
     if (isManualReload) {
+        currentSearchRadius = 500; // Reset search radius on manual interaction
         selectNearestToilet(false);
     } else if (selectedToiletId) {
         // If it is a periodic/background reload, keep the current selection and update path
@@ -1544,6 +1584,26 @@ function setupEventListeners() {
         });
     }
 
+    // Custom Confirm Modal Events
+    const customConfirmModal = document.getElementById("custom-confirm-modal");
+    const customConfirmOkBtn = document.getElementById("custom-confirm-ok-btn");
+    const customConfirmCancelBtn = document.getElementById("custom-confirm-cancel-btn");
+    
+    if (customConfirmModal && customConfirmOkBtn && customConfirmCancelBtn) {
+        customConfirmOkBtn.addEventListener("click", () => {
+            customConfirmModal.classList.remove("active");
+            if (customConfirmCallback) {
+                customConfirmCallback();
+                customConfirmCallback = null;
+            }
+        });
+        
+        customConfirmCancelBtn.addEventListener("click", () => {
+            customConfirmModal.classList.remove("active");
+            customConfirmCallback = null;
+        });
+    }
+
     // Mobile Sidebar Navigation Toggles
     const menuToggle = document.getElementById("menu-toggle");
     const closeSidebar = document.getElementById("close-sidebar");
@@ -1700,6 +1760,7 @@ function setupEventListeners() {
                 </div>
             `;
             
+            currentSearchRadius = 500; // Reset search radius to default 500m on manual source change
             await loadToiletsData();
             renderToiletMarkers();
             calculateAndDisplayToilets();
@@ -1865,15 +1926,15 @@ async function performLoadToiletsData(source) {
         }
         
         try {
-            console.log(`[OSM] Fetching toilets and fuel stations at 500m...`);
+            console.log(`[OSM] Fetching toilets and fuel stations at ${currentSearchRadius}m...`);
             const query = `[out:json][timeout:15];
 (
-  node["amenity"="toilets"](around:500, ${userCoords[0]}, ${userCoords[1]});
-  way["amenity"="toilets"](around:500, ${userCoords[0]}, ${userCoords[1]});
-  relation["amenity"="toilets"](around:500, ${userCoords[0]}, ${userCoords[1]});
-  node["amenity"="fuel"](around:500, ${userCoords[0]}, ${userCoords[1]});
-  way["amenity"="fuel"](around:500, ${userCoords[0]}, ${userCoords[1]});
-  relation["amenity"="fuel"](around:500, ${userCoords[0]}, ${userCoords[1]});
+  node["amenity"="toilets"](around:${currentSearchRadius}, ${userCoords[0]}, ${userCoords[1]});
+  way["amenity"="toilets"](around:${currentSearchRadius}, ${userCoords[0]}, ${userCoords[1]});
+  relation["amenity"="toilets"](around:${currentSearchRadius}, ${userCoords[0]}, ${userCoords[1]});
+  node["amenity"="fuel"](around:${currentSearchRadius}, ${userCoords[0]}, ${userCoords[1]});
+  way["amenity"="fuel"](around:${currentSearchRadius}, ${userCoords[0]}, ${userCoords[1]});
+  relation["amenity"="fuel"](around:${currentSearchRadius}, ${userCoords[0]}, ${userCoords[1]});
 );
 out center;`;
             const data = await fetchOverpassData(query);
@@ -1944,7 +2005,7 @@ out center;`;
                         await loadToiletsData();
                     } else {
                         console.warn("OSM 找不到資料，但使用者在境外，不切換為本地離線資料");
-                        toiletsData = []; // Clear current toilets
+                        handleOsmNoResultsExpansion();
                     }
                     return;
                 }
@@ -2243,5 +2304,50 @@ async function resolveUserCurrentAddress(lat, lng) {
         if (locTextEl) {
             locTextEl.textContent = t("address_resolved_user");
         }
+    }
+}
+
+// Dynamic Search Radius Expansion for OSM Queries when 0 results found outside Taiwan
+async function handleOsmNoResultsExpansion() {
+    toiletsData = []; // Clear current toilets list on screen
+    renderToiletMarkers();
+    calculateAndDisplayToilets();
+
+    if (currentSearchRadius === 500) {
+        showCustomConfirm(t("radius_expand_confirm_1km"), async () => {
+            currentSearchRadius = 1000;
+            const resultsList = document.getElementById("results-list");
+            if (resultsList) {
+                resultsList.innerHTML = `
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>${t("searching")}</p>
+                    </div>
+                `;
+            }
+            await loadToiletsData();
+            renderToiletMarkers();
+            calculateAndDisplayToilets();
+            selectNearestToilet(false);
+        });
+    } else if (currentSearchRadius === 1000) {
+        showCustomConfirm(t("radius_expand_confirm_2km"), async () => {
+            currentSearchRadius = 2000;
+            const resultsList = document.getElementById("results-list");
+            if (resultsList) {
+                resultsList.innerHTML = `
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>${t("searching")}</p>
+                    </div>
+                `;
+            }
+            await loadToiletsData();
+            renderToiletMarkers();
+            calculateAndDisplayToilets();
+            selectNearestToilet(false);
+        });
+    } else if (currentSearchRadius === 2000) {
+        showCustomAlert(t("radius_max_reached"));
     }
 }
