@@ -1,5 +1,24 @@
 // FlushFinder Application Logic
 
+// ==================== SAFE LOCAL STORAGE FALLBACK ====================
+let safeLocalStorage;
+try {
+    localStorage.setItem("__test_storage__", "1");
+    localStorage.removeItem("__test_storage__");
+    safeLocalStorage = localStorage;
+} catch (e) {
+    console.warn("[LocalStorage] Blocked or throws SecurityError. Using memory-based fallback storage.");
+    const memoryStore = {};
+    safeLocalStorage = {
+        getItem: (key) => (key in memoryStore ? memoryStore[key] : null),
+        setItem: (key, value) => { memoryStore[key] = String(value); },
+        removeItem: (key) => { delete memoryStore[key]; },
+        clear: () => { for (let k in memoryStore) delete memoryStore[k]; }
+    };
+}
+// Shadow the global localStorage with our safe version for the scope of this script
+const localStorage = safeLocalStorage;
+
 // ==================== PWA MULTI-LANGUAGE LOCALIZATION (i18n) ====================
 let currentLang = "en"; // default fallback
 let currentSourceLabelKey = "source_label_local"; // default fallback
@@ -471,13 +490,19 @@ function getInitialLanguage() {
 
     // Gather all candidate language codes from system preferences
     let candidates = [];
+    
+    // Prioritize primary system language
+    const primaryLang = navigator.language || navigator.userLanguage;
+    if (primaryLang) {
+        candidates.push(primaryLang);
+    }
+    
     if (navigator.languages && navigator.languages.length > 0) {
-        candidates = [...navigator.languages];
-    } else {
-        const singleLang = navigator.language || navigator.userLanguage;
-        if (singleLang) {
-            candidates.push(singleLang);
-        }
+        navigator.languages.forEach(lang => {
+            if (lang && !candidates.includes(lang)) {
+                candidates.push(lang);
+            }
+        });
     }
 
     // Find the first system language that starts with our supported language codes
