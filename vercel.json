@@ -1,32 +1,35 @@
 {
-  "cleanUrls": true,
-  "headers": [
+  "version": 2,
+  "builds": [
+    { "src": "api/toilets.js", "use": "@vercel/node" },
+    { "src": "api/osm.js", "use": "@vercel/node" },
+    { "src": "index.html", "use": "@vercel/static" },
+    { "src": "style.css", "use": "@vercel/static" },
+    { "src": "app.js", "use": "@vercel/static" },
+    { "src": "service-worker.js", "use": "@vercel/static" },
+    { "src": "manifest.json", "use": "@vercel/static" },
+    { "src": "data/*.json", "use": "@vercel/static" },
+    { "src": "icon-192.jpg", "use": "@vercel/static" },
+    { "src": "icon-512.jpg", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/api/toilets", "dest": "api/toilets.js" },
+    { "src": "/api/osm", "dest": "api/osm.js" },
     {
-      "source": "/",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate, s-maxage=0"
-        }
-      ]
+      "src": "/",
+      "headers": { "Cache-Control": "public, max-age=0, must-revalidate, s-maxage=0" },
+      "dest": "/index.html"
     },
     {
-      "source": "/index.html",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate, s-maxage=0"
-        }
-      ]
+      "src": "/index.html",
+      "headers": { "Cache-Control": "public, max-age=0, must-revalidate, s-maxage=0" },
+      "dest": "/index.html"
     },
     {
-      "source": "/service-worker.js",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate, s-maxage=0"
-        }
-      ]
-    }
+      "src": "/service-worker.js",
+      "headers": { "Cache-Control": "public, max-age=0, must-revalidate, s-maxage=0" },
+      "dest": "/service-worker.js"
+    },
+    { "src": "/(.*)", "dest": "/$1" }
   ]
 }
