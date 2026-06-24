@@ -46,38 +46,37 @@ async function startServer() {
 
         // API Proxy to MOENV Open Data V2 API (to bypass CORS)
         if (parsedUrl.pathname === '/api/toilets') {
-            const apiKey = parsedUrl.query.api_key;
+            const apiKey = process.env.MOENV_API_KEY || parsedUrl.query.api_key;
             if (!apiKey) {
-                res.writeHead(400, { 'Content-Type': 'application/json' });
-                res.end(JSON.stringify({ error: 'Missing api_key parameter' }));
+                res.writeHead(400, { 
+                    'Content-Type': 'application/json; charset=utf-8',
+                    'Access-Control-Allow-Origin': '*'
+                });
+                res.end(JSON.stringify({ error: 'Missing API key. Please configure the MOENV_API_KEY environment variable or pass the api_key parameter.' }));
                 return;
             }
 
-            const moenvUrl = `https://data.moenv.gov.tw/api/v2/FAC_P_07?format=json&limit=500&api_key=${apiKey}`;
+            const limit = parsedUrl.query.limit || 500;
+            const offset = parsedUrl.query.offset || 0;
+            const moenvUrl = `https://data.moenv.gov.tw/api/v2/FAC_P_07?format=json&limit=${limit}&offset=${offset}&api_key=${apiKey}`;
             console.log(`[API Proxy] Requesting: ${moenvUrl.replace(apiKey, 'HIDDEN_KEY')}`);
             
             https.get(moenvUrl, (apiRes) => {
                 console.log(`[API Proxy] Response Status: ${apiRes.statusCode}`);
                 
-                let bodySnippet = '';
-                apiRes.on('data', (chunk) => {
-                    if (bodySnippet.length < 500) {
-                        bodySnippet += chunk.toString();
-                    }
-                });
-                
-                apiRes.on('end', () => {
-                    console.log(`[API Proxy] Response Snippet (First 500 chars):\n${bodySnippet.substring(0, 500)}`);
-                });
-
                 res.writeHead(apiRes.statusCode || 200, {
                     'Content-Type': 'application/json; charset=utf-8',
-                    'Access-Control-Allow-Origin': '*'
+                    'Access-Control-Allow-Origin': '*',
+                    'Access-Control-Allow-Methods': 'GET, OPTIONS',
+                    'Access-Control-Allow-Headers': 'Content-Type'
                 });
                 apiRes.pipe(res);
             }).on('error', (err) => {
                 console.error('[API Proxy] Request Error:', err.message);
-                res.writeHead(500, { 'Content-Type': 'application/json' });
+                res.writeHead(500, { 
+                    'Content-Type': 'application/json; charset=utf-8',
+                    'Access-Control-Allow-Origin': '*'
+                });
                 res.end(JSON.stringify({ error: 'Failed to fetch from MOENV API', details: err.message }));
             });
             return;

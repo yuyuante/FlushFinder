@@ -16,8 +16,9 @@ try {
         clear: () => { for (let k in memoryStore) delete memoryStore[k]; }
     };
 }
-// Shadow the global localStorage with our safe version for the scope of this script
-const localStorage = safeLocalStorage;
+// Define a safe localStorage reference for the scope of this script
+const safeLS = safeLocalStorage;
+
 
 // ==================== CUSTOM ALERT MODAL ====================
 function showCustomAlert(msg) {
@@ -94,7 +95,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v41 (修復 SW 靜態快取與全面移除原生 confirm)",
+        "app_version": "App 版本: v45 (修正對話框行動端寬度溢出與自動關閉選單機制)",
         "confirm_ok": "確定",
         "confirm_cancel": "取消",
         "modal_title_notice": "系統提示",
@@ -190,7 +191,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v41 (Service Worker static cache fix & unified custom confirmations)",
+        "app_version": "App Version: v45 (Fix mobile dialog width overflow and automatic sidebar closing)",
         "confirm_ok": "OK",
         "confirm_cancel": "Cancel",
         "modal_title_notice": "Notice",
@@ -285,7 +286,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v41 (SW静的キャッシュの修正と自作confirmへの統一)",
+        "app_version": "アプリバージョン: v45 (対話ボックス幅あふれと自動サイドバー閉じの修正)",
         "confirm_ok": "確定",
         "confirm_cancel": "キャンセル",
         "modal_title_notice": "システム通知",
@@ -380,7 +381,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v41 (SW statisk cache-fix & enhetliga anpassade bekräftelser)",
+        "app_version": "App-version: v45 (Fixa mobil dialogruta overflow och automatisk stängning av sidomenyn)",
         "confirm_ok": "OK",
         "confirm_cancel": "Avbryt",
         "modal_title_notice": "Meddelande",
@@ -475,7 +476,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v41 (SW स्थिर क्यास फिक्स र एकीकृत अनुकूलन पुष्टिकरण)",
+        "app_version": "एप संस्करण: v45 (मोबाइल संवाद ओभरफ्लो र साइडबार बन्द सुधार)",
         "confirm_ok": "ठीक छ",
         "confirm_cancel": "रद्द गर्नुहोस्",
         "modal_title_notice": "सूचना",
@@ -547,8 +548,8 @@ function t(key, variables = {}) {
 }
 
 function getInitialLanguage() {
-    const isManual = localStorage.getItem("flush_finder_lang_manual") === "true";
-    const savedLang = localStorage.getItem("flush_finder_lang");
+    const isManual = safeLS.getItem("flush_finder_lang_manual") === "true";
+    const savedLang = safeLS.getItem("flush_finder_lang");
     if (isManual && savedLang && TRANSLATIONS[savedLang]) {
         return savedLang;
     }
@@ -600,8 +601,8 @@ function applyLanguage(lang, isManual = false) {
     currentLang = lang;
     
     if (isManual) {
-        localStorage.setItem("flush_finder_lang", lang);
-        localStorage.setItem("flush_finder_lang_manual", "true");
+        safeLS.setItem("flush_finder_lang", lang);
+        safeLS.setItem("flush_finder_lang_manual", "true");
     }
     
     // Update HTML page title and lang attribute
@@ -657,9 +658,9 @@ function applyLanguage(lang, isManual = false) {
 }
 
 function getCurrentSourceLabelKey() {
-    const source = localStorage.getItem("flush_finder_source") || "local";
+    const source = safeLS.getItem("flush_finder_source") || "local";
     if (source === 'moenv') {
-        const apiKey = localStorage.getItem("moenv_api_key") || "";
+        const apiKey = safeLS.getItem("moenv_api_key") || "";
         return apiKey ? "source_label_moenv_custom" : "source_label_moenv_cloud";
     }
     if (source === 'osm') {
@@ -930,7 +931,7 @@ async function initApp() {
 
 // Font Size Settings Management
 function initFontSize() {
-    const savedSize = localStorage.getItem("flush_finder_font_size") || "md";
+    const savedSize = safeLS.getItem("flush_finder_font_size") || "md";
     applyFontSize(savedSize);
 }
 
@@ -990,7 +991,7 @@ function initMap() {
     }).setView(userCoords, 15);
 
     // Get initial font size and tile options
-    const savedFontSize = localStorage.getItem("flush_finder_font_size") || "md";
+    const savedFontSize = safeLS.getItem("flush_finder_font_size") || "md";
     const tileOptions = getTileOptions(savedFontSize);
 
     // Add Tile Layer
@@ -1050,6 +1051,8 @@ function selectNearestToilet(panMap = true) {
     const displayed = getSortedAndFilteredToilets();
     if (displayed.length > 0) {
         selectToilet(displayed[0], panMap);
+    } else {
+        clearSelectedToilet();
     }
 }
 
@@ -1097,12 +1100,12 @@ async function setUserLocation(lat, lng, isManualReload = false) {
     
     // Check if within Taiwan bounds
     const isWithinTaiwan = lat >= 21.8 && lat <= 25.4 && lng >= 119.3 && lng <= 122.1;
-    let source = localStorage.getItem("flush_finder_source") || "local";
+    let source = safeLS.getItem("flush_finder_source") || "local";
     
     if (!isWithinTaiwan && source === 'local') {
         console.log(`[Source Auto Switch] Position [${lat}, ${lng}] is outside Taiwan. Switching source to 'osm'...`);
         source = 'osm';
-        localStorage.setItem("flush_finder_source", "osm");
+        safeLS.setItem("flush_finder_source", "osm");
         showCustomAlert(t("source_switched_to_osm_alert"));
     }
     
@@ -1143,6 +1146,11 @@ async function setUserLocation(lat, lng, isManualReload = false) {
     // If it is a manual user action (search, drag, double-click, my location button),
     // automatically select the new nearest toilet.
     if (isManualReload) {
+        // Close sidebar so the map is visible after location change
+        const sidebarEl = document.getElementById("sidebar");
+        const overlayEl = document.getElementById("sidebar-overlay");
+        if (sidebarEl) sidebarEl.classList.remove("active");
+        if (overlayEl) overlayEl.classList.remove("active");
         currentSearchRadius = 500; // Reset search radius on manual interaction
         selectNearestToilet(false);
     } else if (selectedToiletId) {
@@ -1210,7 +1218,7 @@ async function searchAndSetLocation() {
 
         // Query OpenStreetMap Nominatim Search API
         let url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&limit=1&accept-language=${currentLang}`;
-        let res = await fetch(url);
+        let res = await fetchWithTimeout(url);
         if (!res.ok) throw new Error("Nominatim API response failed");
         
         let data = await res.json();
@@ -1221,7 +1229,7 @@ async function searchAndSetLocation() {
             if (simplifiedQuery && simplifiedQuery !== query) {
                 console.log(`Original query [${query}] returned no results. Trying simplified query [${simplifiedQuery}]...`);
                 url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(simplifiedQuery)}&limit=1&accept-language=${currentLang}`;
-                res = await fetch(url);
+                res = await fetchWithTimeout(url);
                 if (res.ok) {
                     data = await res.json();
                 }
@@ -1316,7 +1324,7 @@ function renderToiletMarkers() {
         
         // Marker Click Action
         marker.on('click', () => {
-            selectToilet(toilet);
+            selectToilet(toilet, true, true);
         });
 
         toiletMarkers.push({
@@ -1436,7 +1444,7 @@ function calculateAndDisplayToilets() {
         `;
 
         card.addEventListener('click', () => {
-            selectToilet(toilet);
+            selectToilet(toilet, true, true);
         });
 
         listContainer.appendChild(card);
@@ -1445,15 +1453,40 @@ function calculateAndDisplayToilets() {
     lucide.createIcons();
 }
 
+// Clear selected toilet and close detail drawer
+function clearSelectedToilet() {
+    selectedToiletId = null;
+    
+    const drawer = document.getElementById("detail-drawer");
+    if (drawer) {
+        drawer.classList.remove("active");
+    }
+    
+    if (currentRouteLine) {
+        map.removeLayer(currentRouteLine);
+        currentRouteLine = null;
+    }
+    
+    document.querySelectorAll(".toilet-card").forEach(card => {
+        card.classList.remove("active");
+    });
+
+    document.querySelectorAll(".custom-marker-pin").forEach(pin => {
+        pin.classList.remove("active");
+    });
+}
+
 // Select a toilet: pan map, highlight card & marker, display bottom sheet
-function selectToilet(toilet, panMap = true) {
+function selectToilet(toilet, panMap = true, closeSidebarMobile = false) {
     selectedToiletId = toilet.id;
 
-    // Close sidebar on mobile when a toilet is selected
-    const sidebar = document.getElementById("sidebar");
-    const overlay = document.getElementById("sidebar-overlay");
-    if (sidebar) sidebar.classList.remove("active");
-    if (overlay) overlay.classList.remove("active");
+    // Close sidebar on mobile when a toilet is selected explicitly by the user
+    if (closeSidebarMobile) {
+        const sidebar = document.getElementById("sidebar");
+        const overlay = document.getElementById("sidebar-overlay");
+        if (sidebar) sidebar.classList.remove("active");
+        if (overlay) overlay.classList.remove("active");
+    }
 
     // Clear old route line from map
     if (currentRouteLine) {
@@ -1683,7 +1716,7 @@ function setupEventListeners() {
 
         // Switch Tile Layer
         map.removeLayer(activeTileLayer);
-        const savedFontSize = localStorage.getItem("flush_finder_font_size") || "md";
+        const savedFontSize = safeLS.getItem("flush_finder_font_size") || "md";
         const options = getTileOptions(savedFontSize);
         activeTileLayer = L.tileLayer(nextTheme === 'dark' ? DARK_TILE : LIGHT_TILE, options).addTo(map);
 
@@ -1709,10 +1742,10 @@ function setupEventListeners() {
     const sourceSelect = document.getElementById("source-select");
     
     // Initial UI state setup based on saved source
-    let savedSource = localStorage.getItem("flush_finder_source") || "local";
+    let savedSource = safeLS.getItem("flush_finder_source") || "local";
     if (savedSource === "moenv") {
         savedSource = "local";
-        localStorage.setItem("flush_finder_source", "local");
+        safeLS.setItem("flush_finder_source", "local");
     }
     if (sourceSelect) sourceSelect.value = savedSource;
 
@@ -1727,12 +1760,12 @@ function setupEventListeners() {
 
     // Font Size Selection Setup
     const fontSizeSelect = document.getElementById("font-size-select");
-    const savedFontSize = localStorage.getItem("flush_finder_font_size") || "md";
+    const savedFontSize = safeLS.getItem("flush_finder_font_size") || "md";
     if (fontSizeSelect) {
         fontSizeSelect.value = savedFontSize;
         fontSizeSelect.addEventListener("change", (e) => {
             const selectedSize = e.target.value;
-            localStorage.setItem("flush_finder_font_size", selectedSize);
+            safeLS.setItem("flush_finder_font_size", selectedSize);
             applyFontSize(selectedSize);
         });
     }
@@ -1742,10 +1775,10 @@ function setupEventListeners() {
             let selectedValue = e.target.value;
             if (selectedValue === "moenv") {
                 selectedValue = "local";
-                localStorage.setItem("flush_finder_source", "local");
+                safeLS.setItem("flush_finder_source", "local");
                 if (sourceSelect) sourceSelect.value = "local";
             } else {
-                localStorage.setItem("flush_finder_source", selectedValue);
+                safeLS.setItem("flush_finder_source", selectedValue);
             }
             
             // Reload toilets data and refresh map / list
@@ -1821,7 +1854,7 @@ function setupEventListeners() {
 
 // Fetch request with abort timeout
 async function fetchWithTimeout(resource, options = {}) {
-    const { timeout = 3000 } = options;
+    const { timeout = 8000 } = options;
     const controller = new AbortController();
     const id = setTimeout(() => controller.abort(), timeout);
     
@@ -1840,7 +1873,7 @@ async function fetchWithTimeout(resource, options = {}) {
 
 // Fallback load local data function
 async function loadLocalDataFallback() {
-    localStorage.setItem("flush_finder_source", "local");
+    safeLS.setItem("flush_finder_source", "local");
     await loadToiletsData();
 }
 
@@ -1885,10 +1918,10 @@ let activeLoadSource = null;
 
 // Load toilets data helper (API Proxy or local static json)
 async function loadToiletsData() {
-    let source = localStorage.getItem("flush_finder_source") || "local";
+    let source = safeLS.getItem("flush_finder_source") || "local";
     if (source === "moenv") {
         source = "local";
-        localStorage.setItem("flush_finder_source", "local");
+        safeLS.setItem("flush_finder_source", "local");
     }
     
     // Evaluate target counties to fetch for local source
@@ -1917,6 +1950,10 @@ async function performLoadToiletsData(source) {
     const sourceSelect = document.getElementById("source-select");
     
     if (sourceSelect) sourceSelect.value = source;
+    
+    // Clear stale toilets data and selection immediately when loading starts
+    toiletsData = [];
+    clearSelectedToilet();
     
     if (source === 'osm') {
         currentSourceLabelKey = "source_label_osm";
@@ -2001,7 +2038,7 @@ out center;`;
                     const isUserWithinTaiwan = userCoords[0] >= 21.8 && userCoords[0] <= 25.4 && userCoords[1] >= 119.3 && userCoords[1] <= 122.1;
                     if (isUserWithinTaiwan) {
                         console.warn("OSM 找不到資料，將無縫切換為台灣環境部離線資料...");
-                        localStorage.setItem("flush_finder_source", "local");
+                        safeLS.setItem("flush_finder_source", "local");
                         await loadToiletsData();
                     } else {
                         console.warn("OSM 找不到資料，但使用者在境外，不切換為本地離線資料");
@@ -2019,7 +2056,7 @@ out center;`;
             
             const isUserWithinTaiwan = userCoords[0] >= 21.8 && userCoords[0] <= 25.4 && userCoords[1] >= 119.3 && userCoords[1] <= 122.1;
             if (isUserWithinTaiwan) {
-                localStorage.setItem("flush_finder_source", "local");
+                safeLS.setItem("flush_finder_source", "local");
                 await loadToiletsData();
             } else {
                 console.warn("載入 OSM 資料失敗，但使用者在境外，不切換為本地離線資料");
@@ -2166,7 +2203,7 @@ async function fetchActualWalkingRoute(toilet) {
         const end = `${toilet.coords[1]},${toilet.coords[0]}`;
         const url = `https://router.project-osrm.org/route/v1/foot/${start};${end}?geometries=geojson&overview=full`;
         
-        const res = await fetch(url);
+        const res = await fetchWithTimeout(url);
         if (!res.ok) throw new Error("OSM router failed");
         const data = await res.json();
         
@@ -2224,7 +2261,7 @@ async function fetchActualWalkingRoute(toilet) {
 async function resolveAddress(toilet) {
     try {
         const url = `https://nominatim.openstreetmap.org/reverse?format=json&lat=${toilet.coords[0]}&lon=${toilet.coords[1]}&zoom=18&accept-language=${currentLang}`;
-        const res = await fetch(url);
+        const res = await fetchWithTimeout(url);
         if (!res.ok) return;
         const data = await res.json();
         
@@ -2274,7 +2311,7 @@ async function resolveAddress(toilet) {
 async function resolveUserCurrentAddress(lat, lng) {
     try {
         const url = `https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&lon=${lng}&zoom=18&accept-language=${currentLang}`;
-        const res = await fetch(url);
+        const res = await fetchWithTimeout(url);
         if (!res.ok) return;
         const data = await res.json();
         

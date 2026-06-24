@@ -1,6 +1,15 @@
 const fs = require('fs');
 const path = require('path');
 
+// Ensure fetch polyfill for older Node environments (<18)
+if (typeof fetch === 'undefined') {
+    try {
+        globalThis.fetch = require('node-fetch');
+    } catch (e) {
+        console.warn("[Fetch Polyfill] Warning: Global fetch is not defined. Please run under Node 18+ or install 'node-fetch'.");
+    }
+}
+
 const LOCAL_DATA_PATH = path.join(__dirname, '../toilets_data.json');
 const OUTPUT_DIR = path.join(__dirname, '../data');
 
@@ -92,6 +101,7 @@ async function run() {
     }
 
     // 2. Fetch MOENV toilets with pagination (all 45,000+ records)
+    const limit = 1000;
     const apiKey = process.env.MOENV_API_KEY;
     let getFetchUrl = (offset) => `https://flush-finder-sepia.vercel.app/api/toilets?limit=${limit}&offset=${offset}`;
     if (apiKey) {
@@ -101,19 +111,32 @@ async function run() {
         console.log("No local MOENV_API_KEY found. Proxying request through live Vercel proxy.");
     }
 
+    // Helper function to retry fetch requests in case of flaky networks
+    async function fetchWithRetry(url, retries = 3, baseDelay = 1000) {
+        for (let i = 0; i < retries; i++) {
+            try {
+                const response = await fetch(url);
+                if (response.ok) return response;
+                console.warn(`[Fetch Retry] Attempt ${i + 1} returned status ${response.status}. Retrying...`);
+            } catch (err) {
+                console.warn(`[Fetch Retry] Attempt ${i + 1} threw error: ${err.message}. Retrying...`);
+            }
+            if (i < retries - 1) {
+                await new Promise(resolve => setTimeout(resolve, baseDelay * (i + 1)));
+            }
+        }
+        throw new Error(`Failed to fetch from ${url} after ${retries} attempts.`);
+    }
+
     let apiToilets = [];
     let offset = 0;
-    const limit = 1000;
     let hasMore = true;
 
     while (hasMore) {
         const moenvUrl = getFetchUrl(offset);
         try {
             console.log(`Fetching offset ${offset}...`);
-            const response = await fetch(moenvUrl);
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
+            const response = await fetchWithRetry(moenvUrl);
             const data = await response.json();
             const recordsList = Array.isArray(data) ? data : (data && data.records ? data.records : []);
             
@@ -126,8 +149,12 @@ async function run() {
             console.log(`Successfully fetched ${recordsList.length} records from API (total collected: ${apiToilets.length + recordsList.length})`);
             
             const mapped = recordsList.map((item, idx) => {
-                const lat = parseFloat(item.latitude);
-                const lng = parseFloat(item.longitude);
+                // Low Risk 5: Support fallback geolocation fields for added robustness
+                const latVal = item.latitude || item.lat || (item.geometry && item.geometry.coordinates && item.geometry.coordinates[1]);
+                const lngVal = item.longitude || item.lon || item.lng || (item.geometry && item.geometry.coordinates && item.geometry.coordinates[0]);
+                
+                const lat = parseFloat(latVal);
+                const lng = parseFloat(lngVal);
                 if (isNaN(lat) || isNaN(lng)) return null;
 
                 const isAccessible = item.type === '無障礙廁所' || (item.name && item.name.includes('無障礙'));

@@ -762,7 +762,7 @@ body {
     }
 
     .sidebar-overlay {
-        display: block;
+        display: none;
         position: fixed;
         top: 0;
         left: 0;
@@ -771,16 +771,10 @@ body {
         background-color: rgba(0, 0, 0, 0.4);
         z-index: 1004;
         backdrop-filter: blur(2px);
-        transition: opacity 0.3s ease, visibility 0.3s ease;
-        pointer-events: none;
-        opacity: 0;
-        visibility: hidden;
     }
     
     .sidebar-overlay.active {
-        pointer-events: auto;
-        opacity: 1;
-        visibility: visible;
+        display: block;
     }
     
     .detail-drawer {
@@ -1105,29 +1099,24 @@ body.font-size-lg {
     top: calc(-8px * var(--font-scale)) !important;
 }
 
-/* Custom Alert Modal styles */
 .custom-modal-overlay {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100vw;
-    height: 100vh;
+    right: 0;
+    bottom: 0;
     background-color: rgba(0, 0, 0, 0.4);
     backdrop-filter: blur(4px);
     z-index: 2000;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
-    opacity: 0;
-    pointer-events: none;
-    visibility: hidden;
-    transition: opacity 0.3s ease, visibility 0.3s ease;
+    padding: 16px;
+    box-sizing: border-box;
 }
 
 .custom-modal-overlay.active {
-    opacity: 1;
-    pointer-events: auto;
-    visibility: visible;
+    display: flex;
 }
 
 .custom-modal-content {
@@ -1135,8 +1124,12 @@ body.font-size-lg {
     border: 1px solid var(--border);
     border-radius: 16px;
     box-shadow: var(--shadow-lg);
-    width: 90%;
+    width: 100%;
     max-width: 400px;
+    max-height: 80vh;
+    max-height: 80dvh;
+    overflow-y: auto;
+    box-sizing: border-box;
     padding: 24px;
     transform: scale(0.9);
     transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);

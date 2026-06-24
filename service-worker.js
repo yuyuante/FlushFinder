@@ -1,9 +1,9 @@
-const CACHE_NAME = 'flushfinder-v41';
+const CACHE_NAME = 'flushfinder-v45';
 const ASSETS = [
   './',
   './index.html',
-  './style.css?v=41',
-  './app.js?v=41',
+  './style.css?v=45',
+  './app.js?v=45',
   './icon-192.jpg',
   './icon-512.jpg',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
@@ -14,7 +14,13 @@ const ASSETS = [
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(ASSETS);
+      // Fault-tolerant caching: cache assets individually so any single load failure (e.g. CDN offline) won't block installation
+      const cachePromises = ASSETS.map((asset) => {
+        return cache.add(asset).catch((err) => {
+          console.warn(`[Service Worker] Failed to cache asset: ${asset}`, err);
+        });
+      });
+      return Promise.all(cachePromises);
     }).then(() => self.skipWaiting())
   );
 });

@@ -69,8 +69,8 @@ module.exports = (req, res) => {
       tryEndpoint(index + 1);
     });
 
-    // Set a timeout of 2.0 seconds per mirror to stay safely under Vercel's 10-second limit (trying 5 mirrors max = 10.0 seconds)
-    clientReq.setTimeout(2000, () => {
+    // Set a timeout of 4.5 seconds per mirror to align with SPECIFICATION.md
+    clientReq.setTimeout(4500, () => {
       if (resolved) return;
       resolved = true;
       console.warn(`[Vercel Serverless OSM] Mirror ${targetUrl} timeout`);
