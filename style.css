@@ -1181,3 +1181,20 @@ body.font-size-lg {
     font-size: 14px;
 }
 
+
+/* Prevent page layout zoom-in on iOS when user focuses input/select fields */
+#search-location-input,
+#source-select,
+#lang-select,
+#font-size-select {
+    font-size: 13px;
+}
+
+@media (max-width: 768px) {
+    #search-location-input,
+    #source-select,
+    #lang-select,
+    #font-size-select {
+        font-size: 16px !important;
+    }
+}
