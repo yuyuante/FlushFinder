@@ -95,7 +95,7 @@ const TRANSLATIONS = {
         "open_menu": "開啟選單",
         "my_location": "我的位置",
         "toggle_theme": "切換深淺色地圖",
-        "app_version": "App 版本: v47 (防止輸入框觸發行動端 iOS 自動縮放機制)",
+        "app_version": "App 版本: v48 (修復啟動冷定位誤切與引進雙向自動切換機制)",
         "confirm_ok": "確定",
         "confirm_cancel": "取消",
         "modal_title_notice": "系統提示",
@@ -191,7 +191,7 @@ const TRANSLATIONS = {
         "open_menu": "Open Menu",
         "my_location": "My Location",
         "toggle_theme": "Toggle Dark Mode",
-        "app_version": "App Version: v47 (Prevent layout zoom-in on iOS focus)",
+        "app_version": "App Version: v48 (Fix startup cold localization drift and introduce bidirectional auto-switching)",
         "confirm_ok": "OK",
         "confirm_cancel": "Cancel",
         "modal_title_notice": "Notice",
@@ -286,7 +286,7 @@ const TRANSLATIONS = {
         "open_menu": "メニューを開く",
         "my_location": "現在地",
         "toggle_theme": "テーマ切り替え",
-        "app_version": "アプリバージョン: v47 (iOS入力フォーカス時のズーム防止の修正)",
+        "app_version": "アプリバージョン: v48 (起動時GPS誤差修正および双方向自動切り替えの導入)",
         "confirm_ok": "確定",
         "confirm_cancel": "キャンセル",
         "modal_title_notice": "システム通知",
@@ -381,7 +381,7 @@ const TRANSLATIONS = {
         "open_menu": "Öppna meny",
         "my_location": "Min position",
         "toggle_theme": "Byt tema",
-        "app_version": "App-version: v47 (Förhindra zoomning vid fokus på iOS)",
+        "app_version": "App-version: v48 (Fixa kallstarts-GPS-drift och introducera dubbelriktad auto-växling)",
         "confirm_ok": "OK",
         "confirm_cancel": "Avbryt",
         "modal_title_notice": "Meddelande",
@@ -476,7 +476,7 @@ const TRANSLATIONS = {
         "open_menu": "मेनु खोल्नुहोस्",
         "my_location": "मेरो स्थान",
         "toggle_theme": "थिम स्विच गर्नुहोस्",
-        "app_version": "एप संस्करण: v47 (iOS फोकसमा जुम हुनबाट रोक्ने सुधार)",
+        "app_version": "एप संस्करण: v48 (सुरुवाती जीपीएस त्रुटि सुधार र दोहोरो स्वचालित स्विच)",
         "confirm_ok": "ठीक छ",
         "confirm_cancel": "रद्द गर्नुहोस्",
         "modal_title_notice": "सूचना",
@@ -1101,12 +1101,19 @@ async function setUserLocation(lat, lng, isManualReload = false) {
     // Check if within Taiwan bounds
     const isWithinTaiwan = lat >= 21.8 && lat <= 25.4 && lng >= 119.3 && lng <= 122.1;
     let source = safeLS.getItem("flush_finder_source") || "local";
+    const isManualSource = safeLS.getItem("flush_finder_source_is_manual") === "true";
     
-    if (!isWithinTaiwan && source === 'local') {
-        console.log(`[Source Auto Switch] Position [${lat}, ${lng}] is outside Taiwan. Switching source to 'osm'...`);
-        source = 'osm';
-        safeLS.setItem("flush_finder_source", "osm");
-        showCustomAlert(t("source_switched_to_osm_alert"));
+    if (!isManualSource) {
+        if (!isWithinTaiwan && source === 'local') {
+            console.log(`[Source Auto Switch] Position [${lat}, ${lng}] is outside Taiwan. Switching source to 'osm'...`);
+            source = 'osm';
+            safeLS.setItem("flush_finder_source", "osm");
+            showCustomAlert(t("source_switched_to_osm_alert"));
+        } else if (isWithinTaiwan && source === 'osm') {
+            console.log(`[Source Auto Switch] Position [${lat}, ${lng}] is inside Taiwan. Switching source back to 'local'...`);
+            source = 'local';
+            safeLS.setItem("flush_finder_source", "local");
+        }
     }
     
     // If OpenStreetMap is the source, refetch to load new regional data
@@ -1780,6 +1787,9 @@ function setupEventListeners() {
             } else {
                 safeLS.setItem("flush_finder_source", selectedValue);
             }
+            
+            // Mark source as manually selected by the user to prevent auto-switching on GPS drift
+            safeLS.setItem("flush_finder_source_is_manual", "true");
             
             // Reload toilets data and refresh map / list
             const resultsList = document.getElementById("results-list");
