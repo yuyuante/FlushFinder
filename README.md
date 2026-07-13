@@ -72,7 +72,7 @@ C:\Users\user\code\FlushFinder/
 *   **雲端平台**：部署於 Vercel Serverless。
 *   **版本升級同步規範 (CRITICAL)**：
     每當升級 App 版本號時，必須**同步更新**以下三個檔案中的版號與說明字串，以避免快取失效或版號錯亂：
-    1.  `service-worker.js`：更新 `CACHE_NAME` 版本號（如 `v48`）與 `ASSETS` 陣列中靜態資源的 `?v=XX` 版本參數。
+    1.  `service-worker.js`：更新 `CACHE_NAME` 版本號（如 `v50`）與 `ASSETS` 陣列中靜態資源的 `?v=XX` 版本參數。
     2.  `index.html`：更新 CSS/JS 引用路徑尾端的 `?v=XX` 版本參數，以及 `#app-version-label` 標籤的預設中文。
     3.  `app.js`：更新 `TRANSLATIONS` 字典中所有語系（`zh-TW`, `en`, `ja`, `sv`, `ne`）下的 `"app_version"` 對照字串。
     4.  `SPECIFICATION.md`：同步更新當前版本資訊與變更歷史。

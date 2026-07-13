@@ -6,7 +6,7 @@ FlushFinder 是一款為行動通訊（特別是行動網路）優化、具備�
 
 ## 1. 專案基本資訊
 * **專案名稱**：FlushFinder (找公廁)
-* **當前版本**：`v48 (修復啟動冷定位誤切與引進雙向自動切換機制)`
+* **當前版本**：`v50 (新增手機安全區域 Safe Area 自動適應，修復系統時間遮擋按鈕)`
 * **部署平台**：Vercel Serverless
 * **線上版本**：[https://flush-finder-sepia.vercel.app](https://flush-finder-sepia.vercel.app)
 * **開發架構**：Vanilla HTML / Vanilla CSS / Vanilla JavaScript (無框架，確保最輕量與最高載入效能)
@@ -165,6 +165,14 @@ C:\Users\user\code\FlushFinder/
 ---
 
 ## 7. 版本變更歷史 (Version History)
+
+* **v50 (新增手機安全區域 Safe Area 自動適應，修復系統時間遮擋按鈕)**：
+  - 手機安全區域 (Safe Area) 自動適應：在 `style.css` 行動端樣式中引入 CSS 安全區域環境變數（`env(safe-area-inset-*)`），調整選單按鈕（`.menu-toggle-btn`）、側邊欄頂部標題（`.app-header`）、地圖控制按鈕（`.map-controls`）及詳細資訊卡（`.detail-drawer`）在手機上的邊距與定位，解決在瀏海屏、動態島或 PWA 獨立視窗模式下選單按鈕被系統時間/狀態列遮擋的問題。
+  - 同步將專案版本號全面升級為 `v50` 並更新快取。
+
+* **v49 (修復選單點擊與地圖堆疊衝突，並加固圖示載入)**：
+  - 修正行動端按鈕遮擋/點擊穿透問題：將 `index.html` 中選單按鈕 `.menu-toggle-btn` 的 DOM 順序調整至地圖 `#map` 容器之後，並在 `style.css` 補上明確的 `position: relative` 與層疊關係設定，確保點擊事件不會被 Leaflet 地圖圖層攔截。
+  - 圖示加固防崩潰：在 `app.js` 中新增 `safeCreateIcons()` 容錯包裝，若 Lucide CDN 因網路或離線環境載入失敗時不再崩潰，確保事件監聽與初始化能順利執行。
 
 * **v48 (修復啟動冷定位誤切與引進雙向自動切換機制)**：
   - 修復行動端啟動定位誤差導致誤切資料來源的問題：於 `app.js` 中重構 `setUserLocation`。引入 `flush_finder_source_is_manual` LocalStorage 旗標。當使用者手動變更資料來源時設為 `"true"`，此時系統完全尊重使用者設定、不作自動切換。若無此旗標（預設），則啟用雙向自動切換：當定位因冷啟動或 VPN 偏移到境外時，自動切換至 `osm`；一旦定位修正回台灣境內時，自動無縫切換回 `local` 本地離線資料庫。
