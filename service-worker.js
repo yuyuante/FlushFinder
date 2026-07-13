@@ -1,9 +1,9 @@
-const CACHE_NAME = 'flushfinder-v48';
+const CACHE_NAME = 'flushfinder-v49';
 const ASSETS = [
   './',
   './index.html',
-  './style.css?v=48',
-  './app.js?v=48',
+  './style.css?v=49',
+  './app.js?v=49',
   './icon-192.jpg',
   './icon-512.jpg',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
