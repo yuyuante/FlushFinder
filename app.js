@@ -32,6 +32,19 @@ function showCustomAlert(msg) {
     }
 }
 
+// ==================== SAFE LUCIDE ICONS RENDER ====================
+function safeCreateIcons() {
+    if (typeof lucide !== 'undefined' && lucide && typeof lucide.createIcons === 'function') {
+        try {
+            lucide.createIcons();
+        } catch (e) {
+            console.warn("[Lucide] Failed to render icons:", e);
+        }
+    } else {
+        console.warn("[Lucide] Lucide script is not loaded or createIcons is missing.");
+    }
+}
+
 // Keep window.alert override as an extra safety measure to catch other native alert calls
 window.alert = function(msg) {
     showCustomAlert(msg);
@@ -871,7 +884,7 @@ async function initApp() {
     initFontSize();
 
     // Initialize Icons
-    lucide.createIcons();
+    safeCreateIcons();
 
     // Setup Map
     initMap();
@@ -1341,7 +1354,7 @@ function renderToiletMarkers() {
     });
 
     // Re-create icons inside leaflet markers
-    lucide.createIcons();
+    safeCreateIcons();
 }
 
 // Filter mock data helper
@@ -1402,7 +1415,7 @@ function calculateAndDisplayToilets() {
                 <p data-i18n="no_results">${t("no_results")}</p>
             </div>
         `;
-        lucide.createIcons();
+        safeCreateIcons();
         return;
     }
 
@@ -1457,7 +1470,7 @@ function calculateAndDisplayToilets() {
         listContainer.appendChild(card);
     });
 
-    lucide.createIcons();
+    safeCreateIcons();
 }
 
 // Clear selected toilet and close detail drawer
@@ -1595,7 +1608,7 @@ function showDetailDrawer(toilet) {
     `;
 
     drawer.classList.add("active");
-    lucide.createIcons();
+    safeCreateIcons();
 
     // If the address is not resolved yet, trigger dynamic reverse geocoding
     if (toilet.address === t("drawer_address_loading")) {
@@ -1733,7 +1746,7 @@ function setupEventListeners() {
             ? `<i data-lucide="sun"></i>` 
             : `<i data-lucide="moon"></i>`;
         
-        lucide.createIcons();
+        safeCreateIcons();
     });
 
     // 5. Settings Panel Toggle
