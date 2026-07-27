@@ -6,7 +6,7 @@ FlushFinder 是一款為行動通訊（特別是行動網路）優化、具備�
 
 ## 1. 專案基本資訊
 * **專案名稱**：FlushFinder (找公廁)
-* **當前版本**：`v50 (新增手機安全區域 Safe Area 自動適應，修復系統時間遮擋按鈕)`
+* **當前版本**：`v51 (修復 GitHub Actions 自動更新公廁資料庫 CI/CD 工作流程)`
 * **部署平台**：Vercel Serverless
 * **線上版本**：[https://flush-finder-sepia.vercel.app](https://flush-finder-sepia.vercel.app)
 * **開發架構**：Vanilla HTML / Vanilla CSS / Vanilla JavaScript (無框架，確保最輕量與最高載入效能)
@@ -165,6 +165,11 @@ C:\Users\user\code\FlushFinder/
 ---
 
 ## 7. 版本變更歷史 (Version History)
+
+* **v51 (修復 GitHub Actions 自動更新公廁資料庫 CI/CD 工作流程)**：
+  - 修正 GitHub Actions 工作流程 [.github/workflows/update_data.yml](file:///C:/Users/user/code/FlushFinder/.github/workflows/update_data.yml)：將不存在的 `actions/checkout@v6` 與 `actions/setup-node@v6` 降回官方現行穩定版 `actions/checkout@v4` 及 `actions/setup-node@v4`。
+  - 新增 `permissions: contents: write` 賦予 `GITHUB_TOKEN` 寫入權限，徹底解決每週排程執行 `compile_counties.js` 自動更新全台 22 縣市 4.5 萬筆公廁 JSON 資料庫後，在 `git push` 步驟失敗拋出 Exit Code 128 的問題。
+  - 同步將專案版本號全面升級為 `v51` 並更新 Service Worker 快取機制。
 
 * **v50 (新增手機安全區域 Safe Area 自動適應，修復系統時間遮擋按鈕)**：
   - 手機安全區域 (Safe Area) 自動適應：在 `style.css` 行動端樣式中引入 CSS 安全區域環境變數（`env(safe-area-inset-*)`），調整選單按鈕（`.menu-toggle-btn`）、側邊欄頂部標題（`.app-header`）、地圖控制按鈕（`.map-controls`）及詳細資訊卡（`.detail-drawer`）在手機上的邊距與定位，解決在瀏海屏、動態島或 PWA 獨立視窗模式下選單按鈕被系統時間/狀態列遮擋的問題。

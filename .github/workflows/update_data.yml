@@ -7,15 +7,20 @@ on:
   workflow_dispatch:
     # Allows manual triggering from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   update-database:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: 'npm'
@@ -39,3 +44,4 @@ jobs:
             git commit -m "chore(data): auto-update 22 county public toilet JSON databases"
             git push
           fi
+
