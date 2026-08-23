@@ -1,6 +1,6 @@
 [
     {
-        "id": 1921,
+        "id": 2564,
         "name": "東元綜合醫院A棟1F(藥局)-男廁",
         "coords": [
             24.82408,
@@ -19,7 +19,7 @@
         "description": "管理單位: 東元醫療社團法人東元綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1922,
+        "id": 2565,
         "name": "竹北市公所1F-女廁",
         "coords": [
             24.839646,
@@ -38,7 +38,7 @@
         "description": "管理單位: 新竹縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1923,
+        "id": 2566,
         "name": "竹北市公所2F-男廁",
         "coords": [
             24.839646,
@@ -57,7 +57,7 @@
         "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1924,
+        "id": 2567,
         "name": "竹東鎮商華公有零售市場-男廁",
         "coords": [
             24.73722377,
@@ -76,7 +76,7 @@
         "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1944,
+        "id": 2587,
         "name": "東元綜合醫院A棟2F-女廁",
         "coords": [
             24.824096,
@@ -90,579 +90,9 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 東元醫療社團法人東元綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1952,
-        "name": "東元綜合醫院A棟B1(婦產科)-女廁",
-        "coords": [
-            24.824117,
-            121.014141
-        ],
-        "address": "新竹縣竹北市斗崙里縣政二路69號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 東元醫療社團法人東元綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1953,
-        "name": "竹北市仁義公有零售市場-男廁",
-        "coords": [
-            24.83384496,
-            121.0130149
-        ],
-        "address": "新竹縣竹北市竹仁里仁義路129號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1954,
-        "name": "捷乘客運竹東站-男廁",
-        "coords": [
-            24.72244444,
-            121.0960556
-        ],
-        "address": "新竹縣竹東鎮東寧里東寧路一段1號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 捷乘客運。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1955,
-        "name": "竹東鎮客家戲曲公園-男廁",
-        "coords": [
-            24.73726275,
-            121.0905039
-        ],
-        "address": "新竹縣竹東鎮仁愛里東林路53號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1956,
-        "name": "關西鎮公有零售市場-男廁",
-        "coords": [
-            24.790752,
-            121.176019
-        ],
-        "address": "新竹縣關西鎮西安里大同路50號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1957,
-        "name": "高速公路關西服務區-3號男廁",
-        "coords": [
-            24.802398,
-            121.195533
-        ],
-        "address": "新竹縣關西鎮東安里上三屯14號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 交通部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1958,
-        "name": "台灣中油新庄子加油站-男廁",
-        "coords": [
-            24.906524,
-            120.983396
-        ],
-        "address": "新竹縣新豐鄉重興村新庄路429號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1959,
-        "name": "芎林鄉公所2F-男廁",
-        "coords": [
-            24.77313128,
-            121.0817599
-        ],
-        "address": "新竹縣芎林鄉上山村文富街133號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1960,
-        "name": "高鐵新竹站(一號出口)1F-男廁",
-        "coords": [
-            24.808255,
-            121.040221
-        ],
-        "address": "新竹縣竹北市隘口里高鐵七路6號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 交通部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1961,
-        "name": "竹北市豆子埔公園-男廁",
-        "coords": [
-            24.83317312,
-            121.0156596
-        ],
-        "address": "新竹縣竹北市竹仁里三民路149號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1962,
-        "name": "竹東鎮公所1F-男廁",
-        "coords": [
-            24.736809,
-            121.091482
-        ],
-        "address": "新竹縣竹東鎮雞林里東林路88號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1963,
-        "name": "竹東鎮公所2F-混合廁",
-        "coords": [
-            24.736809,
-            121.091482
-        ],
-        "address": "新竹縣竹東鎮雞林里東林路88號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1964,
-        "name": "台灣中油新埔加油站-男廁",
-        "coords": [
-            24.82757921,
-            121.0685152
-        ],
-        "address": "新竹縣新埔鎮田新里中正路902號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1965,
-        "name": "湖口鄉顯聖宮-男廁",
-        "coords": [
-            24.902892,
-            121.047989
-        ],
-        "address": "新竹縣湖口鄉愛勢村民生街120號",
-        "type": "宗教禮儀場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 財團法人台灣省新竹縣溪南湖口顯聖宮。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1966,
-        "name": "台灣中油新豐加油站-男廁",
-        "coords": [
-            24.872702,
-            121.000309
-        ],
-        "address": "新竹縣湖口鄉鳳山村新興路330號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1967,
-        "name": "橫山鄉樂善堂-男廁",
-        "coords": [
-            24.699327,
-            121.139447
-        ],
-        "address": "新竹縣橫山鄉豐鄉村3鄰大山背31號",
-        "type": "宗教禮儀場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 樂善堂。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1982,
-        "name": "竹北市新社公有零售市場-男廁",
-        "coords": [
-            24.83985724,
-            121.0001349
-        ],
-        "address": "新竹縣竹北市新國里中正西路497巷1弄15號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1983,
-        "name": "東元綜合醫院A棟B2-混合廁",
-        "coords": [
-            24.824108,
-            121.014281
-        ],
-        "address": "新竹縣竹北市斗崙里縣政二路69號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 東元醫療社團法人東元綜合醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1984,
-        "name": "竹北市公所1F-男廁",
-        "coords": [
-            24.839646,
-            121.00408
-        ],
-        "address": "新竹縣竹北市竹義里中正西路50號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1985,
-        "name": "竹東車站-男廁",
-        "coords": [
-            24.738177,
-            121.094831
-        ],
-        "address": "新竹縣竹東鎮雞林里東林路196號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1986,
-        "name": "台灣中油關西加油站-男廁",
-        "coords": [
-            24.793489,
-            121.17979
-        ],
-        "address": "新竹縣關西鎮北斗里中豐路二段50號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1987,
-        "name": "台灣中油長安加油站-男廁",
-        "coords": [
-            24.885732,
-            121.078359
-        ],
-        "address": "新竹縣湖口鄉湖口村八德路二段461號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1988,
-        "name": "內灣第一公有停車場-男廁",
-        "coords": [
-            24.70560918,
-            121.1785984
-        ],
-        "address": "新竹縣橫山鄉內灣村中山街二段2號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1989,
-        "name": "台灣中油北埔加油站-無障礙廁所",
-        "coords": [
-            24.70558,
-            121.062816
-        ],
-        "address": "新竹縣北埔鄉水磜村麻布樹排20號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1990,
-        "name": "綠世界生態農場第一景觀區-女廁",
-        "coords": [
-            24.699181,
-            121.0712886
-        ],
-        "address": "新竹縣北埔鄉大湖村大湖村20號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 綠世界生態休閒農場。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1991,
-        "name": "獅頭山牌樓-男廁",
-        "coords": [
-            24.651453,
-            121.027505
-        ],
-        "address": "新竹縣峨眉鄉七星村七星村60-8號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1992,
-        "name": "台灣中油尖石加油站-男廁",
-        "coords": [
-            24.705915,
-            121.202909
-        ],
-        "address": "新竹縣尖石鄉嘉樂村麥樹仁2鄰66號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1996,
-        "name": "竹北車站-男廁",
-        "coords": [
-            24.838847,
-            121.009301
-        ],
-        "address": "新竹縣竹北市福德里和平街59號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1997,
-        "name": "台灣中油竹東加油站-男廁",
-        "coords": [
-            24.72276236,
-            121.0964853
-        ],
-        "address": "新竹縣竹東鎮東寧里東寧路一段2號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1998,
-        "name": "湖口服務區(南下)南棟-男廁",
-        "coords": [
-            24.856801,
-            121.00924
-        ],
-        "address": "新竹縣湖口鄉鳳山村國強街1巷8號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 交通部。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2588,
@@ -815,6 +245,310 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新竹縣政府。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2624,
+        "name": "東元綜合醫院A棟B1(婦產科)-女廁",
+        "coords": [
+            24.824117,
+            121.014141
+        ],
+        "address": "新竹縣竹北市斗崙里縣政二路69號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東元醫療社團法人東元綜合醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2625,
+        "name": "竹北市仁義公有零售市場-男廁",
+        "coords": [
+            24.83384496,
+            121.0130149
+        ],
+        "address": "新竹縣竹北市竹仁里仁義路129號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2626,
+        "name": "捷乘客運竹東站-男廁",
+        "coords": [
+            24.72244444,
+            121.0960556
+        ],
+        "address": "新竹縣竹東鎮東寧里東寧路一段1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 捷乘客運。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2627,
+        "name": "竹東鎮客家戲曲公園-男廁",
+        "coords": [
+            24.73726275,
+            121.0905039
+        ],
+        "address": "新竹縣竹東鎮仁愛里東林路53號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2628,
+        "name": "關西鎮公有零售市場-男廁",
+        "coords": [
+            24.790752,
+            121.176019
+        ],
+        "address": "新竹縣關西鎮西安里大同路50號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2629,
+        "name": "高速公路關西服務區-3號男廁",
+        "coords": [
+            24.802398,
+            121.195533
+        ],
+        "address": "新竹縣關西鎮東安里上三屯14號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2630,
+        "name": "台灣中油新庄子加油站-男廁",
+        "coords": [
+            24.906524,
+            120.983396
+        ],
+        "address": "新竹縣新豐鄉重興村新庄路429號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2631,
+        "name": "芎林鄉公所2F-男廁",
+        "coords": [
+            24.77313128,
+            121.0817599
+        ],
+        "address": "新竹縣芎林鄉上山村文富街133號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2632,
+        "name": "高鐵新竹站(一號出口)1F-男廁",
+        "coords": [
+            24.808255,
+            121.040221
+        ],
+        "address": "新竹縣竹北市隘口里高鐵七路6號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2633,
+        "name": "竹北市豆子埔公園-男廁",
+        "coords": [
+            24.83317312,
+            121.0156596
+        ],
+        "address": "新竹縣竹北市竹仁里三民路149號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2634,
+        "name": "竹東鎮公所1F-男廁",
+        "coords": [
+            24.736809,
+            121.091482
+        ],
+        "address": "新竹縣竹東鎮雞林里東林路88號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2635,
+        "name": "竹東鎮公所2F-混合廁",
+        "coords": [
+            24.736809,
+            121.091482
+        ],
+        "address": "新竹縣竹東鎮雞林里東林路88號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2636,
+        "name": "台灣中油新埔加油站-男廁",
+        "coords": [
+            24.82757921,
+            121.0685152
+        ],
+        "address": "新竹縣新埔鎮田新里中正路902號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2637,
+        "name": "湖口鄉顯聖宮-男廁",
+        "coords": [
+            24.902892,
+            121.047989
+        ],
+        "address": "新竹縣湖口鄉愛勢村民生街120號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 財團法人台灣省新竹縣溪南湖口顯聖宮。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2638,
+        "name": "台灣中油新豐加油站-男廁",
+        "coords": [
+            24.872702,
+            121.000309
+        ],
+        "address": "新竹縣湖口鄉鳳山村新興路330號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2639,
+        "name": "橫山鄉樂善堂-男廁",
+        "coords": [
+            24.699327,
+            121.139447
+        ],
+        "address": "新竹縣橫山鄉豐鄉村3鄰大山背31號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 樂善堂。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2646,
@@ -1271,6 +1005,272 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2683,
+        "name": "竹北市新社公有零售市場-男廁",
+        "coords": [
+            24.83985724,
+            121.0001349
+        ],
+        "address": "新竹縣竹北市新國里中正西路497巷1弄15號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2684,
+        "name": "東元綜合醫院A棟B2-混合廁",
+        "coords": [
+            24.824108,
+            121.014281
+        ],
+        "address": "新竹縣竹北市斗崙里縣政二路69號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東元醫療社團法人東元綜合醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2685,
+        "name": "竹北市公所1F-男廁",
+        "coords": [
+            24.839646,
+            121.00408
+        ],
+        "address": "新竹縣竹北市竹義里中正西路50號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2686,
+        "name": "竹東車站-男廁",
+        "coords": [
+            24.738177,
+            121.094831
+        ],
+        "address": "新竹縣竹東鎮雞林里東林路196號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2687,
+        "name": "台灣中油關西加油站-男廁",
+        "coords": [
+            24.793489,
+            121.17979
+        ],
+        "address": "新竹縣關西鎮北斗里中豐路二段50號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2688,
+        "name": "台灣中油長安加油站-男廁",
+        "coords": [
+            24.885732,
+            121.078359
+        ],
+        "address": "新竹縣湖口鄉湖口村八德路二段461號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2689,
+        "name": "內灣第一公有停車場-男廁",
+        "coords": [
+            24.70560918,
+            121.1785984
+        ],
+        "address": "新竹縣橫山鄉內灣村中山街二段2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2690,
+        "name": "台灣中油北埔加油站-無障礙廁所",
+        "coords": [
+            24.70558,
+            121.062816
+        ],
+        "address": "新竹縣北埔鄉水磜村麻布樹排20號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2691,
+        "name": "綠世界生態農場第一景觀區-女廁",
+        "coords": [
+            24.699181,
+            121.0712886
+        ],
+        "address": "新竹縣北埔鄉大湖村大湖村20號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 綠世界生態休閒農場。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2692,
+        "name": "獅頭山牌樓-男廁",
+        "coords": [
+            24.651453,
+            121.027505
+        ],
+        "address": "新竹縣峨眉鄉七星村七星村60-8號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2693,
+        "name": "台灣中油尖石加油站-男廁",
+        "coords": [
+            24.705915,
+            121.202909
+        ],
+        "address": "新竹縣尖石鄉嘉樂村麥樹仁2鄰66號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2697,
+        "name": "竹北車站-男廁",
+        "coords": [
+            24.838847,
+            121.009301
+        ],
+        "address": "新竹縣竹北市福德里和平街59號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2698,
+        "name": "台灣中油竹東加油站-男廁",
+        "coords": [
+            24.72276236,
+            121.0964853
+        ],
+        "address": "新竹縣竹東鎮東寧里東寧路一段2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2699,
+        "name": "湖口服務區(南下)南棟-男廁",
+        "coords": [
+            24.856801,
+            121.00924
+        ],
+        "address": "新竹縣湖口鄉鳳山村國強街1巷8號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2700,

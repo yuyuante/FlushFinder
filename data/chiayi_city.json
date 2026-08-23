@@ -1,6 +1,63 @@
 [
     {
-        "id": 1511,
+        "id": 1645,
+        "name": "耐斯百貨8F女廁",
+        "coords": [
+            23.496941,
+            120.452414
+        ],
+        "address": "嘉義市東　區義教里忠孝路600號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1646,
+        "name": "財團法人九華山地藏庵男廁",
+        "coords": [
+            23.48325,
+            120.4565
+        ],
+        "address": "嘉義市東　區中山里民權路255號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 財團法人嘉義市九華山地藏庵。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1647,
+        "name": "市政府1F近中山路男廁",
+        "coords": [
+            23.481305,
+            120.453566
+        ],
+        "address": "嘉義市東　區東興里中山路199號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府行政處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1681,
         "name": "耐斯王子大飯店5F男廁",
         "coords": [
             23.496423,
@@ -19,7 +76,7 @@
         "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1512,
+        "id": 1682,
         "name": "耐斯王子大飯店5F女廁",
         "coords": [
             23.496423,
@@ -33,12 +90,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1513,
+        "id": 1683,
         "name": "台灣中油博愛路加油站男廁",
         "coords": [
             23.489056,
@@ -57,7 +114,7 @@
         "description": "管理單位: 台灣中油股份有限公司油品行銷事業部嘉義營業處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1514,
+        "id": 1684,
         "name": "市政府2F近中山路男廁",
         "coords": [
             23.481305,
@@ -76,7 +133,7 @@
         "description": "管理單位: 嘉義市政府行政處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1515,
+        "id": 1685,
         "name": "市政府3F近中山路男廁",
         "coords": [
             23.481305,
@@ -95,7 +152,7 @@
         "description": "管理單位: 嘉義市政府行政處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1516,
+        "id": 1686,
         "name": "宣信公園男廁",
         "coords": [
             23.46883,
@@ -114,7 +171,7 @@
         "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1517,
+        "id": 1687,
         "name": "保安宮男廁",
         "coords": [
             23.490129,
@@ -133,7 +190,7 @@
         "description": "管理單位: 保安宮管理委員會。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1523,
+        "id": 1693,
         "name": "耐斯百貨5F女廁",
         "coords": [
             23.496941,
@@ -152,7 +209,7 @@
         "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1524,
+        "id": 1694,
         "name": "東區區公所男廁",
         "coords": [
             23.4787,
@@ -171,7 +228,7 @@
         "description": "管理單位: 嘉義市東區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1525,
+        "id": 1695,
         "name": "城隍廟男廁",
         "coords": [
             23.478272,
@@ -190,7 +247,197 @@
         "description": "管理單位: 財團法人台灣省嘉義市城隍廟。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1529,
+        "id": 1706,
+        "name": "耐斯百貨2F女廁",
+        "coords": [
+            23.496941,
+            120.452414
+        ],
+        "address": "嘉義市東　區義教里忠孝路600號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1707,
+        "name": "東區戶政事務所男廁",
+        "coords": [
+            23.478719,
+            120.45343
+        ],
+        "address": "嘉義市東　區民族里吳鳳北路184號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市東區戶政事務所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1708,
+        "name": "環保局左側男廁",
+        "coords": [
+            23.478876,
+            120.453664
+        ],
+        "address": "嘉義市東　區民族里吳鳳北路184號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1709,
+        "name": "嘉義公園近溜冰場男廁",
+        "coords": [
+            23.483854,
+            120.464745
+        ],
+        "address": "嘉義市東　區東川里嘉義公園近溜冰場旁",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1710,
+        "name": "鎮天宮男廁",
+        "coords": [
+            23.468295,
+            120.460422
+        ],
+        "address": "嘉義市東　區芳安里芳安路195號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 財團法人台灣省嘉邑鎮天宮。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1711,
+        "name": "西區衛生所1F男女廁",
+        "coords": [
+            23.480005,
+            120.431026
+        ],
+        "address": "嘉義市西　區福全里德明路1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市西區衛生所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1716,
+        "name": "耐斯百貨4F男廁",
+        "coords": [
+            23.496941,
+            120.452414
+        ],
+        "address": "嘉義市東　區義教里忠孝路600號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1717,
+        "name": "耐斯百貨4F女廁",
+        "coords": [
+            23.496941,
+            120.452414
+        ],
+        "address": "嘉義市東　區義教里忠孝路600號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1718,
+        "name": "博物館2F男廁",
+        "coords": [
+            23.48701,
+            120.45144
+        ],
+        "address": "嘉義市東　區北門里忠孝路275-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1719,
+        "name": "仁武宮",
+        "coords": [
+            23.48133,
+            120.450462
+        ],
+        "address": "嘉義市東　區中央里北榮街54號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 仁武宮。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1727,
         "name": "耐斯百貨8F男廁",
         "coords": [
             23.496941,
@@ -209,7 +456,7 @@
         "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1530,
+        "id": 1728,
         "name": "蘭潭水庫土地公廟旁男廁",
         "coords": [
             23.47500389,
@@ -223,12 +470,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 嘉義市政府觀光新聞處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1531,
+        "id": 1729,
         "name": "東園軒男廁",
         "coords": [
             23.477531,
@@ -247,7 +494,7 @@
         "description": "管理單位: 東園軒有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1532,
+        "id": 1730,
         "name": "南田公園男廁",
         "coords": [
             23.470478,
@@ -266,7 +513,7 @@
         "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1533,
+        "id": 1731,
         "name": "河濱運動公園男廁",
         "coords": [
             23.4585173,
@@ -285,7 +532,7 @@
         "description": "管理單位: 嘉義市立體育館。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1534,
+        "id": 1732,
         "name": "西區衛生所2F男女廁",
         "coords": [
             23.480005,
@@ -304,7 +551,7 @@
         "description": "管理單位: 嘉義市西區衛生所。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1535,
+        "id": 1733,
         "name": "台灣中油信義加油站男廁",
         "coords": [
             23.46881,
@@ -323,7 +570,7 @@
         "description": "管理單位: 台灣中油股份有限公司油品行銷事業部嘉義營業處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1536,
+        "id": 1734,
         "name": "南隱宮男廁",
         "coords": [
             23.478705,
@@ -337,12 +584,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 南隱宮。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1537,
+        "id": 1735,
         "name": "新光三越百貨11F無障礙廁所",
         "coords": [
             23.473393,
@@ -361,7 +608,7 @@
         "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1538,
+        "id": 1736,
         "name": "西市場2F-右側男",
         "coords": [
             23.47939,
@@ -375,12 +622,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1539,
+        "id": 1737,
         "name": "台灣中油文化路加油站男廁",
         "coords": [
             23.47454,
@@ -399,7 +646,7 @@
         "description": "管理單位: 台灣中油股份有限公司 油品行銷事業部嘉義營業處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1546,
+        "id": 1744,
         "name": "耐斯百貨2F男廁",
         "coords": [
             23.496941,
@@ -413,12 +660,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1547,
+        "id": 1745,
         "name": "財稅局2F西側男廁",
         "coords": [
             23.481786,
@@ -437,7 +684,7 @@
         "description": "管理單位: 嘉義市政府財政稅務局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1548,
+        "id": 1746,
         "name": "市政府8F近中山路男廁",
         "coords": [
             23.481305,
@@ -456,7 +703,7 @@
         "description": "管理單位: 嘉義市政府行政處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1549,
+        "id": 1747,
         "name": "東市場男廁",
         "coords": [
             23.479066,
@@ -475,7 +722,7 @@
         "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1550,
+        "id": 1748,
         "name": "嘉義公園孔廟旁男廁",
         "coords": [
             23.4825141,
@@ -494,7 +741,7 @@
         "description": "管理單位: 嘉義市政府民政處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1551,
+        "id": 1749,
         "name": "長榮公園男廁",
         "coords": [
             23.485004,
@@ -513,7 +760,7 @@
         "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1552,
+        "id": 1750,
         "name": "蘭潭水庫泛月公園旁男廁",
         "coords": [
             23.46597181,
@@ -527,12 +774,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 嘉義市政府觀光新聞處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1553,
+        "id": 1751,
         "name": "友忠公園男廁",
         "coords": [
             23.47706,
@@ -551,8 +798,122 @@
         "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1554,
+        "id": 1752,
         "name": "新光三越百貨3F女",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1753,
+        "name": "新光三越百貨4F女",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1754,
+        "name": "地政事務所男廁",
+        "coords": [
+            23.479209,
+            120.448307
+        ],
+        "address": "嘉義市西　區文化里國華街245號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市地政事務所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1755,
+        "name": "西區戶政事務所男廁",
+        "coords": [
+            23.464453,
+            120.435311
+        ],
+        "address": "嘉義市西　區福民里錦州二街28號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市西區戶政事務所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1756,
+        "name": "西區區公所男廁",
+        "coords": [
+            23.4645,
+            120.435379
+        ],
+        "address": "嘉義市西　區福民里錦州二街28號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市西區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1760,
+        "name": "港坪里運動公園-3男廁",
+        "coords": [
+            23.476981,
+            120.421416
+        ],
+        "address": "嘉義市西　區港坪里大同路320號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市立體育場。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1761,
+        "name": "新光三越百貨10F女",
         "coords": [
             23.473393,
             120.441352
@@ -570,7 +931,653 @@
         "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1555,
+        "id": 1762,
+        "name": "新光三越百貨11F女",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1763,
+        "name": "嘉義客運男廁",
+        "coords": [
+            23.479187,
+            120.444529
+        ],
+        "address": "嘉義市西　區西榮里中山路503號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義汽車客運(股)公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1764,
+        "name": "嘉義火車站男廁",
+        "coords": [
+            23.47925159,
+            120.4413646
+        ],
+        "address": "嘉義市西　區番社里中山路528號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1765,
+        "name": "遠東百貨4F男廁",
+        "coords": [
+            23.472755,
+            120.44112
+        ],
+        "address": "嘉義市西　區垂楊里垂楊路537號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠東百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1766,
+        "name": "遠東百貨6F男廁",
+        "coords": [
+            23.472755,
+            120.44112
+        ],
+        "address": "嘉義市西　區垂楊里垂楊路537號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠東百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1768,
+        "name": "市政府6F近中山路男廁",
+        "coords": [
+            23.481305,
+            120.453566
+        ],
+        "address": "嘉義市東　區東興里中山路199號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府行政處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1769,
+        "name": "文昌公園男廁",
+        "coords": [
+            23.478352,
+            120.45625
+        ],
+        "address": "嘉義市東　區民族里蘭井街文昌街口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1770,
+        "name": "嘉義公園遊戲區旁男廁",
+        "coords": [
+            23.482472,
+            120.467296
+        ],
+        "address": "嘉義市東　區東川里嘉義公園遊戲區旁",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1771,
+        "name": "蘭潭水庫三信亭旁男廁",
+        "coords": [
+            23.46810527,
+            120.47642498
+        ],
+        "address": "嘉義市東　區蘭潭里蘭潭水庫三信亭旁",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府觀光新聞處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1772,
+        "name": "番仔溝公園男廁",
+        "coords": [
+            23.47477,
+            120.4363
+        ],
+        "address": "嘉義市西　區西平里嘉雄陸橋下",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1773,
+        "name": "新光三越百貨B2男",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1774,
+        "name": "新光三越百貨8F女2",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1775,
+        "name": "交通處男廁",
+        "coords": [
+            23.479209,
+            120.448307
+        ],
+        "address": "嘉義市西　區文化里國華街245號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府交通處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1776,
+        "name": "228公園男廁",
+        "coords": [
+            23.476551,
+            120.462856
+        ],
+        "address": "嘉義市東　區東川里大雅路二段695號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1777,
+        "name": "南興宮",
+        "coords": [
+            23.456988,
+            120.458932
+        ],
+        "address": "嘉義市東　區興仁里興仁街245號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉邑南興宮。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1778,
+        "name": "福懋大嘉加油站男廁",
+        "coords": [
+            23.484857,
+            120.422047
+        ],
+        "address": "嘉義市西　區北湖里北港路530之15號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 福懋興業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1779,
+        "name": "世賢圖書館1F男廁",
+        "coords": [
+            23.48985568,
+            120.42852402
+        ],
+        "address": "嘉義市西　區保福里世賢路一段685號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1780,
+        "name": "新光三越百貨2F女",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1782,
+        "name": "新光三越百貨5F女",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1783,
+        "name": "遊天宮",
+        "coords": [
+            23.475331,
+            120.441569
+        ],
+        "address": "嘉義市西　區書院里民族路750號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 財團法人台灣省嘉義市遊天宮。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1784,
+        "name": "民生公園男廁",
+        "coords": [
+            23.465557,
+            120.443304
+        ],
+        "address": "嘉義市西　區美源里嘉義市西區民生南路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1785,
+        "name": "港坪里運動公園-1男廁",
+        "coords": [
+            23.476981,
+            120.421416
+        ],
+        "address": "嘉義市西　區港坪里大同路320號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市立體育場。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1786,
+        "name": "新光三越百貨B1男",
+        "coords": [
+            23.473441,
+            120.441058
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1787,
+        "name": "新光三越百貨6F女",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1788,
+        "name": "西市場2F-左側男",
+        "coords": [
+            23.47939,
+            120.448395
+        ],
+        "address": "嘉義市西　區文化里國華街245號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1789,
+        "name": "遠東百貨3F男廁",
+        "coords": [
+            23.472755,
+            120.44112
+        ],
+        "address": "嘉義市西　區垂楊里垂楊路537號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠東百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1801,
+        "name": "耐斯百貨3F女廁",
+        "coords": [
+            23.496941,
+            120.452414
+        ],
+        "address": "嘉義市東　區義教里忠孝路600號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1802,
+        "name": "博物館1F男廁",
+        "coords": [
+            23.48701,
+            120.45144
+        ],
+        "address": "嘉義市東　區北門里忠孝路275-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1803,
+        "name": "警察局1F男廁",
+        "coords": [
+            23.481282,
+            120.454633
+        ],
+        "address": "嘉義市東　區東興里中山路195號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府警察局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1804,
+        "name": "環保局右側5F混合廁",
+        "coords": [
+            23.478876,
+            120.453664
+        ],
+        "address": "嘉義市東　區民族里吳鳳北路184號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府環境保護局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1805,
+        "name": "嘉義公園近啟明路女廁",
+        "coords": [
+            23.483796,
+            120.463629
+        ],
+        "address": "嘉義市東　區東川里啟明路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1806,
+        "name": "體育館男廁",
+        "coords": [
+            23.47348,
+            120.46244
+        ],
+        "address": "嘉義市東　區新開里彌陀路381號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府教育處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1807,
+        "name": "台灣中油吳鳳路加油站男廁",
+        "coords": [
+            23.46903,
+            120.45403
+        ],
+        "address": "嘉義市東　區安業里吳鳳南路92號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司油品行銷事業部嘉義營業處吳鳳加油站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1808,
+        "name": "嘉交加油站男廁",
+        "coords": [
+            23.492993,
+            120.395861
+        ],
+        "address": "嘉義市西　區竹村里北港路1158號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 領先商業股份有限公司嘉交加油站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1809,
         "name": "遠東百貨1F女廁",
         "coords": [
             23.472755,
@@ -589,7 +1596,7 @@
         "description": "管理單位: 遠東百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1572,
+        "id": 1826,
         "name": "耐斯百貨3F男廁",
         "coords": [
             23.496941,
@@ -608,7 +1615,7 @@
         "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1573,
+        "id": 1827,
         "name": "耐斯百貨5F男廁",
         "coords": [
             23.496941,
@@ -627,7 +1634,7 @@
         "description": "管理單位: 耐斯廣場股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1574,
+        "id": 1828,
         "name": "財稅局1F西側女廁",
         "coords": [
             23.481786,
@@ -646,7 +1653,7 @@
         "description": "管理單位: 嘉義市政府財政稅務局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1575,
+        "id": 1829,
         "name": "市政府7F近中山路男廁",
         "coords": [
             23.481305,
@@ -665,7 +1672,7 @@
         "description": "管理單位: 嘉義市政府行政處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1576,
+        "id": 1830,
         "name": "嘉義公園射日塔旁男廁",
         "coords": [
             23.482078,
@@ -679,12 +1686,12 @@
             "baby": true,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1577,
+        "id": 1831,
         "name": "南興公園男廁",
         "coords": [
             23.46637,
@@ -703,7 +1710,7 @@
         "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1578,
+        "id": 1832,
         "name": "台灣中油北興加油站男廁",
         "coords": [
             23.49205,
@@ -717,12 +1724,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 台灣中油股份有限公司油品行銷事業部嘉義營業處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1579,
+        "id": 1833,
         "name": "新光三越百貨B1女",
         "coords": [
             23.473393,
@@ -741,7 +1748,7 @@
         "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1580,
+        "id": 1834,
         "name": "新光三越百貨6F男",
         "coords": [
             23.473393,
@@ -758,6 +1765,196 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1836,
+        "name": "新光三越百貨7F男",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1837,
+        "name": "新光三越百貨9F親子廁所",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1838,
+        "name": "中正公園男廁",
+        "coords": [
+            23.481771,
+            120.447563
+        ],
+        "address": "嘉義市西　區國華里國華街、民權路口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市政府建設處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1839,
+        "name": "遠東百貨B1男廁",
+        "coords": [
+            23.472755,
+            120.44112
+        ],
+        "address": "嘉義市西　區垂楊里垂楊路537號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠東百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1840,
+        "name": "遠東百貨2F女廁",
+        "coords": [
+            23.472755,
+            120.44112
+        ],
+        "address": "嘉義市西　區垂楊里垂楊路537號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠東百貨股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1850,
+        "name": "港坪里運動公園-2男廁",
+        "coords": [
+            23.476981,
+            120.421416
+        ],
+        "address": "嘉義市西　區港坪里大同路320號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉義市立體育場。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1851,
+        "name": "新光三越百貨10F男",
+        "coords": [
+            23.473393,
+            120.441352
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1852,
+        "name": "新光三越百貨11F男",
+        "coords": [
+            23.473441,
+            120.441058
+        ],
+        "address": "嘉義市西　區永和里垂楊路726號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新光三越百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1853,
+        "name": "遠東百貨5F男廁",
+        "coords": [
+            23.472755,
+            120.44112
+        ],
+        "address": "嘉義市西　區垂楊里垂楊路537號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠東百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1854,
+        "name": "遠東百貨7F男廁",
+        "coords": [
+            23.472755,
+            120.44112
+        ],
+        "address": "嘉義市西　區垂楊里垂楊路537號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠東百貨股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 6363,

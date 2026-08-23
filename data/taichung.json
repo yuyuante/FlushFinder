@@ -1,2228 +1,5 @@
 [
     {
-        "id": 1772,
-        "name": "南屯區春社公園-男廁",
-        "coords": [
-            24.14039,
-            120.61162
-        ],
-        "address": "臺中市南屯區春社里嶺東路與永春北路間33號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1773,
-        "name": "臺中市立圖書館(南屯分館)3F-男廁",
-        "coords": [
-            24.14970339,
-            120.64533622
-        ],
-        "address": "臺中市南屯區惠中里大墩十二街361號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1774,
-        "name": "林新醫院A棟3F-男廁",
-        "coords": [
-            24.14904,
-            120.64064
-        ],
-        "address": "臺中市南屯區三和里惠中路三段36號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1775,
-        "name": "臺中市北屯區軍功衛生所-男廁",
-        "coords": [
-            24.17635067,
-            120.71932325
-        ],
-        "address": "臺中市北屯區軍功里軍功路二段16號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1776,
-        "name": "北屯區大坑地震公園-男廁",
-        "coords": [
-            24.17769261,
-            120.73453512
-        ],
-        "address": "臺中市北屯區和平里東山路一段421-7號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1779,
-        "name": "南屯區正心公園-男廁",
-        "coords": [
-            24.13593,
-            120.65054
-        ],
-        "address": "臺中市南屯區大興里南屯路二段187-1號旁",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市南屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1780,
-        "name": "大墩食衣廣場B2(停車場)-男廁",
-        "coords": [
-            24.14931857,
-            120.64895868
-        ],
-        "address": "臺中市南屯區惠中里大墩路533號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 誠友開發股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1781,
-        "name": "台灣中油青島路站-男廁",
-        "coords": [
-            24.17432,
-            120.674494
-        ],
-        "address": "臺中市北屯區平和里文心路四段119號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1782,
-        "name": "聯安醫院1F-A(男廁)",
-        "coords": [
-            24.17109643,
-            120.6993242
-        ],
-        "address": "臺中市北屯區東光里東山路一段37號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 聯安醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1783,
-        "name": "大坑六號步道停車場-男廁",
-        "coords": [
-            24.1872408,
-            120.73049677
-        ],
-        "address": "臺中市北屯區和平里松竹路一段350巷12-1號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府觀光旅遊局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1784,
-        "name": "臺中市北屯區公所2F-男廁",
-        "coords": [
-            24.1826,
-            120.68631
-        ],
-        "address": "臺中市北屯區仁和里崇德路三段10號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市北屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1785,
-        "name": "臺中市北屯區公所4F-男廁",
-        "coords": [
-            24.1826,
-            120.68631
-        ],
-        "address": "臺中市北屯區仁和里崇德路三段10號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市北屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1786,
-        "name": "臺中洲際棒球場(D區)2F-女廁",
-        "coords": [
-            24.19927631,
-            120.68614483
-        ],
-        "address": "臺中市北屯區四民里崇德路三段835號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1787,
-        "name": "臺中洲際棒球場(A區)3F-男廁",
-        "coords": [
-            24.19927631,
-            120.68614483
-        ],
-        "address": "臺中市北屯區四民里崇德路三段835號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1798,
-        "name": "臺中市大進公有零售市場1F-男廁",
-        "coords": [
-            24.14313122,
-            120.6504178
-        ],
-        "address": "臺中市南屯區大同里大墩六街161號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府經濟發展局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1799,
-        "name": "臺中市立圖書館(南屯分館)1F-男廁",
-        "coords": [
-            24.14970339,
-            120.64533622
-        ],
-        "address": "臺中市南屯區惠中里大墩十二街361號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1800,
-        "name": "臺中市立圖書館(北屯分館)1F-性別友善廁",
-        "coords": [
-            24.17230606,
-            120.698143
-        ],
-        "address": "臺中市北屯區平田里大連路三段122號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1801,
-        "name": "臺中市立圖書館(北屯分館)3F-男廁",
-        "coords": [
-            24.1745238,
-            120.694244
-        ],
-        "address": "臺中市北屯區平田里大連路三段122號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1802,
-        "name": "北屯區軍功公園-男廁",
-        "coords": [
-            24.1816314,
-            120.7211909
-        ],
-        "address": "臺中市北屯區軍功里松竹路一段640號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1803,
-        "name": "大坑一號步道停車場-男廁",
-        "coords": [
-            24.18966256,
-            120.78472159
-        ],
-        "address": "臺中市北屯區民德里連坑巷235號對面",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府觀光旅遊局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1804,
-        "name": "臺中市北屯區公所5F-男廁",
-        "coords": [
-            24.1826,
-            120.68631
-        ],
-        "address": "臺中市北屯區仁和里崇德路三段10號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市北屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1809,
-        "name": "寶之林家具回收再生中心(A區)-男廁",
-        "coords": [
-            24.17371206,
-            120.72186751
-        ],
-        "address": "臺中市北屯區和平里和順路439號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1810,
-        "name": "臺中市立圖書館(總館)2F-無障礙廁所",
-        "coords": [
-            24.19466,
-            120.68001
-        ],
-        "address": "臺中市北屯區仁和里豐樂路二段158號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1811,
-        "name": "臺中洲際棒球場(B區)1F-女廁",
-        "coords": [
-            24.19927631,
-            120.68614483
-        ],
-        "address": "臺中市北屯區四民里崇德路三段835號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1812,
-        "name": "臺中洲際棒球場(C區)1F-女廁",
-        "coords": [
-            24.19927631,
-            120.68614483
-        ],
-        "address": "臺中市北屯區四民里崇德路三段835號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1817,
-        "name": "大坑一號步道體能訓練場(A區)-男廁",
-        "coords": [
-            24.19044422,
-            120.78632813
-        ],
-        "address": "臺中市北屯區民德里連坑巷",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府觀光旅遊局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1818,
-        "name": "大坑二號步道停車場-男廁",
-        "coords": [
-            24.18413406,
-            120.78534685
-        ],
-        "address": "臺中市北屯區民德里連坑巷",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府觀光旅遊局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1819,
-        "name": "臺中市北屯區公所6F-男廁",
-        "coords": [
-            24.1826,
-            120.68631
-        ],
-        "address": "臺中市北屯區仁和里崇德路三段10號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市北屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1820,
-        "name": "臺中市立圖書館(總館)1F-親子廁所",
-        "coords": [
-            24.19466,
-            120.68001
-        ],
-        "address": "臺中市北屯區仁和里豐樂路二段158號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1821,
-        "name": "臺中洲際棒球場(A區)2F-女廁",
-        "coords": [
-            24.19927631,
-            120.68614483
-        ],
-        "address": "臺中市北屯區四民里崇德路三段835號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1822,
-        "name": "臺中洲際棒球場(B區)2F-無障礙廁所",
-        "coords": [
-            24.19927631,
-            120.68614483
-        ],
-        "address": "臺中市北屯區四民里崇德路三段835號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1823,
-        "name": "臺中洲際棒球場(C區)2F-女廁",
-        "coords": [
-            24.19927631,
-            120.68614483
-        ],
-        "address": "臺中市北屯區四民里崇德路三段835號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1824,
-        "name": "臺中市中正地政事務所1F-男廁",
-        "coords": [
-            24.17053574,
-            120.68005957
-        ],
-        "address": "臺中市北屯區平德里北平路三段36號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府地政局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1828,
-        "name": "台灣中油五權西路站-男廁",
-        "coords": [
-            24.141514,
-            120.641024
-        ],
-        "address": "臺中市南屯區田心里五權西路二段566號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1829,
-        "name": "台灣中油公益路站-男廁",
-        "coords": [
-            24.151111,
-            120.652688
-        ],
-        "address": "臺中市南屯區大業里公益路二段2號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1830,
-        "name": "林新醫院A棟1F-男廁",
-        "coords": [
-            24.14904,
-            120.64064
-        ],
-        "address": "臺中市南屯區三和里惠中路三段36號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1831,
-        "name": "林新醫院A棟B1-男廁",
-        "coords": [
-            24.14904,
-            120.64064
-        ],
-        "address": "臺中市南屯區三和里惠中路三段36號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1832,
-        "name": "大買家北屯店1F(男廁)",
-        "coords": [
-            24.16910747,
-            120.69704277
-        ],
-        "address": "臺中市北屯區舊社里北屯路370號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大買家股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1836,
-        "name": "臺中市立圖書館(南屯分館)2F-男廁",
-        "coords": [
-            24.14970339,
-            120.64533622
-        ],
-        "address": "臺中市南屯區惠中里大墩十二街361號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1837,
-        "name": "大買家北屯店3F(男廁)",
-        "coords": [
-            24.17631133,
-            120.69960261
-        ],
-        "address": "臺中市北屯區舊社里北屯路370號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大買家股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1862,
-        "name": "澄清綜合醫院1F-A(男廁)",
-        "coords": [
-            24.14301,
-            120.68199
-        ],
-        "address": "臺中市中　區光復里平等街139號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 澄清綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1863,
-        "name": "大誠立體停車場-男廁",
-        "coords": [
-            24.144142,
-            120.679227
-        ],
-        "address": "臺中市中　區大誠里吉祥街20號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市停車管理處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1864,
-        "name": "日新大戲院9F(男廁)",
-        "coords": [
-            24.14375,
-            120.67535
-        ],
-        "address": "臺中市中　區中華里中華路一段58號",
-        "type": "休閒娛樂場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 日新大戲院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1865,
-        "name": "新時代購物中心B5-男廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1869,
-        "name": "澄清綜合醫院1F-C(男廁)",
-        "coords": [
-            24.14301,
-            120.68199
-        ],
-        "address": "臺中市中　區光復里平等街139號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 澄清綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1870,
-        "name": "台中仁愛醫院3樓-性別友善廁",
-        "coords": [
-            24.143561,
-            120.67822
-        ],
-        "address": "臺中市中　區柳川里柳川東路三段36號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁愛醫療財團法人台中仁愛醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1871,
-        "name": "台中仁愛醫院2樓-男廁",
-        "coords": [
-            24.143561,
-            120.67822
-        ],
-        "address": "臺中市中　區柳川里柳川東路三段36號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁愛醫療財團法人台中仁愛醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1872,
-        "name": "新時代購物中心B1-男廁",
-        "coords": [
-            24.1362738,
-            120.6882194
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1873,
-        "name": "新時代購物中心4F-女廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1881,
-        "name": "臺中市中區區公所6F-男廁",
-        "coords": [
-            24.14391,
-            120.67938
-        ],
-        "address": "臺中市中　區柳川里成功路300號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市中區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1887,
-        "name": "台中仁愛醫院1樓-男廁",
-        "coords": [
-            24.143561,
-            120.67822
-        ],
-        "address": "臺中市中　區柳川里柳川東路三段36號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁愛醫療財團法人台中仁愛醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1888,
-        "name": "第一醫院-混合廁",
-        "coords": [
-            24.14244,
-            120.67643
-        ],
-        "address": "臺中市中　區大誠里民族路184號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 第一醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1889,
-        "name": "新時代購物中心8F(H)-男廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1890,
-        "name": "臺中市東區衛生所-男廁",
-        "coords": [
-            24.1335,
-            120.6878
-        ],
-        "address": "臺中市東　區振興里信義街142號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市東區衛生所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1891,
-        "name": "臺中市立圖書館(東區分館)2F-女廁",
-        "coords": [
-            24.12963,
-            120.68947
-        ],
-        "address": "臺中市東　區東興里建德街144號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1892,
-        "name": "中國醫藥大學附設醫院東區分院B1F(混合廁)",
-        "coords": [
-            24.14278,
-            120.69473
-        ],
-        "address": "臺中市東　區旱溪里自由路三段296號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中國醫藥大學附設醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1893,
-        "name": "台灣中油振興路站-男廁",
-        "coords": [
-            24.13355,
-            120.69396
-        ],
-        "address": "臺中市東　區泉源里建成路556號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1894,
-        "name": "臺中市中區區公所4F(男廁)",
-        "coords": [
-            24.14391,
-            120.67938
-        ],
-        "address": "臺中市中　區柳川里成功路300號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市中區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1895,
-        "name": "新時代購物中心2F(B)-女廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1896,
-        "name": "新時代購物中心3F(B)-男廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1897,
-        "name": "新時代購物中心8F(B)-男廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1898,
-        "name": "臺中市立圖書館(東區分館)2F-親子廁所",
-        "coords": [
-            24.1294,
-            120.689611
-        ],
-        "address": "臺中市東　區東興里建德街144號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1899,
-        "name": "臺中市立圖書館(東區分館)3F-女廁",
-        "coords": [
-            24.12963,
-            120.68947
-        ],
-        "address": "臺中市東　區東興里建德街144號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1900,
-        "name": "中國醫藥大學附設醫院東區分院1F(混合廁)",
-        "coords": [
-            24.14278,
-            120.69473
-        ],
-        "address": "臺中市東　區旱溪里自由路三段296號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中國醫藥大學附設醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1901,
-        "name": "臺中市東區區公所(C區)-男廁",
-        "coords": [
-            24.13672,
-            120.70408
-        ],
-        "address": "臺中市東　區東信里長福路245號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市東區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1903,
-        "name": "臺中市中區戶政事務所-男廁",
-        "coords": [
-            24.143859,
-            120.679439
-        ],
-        "address": "臺中市中　區柳川里興中街80號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府民政局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1904,
-        "name": "日新大戲院6F(男廁)",
-        "coords": [
-            24.14375,
-            120.67535
-        ],
-        "address": "臺中市中　區中華里中華路一段58號",
-        "type": "休閒娛樂場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 日新大戲院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1905,
-        "name": "新時代購物中心4F-男廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1906,
-        "name": "台安醫院3F(男廁)",
-        "coords": [
-            24.14908,
-            120.69438
-        ],
-        "address": "臺中市東　區東勢里進化路203號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台安醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1907,
-        "name": "台安醫院5F(混合廁)",
-        "coords": [
-            24.14908,
-            120.69438
-        ],
-        "address": "臺中市東　區東勢里進化路203號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台安醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1908,
-        "name": "中興醫院8FA-無障礙廁所",
-        "coords": [
-            24.118143,
-            120.6584
-        ],
-        "address": "臺中市南　區和平里復興路二段11號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中興醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1909,
-        "name": "中山醫院大慶分院核醫大樓1FB-男廁",
-        "coords": [
-            24.12113,
-            120.64962
-        ],
-        "address": "臺中市南　區樹德里建國北路一段110號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中山醫學大學附設醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1910,
-        "name": "南京立體停車場-男廁",
-        "coords": [
-            24.14004,
-            120.69075
-        ],
-        "address": "臺中市東　區干城里南京路72號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市停車管理處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1911,
-        "name": "東區樂成公園-男廁",
-        "coords": [
-            24.137224,
-            120.702575
-        ],
-        "address": "臺中市東　區東信里東英五街46號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1912,
-        "name": "中興醫院2FA-男廁",
-        "coords": [
-            24.118143,
-            120.6584
-        ],
-        "address": "臺中市南　區和平里復興路二段11號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中興醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1913,
-        "name": "中興醫院7F-女廁",
-        "coords": [
-            24.118143,
-            120.6584
-        ],
-        "address": "臺中市南　區和平里復興路二段11號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中興醫院。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1914,
-        "name": "愛買吉安復興店B1F-男廁",
-        "coords": [
-            24.115499,
-            120.654344
-        ],
-        "address": "臺中市南　區樹義里復興路一段359號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 遠百企業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1915,
-        "name": "愛買吉安復興店2FA-男廁",
-        "coords": [
-            24.11549987,
-            120.65434456
-        ],
-        "address": "臺中市南　區樹義里復興路一段359號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 遠百企業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1916,
-        "name": "台灣中油永和街站-男廁",
-        "coords": [
-            24.119423,
-            120.666674
-        ],
-        "address": "臺中市南　區平和里美村南路77號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1917,
-        "name": "臺中市立大墩文化中心(A區)B1-男廁",
-        "coords": [
-            24.141737,
-            120.665411
-        ],
-        "address": "臺中市西　區安龍里英才路600號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1918,
-        "name": "臺中市立大墩文化中心(A區)B1-無障礙廁所",
-        "coords": [
-            24.141737,
-            120.665411
-        ],
-        "address": "臺中市西　區安龍里英才路600號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1919,
-        "name": "廣三崇光百貨4F-1-男廁",
-        "coords": [
-            24.15552,
-            120.66199
-        ],
-        "address": "臺中市西　區忠明里臺灣大道二段459號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 廣三崇光百貨。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1920,
-        "name": "廣三崇光百貨5F-1-女廁",
-        "coords": [
-            24.15552,
-            120.66199
-        ],
-        "address": "臺中市西　區忠明里臺灣大道二段459號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 廣三崇光百貨。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1925,
-        "name": "東區東英公園-女廁",
-        "coords": [
-            24.13708,
-            120.70892
-        ],
-        "address": "臺中市東　區東英里德興一街54號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府建設局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1926,
-        "name": "臺中市南區中興活動中心3F-男廁",
-        "coords": [
-            24.124644,
-            120.675923
-        ],
-        "address": "臺中市南　區德義里復新街89號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市南區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1927,
-        "name": "中興醫院1F-混合廁",
-        "coords": [
-            24.11814381,
-            120.65840006
-        ],
-        "address": "臺中市南　區和平里復興路二段11號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中興醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1928,
-        "name": "中山醫院大慶分院核醫大樓2FA-男廁",
-        "coords": [
-            24.12113,
-            120.64962
-        ],
-        "address": "臺中市南　區樹德里建國北路一段110號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中山醫學大學附設醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1929,
-        "name": "南區健康公園(A區)-男廁",
-        "coords": [
-            24.1203,
-            120.66992
-        ],
-        "address": "臺中市南　區平和里五權南路370號旁",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1930,
-        "name": "臺中市工商發展投資策進會-男廁",
-        "coords": [
-            24.13653,
-            120.67364
-        ],
-        "address": "臺中市西　區三民里三民路一段158號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府經濟發展局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1931,
-        "name": "衛生福利部臺中醫院(餐廳旁A)B1F-男廁",
-        "coords": [
-            24.14057996,
-            120.67640778
-        ],
-        "address": "臺中市西　區廣民里三民路一段199號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1932,
-        "name": "全球影城B1F-B(女廁)",
-        "coords": [
-            24.14132863,
-            120.67262822
-        ],
-        "address": "臺中市西　區平和里中華路一段1-1號",
-        "type": "休閒娛樂場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大地球廣場大樓。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1933,
-        "name": "新時代購物中心1F-女廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1934,
-        "name": "新時代購物中心9F(H)-男廁",
-        "coords": [
-            24.13635,
-            120.68776
-        ],
-        "address": "臺中市東　區新庄里復興路四段186號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1935,
-        "name": "干城立體停車場-男廁",
-        "coords": [
-            24.14292,
-            120.68786
-        ],
-        "address": "臺中市東　區干城里自由路三段50號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市停車管理處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1936,
-        "name": "臺中市合作公有零售市場-混合廁所",
-        "coords": [
-            24.14983,
-            120.694624
-        ],
-        "address": "臺中市東　區合作里進化路230號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府經濟發展局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1937,
-        "name": "臺中市東區區公所(D區)-女廁",
-        "coords": [
-            24.13672,
-            120.70408
-        ],
-        "address": "臺中市東　區東信里長福路245號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市東區區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1938,
-        "name": "臺中市南區中興活動中心1F-男廁",
-        "coords": [
-            24.124644,
-            120.675923
-        ],
-        "address": "臺中市南　區德義里復新街89號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市南區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1939,
-        "name": "愛買吉安復興店1F-男廁",
-        "coords": [
-            24.115499,
-            120.654344
-        ],
-        "address": "臺中市南　區樹義里復興路一段359號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 遠百企業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1940,
-        "name": "中山醫院大慶分院核醫大樓3FA-男廁",
-        "coords": [
-            24.12113,
-            120.64962
-        ],
-        "address": "臺中市南　區樹德里建國北路一段110號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中山醫學大學附設醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1941,
-        "name": "全球影城4F-A(女廁)",
-        "coords": [
-            24.14132863,
-            120.67262822
-        ],
-        "address": "臺中市西　區平和里中華路一段1-1號",
-        "type": "休閒娛樂場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大地球廣場大樓。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1942,
-        "name": "西區中美公園-男廁",
-        "coords": [
-            24.15405325,
-            120.66075725
-        ],
-        "address": "臺中市西　區忠明里長春街與中美街口",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1943,
-        "name": "臺灣民俗文物館-男廁",
-        "coords": [
-            24.17444,
-            120.68732
-        ],
-        "address": "臺中市北屯區平福里旅順路二段73號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1945,
-        "name": "臺中市中山地政事務所2F-男廁",
-        "coords": [
-            24.13653,
-            120.67364
-        ],
-        "address": "臺中市西　區三民里三民路一段158號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府地政局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1946,
-        "name": "衛生福利部臺中醫院(檢驗科B)2F-男廁",
-        "coords": [
-            24.14057996,
-            120.67640778
-        ],
-        "address": "臺中市西　區廣民里三民路一段199號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1947,
-        "name": "全球影城B2F-B(女廁)",
-        "coords": [
-            24.14132863,
-            120.67262822
-        ],
-        "address": "臺中市西　區平和里中華路一段1-1號",
-        "type": "休閒娛樂場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大地球廣場大樓。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1948,
-        "name": "臺中市西區區公所3F-男廁",
-        "coords": [
-            24.14135,
-            120.6711
-        ],
-        "address": "臺中市西　區平和里金山路11號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市西區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1949,
-        "name": "林新醫院B棟3F-男廁",
-        "coords": [
-            24.14916162,
-            120.63844878
-        ],
-        "address": "臺中市南屯區三和里惠中路三段36號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1950,
-        "name": "臺中市立大墩文化中心(A區)1F-女廁",
-        "coords": [
-            24.141737,
-            120.665411
-        ],
-        "address": "臺中市西　區安龍里英才路600號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1951,
-        "name": "廣三崇光百貨B1F-男廁",
-        "coords": [
-            24.15552,
-            120.66199
-        ],
-        "address": "臺中市西　區忠明里臺灣大道二段459號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 廣三崇光百貨。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1968,
-        "name": "衛生福利部臺中醫院B2F-男廁",
-        "coords": [
-            24.14057996,
-            120.67640778
-        ],
-        "address": "臺中市西　區廣民里三民路一段199號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1969,
-        "name": "衛生福利部臺中醫院(內視鏡室旁D)2F-男廁",
-        "coords": [
-            24.14057996,
-            120.67640778
-        ],
-        "address": "臺中市西　區廣民里三民路一段199號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1970,
-        "name": "靜和醫院(男廁)",
-        "coords": [
-            24.133717,
-            120.659415
-        ],
-        "address": "臺中市西　區吉龍里南屯路一段158號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 靜和醫院。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1971,
-        "name": "廣三崇光百貨2F-女廁",
-        "coords": [
-            24.15552,
-            120.66199
-        ],
-        "address": "臺中市西　區忠明里臺灣大道二段459號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 廣三崇光百貨。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1972,
-        "name": "廣三崇光百貨3F-2-男廁",
-        "coords": [
-            24.15552,
-            120.66199
-        ],
-        "address": "臺中市西　區忠明里臺灣大道二段459號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 廣三崇光百貨。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1973,
-        "name": "廣三崇光百貨6F-男廁",
-        "coords": [
-            24.15552,
-            120.66199
-        ],
-        "address": "臺中市西　區忠明里臺灣大道二段459號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 廣三崇光百貨。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1980,
-        "name": "民俗公園-男廁",
-        "coords": [
-            24.175647,
-            120.687226
-        ],
-        "address": "臺中市北屯區平福里旅順路二段73號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1981,
-        "name": "台灣中油昌平路站-男廁",
-        "coords": [
-            24.18018018,
-            120.67816775
-        ],
-        "address": "臺中市北屯區平昌里昌平路一段95號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
         "id": 2182,
         "name": "台中魚市場股份有限公司-男廁1",
         "coords": [
@@ -2259,6 +36,101 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2219,
+        "name": "南屯區春社公園-男廁",
+        "coords": [
+            24.14039,
+            120.61162
+        ],
+        "address": "臺中市南屯區春社里嶺東路與永春北路間33號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2220,
+        "name": "臺中市立圖書館(南屯分館)3F-男廁",
+        "coords": [
+            24.14970339,
+            120.64533622
+        ],
+        "address": "臺中市南屯區惠中里大墩十二街361號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2221,
+        "name": "林新醫院A棟3F-男廁",
+        "coords": [
+            24.14904,
+            120.64064
+        ],
+        "address": "臺中市南屯區三和里惠中路三段36號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2222,
+        "name": "臺中市北屯區軍功衛生所-男廁",
+        "coords": [
+            24.17635067,
+            120.71932325
+        ],
+        "address": "臺中市北屯區軍功里軍功路二段16號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2223,
+        "name": "北屯區大坑地震公園-男廁",
+        "coords": [
+            24.17769261,
+            120.73453512
+        ],
+        "address": "臺中市北屯區和平里東山路一段421-7號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2237,
@@ -2316,6 +188,310 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2254,
+        "name": "南屯區正心公園-男廁",
+        "coords": [
+            24.13593,
+            120.65054
+        ],
+        "address": "臺中市南屯區大興里南屯路二段187-1號旁",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市南屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2255,
+        "name": "大墩食衣廣場B2(停車場)-男廁",
+        "coords": [
+            24.14931857,
+            120.64895868
+        ],
+        "address": "臺中市南屯區惠中里大墩路533號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 誠友開發股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2256,
+        "name": "台灣中油青島路站-男廁",
+        "coords": [
+            24.17432,
+            120.674494
+        ],
+        "address": "臺中市北屯區平和里文心路四段119號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2257,
+        "name": "聯安醫院1F-A(男廁)",
+        "coords": [
+            24.17109643,
+            120.6993242
+        ],
+        "address": "臺中市北屯區東光里東山路一段37號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 聯安醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2258,
+        "name": "大坑六號步道停車場-男廁",
+        "coords": [
+            24.1872408,
+            120.73049677
+        ],
+        "address": "臺中市北屯區和平里松竹路一段350巷12-1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府觀光旅遊局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2259,
+        "name": "臺中市北屯區公所2F-男廁",
+        "coords": [
+            24.1826,
+            120.68631
+        ],
+        "address": "臺中市北屯區仁和里崇德路三段10號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市北屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2260,
+        "name": "臺中市北屯區公所4F-男廁",
+        "coords": [
+            24.1826,
+            120.68631
+        ],
+        "address": "臺中市北屯區仁和里崇德路三段10號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市北屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2261,
+        "name": "臺中洲際棒球場(D區)2F-女廁",
+        "coords": [
+            24.19927631,
+            120.68614483
+        ],
+        "address": "臺中市北屯區四民里崇德路三段835號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2262,
+        "name": "臺中洲際棒球場(A區)3F-男廁",
+        "coords": [
+            24.19927631,
+            120.68614483
+        ],
+        "address": "臺中市北屯區四民里崇德路三段835號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2273,
+        "name": "臺中市大進公有零售市場1F-男廁",
+        "coords": [
+            24.14313122,
+            120.6504178
+        ],
+        "address": "臺中市南屯區大同里大墩六街161號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府經濟發展局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2274,
+        "name": "臺中市立圖書館(南屯分館)1F-男廁",
+        "coords": [
+            24.14970339,
+            120.64533622
+        ],
+        "address": "臺中市南屯區惠中里大墩十二街361號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2275,
+        "name": "臺中市立圖書館(北屯分館)1F-性別友善廁",
+        "coords": [
+            24.17230606,
+            120.698143
+        ],
+        "address": "臺中市北屯區平田里大連路三段122號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2276,
+        "name": "臺中市立圖書館(北屯分館)3F-男廁",
+        "coords": [
+            24.1745238,
+            120.694244
+        ],
+        "address": "臺中市北屯區平田里大連路三段122號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2277,
+        "name": "北屯區軍功公園-男廁",
+        "coords": [
+            24.1816314,
+            120.7211909
+        ],
+        "address": "臺中市北屯區軍功里松竹路一段640號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2278,
+        "name": "大坑一號步道停車場-男廁",
+        "coords": [
+            24.18966256,
+            120.78472159
+        ],
+        "address": "臺中市北屯區民德里連坑巷235號對面",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府觀光旅遊局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2279,
+        "name": "臺中市北屯區公所5F-男廁",
+        "coords": [
+            24.1826,
+            120.68631
+        ],
+        "address": "臺中市北屯區仁和里崇德路三段10號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市北屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2280,
@@ -2508,6 +684,329 @@
         "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2312,
+        "name": "寶之林家具回收再生中心(A區)-男廁",
+        "coords": [
+            24.17371206,
+            120.72186751
+        ],
+        "address": "臺中市北屯區和平里和順路439號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2313,
+        "name": "臺中市立圖書館(總館)2F-無障礙廁所",
+        "coords": [
+            24.19466,
+            120.68001
+        ],
+        "address": "臺中市北屯區仁和里豐樂路二段158號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2314,
+        "name": "臺中洲際棒球場(B區)1F-女廁",
+        "coords": [
+            24.19927631,
+            120.68614483
+        ],
+        "address": "臺中市北屯區四民里崇德路三段835號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2315,
+        "name": "臺中洲際棒球場(C區)1F-女廁",
+        "coords": [
+            24.19927631,
+            120.68614483
+        ],
+        "address": "臺中市北屯區四民里崇德路三段835號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2320,
+        "name": "大坑一號步道體能訓練場(A區)-男廁",
+        "coords": [
+            24.19044422,
+            120.78632813
+        ],
+        "address": "臺中市北屯區民德里連坑巷",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府觀光旅遊局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2321,
+        "name": "大坑二號步道停車場-男廁",
+        "coords": [
+            24.18413406,
+            120.78534685
+        ],
+        "address": "臺中市北屯區民德里連坑巷",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府觀光旅遊局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2322,
+        "name": "臺中市北屯區公所6F-男廁",
+        "coords": [
+            24.1826,
+            120.68631
+        ],
+        "address": "臺中市北屯區仁和里崇德路三段10號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市北屯區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2323,
+        "name": "臺中市立圖書館(總館)1F-親子廁所",
+        "coords": [
+            24.19466,
+            120.68001
+        ],
+        "address": "臺中市北屯區仁和里豐樂路二段158號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2324,
+        "name": "臺中洲際棒球場(A區)2F-女廁",
+        "coords": [
+            24.19927631,
+            120.68614483
+        ],
+        "address": "臺中市北屯區四民里崇德路三段835號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2325,
+        "name": "臺中洲際棒球場(B區)2F-無障礙廁所",
+        "coords": [
+            24.19927631,
+            120.68614483
+        ],
+        "address": "臺中市北屯區四民里崇德路三段835號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2326,
+        "name": "臺中洲際棒球場(C區)2F-女廁",
+        "coords": [
+            24.19927631,
+            120.68614483
+        ],
+        "address": "臺中市北屯區四民里崇德路三段835號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府運動局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2327,
+        "name": "臺中市中正地政事務所1F-男廁",
+        "coords": [
+            24.17053574,
+            120.68005957
+        ],
+        "address": "臺中市北屯區平德里北平路三段36號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府地政局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2331,
+        "name": "台灣中油五權西路站-男廁",
+        "coords": [
+            24.141514,
+            120.641024
+        ],
+        "address": "臺中市南屯區田心里五權西路二段566號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2332,
+        "name": "台灣中油公益路站-男廁",
+        "coords": [
+            24.151111,
+            120.652688
+        ],
+        "address": "臺中市南屯區大業里公益路二段2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2333,
+        "name": "林新醫院A棟1F-男廁",
+        "coords": [
+            24.14904,
+            120.64064
+        ],
+        "address": "臺中市南屯區三和里惠中路三段36號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2334,
+        "name": "林新醫院A棟B1-男廁",
+        "coords": [
+            24.14904,
+            120.64064
+        ],
+        "address": "臺中市南屯區三和里惠中路三段36號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2335,
+        "name": "大買家北屯店1F(男廁)",
+        "coords": [
+            24.16910747,
+            120.69704277
+        ],
+        "address": "臺中市北屯區舊社里北屯路370號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大買家股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2344,
         "name": "大坑民興巷五號停車場-男廁",
         "coords": [
@@ -2698,6 +1197,44 @@
         "description": "管理單位: 臺中市政府地政局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2366,
+        "name": "臺中市立圖書館(南屯分館)2F-男廁",
+        "coords": [
+            24.14970339,
+            120.64533622
+        ],
+        "address": "臺中市南屯區惠中里大墩十二街361號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2367,
+        "name": "大買家北屯店3F(男廁)",
+        "coords": [
+            24.17631133,
+            120.69960261
+        ],
+        "address": "臺中市北屯區舊社里北屯路370號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大買家股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2392,
         "name": "寶之林家具回收再生中心(B區)-男廁",
         "coords": [
@@ -2810,6 +1347,234 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 日新大戲院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2420,
+        "name": "澄清綜合醫院1F-A(男廁)",
+        "coords": [
+            24.14301,
+            120.68199
+        ],
+        "address": "臺中市中　區光復里平等街139號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澄清綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2421,
+        "name": "大誠立體停車場-男廁",
+        "coords": [
+            24.144142,
+            120.679227
+        ],
+        "address": "臺中市中　區大誠里吉祥街20號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市停車管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2422,
+        "name": "日新大戲院9F(男廁)",
+        "coords": [
+            24.14375,
+            120.67535
+        ],
+        "address": "臺中市中　區中華里中華路一段58號",
+        "type": "休閒娛樂場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 日新大戲院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2423,
+        "name": "新時代購物中心B5-男廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2427,
+        "name": "澄清綜合醫院1F-C(男廁)",
+        "coords": [
+            24.14301,
+            120.68199
+        ],
+        "address": "臺中市中　區光復里平等街139號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 澄清綜合醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2428,
+        "name": "台中仁愛醫院3樓-性別友善廁",
+        "coords": [
+            24.143561,
+            120.67822
+        ],
+        "address": "臺中市中　區柳川里柳川東路三段36號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 仁愛醫療財團法人台中仁愛醫院。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2429,
+        "name": "台中仁愛醫院2樓-男廁",
+        "coords": [
+            24.143561,
+            120.67822
+        ],
+        "address": "臺中市中　區柳川里柳川東路三段36號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 仁愛醫療財團法人台中仁愛醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2430,
+        "name": "新時代購物中心B1-男廁",
+        "coords": [
+            24.1362738,
+            120.6882194
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2431,
+        "name": "新時代購物中心4F-女廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2439,
+        "name": "臺中市中區區公所6F-男廁",
+        "coords": [
+            24.14391,
+            120.67938
+        ],
+        "address": "臺中市中　區柳川里成功路300號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市中區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2445,
+        "name": "台中仁愛醫院1樓-男廁",
+        "coords": [
+            24.143561,
+            120.67822
+        ],
+        "address": "臺中市中　區柳川里柳川東路三段36號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 仁愛醫療財團法人台中仁愛醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2446,
+        "name": "第一醫院-混合廁",
+        "coords": [
+            24.14244,
+            120.67643
+        ],
+        "address": "臺中市中　區大誠里民族路184號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 第一醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
         "id": 2447,
@@ -2981,6 +1746,519 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺中市中區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2475,
+        "name": "新時代購物中心8F(H)-男廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2476,
+        "name": "臺中市東區衛生所-男廁",
+        "coords": [
+            24.1335,
+            120.6878
+        ],
+        "address": "臺中市東　區振興里信義街142號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市東區衛生所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2477,
+        "name": "臺中市立圖書館(東區分館)2F-女廁",
+        "coords": [
+            24.12963,
+            120.68947
+        ],
+        "address": "臺中市東　區東興里建德街144號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2478,
+        "name": "中國醫藥大學附設醫院東區分院B1F(混合廁)",
+        "coords": [
+            24.14278,
+            120.69473
+        ],
+        "address": "臺中市東　區旱溪里自由路三段296號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中國醫藥大學附設醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2479,
+        "name": "台灣中油振興路站-男廁",
+        "coords": [
+            24.13355,
+            120.69396
+        ],
+        "address": "臺中市東　區泉源里建成路556號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2480,
+        "name": "臺中市中區區公所4F(男廁)",
+        "coords": [
+            24.14391,
+            120.67938
+        ],
+        "address": "臺中市中　區柳川里成功路300號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市中區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2481,
+        "name": "新時代購物中心2F(B)-女廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2482,
+        "name": "新時代購物中心3F(B)-男廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2483,
+        "name": "新時代購物中心8F(B)-男廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2484,
+        "name": "臺中市立圖書館(東區分館)2F-親子廁所",
+        "coords": [
+            24.1294,
+            120.689611
+        ],
+        "address": "臺中市東　區東興里建德街144號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2485,
+        "name": "臺中市立圖書館(東區分館)3F-女廁",
+        "coords": [
+            24.12963,
+            120.68947
+        ],
+        "address": "臺中市東　區東興里建德街144號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2486,
+        "name": "中國醫藥大學附設醫院東區分院1F(混合廁)",
+        "coords": [
+            24.14278,
+            120.69473
+        ],
+        "address": "臺中市東　區旱溪里自由路三段296號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中國醫藥大學附設醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2487,
+        "name": "臺中市東區區公所(C區)-男廁",
+        "coords": [
+            24.13672,
+            120.70408
+        ],
+        "address": "臺中市東　區東信里長福路245號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市東區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2489,
+        "name": "臺中市中區戶政事務所-男廁",
+        "coords": [
+            24.143859,
+            120.679439
+        ],
+        "address": "臺中市中　區柳川里興中街80號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府民政局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2490,
+        "name": "日新大戲院6F(男廁)",
+        "coords": [
+            24.14375,
+            120.67535
+        ],
+        "address": "臺中市中　區中華里中華路一段58號",
+        "type": "休閒娛樂場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 日新大戲院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2491,
+        "name": "新時代購物中心4F-男廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2492,
+        "name": "台安醫院3F(男廁)",
+        "coords": [
+            24.14908,
+            120.69438
+        ],
+        "address": "臺中市東　區東勢里進化路203號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台安醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2493,
+        "name": "台安醫院5F(混合廁)",
+        "coords": [
+            24.14908,
+            120.69438
+        ],
+        "address": "臺中市東　區東勢里進化路203號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台安醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2494,
+        "name": "中興醫院8FA-無障礙廁所",
+        "coords": [
+            24.118143,
+            120.6584
+        ],
+        "address": "臺中市南　區和平里復興路二段11號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中興醫院。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2495,
+        "name": "中山醫院大慶分院核醫大樓1FB-男廁",
+        "coords": [
+            24.12113,
+            120.64962
+        ],
+        "address": "臺中市南　區樹德里建國北路一段110號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中山醫學大學附設醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2496,
+        "name": "南京立體停車場-男廁",
+        "coords": [
+            24.14004,
+            120.69075
+        ],
+        "address": "臺中市東　區干城里南京路72號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市停車管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2497,
+        "name": "東區樂成公園-男廁",
+        "coords": [
+            24.137224,
+            120.702575
+        ],
+        "address": "臺中市東　區東信里東英五街46號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2498,
+        "name": "中興醫院2FA-男廁",
+        "coords": [
+            24.118143,
+            120.6584
+        ],
+        "address": "臺中市南　區和平里復興路二段11號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中興醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2499,
+        "name": "中興醫院7F-女廁",
+        "coords": [
+            24.118143,
+            120.6584
+        ],
+        "address": "臺中市南　區和平里復興路二段11號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中興醫院。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2500,
+        "name": "愛買吉安復興店B1F-男廁",
+        "coords": [
+            24.115499,
+            120.654344
+        ],
+        "address": "臺中市南　區樹義里復興路一段359號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠百企業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2501,
+        "name": "愛買吉安復興店2FA-男廁",
+        "coords": [
+            24.11549987,
+            120.65434456
+        ],
+        "address": "臺中市南　區樹義里復興路一段359號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠百企業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2502,
+        "name": "台灣中油永和街站-男廁",
+        "coords": [
+            24.119423,
+            120.666674
+        ],
+        "address": "臺中市南　區平和里美村南路77號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2503,
@@ -4066,6 +3344,443 @@
         "description": "管理單位: 衛生福利部。公廁類別: 親子廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2560,
+        "name": "臺中市立大墩文化中心(A區)B1-男廁",
+        "coords": [
+            24.141737,
+            120.665411
+        ],
+        "address": "臺中市西　區安龍里英才路600號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2561,
+        "name": "臺中市立大墩文化中心(A區)B1-無障礙廁所",
+        "coords": [
+            24.141737,
+            120.665411
+        ],
+        "address": "臺中市西　區安龍里英才路600號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2562,
+        "name": "廣三崇光百貨4F-1-男廁",
+        "coords": [
+            24.15552,
+            120.66199
+        ],
+        "address": "臺中市西　區忠明里臺灣大道二段459號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 廣三崇光百貨。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2563,
+        "name": "廣三崇光百貨5F-1-女廁",
+        "coords": [
+            24.15552,
+            120.66199
+        ],
+        "address": "臺中市西　區忠明里臺灣大道二段459號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 廣三崇光百貨。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2568,
+        "name": "東區東英公園-女廁",
+        "coords": [
+            24.13708,
+            120.70892
+        ],
+        "address": "臺中市東　區東英里德興一街54號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府建設局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2569,
+        "name": "臺中市南區中興活動中心3F-男廁",
+        "coords": [
+            24.124644,
+            120.675923
+        ],
+        "address": "臺中市南　區德義里復新街89號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市南區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2570,
+        "name": "中興醫院1F-混合廁",
+        "coords": [
+            24.11814381,
+            120.65840006
+        ],
+        "address": "臺中市南　區和平里復興路二段11號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中興醫院。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2571,
+        "name": "中山醫院大慶分院核醫大樓2FA-男廁",
+        "coords": [
+            24.12113,
+            120.64962
+        ],
+        "address": "臺中市南　區樹德里建國北路一段110號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中山醫學大學附設醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2572,
+        "name": "南區健康公園(A區)-男廁",
+        "coords": [
+            24.1203,
+            120.66992
+        ],
+        "address": "臺中市南　區平和里五權南路370號旁",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2573,
+        "name": "臺中市工商發展投資策進會-男廁",
+        "coords": [
+            24.13653,
+            120.67364
+        ],
+        "address": "臺中市西　區三民里三民路一段158號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府經濟發展局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2574,
+        "name": "衛生福利部臺中醫院(餐廳旁A)B1F-男廁",
+        "coords": [
+            24.14057996,
+            120.67640778
+        ],
+        "address": "臺中市西　區廣民里三民路一段199號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2575,
+        "name": "全球影城B1F-B(女廁)",
+        "coords": [
+            24.14132863,
+            120.67262822
+        ],
+        "address": "臺中市西　區平和里中華路一段1-1號",
+        "type": "休閒娛樂場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大地球廣場大樓。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2576,
+        "name": "新時代購物中心1F-女廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2577,
+        "name": "新時代購物中心9F(H)-男廁",
+        "coords": [
+            24.13635,
+            120.68776
+        ],
+        "address": "臺中市東　區新庄里復興路四段186號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大魯閣實業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2578,
+        "name": "干城立體停車場-男廁",
+        "coords": [
+            24.14292,
+            120.68786
+        ],
+        "address": "臺中市東　區干城里自由路三段50號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市停車管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2579,
+        "name": "臺中市合作公有零售市場-混合廁所",
+        "coords": [
+            24.14983,
+            120.694624
+        ],
+        "address": "臺中市東　區合作里進化路230號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府經濟發展局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2580,
+        "name": "臺中市東區區公所(D區)-女廁",
+        "coords": [
+            24.13672,
+            120.70408
+        ],
+        "address": "臺中市東　區東信里長福路245號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市東區區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2581,
+        "name": "臺中市南區中興活動中心1F-男廁",
+        "coords": [
+            24.124644,
+            120.675923
+        ],
+        "address": "臺中市南　區德義里復新街89號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市南區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2582,
+        "name": "愛買吉安復興店1F-男廁",
+        "coords": [
+            24.115499,
+            120.654344
+        ],
+        "address": "臺中市南　區樹義里復興路一段359號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 遠百企業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2583,
+        "name": "中山醫院大慶分院核醫大樓3FA-男廁",
+        "coords": [
+            24.12113,
+            120.64962
+        ],
+        "address": "臺中市南　區樹德里建國北路一段110號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中山醫學大學附設醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2584,
+        "name": "全球影城4F-A(女廁)",
+        "coords": [
+            24.14132863,
+            120.67262822
+        ],
+        "address": "臺中市西　區平和里中華路一段1-1號",
+        "type": "休閒娛樂場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大地球廣場大樓。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2585,
+        "name": "西區中美公園-男廁",
+        "coords": [
+            24.15405325,
+            120.66075725
+        ],
+        "address": "臺中市西　區忠明里長春街與中美街口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2586,
+        "name": "臺灣民俗文物館-男廁",
+        "coords": [
+            24.17444,
+            120.68732
+        ],
+        "address": "臺中市北屯區平福里旅順路二段73號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2592,
         "name": "中山醫院大慶分院門診大樓1FA-男廁",
         "coords": [
@@ -4463,6 +4178,291 @@
         "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺中市南區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2617,
+        "name": "臺中市中山地政事務所2F-男廁",
+        "coords": [
+            24.13653,
+            120.67364
+        ],
+        "address": "臺中市西　區三民里三民路一段158號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府地政局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2618,
+        "name": "衛生福利部臺中醫院(檢驗科B)2F-男廁",
+        "coords": [
+            24.14057996,
+            120.67640778
+        ],
+        "address": "臺中市西　區廣民里三民路一段199號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2619,
+        "name": "全球影城B2F-B(女廁)",
+        "coords": [
+            24.14132863,
+            120.67262822
+        ],
+        "address": "臺中市西　區平和里中華路一段1-1號",
+        "type": "休閒娛樂場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大地球廣場大樓。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2620,
+        "name": "臺中市西區區公所3F-男廁",
+        "coords": [
+            24.14135,
+            120.6711
+        ],
+        "address": "臺中市西　區平和里金山路11號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市西區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2621,
+        "name": "林新醫院B棟3F-男廁",
+        "coords": [
+            24.14916162,
+            120.63844878
+        ],
+        "address": "臺中市南屯區三和里惠中路三段36號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 林新醫療社團法人。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2622,
+        "name": "臺中市立大墩文化中心(A區)1F-女廁",
+        "coords": [
+            24.141737,
+            120.665411
+        ],
+        "address": "臺中市西　區安龍里英才路600號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2623,
+        "name": "廣三崇光百貨B1F-男廁",
+        "coords": [
+            24.15552,
+            120.66199
+        ],
+        "address": "臺中市西　區忠明里臺灣大道二段459號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 廣三崇光百貨。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2640,
+        "name": "衛生福利部臺中醫院B2F-男廁",
+        "coords": [
+            24.14057996,
+            120.67640778
+        ],
+        "address": "臺中市西　區廣民里三民路一段199號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2641,
+        "name": "衛生福利部臺中醫院(內視鏡室旁D)2F-男廁",
+        "coords": [
+            24.14057996,
+            120.67640778
+        ],
+        "address": "臺中市西　區廣民里三民路一段199號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 衛生福利部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2642,
+        "name": "靜和醫院(男廁)",
+        "coords": [
+            24.133717,
+            120.659415
+        ],
+        "address": "臺中市西　區吉龍里南屯路一段158號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 靜和醫院。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2643,
+        "name": "廣三崇光百貨2F-女廁",
+        "coords": [
+            24.15552,
+            120.66199
+        ],
+        "address": "臺中市西　區忠明里臺灣大道二段459號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 廣三崇光百貨。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2644,
+        "name": "廣三崇光百貨3F-2-男廁",
+        "coords": [
+            24.15552,
+            120.66199
+        ],
+        "address": "臺中市西　區忠明里臺灣大道二段459號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 廣三崇光百貨。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2645,
+        "name": "廣三崇光百貨6F-男廁",
+        "coords": [
+            24.15552,
+            120.66199
+        ],
+        "address": "臺中市西　區忠明里臺灣大道二段459號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 廣三崇光百貨。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2681,
+        "name": "民俗公園-男廁",
+        "coords": [
+            24.175647,
+            120.687226
+        ],
+        "address": "臺中市北屯區平福里旅順路二段73號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺中市政府建設局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2682,
+        "name": "台灣中油昌平路站-男廁",
+        "coords": [
+            24.18018018,
+            120.67816775
+        ],
+        "address": "臺中市北屯區平昌里昌平路一段95號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2712,

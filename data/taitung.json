@@ -19,7 +19,26 @@
         "description": "管理單位: 臺東縣臺東戶政事務所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1646,
+        "id": 1909,
+        "name": "關山戶政事務所海端辦公室混合廁所",
+        "coords": [
+            23.099854,
+            121.17657
+        ],
+        "address": "臺東縣海端鄉海端村山界13-5號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺東縣關山戶政事務所海端辦公室。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1954,
         "name": "臺東縣海端鄉衛生所",
         "coords": [
             23.100942,
@@ -38,7 +57,7 @@
         "description": "管理單位: 臺東縣海端鄉衛生所。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1652,
+        "id": 1960,
         "name": "臺灣中油綠島加油站無障礙廁",
         "coords": [
             22.6606233,
@@ -52,12 +71,12 @@
             "baby": true,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺灣中油綠島加油站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1664,
+        "id": 1972,
         "name": "海端加油站男廁",
         "coords": [
             23.12791667,
@@ -71,12 +90,50 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺東縣海端鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1685,
+        "id": 1997,
+        "name": "東管處金樽遊憩區男廁",
+        "coords": [
+            22.962275,
+            121.29926
+        ],
+        "address": "臺東縣東河鄉東河村七里橋11號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通署觀光署東部海岸國家風景區管理處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1998,
+        "name": "海端鄉公所男廁",
+        "coords": [
+            23.10207,
+            121.17662
+        ],
+        "address": "臺東縣海端鄉海端村山界43號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺東縣海端鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2020,
         "name": "綠島鄉公所男廁",
         "coords": [
             22.66934122,
@@ -93,25 +150,6 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺東縣綠島鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1744,
-        "name": "蘭嶼鄉公所無障礙廁",
-        "coords": [
-            22.02462794,
-            121.55640431
-        ],
-        "address": "臺東縣蘭嶼鄉紅頭村31號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺東縣蘭嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
         "id": 2030,
@@ -150,6 +188,25 @@
         "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 國家人權博物館。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2162,
+        "name": "蘭嶼鄉公所無障礙廁",
+        "coords": [
+            22.02462794,
+            121.55640431
+        ],
+        "address": "臺東縣蘭嶼鄉紅頭村31號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺東縣蘭嶼鄉公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
         "id": 2227,

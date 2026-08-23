@@ -1,6 +1,6 @@
 [
     {
-        "id": 1689,
+        "id": 2024,
         "name": "新竹市田徑場男廁",
         "coords": [
             24.80149,
@@ -14,12 +14,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新竹市立體育場。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1690,
+        "id": 2025,
         "name": "勞工育樂中心男廁",
         "coords": [
             24.81482,
@@ -36,196 +36,6 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新竹市政府勞工及青年處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1723,
-        "name": "明志書院停車場地下1樓男廁",
-        "coords": [
-            24.80168,
-            120.96564
-        ],
-        "address": "新竹市東　區南市里西大路317號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹市政府交通處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1724,
-        "name": "新竹市北區區公所男廁",
-        "coords": [
-            24.81629,
-            120.97026
-        ],
-        "address": "新竹市北　區光華里國華街69號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹市北區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1725,
-        "name": "新竹市北區衛生所男廁",
-        "coords": [
-            24.81622,
-            120.97036
-        ],
-        "address": "新竹市北　區光華里國華街69號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹市北區衛生所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1730,
-        "name": "赤土崎公有停車場B1樓前男廁",
-        "coords": [
-            24.79933,
-            120.99512
-        ],
-        "address": "新竹市東　區軍功里建中路2號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹市政府交通處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1731,
-        "name": "靜心湖男廁",
-        "coords": [
-            24.78011,
-            121.01382
-        ],
-        "address": "新竹市東　區科園里民享街",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 國家科學及技術委員會。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1732,
-        "name": "青少年館男廁",
-        "coords": [
-            24.80873,
-            120.96885
-        ],
-        "address": "新竹市北　區大同里府後街58號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹市文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1745,
-        "name": "三民公園男廁",
-        "coords": [
-            24.81104,
-            120.98047
-        ],
-        "address": "新竹市東　區三民里自由路27巷37號對面",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹市政府養護工程處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1746,
-        "name": "南寮市場男廁",
-        "coords": [
-            24.84151,
-            120.93619
-        ],
-        "address": "新竹市北　區南寮里東大路4段32號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1747,
-        "name": "牛埔停車場地下1樓男廁",
-        "coords": [
-            24.79747,
-            120.94309
-        ],
-        "address": "新竹市香山區牛埔里牛埔路387號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹市政府交通處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1764,
-        "name": "新竹巿環境保護局1樓男廁",
-        "coords": [
-            24.83421,
-            120.91636
-        ],
-        "address": "新竹市北　區海濱里海濱路240號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新竹巿環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2035,
@@ -304,6 +114,177 @@
         "description": "管理單位: 新竹市東區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2141,
+        "name": "明志書院停車場地下1樓男廁",
+        "coords": [
+            24.80168,
+            120.96564
+        ],
+        "address": "新竹市東　區南市里西大路317號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府交通處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2142,
+        "name": "新竹市北區區公所男廁",
+        "coords": [
+            24.81629,
+            120.97026
+        ],
+        "address": "新竹市北　區光華里國華街69號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市北區區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2143,
+        "name": "新竹市北區衛生所男廁",
+        "coords": [
+            24.81622,
+            120.97036
+        ],
+        "address": "新竹市北　區光華里國華街69號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市北區衛生所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2148,
+        "name": "赤土崎公有停車場B1樓前男廁",
+        "coords": [
+            24.79933,
+            120.99512
+        ],
+        "address": "新竹市東　區軍功里建中路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府交通處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2149,
+        "name": "靜心湖男廁",
+        "coords": [
+            24.78011,
+            121.01382
+        ],
+        "address": "新竹市東　區科園里民享街",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國家科學及技術委員會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2150,
+        "name": "青少年館男廁",
+        "coords": [
+            24.80873,
+            120.96885
+        ],
+        "address": "新竹市北　區大同里府後街58號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2163,
+        "name": "三民公園男廁",
+        "coords": [
+            24.81104,
+            120.98047
+        ],
+        "address": "新竹市東　區三民里自由路27巷37號對面",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府養護工程處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2164,
+        "name": "南寮市場男廁",
+        "coords": [
+            24.84151,
+            120.93619
+        ],
+        "address": "新竹市北　區南寮里東大路4段32號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府產業發展處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2165,
+        "name": "牛埔停車場地下1樓男廁",
+        "coords": [
+            24.79747,
+            120.94309
+        ],
+        "address": "新竹市香山區牛埔里牛埔路387號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹市政府交通處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2171,
         "name": "新竹市東區戶政事務所男廁",
         "coords": [
@@ -359,6 +340,25 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新竹市文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2211,
+        "name": "新竹巿環境保護局1樓男廁",
+        "coords": [
+            24.83421,
+            120.91636
+        ],
+        "address": "新竹市北　區海濱里海濱路240號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新竹巿環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2228,

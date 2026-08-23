@@ -6878,7 +6878,558 @@
         "description": "管理單位: 新北市新店區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1424,
+        "id": 1422,
+        "name": "肯德基三重重新店2F-男廁",
+        "coords": [
+            25.06301,
+            121.499476
+        ],
+        "address": "新北市三重區文化里重新路2段1-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 富利餐飲股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1423,
+        "name": "開元公園-男廁",
+        "coords": [
+            25.066144,
+            121.503124
+        ],
+        "address": "新北市三重區開元里開元街1號旁",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1431,
+        "name": "中央市場1F-男廁",
+        "coords": [
+            25.064331,
+            121.500822
+        ],
+        "address": "新北市三重區錦通里中央北路26號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1439,
+        "name": "肯德基三重重新店2F-女廁",
+        "coords": [
+            25.06301,
+            121.499476
+        ],
+        "address": "新北市三重區文化里重新路2段1-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 富利餐飲股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1457,
+        "name": "中央市場1F-女廁",
+        "coords": [
+            25.064331,
+            121.500822
+        ],
+        "address": "新北市三重區錦通里中央北路26號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1458,
+        "name": "三德閱覽室2F-男廁",
+        "coords": [
+            25.075124,
+            121.501136
+        ],
+        "address": "新北市三重區承德里龍門路274巷36號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1459,
+        "name": "三德公園-女廁",
+        "coords": [
+            25.075089,
+            121.501021
+        ],
+        "address": "新北市三重區承德里仁昌街109號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1460,
+        "name": "三重崇德圖書館2F-男廁",
+        "coords": [
+            25.07437,
+            121.497309
+        ],
+        "address": "新北市三重區崇德里仁孝街62號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1461,
+        "name": "麥當勞三重三和店2F-男廁",
+        "coords": [
+            25.079336,
+            121.481768
+        ],
+        "address": "新北市三重區永清里三和路4段392-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣麥當勞餐廰股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1462,
+        "name": "麥當勞三重三和店2F-女廁",
+        "coords": [
+            25.079336,
+            121.481768
+        ],
+        "address": "新北市三重區永清里三和路4段392-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣麥當勞餐廰股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1463,
+        "name": "中油重陽橋加油站-男廁",
+        "coords": [
+            25.088459,
+            121.492883
+        ],
+        "address": "新北市三重區富貴里集賢路72號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 重陽橋加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1464,
+        "name": "中油重陽橋加油站-女廁",
+        "coords": [
+            25.08852849,
+            121.49299085
+        ],
+        "address": "新北市三重區富貴里集賢路72號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 重陽橋加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1465,
+        "name": "三德閱覽室2F-女廁",
+        "coords": [
+            25.075123,
+            121.501136
+        ],
+        "address": "新北市三重區承德里龍門路274巷36號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1466,
+        "name": "三德公園-男廁",
+        "coords": [
+            25.075089,
+            121.501021
+        ],
+        "address": "新北市三重區承德里仁昌街109號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1467,
+        "name": "台亞自強加油站-男廁",
+        "coords": [
+            25.079535,
+            121.491007
+        ],
+        "address": "新北市三重區溪美里自強路4段96號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台亞石油股份有限公司。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 1468,
+        "name": "台亞自強加油站-女廁",
+        "coords": [
+            25.079535,
+            121.491007
+        ],
+        "address": "新北市三重區溪美里自強路4段96號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台亞石油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1469,
+        "name": "三重東區圖書館1F-無障礙廁所",
+        "coords": [
+            25.083572,
+            121.48761
+        ],
+        "address": "新北市三重區慈化里溪尾街303號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1470,
+        "name": "麥當勞三重五華店2F-男廁",
+        "coords": [
+            25.083232,
+            121.492089
+        ],
+        "address": "新北市三重區五華里五華街85-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣麥當勞餐廰股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1471,
+        "name": "中油車容坊三重站-男廁",
+        "coords": [
+            25.07089643,
+            121.47573754
+        ],
+        "address": "新北市三重區永發里中正北路237號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 車容坊股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1472,
+        "name": "中油車容坊三重站-女廁",
+        "coords": [
+            25.070658,
+            121.475601
+        ],
+        "address": "新北市三重區大有里中正北路237號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 車容坊股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1480,
+        "name": "三張公園-女廁",
+        "coords": [
+            25.0704494,
+            121.4895308
+        ],
+        "address": "新北市三重區六合里三張街與大智街口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1487,
+        "name": "麥當勞三重正義店2F-混合廁所",
+        "coords": [
+            25.062961,
+            121.497716
+        ],
+        "address": "新北市三重區文化里正義北路15號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣麥當勞餐廰股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1488,
+        "name": "龍濱公園-女廁",
+        "coords": [
+            25.07233469,
+            121.50506616
+        ],
+        "address": "新北市三重區龍濱里龍門路嘉天宮前",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1491,
+        "name": "麥當勞三重正義2店2F-混合廁所",
+        "coords": [
+            25.066523,
+            121.496504
+        ],
+        "address": "新北市三重區正安里正義北路176號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣麥當勞餐廰股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1492,
+        "name": "龍濱閱覽室2F-女廁",
+        "coords": [
+            25.072956,
+            121.502335
+        ],
+        "address": "新北市三重區龍濱里秀江街28號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1493,
+        "name": "果菜市場右側-女廁",
+        "coords": [
+            25.064978,
+            121.486355
+        ],
+        "address": "新北市三重區幸福里中正北路111號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市果菜運銷股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1494,
+        "name": "小永德公園-女廁",
+        "coords": [
+            25.07231525,
+            121.48968101
+        ],
+        "address": "新北市三重區培德里忠孝路1段與大智街口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1495,
+        "name": "五常公園-男廁",
+        "coords": [
+            25.08200331,
+            121.49388034
+        ],
+        "address": "新北市三重區五常里五華街7巷",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1496,
+        "name": "五常公園-無障礙廁所",
+        "coords": [
+            25.080866,
+            121.496568
+        ],
+        "address": "新北市三重區五常里五華街7巷",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1512,
         "name": "三重崇德圖書館2F-女廁",
         "coords": [
             25.07437,
@@ -6897,7 +7448,7 @@
         "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1425,
+        "id": 1513,
         "name": "三重義天宮-女廁",
         "coords": [
             25.076171,
@@ -6916,7 +7467,7 @@
         "description": "管理單位: 新北市政府民政局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1426,
+        "id": 1514,
         "name": "中油聯華三重交流道加油站-男廁",
         "coords": [
             25.075426,
@@ -6935,7 +7486,7 @@
         "description": "管理單位: 聯華能源股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1427,
+        "id": 1515,
         "name": "肯德基三重三和店2F-男廁",
         "coords": [
             25.07929,
@@ -6954,7 +7505,7 @@
         "description": "管理單位: 怡和餐飲股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1428,
+        "id": 1516,
         "name": "三重碧華寺-男廁",
         "coords": [
             25.082737,
@@ -6973,7 +7524,7 @@
         "description": "管理單位: 三重碧華寺。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1429,
+        "id": 1517,
         "name": "三重先嗇宮-女廁",
         "coords": [
             25.050394,
@@ -6992,7 +7543,7 @@
         "description": "管理單位: 三重先嗇宮。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1430,
+        "id": 1518,
         "name": "228和平公園-男廁",
         "coords": [
             25.07133374,
@@ -7011,7 +7562,7 @@
         "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1431,
+        "id": 1519,
         "name": "家樂福中和店B1-女廁",
         "coords": [
             25.001947,
@@ -7030,7 +7581,7 @@
         "description": "管理單位: 家福股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1432,
+        "id": 1520,
         "name": "三重五常圖書館2F-女廁",
         "coords": [
             25.080866,
@@ -7049,7 +7600,7 @@
         "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1433,
+        "id": 1521,
         "name": "三重碧華寺-女廁",
         "coords": [
             25.082737,
@@ -7068,7 +7619,7 @@
         "description": "管理單位: 三重碧華寺。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1434,
+        "id": 1522,
         "name": "中油重新路加油站-女廁",
         "coords": [
             25.046871,
@@ -7087,7 +7638,7 @@
         "description": "管理單位: 台灣中油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1435,
+        "id": 1523,
         "name": "中油積穗加油站-男廁",
         "coords": [
             25.005134,
@@ -7106,7 +7657,7 @@
         "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1436,
+        "id": 1524,
         "name": "中油橋和加油站-男廁",
         "coords": [
             25.005925,
@@ -7125,7 +7676,7 @@
         "description": "管理單位: 華中橋加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1437,
+        "id": 1525,
         "name": "中油華中橋加油站-女廁",
         "coords": [
             25.000053,
@@ -7144,7 +7695,7 @@
         "description": "管理單位: 華中橋加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1438,
+        "id": 1526,
         "name": "威力購物廣場5F-男廁",
         "coords": [
             25.002044,
@@ -7163,7 +7714,7 @@
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1439,
+        "id": 1527,
         "name": "威力購物廣場6F-男廁",
         "coords": [
             25.002044,
@@ -7182,7 +7733,7 @@
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1440,
+        "id": 1528,
         "name": "三重太璞宮(仙公廟)-男廁",
         "coords": [
             25.07146,
@@ -7201,7 +7752,7 @@
         "description": "管理單位: 三重太璞宮。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1441,
+        "id": 1529,
         "name": "三重太璞宮(仙公廟)-女廁",
         "coords": [
             25.07146,
@@ -7220,7 +7771,7 @@
         "description": "管理單位: 三重太璞宮。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1442,
+        "id": 1530,
         "name": "全宏加油站-男廁",
         "coords": [
             25.003574,
@@ -7239,7 +7790,7 @@
         "description": "管理單位: 全宏加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1443,
+        "id": 1531,
         "name": "五常公園-女廁",
         "coords": [
             25.080866,
@@ -7258,7 +7809,482 @@
         "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1444,
+        "id": 1532,
+        "name": "全宏加油站-女廁",
+        "coords": [
+            25.003574,
+            121.484944
+        ],
+        "address": "新北市中和區平河里中正路829號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 全宏加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1533,
+        "name": "COSTCO中和店B1-男廁",
+        "coords": [
+            25.002217,
+            121.491978
+        ],
+        "address": "新北市中和區連和里中山路2段347號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣好事多總公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1534,
+        "name": "COSTCO中和店B1-女廁",
+        "coords": [
+            25.002217,
+            121.491978
+        ],
+        "address": "新北市中和區連和里中山路2段347號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣好事多總公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1535,
+        "name": "中和廣濟宮-男廁",
+        "coords": [
+            25.000626,
+            121.501296
+        ],
+        "address": "新北市中和區枋寮里中和路95號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中和廣濟宮。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1536,
+        "name": "中和廣濟宮-女廁",
+        "coords": [
+            25.000626,
+            121.501296
+        ],
+        "address": "新北市中和區枋寮里中和路95號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中和廣濟宮。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1537,
+        "name": "龍濱公園-男廁",
+        "coords": [
+            25.073602,
+            121.501032
+        ],
+        "address": "新北市三重區龍濱里龍門路嘉天宮前",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1538,
+        "name": "永福閱覽室2F-男廁",
+        "coords": [
+            25.0756776,
+            121.4811945
+        ],
+        "address": "新北市三重區永福里力行路2段162巷55號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1539,
+        "name": "三重義天宮-男廁",
+        "coords": [
+            25.076171,
+            121.483728
+        ],
+        "address": "新北市三重區永福里車路頭街150號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府民政局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1540,
+        "name": "中油楓林加油站-混合廁所",
+        "coords": [
+            25.077082,
+            121.488955
+        ],
+        "address": "新北市三重區福隆里仁美街2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 楓林加油站股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1541,
+        "name": "中油聯華三重交流道加油站-女廁",
+        "coords": [
+            25.075426,
+            121.489405
+        ],
+        "address": "新北市三重區福隆里三和路4段81-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 聯華能源股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1542,
+        "name": "三重先嗇宮右側-男廁",
+        "coords": [
+            25.050394,
+            121.476135
+        ],
+        "address": "新北市三重區五谷里五谷王北街77號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三重先嗇宮。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1543,
+        "name": "228和平公園-女廁",
+        "coords": [
+            25.07102277,
+            121.48637652
+        ],
+        "address": "新北市三重區立德里忠孝路2段與自強路口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1544,
+        "name": "家樂福中和店B3-男廁",
+        "coords": [
+            25.002196,
+            121.49587
+        ],
+        "address": "新北市中和區連和里中山路2段295號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 家福股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1545,
+        "name": "三重玄峰慈惠堂-男廁",
+        "coords": [
+            25.073068,
+            121.496198
+        ],
+        "address": "新北市三重區崇德里仁愛街77號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三重玄峰慈惠堂。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1546,
+        "name": "中油重陽加油站-男廁",
+        "coords": [
+            25.071831,
+            121.492563
+        ],
+        "address": "新北市三重區尚德里忠孝路1段1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 重陽橋加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1547,
+        "name": "肯德基三重三和店2F-女廁",
+        "coords": [
+            25.079229,
+            121.482203
+        ],
+        "address": "新北市三重區慈生里三和路4段193號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 怡和餐飲股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1548,
+        "name": "三重東區圖書館B1-女廁",
+        "coords": [
+            25.083572,
+            121.48761
+        ],
+        "address": "新北市三重區慈化里溪尾街303號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1549,
+        "name": "麥當勞三重五華店2F-女廁",
+        "coords": [
+            25.083232,
+            121.492089
+        ],
+        "address": "新北市三重區五華里五華街85-1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣麥當勞餐廰股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1550,
+        "name": "中油嘉尤加油站-男廁",
+        "coords": [
+            25.006917,
+            121.494325
+        ],
+        "address": "新北市中和區中原里橋和路241號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 竣鴻開發股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1551,
+        "name": "中油嘉樂福加油站-女廁",
+        "coords": [
+            24.998754,
+            121.485607
+        ],
+        "address": "新北市中和區平河里建八路2號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司嘉樂福加油站。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 1552,
+        "name": "威力購物廣場7F-男廁",
+        "coords": [
+            25.002044,
+            121.49582
+        ],
+        "address": "新北市中和區連和里中山路2段291號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 威力購物廣場管理中心。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1556,
+        "name": "龍濱閱覽室2F-男廁",
+        "coords": [
+            25.072956,
+            121.502335
+        ],
+        "address": "新北市三重區龍濱里秀江街28號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1557,
+        "name": "果菜市場右側-男廁",
+        "coords": [
+            25.064978,
+            121.486355
+        ],
+        "address": "新北市三重區幸福里中正北路111號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市果菜運銷股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1558,
+        "name": "中油重陽加油站-女廁",
+        "coords": [
+            25.071831,
+            121.492563
+        ],
+        "address": "新北市三重區尚德里忠孝路1段1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 重陽橋加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1559,
+        "name": "小永德公園-男廁",
+        "coords": [
+            25.07222779,
+            121.48963809
+        ],
+        "address": "新北市三重區培德里忠孝路1段與大智街口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1560,
         "name": "威力購物廣場10F-男廁",
         "coords": [
             25.002044,
@@ -7272,12 +8298,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1445,
+        "id": 1561,
         "name": "全宏加油站二站-女廁",
         "coords": [
             24.999493,
@@ -7296,7 +8322,7 @@
         "description": "管理單位: 台灣中油股份有限公司 全宏二站。公廁類別: 女廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1446,
+        "id": 1562,
         "name": "中和枋寮市場1F-女廁",
         "coords": [
             25.000508,
@@ -7315,7 +8341,7 @@
         "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1447,
+        "id": 1563,
         "name": "大潤發中和店B2-男廁",
         "coords": [
             25.002881,
@@ -7334,7 +8360,7 @@
         "description": "管理單位: 潤泰全球股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1448,
+        "id": 1564,
         "name": "八二三紀念公園西南側(公四)-女廁",
         "coords": [
             24.999855,
@@ -7348,12 +8374,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1449,
+        "id": 1565,
         "name": "捷運永安市場站-女廁",
         "coords": [
             25.002223,
@@ -7372,7 +8398,7 @@
         "description": "管理單位: 臺北大眾捷運股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1450,
+        "id": 1566,
         "name": "北基中和加油站-男廁",
         "coords": [
             25.005607,
@@ -7391,7 +8417,7 @@
         "description": "管理單位: 北基國際股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1451,
+        "id": 1567,
         "name": "麥當勞中和中山店1F-男廁",
         "coords": [
             25.005653,
@@ -7410,7 +8436,7 @@
         "description": "管理單位: 台灣麥當勞餐廳股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1456,
+        "id": 1572,
         "name": "開元公園-女廁",
         "coords": [
             25.066144,
@@ -7424,12 +8450,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1457,
+        "id": 1573,
         "name": "三張公園-男廁",
         "coords": [
             25.07038623,
@@ -7448,7 +8474,7 @@
         "description": "管理單位: 新北市三重區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1458,
+        "id": 1574,
         "name": "三重玄峰慈惠堂-女廁",
         "coords": [
             25.073068,
@@ -7467,7 +8493,7 @@
         "description": "管理單位: 三重玄峰慈惠堂。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1459,
+        "id": 1575,
         "name": "永福閱覽室2F-女廁",
         "coords": [
             25.076518,
@@ -7486,7 +8512,7 @@
         "description": "管理單位: 新北市三重區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1460,
+        "id": 1576,
         "name": "威力購物廣場4F-男廁",
         "coords": [
             25.002044,
@@ -7500,12 +8526,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1461,
+        "id": 1577,
         "name": "威力購物廣場7F-女廁",
         "coords": [
             25.002044,
@@ -7524,7 +8550,7 @@
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1462,
+        "id": 1578,
         "name": "全宏加油站二站-男廁",
         "coords": [
             24.999493,
@@ -7543,7 +8569,7 @@
         "description": "管理單位: 台灣中油股份有限公司 全宏二站。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1463,
+        "id": 1579,
         "name": "中和區公所1F-女廁",
         "coords": [
             24.998456,
@@ -7562,7 +8588,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1464,
+        "id": 1580,
         "name": "大潤發中和店B1-女廁",
         "coords": [
             25.002881,
@@ -7576,12 +8602,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 潤泰全球股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1465,
+        "id": 1581,
         "name": "中油中和加油站-男廁",
         "coords": [
             24.999383,
@@ -7600,7 +8626,7 @@
         "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1466,
+        "id": 1582,
         "name": "麥當勞中和興南店1F-女廁",
         "coords": [
             24.988745,
@@ -7619,7 +8645,7 @@
         "description": "管理單位: 台灣麥當勞餐廳股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1467,
+        "id": 1583,
         "name": "中和區圖書館6F-男廁",
         "coords": [
             24.989694,
@@ -7638,7 +8664,7 @@
         "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1468,
+        "id": 1584,
         "name": "全國國揚加油站-混合廁所",
         "coords": [
             25.003961,
@@ -7652,12 +8678,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 全國加油站股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1469,
+        "id": 1585,
         "name": "COSTCO中和店-女廁",
         "coords": [
             25.002217,
@@ -7676,7 +8702,7 @@
         "description": "管理單位: 好市多股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1470,
+        "id": 1586,
         "name": "威力購物廣場2F-男廁",
         "coords": [
             25.002044,
@@ -7695,7 +8721,7 @@
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1471,
+        "id": 1587,
         "name": "中和福和宮1F-男廁",
         "coords": [
             25.001356,
@@ -7714,7 +8740,520 @@
         "description": "管理單位: 中和福和宮。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1472,
+        "id": 1588,
+        "name": "中和福和宮1F-女廁",
+        "coords": [
+            25.001356,
+            121.500988
+        ],
+        "address": "新北市中和區廟美里廣福路112號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中和福和宮。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1589,
+        "name": "八二三紀念公園西南側(公四)-性別友善廁所",
+        "coords": [
+            24.999855,
+            121.5114
+        ],
+        "address": "新北市中和區安樂里中安街派出所後",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1590,
+        "name": "景新公園-男廁",
+        "coords": [
+            24.988055,
+            121.513545
+        ],
+        "address": "新北市中和區景南里景新街467巷50弄20號山上",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1591,
+        "name": "景新公園-女廁",
+        "coords": [
+            24.988055,
+            121.513545
+        ],
+        "address": "新北市中和區景南里景新街467巷50弄20號山上",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1592,
+        "name": "COSTCO中和店-男廁",
+        "coords": [
+            25.002217,
+            121.491978
+        ],
+        "address": "新北市中和區連和里中山路二段347號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 好市多股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1593,
+        "name": "威力購物廣場2F-女廁",
+        "coords": [
+            25.002044,
+            121.49582
+        ],
+        "address": "新北市中和區連和里中山路2段291號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 威力購物廣場管理中心。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1594,
+        "name": "威力購物廣場3F-女廁",
+        "coords": [
+            25.002044,
+            121.49582
+        ],
+        "address": "新北市中和區連和里中山路2段291號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 威力購物廣場管理中心。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1595,
+        "name": "中和國小地下停車場B1-男廁",
+        "coords": [
+            24.999214,
+            121.500667
+        ],
+        "address": "新北市中和區漳和里景平路632-8號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1596,
+        "name": "中和區公所1F-男廁",
+        "coords": [
+            24.998456,
+            121.500914
+        ],
+        "address": "新北市中和區漳和里景平路634-2號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1597,
+        "name": "麥當勞中和興南店-1F男廁",
+        "coords": [
+            24.988745,
+            121.509823
+        ],
+        "address": "新北市中和區東南里興南路1段83號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣麥當勞餐廳股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1598,
+        "name": "肯德基中和興南店1F-混合廁所",
+        "coords": [
+            24.988745,
+            121.509823
+        ],
+        "address": "新北市中和區東南里興南路1段79號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 怡和餐飲股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1599,
+        "name": "中和區圖書館6F-女廁",
+        "coords": [
+            24.989694,
+            121.506456
+        ],
+        "address": "新北市中和區外南里南山路236號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1600,
+        "name": "捷運南勢角站B3-女廁",
+        "coords": [
+            24.990017,
+            121.509276
+        ],
+        "address": "新北市中和區景福里捷運路6號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北大眾捷運股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1601,
+        "name": "中和環球購物中心3F南側-男廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1602,
+        "name": "中和環球購物中心3F北側-男廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1603,
+        "name": "中和環球購物中心4F環球影城北側-女廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1604,
+        "name": "中和環球購物中心4F環球影城南側-女廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1605,
+        "name": "中和環球購物中心5F南側-女廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1606,
+        "name": "中油莒光加油站-女廁",
+        "coords": [
+            24.99395,
+            121.467534
+        ],
+        "address": "新北市中和區壽德里莒光路260號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光路加氣站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1607,
+        "name": "華福公園(公廿一)-女廁",
+        "coords": [
+            24.995568,
+            121.467794
+        ],
+        "address": "新北市中和區明德里華福街與平街交叉口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1608,
+        "name": "中油楓林加油站-男廁",
+        "coords": [
+            25.076965,
+            121.488903
+        ],
+        "address": "新北市三重區福隆里仁美街2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 楓林加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1609,
+        "name": "三重東區圖書館B1-男廁",
+        "coords": [
+            25.083572,
+            121.48761
+        ],
+        "address": "新北市三重區慈化里溪尾街303號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1610,
+        "name": "珍豪大飯店-女廁",
+        "coords": [
+            25.049364,
+            121.472176
+        ],
+        "address": "新北市三重區五谷里光復路1段67號",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 珍豪餐飲事業有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1611,
+        "name": "三重玄武宮-混合廁所",
+        "coords": [
+            25.07456,
+            121.484493
+        ],
+        "address": "新北市三重區永吉里車路頭街109巷1號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 三重玄武宮。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1612,
+        "name": "中油嘉尤加油站-女廁",
+        "coords": [
+            25.006917,
+            121.494325
+        ],
+        "address": "新北市中和區中原里橋和路241號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 竣鴻開發股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1613,
+        "name": "中油嘉樂福加油站-男廁",
+        "coords": [
+            24.998754,
+            121.485607
+        ],
+        "address": "新北市中和區平河里建八路1號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司嘉樂福加油站。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 1614,
+        "name": "家樂福中和店B3-女廁",
+        "coords": [
+            25.001947,
+            121.496449
+        ],
+        "address": "新北市中和區連和里中山路2段295號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 家福股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1615,
         "name": "威力購物廣場3F-男廁",
         "coords": [
             25.002044,
@@ -7728,12 +9267,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1473,
+        "id": 1616,
         "name": "三重五常圖書館2F-男廁",
         "coords": [
             25.080866,
@@ -7747,12 +9286,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1474,
+        "id": 1617,
         "name": "中油重新路加油站-男廁",
         "coords": [
             25.046871,
@@ -7771,7 +9310,7 @@
         "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1475,
+        "id": 1618,
         "name": "珍豪大飯店-男廁",
         "coords": [
             25.049364,
@@ -7790,7 +9329,7 @@
         "description": "管理單位: 珍豪餐飲事業有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1476,
+        "id": 1619,
         "name": "中油積穗加油站-女廁",
         "coords": [
             25.005134,
@@ -7809,7 +9348,7 @@
         "description": "管理單位: 台灣中油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1477,
+        "id": 1620,
         "name": "中油橋和加油站-女廁",
         "coords": [
             25.005925,
@@ -7828,7 +9367,7 @@
         "description": "管理單位: 華中橋加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1478,
+        "id": 1621,
         "name": "中油華中橋加油站-男廁",
         "coords": [
             25.000053,
@@ -7847,7 +9386,7 @@
         "description": "管理單位: 華中橋加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1479,
+        "id": 1622,
         "name": "家樂福中和店B1-男廁",
         "coords": [
             25.001947,
@@ -7866,7 +9405,7 @@
         "description": "管理單位: 家福股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1480,
+        "id": 1623,
         "name": "威力購物廣場4F-女廁",
         "coords": [
             25.002044,
@@ -7880,12 +9419,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1481,
+        "id": 1624,
         "name": "麥當勞中和店2F-混合廁所",
         "coords": [
             25.001504,
@@ -7899,12 +9438,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 台灣麥當勞餐廳股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1482,
+        "id": 1625,
         "name": "八二三紀念公園東北側(公四)-性別友善廁所",
         "coords": [
             25.001722,
@@ -7923,7 +9462,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1483,
+        "id": 1626,
         "name": "八二三紀念公園東北側(公四)-女廁",
         "coords": [
             25.001722,
@@ -7942,7 +9481,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1484,
+        "id": 1627,
         "name": "中和南山福德宮-男廁",
         "coords": [
             24.972743,
@@ -7961,7 +9500,7 @@
         "description": "管理單位: 新北市中和區公所民政課。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1485,
+        "id": 1628,
         "name": "中和南山福德宮-女廁",
         "coords": [
             24.972743,
@@ -7980,7 +9519,7 @@
         "description": "管理單位: 新北市中和區公所民政課。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1486,
+        "id": 1629,
         "name": "中和環球購物中心B3北側-男廁",
         "coords": [
             25.006077,
@@ -7999,7 +9538,7 @@
         "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1487,
+        "id": 1630,
         "name": "中和環球購物中心4F410櫃位旁-男廁",
         "coords": [
             25.006077,
@@ -8018,7 +9557,7 @@
         "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1488,
+        "id": 1631,
         "name": "中和環球購物中心4F410櫃位旁-女廁",
         "coords": [
             25.006077,
@@ -8032,12 +9571,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1489,
+        "id": 1632,
         "name": "威力購物廣場5F-女廁",
         "coords": [
             25.002044,
@@ -8051,12 +9590,12 @@
             "baby": true,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1490,
+        "id": 1633,
         "name": "威力購物廣場6F-女廁",
         "coords": [
             25.002044,
@@ -8075,7 +9614,7 @@
         "description": "管理單位: 威力購物廣場管理中心。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1491,
+        "id": 1634,
         "name": "中和市民活動中心2F-男廁",
         "coords": [
             25.000508,
@@ -8094,7 +9633,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1492,
+        "id": 1635,
         "name": "大潤發中和店1F-女廁",
         "coords": [
             25.002881,
@@ -8113,7 +9652,7 @@
         "description": "管理單位: 潤泰全球股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1493,
+        "id": 1636,
         "name": "秀山公園(公7)-男廁",
         "coords": [
             24.995544,
@@ -8132,7 +9671,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1494,
+        "id": 1637,
         "name": "大潤發中和景平店B1-男廁",
         "coords": [
             24.992556,
@@ -8151,7 +9690,7 @@
         "description": "管理單位: 大潤發流通事業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1495,
+        "id": 1638,
         "name": "捷運景安站1F-女廁",
         "coords": [
             24.993914,
@@ -8170,7 +9709,7 @@
         "description": "管理單位: 臺北大眾捷運股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1496,
+        "id": 1639,
         "name": "中和圓通禪寺東側-女廁",
         "coords": [
             24.9826,
@@ -8184,12 +9723,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 中和圓通禪寺。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1497,
+        "id": 1640,
         "name": "清穗公園(A)(公廿九)-男廁",
         "coords": [
             24.998878,
@@ -8203,12 +9742,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1498,
+        "id": 1641,
         "name": "清穗公園(A)(公廿九)-女廁",
         "coords": [
             24.998878,
@@ -8227,7 +9766,463 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1499,
+        "id": 1642,
+        "name": "台亞中和建康加油站-女廁",
+        "coords": [
+            25.000397,
+            121.49216
+        ],
+        "address": "新北市中和區碧河里健康路191號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台亞石油股份有限公司。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 1643,
+        "name": "中油板和加油站-女廁",
+        "coords": [
+            25.009721,
+            121.480573
+        ],
+        "address": "新北市中和區員富里中正路1191號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 金祥和企業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1644,
+        "name": "四十張加油站-男廁",
+        "coords": [
+            24.991705,
+            121.47671
+        ],
+        "address": "新北市中和區嘉慶里連城路629號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 四十張加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1648,
+        "name": "中和市民活動中心2F-女廁",
+        "coords": [
+            25.000508,
+            121.500914
+        ],
+        "address": "新北市中和區漳和里中和路74號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1649,
+        "name": "大潤發中和店1F-男廁",
+        "coords": [
+            25.002881,
+            121.499207
+        ],
+        "address": "新北市中和區福善里中山路2段228號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 潤泰全球股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1650,
+        "name": "大潤發中和店B1-男廁",
+        "coords": [
+            25.002881,
+            121.499207
+        ],
+        "address": "新北市中和區福善里中山路2段228號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 潤泰全球股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1651,
+        "name": "中油中和加油站-女廁",
+        "coords": [
+            24.999383,
+            121.507831
+        ],
+        "address": "新北市中和區泰安里中和路260號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1652,
+        "name": "秀山公園(公7)-女廁",
+        "coords": [
+            24.995544,
+            121.523283
+        ],
+        "address": "新北市中和區秀福里自立路15巷12號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1653,
+        "name": "大潤發中和景平店B1-女廁",
+        "coords": [
+            24.992556,
+            121.51638
+        ],
+        "address": "新北市中和區秀明里景平路182號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大潤發流通事業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1654,
+        "name": "捷運景安站1F-男廁",
+        "coords": [
+            24.993914,
+            121.504954
+        ],
+        "address": "新北市中和區景文里景平路486號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北大眾捷運股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1655,
+        "name": "中和圓通禪寺東側-男廁",
+        "coords": [
+            24.9826,
+            121.492974
+        ],
+        "address": "新北市中和區錦昌里圓通路367巷64號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中和圓通禪寺。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1656,
+        "name": "威力購物廣場10F-女廁",
+        "coords": [
+            25.002044,
+            121.49582
+        ],
+        "address": "新北市中和區連和里中山路二段291號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 威力購物廣場管理中心。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1657,
+        "name": "中和枋寮市場1F-男廁",
+        "coords": [
+            25.000577,
+            121.500961
+        ],
+        "address": "新北市中和區漳和里中和路74號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 1658,
+        "name": "中和國小地下停車場B1-女廁",
+        "coords": [
+            24.999214,
+            121.500667
+        ],
+        "address": "新北市中和區漳和里景平路632-8號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1659,
+        "name": "大潤發中和店B2-女廁",
+        "coords": [
+            25.002881,
+            121.499207
+        ],
+        "address": "新北市中和區福善里中山路2段228號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 潤泰全球股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1660,
+        "name": "捷運永安市場站-男廁",
+        "coords": [
+            25.002223,
+            121.510672
+        ],
+        "address": "新北市中和區中安里中安街388號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北大眾捷運股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1661,
+        "name": "捷運南勢角站B3-男廁",
+        "coords": [
+            24.990017,
+            121.509276
+        ],
+        "address": "新北市中和區景福里捷運路6號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺北大眾捷運股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1662,
+        "name": "北基中和加油站-女廁",
+        "coords": [
+            25.005607,
+            121.476791
+        ],
+        "address": "新北市中和區積穗里中山路3段54號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 北基國際股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1663,
+        "name": "中和環球購物中心3F南側-女廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1664,
+        "name": "中和環球購物中心B3南側-男廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1665,
+        "name": "中和環球購物中心B3南側-女廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1666,
+        "name": "中和環球購物中心3F北側-女廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1667,
+        "name": "中和環球購物中心4F環球影城北側-男廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1668,
+        "name": "明德公園(公七)北側-男廁",
+        "coords": [
+            24.996229,
+            121.469457
+        ],
+        "address": "新北市中和區清穗里民德路208號對面",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1669,
         "name": "明德公園(公七)北側-女廁",
         "coords": [
             24.996229,
@@ -8246,7 +10241,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1500,
+        "id": 1670,
         "name": "台亞中和建康加油站-男廁",
         "coords": [
             25.000397,
@@ -8265,7 +10260,7 @@
         "description": "管理單位: 台亞石油股份有限公司。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1501,
+        "id": 1671,
         "name": "中油板和加油站-男廁",
         "coords": [
             25.009721,
@@ -8284,7 +10279,7 @@
         "description": "管理單位: 金祥和企業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1502,
+        "id": 1672,
         "name": "中和環球購物中心2F南側-男廁",
         "coords": [
             25.006077,
@@ -8298,12 +10293,12 @@
             "baby": true,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1503,
+        "id": 1673,
         "name": "中和環球購物中心2F北側-男廁",
         "coords": [
             25.006077,
@@ -8322,7 +10317,7 @@
         "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1504,
+        "id": 1674,
         "name": "中和環球購物中心5F北側-女廁",
         "coords": [
             25.006077,
@@ -8336,12 +10331,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1505,
+        "id": 1675,
         "name": "嘉穗公園(公十一)-女廁",
         "coords": [
             24.998602,
@@ -8360,7 +10355,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1506,
+        "id": 1676,
         "name": "自強公園(公廿)-男廁",
         "coords": [
             24.99943,
@@ -8379,7 +10374,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1507,
+        "id": 1677,
         "name": "莒西社區1F-混合廁所",
         "coords": [
             24.998899,
@@ -8398,7 +10393,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 混合廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1508,
+        "id": 1678,
         "name": "民享市場1F北側-男廁",
         "coords": [
             25.003072,
@@ -8417,7 +10412,7 @@
         "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1509,
+        "id": 1679,
         "name": "民享市場1F南側-男廁",
         "coords": [
             25.003072,
@@ -8436,7 +10431,7 @@
         "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1510,
+        "id": 1680,
         "name": "四十張加油站-女廁",
         "coords": [
             24.991705,
@@ -8450,12 +10445,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 四十張加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1518,
+        "id": 1688,
         "name": "中和環球購物中心B3北側-女廁",
         "coords": [
             25.006077,
@@ -8469,12 +10464,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1519,
+        "id": 1689,
         "name": "中和環球購物中心B2-女廁",
         "coords": [
             25.006077,
@@ -8493,7 +10488,7 @@
         "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1520,
+        "id": 1690,
         "name": "員山公園(公八)-男廁",
         "coords": [
             25.004115,
@@ -8507,12 +10502,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1521,
+        "id": 1691,
         "name": "清穗公園(B)(公廿九)-女廁",
         "coords": [
             24.998878,
@@ -8531,7 +10526,7 @@
         "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1522,
+        "id": 1692,
         "name": "民德立體停車場南側1F-女廁",
         "coords": [
             24.998952,
@@ -8550,7 +10545,7 @@
         "description": "管理單位: 新北市政府交通局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1526,
+        "id": 1696,
         "name": "麥當勞中和中山店1F-女廁",
         "coords": [
             25.005653,
@@ -8564,12 +10559,354 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 台灣麥當勞餐廳股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1527,
+        "id": 1697,
+        "name": "中和環球購物中心B2-男廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1698,
+        "name": "中和環球購物中心2F北側-女廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1699,
+        "name": "中和環球購物中心5F南側-男廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1700,
+        "name": "員山公園(公八)-女廁",
+        "coords": [
+            25.004203,
+            121.480412
+        ],
+        "address": "新北市中和區嘉新里員山路455巷底",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1701,
+        "name": "清穗公園(B)(公廿九)-男廁",
+        "coords": [
+            24.998878,
+            121.469811
+        ],
+        "address": "新北市中和區自強里民德路189巷口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1702,
+        "name": "華福公園(公廿一)-男廁",
+        "coords": [
+            24.995568,
+            121.467794
+        ],
+        "address": "新北市中和區明德里華福街與平街交叉口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1703,
+        "name": "仁愛公園(保生路)-女廁",
+        "coords": [
+            25.01136,
+            121.507724
+        ],
+        "address": "新北市永和區保安里仁愛路244號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市永和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1704,
+        "name": "永安公有零售市場-無障礙廁所",
+        "coords": [
+            25.004215,
+            121.514267
+        ],
+        "address": "新北市永和區永樂里安樂路431號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1705,
+        "name": "國父紀念館-男廁",
+        "coords": [
+            25.008704,
+            121.520488
+        ],
+        "address": "新北市永和區豫溪里竹林路202號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1712,
+        "name": "中和環球購物中心4F環球影城南側-男廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1713,
+        "name": "民德立體停車場南側1F-男廁",
+        "coords": [
+            24.998952,
+            121.468105
+        ],
+        "address": "新北市中和區清穗里民德路188號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府交通局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1714,
+        "name": "中油莒光加油站-男廁",
+        "coords": [
+            24.99395,
+            121.467534
+        ],
+        "address": "新北市中和區壽德里莒光路260號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 莒光路加氣站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1715,
+        "name": "中和大同圖書館1F-男廁",
+        "coords": [
+            24.996108,
+            121.499668
+        ],
+        "address": "新北市中和區正行里圓通路121巷5號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1720,
+        "name": "中和環球購物中心2F南側-女廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1721,
+        "name": "中和環球購物中心5F北側-男廁",
+        "coords": [
+            25.006077,
+            121.475689
+        ],
+        "address": "新北市中和區員山里中山路3段122號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 環球購物中心股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1722,
+        "name": "嘉穗公園(公十一)-男廁",
+        "coords": [
+            24.998602,
+            121.480438
+        ],
+        "address": "新北市中和區嘉穗里民利街9巷底",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1723,
+        "name": "自強公園(公廿)-女廁",
+        "coords": [
+            24.99943,
+            121.471631
+        ],
+        "address": "新北市中和區自強里莒光路與國光街交叉口",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市中和區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1724,
+        "name": "民享市場1F北側-女廁",
+        "coords": [
+            25.003072,
+            121.474163
+        ],
+        "address": "新北市中和區民有里民享街37號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 1725,
         "name": "民享市場1F南側-女廁",
         "coords": [
             25.003573,
@@ -8588,7 +10925,7 @@
         "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1528,
+        "id": 1726,
         "name": "國父紀念館-女廁",
         "coords": [
             25.008704,
@@ -8602,12 +10939,31 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1571,
+        "id": 1781,
+        "name": "潭底公園-男廁",
+        "coords": [
+            24.9972,
+            121.4188
+        ],
+        "address": "新北市樹林區潭底里保安街1段285號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市樹林區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1825,
         "name": "仁愛公園(保生路)-性別友善公廁",
         "coords": [
             25.01154018,
@@ -8626,7 +10982,7 @@
         "description": "管理單位: 新北市永和區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1581,
+        "id": 1835,
         "name": "樹林濟安宮-男廁",
         "coords": [
             24.993711,
@@ -8645,7 +11001,7 @@
         "description": "管理單位: 濟安宮。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1670,
+        "id": 2005,
         "name": "速邁樂環河路加油站-男廁",
         "coords": [
             24.967171,
@@ -8664,7 +11020,7 @@
         "description": "管理單位: 統一精工股份有限公司。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1671,
+        "id": 2006,
         "name": "速邁樂環河路加油站-女廁",
         "coords": [
             24.967171,
@@ -8683,7 +11039,7 @@
         "description": "管理單位: 統一精工股份有限公司。公廁類別: 女廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1672,
+        "id": 2007,
         "name": "樹林濟安宮-女廁",
         "coords": [
             24.993711,
@@ -8697,12 +11053,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 濟安宮。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1673,
+        "id": 2008,
         "name": "麥當勞樹林中山店-男廁",
         "coords": [
             24.990949,
@@ -8716,12 +11072,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺灣麥當勞股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1674,
+        "id": 2009,
         "name": "麥當勞樹林中山店-女廁",
         "coords": [
             24.99097,
@@ -8740,7 +11096,7 @@
         "description": "管理單位: 臺灣麥當勞股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1675,
+        "id": 2010,
         "name": "中油上順加油站-男廁",
         "coords": [
             24.95985681,
@@ -8759,7 +11115,7 @@
         "description": "管理單位: 上順加油站有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1676,
+        "id": 2011,
         "name": "肯德基新店北新分店-女廁",
         "coords": [
             24.973327,
@@ -8778,7 +11134,7 @@
         "description": "管理單位: 台灣百勝肯德基股份有限公司。公廁類別: 女廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1677,
+        "id": 2012,
         "name": "新店中央圖書館閱覽室2F-男廁",
         "coords": [
             24.975418,
@@ -8797,7 +11153,7 @@
         "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1678,
+        "id": 2013,
         "name": "中油寶橋加油站-男廁",
         "coords": [
             24.977315,
@@ -8816,7 +11172,7 @@
         "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1679,
+        "id": 2014,
         "name": "中油思源加油站-男廁",
         "coords": [
             25.014519,
@@ -8835,7 +11191,7 @@
         "description": "管理單位: 思園加油站集團。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1680,
+        "id": 2015,
         "name": "全國大安加油站-男廁",
         "coords": [
             25.004322,
@@ -8849,12 +11205,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 全國加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1681,
+        "id": 2016,
         "name": "中油永錡保安加油站-男廁",
         "coords": [
             24.996137,
@@ -8868,12 +11224,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 台灣中油股份有限公司 永琦保安站。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1682,
+        "id": 2017,
         "name": "中油車容坊中華路加油站-女廁",
         "coords": [
             24.981836,
@@ -8892,7 +11248,7 @@
         "description": "管理單位: 車容坊股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1683,
+        "id": 2018,
         "name": "中油永錡彭厝加油站-女廁",
         "coords": [
             24.971762,
@@ -8911,7 +11267,7 @@
         "description": "管理單位: 台灣中油股份有限公司永錡彭厝站加油站。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1691,
+        "id": 2026,
         "name": "豪鼎飯店-男廁",
         "coords": [
             24.984025,
@@ -8928,994 +11284,6 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 豪鼎餐飲事業。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1693,
-        "name": "中油永盛加油站-無障礙廁所",
-        "coords": [
-            24.98387966,
-            121.42514706
-        ],
-        "address": "新北市樹林區樹東里中華路1之1號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中油永盛加油站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1694,
-        "name": "中油永盛加油站-性別友善廁所",
-        "coords": [
-            24.984093,
-            121.425255
-        ],
-        "address": "新北市樹林區樹東里中華路1之1號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中油永盛加油站。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1695,
-        "name": "中油永錡大安加油站-女廁",
-        "coords": [
-            24.983651,
-            121.411693
-        ],
-        "address": "新北市樹林區東昇里大安路576號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司永錡大安加油站。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1696,
-        "name": "柑園加油站北大站-男廁",
-        "coords": [
-            24.946021,
-            121.385634
-        ],
-        "address": "新北市樹林區南園里佳園路三段227號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 柑園股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1699,
-        "name": "家樂福樹林店-男廁",
-        "coords": [
-            24.997108,
-            121.421329
-        ],
-        "address": "新北市樹林區潭底里大安路118號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 家樂福股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1700,
-        "name": "台灣中油三多加油站-男廁",
-        "coords": [
-            25.00822267,
-            121.41140985
-        ],
-        "address": "新北市樹林區猐寮里中正路433號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1701,
-        "name": "車容坊城林橋加油站-女廁",
-        "coords": [
-            24.98427352,
-            121.42510414
-        ],
-        "address": "新北市樹林區樹東里中華路2號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 車容坊股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1702,
-        "name": "肯德基樹林中山店-女廁",
-        "coords": [
-            24.99185139,
-            121.42380595
-        ],
-        "address": "新北市樹林區樹福里中山路1段67號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺灣百勝肯德基股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1703,
-        "name": "中油和信加油站-女廁",
-        "coords": [
-            25.008721,
-            121.416151
-        ],
-        "address": "新北市樹林區猐寮里中正路280-2號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 中油和信加油站。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1707,
-        "name": "中油樹林加油站-女廁",
-        "coords": [
-            24.999541,
-            121.430116
-        ],
-        "address": "新北市樹林區圳福里樹新路207號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1708,
-        "name": "台亞俊英加油站-女廁",
-        "coords": [
-            25.013269,
-            121.424009
-        ],
-        "address": "新北市樹林區圳民里俊英街280號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台亞俊英加油站。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1709,
-        "name": "鶯歌火車站2F男廁",
-        "coords": [
-            24.954349,
-            121.355341
-        ],
-        "address": "新北市鶯歌區東鶯里文化路68-1號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 交通部台灣鐵路管理局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1715,
-        "name": "肯德基樹林中山店-男廁",
-        "coords": [
-            24.991901,
-            121.423782
-        ],
-        "address": "新北市樹林區樹福里中山路1段67號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺灣百勝肯德基股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1716,
-        "name": "新北市立圖書館鶯歌分館3F-女廁",
-        "coords": [
-            24.957359,
-            121.349518
-        ],
-        "address": "新北市鶯歌區西鶯里中山路150號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1726,
-        "name": "溪洲市場2F-女廁",
-        "coords": [
-            25.013537,
-            121.516669
-        ],
-        "address": "新北市永和區勵行里勵行街44號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1742,
-        "name": "永和區永安市民活動中心2F-混合廁所",
-        "coords": [
-            25.00433916,
-            121.51418567
-        ],
-        "address": "新北市永和區永樂里安樂路431號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府永和區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1761,
-        "name": "麥當勞永和中山店2F-男廁",
-        "coords": [
-            25.008558,
-            121.508392
-        ],
-        "address": "新北市永和區保安里中山路1段214號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 和德昌股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1762,
-        "name": "比漾廣場2F-女廁",
-        "coords": [
-            25.007837,
-            121.507646
-        ],
-        "address": "新北市永和區保安里中山路1段238號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 安橋公寓大廈管理維護股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1763,
-        "name": "麥當勞永和店2F-男廁",
-        "coords": [
-            25.01324,
-            121.515483
-        ],
-        "address": "新北市永和區勵行里永和路2段170號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 和德昌股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1788,
-        "name": "五股圖書館3F-女廁",
-        "coords": [
-            25.082392,
-            121.439872
-        ],
-        "address": "新北市五股區五股村工商路1號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1813,
-        "name": "台塑中泰加油站-女廁",
-        "coords": [
-            25.056971,
-            121.436047
-        ],
-        "address": "新北市泰山區福泰村泰林路2段32號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台塑石化股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1814,
-        "name": "全國新五路加油站-男廁",
-        "coords": [
-            25.060908,
-            121.441126
-        ],
-        "address": "新北市泰山區楓樹村新五路1段89號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 全國加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1815,
-        "name": "辭修公園-男廁",
-        "coords": [
-            25.057922,
-            121.425576
-        ],
-        "address": "新北市泰山區同榮村辭修路48號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市泰山區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1816,
-        "name": "泰山區公有市場2F東側-男廁",
-        "coords": [
-            25.056313,
-            121.433644
-        ],
-        "address": "新北市泰山區全興村全興路212號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1838,
-        "name": "全國新五路加油站-女廁",
-        "coords": [
-            25.060908,
-            121.441126
-        ],
-        "address": "新北市泰山區楓樹村新五路1段89號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 全國加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1839,
-        "name": "泰山瓊仔湖福德宮-男廁",
-        "coords": [
-            25.05139,
-            121.423065
-        ],
-        "address": "新北市泰山區義學村瓊仔湖18號",
-        "type": "宗教禮儀場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 泰山瓊仔湖福德宮。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1840,
-        "name": "泰山貴子圖書館4F-男廁",
-        "coords": [
-            25.039866,
-            121.423627
-        ],
-        "address": "新北市泰山區貴子村工專路22號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1841,
-        "name": "湳興公有市場-男廁",
-        "coords": [
-            25.007044,
-            121.455312
-        ],
-        "address": "新北市板橋區新興里中興路63號",
-        "type": "商業營業場所",
-        "rating": 4.5,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 優等級。"
-    },
-    {
-        "id": 1842,
-        "name": "泰山區公有市場2F東側-女廁",
-        "coords": [
-            25.056313,
-            121.433644
-        ],
-        "address": "新北市泰山區全興村全興路212號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1843,
-        "name": "泰山圖書館5F北側-無障礙廁所",
-        "coords": [
-            25.056075,
-            121.433783
-        ],
-        "address": "新北市泰山區全興村全興路212號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1846,
-        "name": "五股圖書館4F-女廁",
-        "coords": [
-            25.082392,
-            121.439872
-        ],
-        "address": "新北市五股區五股村工商路1號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1847,
-        "name": "中油昇易加油站-男廁",
-        "coords": [
-            25.078218,
-            121.437812
-        ],
-        "address": "新北市五股區德音村新五路2段129號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 昇易加油站實業有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1848,
-        "name": "中油聯華五股站-男廁",
-        "coords": [
-            25.086734,
-            121.44165
-        ],
-        "address": "新北市五股區成泰村成泰路二段250號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 聯華能源股份有限公司五股站。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1849,
-        "name": "泰山瓊仔湖福德宮-女廁",
-        "coords": [
-            25.05139,
-            121.423065
-        ],
-        "address": "新北市泰山區義學村瓊仔湖18號",
-        "type": "宗教禮儀場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 泰山瓊仔湖福德宮。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1850,
-        "name": "泰山貴子圖書館3F-女廁",
-        "coords": [
-            25.039969,
-            121.423446
-        ],
-        "address": "新北市泰山區貴子村工專路22號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1851,
-        "name": "中油車容坊五洲站-女廁",
-        "coords": [
-            25.0323293,
-            121.42071605
-        ],
-        "address": "新北市泰山區貴和村新北大道7段2號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 車容坊股份有限公司五洲加油站。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1852,
-        "name": "湳興公有市場-女廁",
-        "coords": [
-            25.007044,
-            121.455312
-        ],
-        "address": "新北市板橋區新興里中興路63號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1854,
-        "name": "中油泰山加油站-女廁",
-        "coords": [
-            25.064357,
-            121.426766
-        ],
-        "address": "新北市泰山區山腳村泰林路2段424號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1855,
-        "name": "顯應祖師泰山巖-男廁",
-        "coords": [
-            25.06068,
-            121.432043
-        ],
-        "address": "新北市泰山區山腳村明志路1段254號",
-        "type": "宗教禮儀場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 顯應祖師泰山巖。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1856,
-        "name": "泰山區綜合運動場-男廁",
-        "coords": [
-            25.054983,
-            121.428349
-        ],
-        "address": "新北市泰山區同榮村公園路52號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府體育局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1857,
-        "name": "泰山區公有市場1F東側-男廁",
-        "coords": [
-            25.056313,
-            121.433644
-        ],
-        "address": "新北市泰山區全興村全興路212號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1858,
-        "name": "泰山區公有市場1F南側-男廁",
-        "coords": [
-            25.056075,
-            121.433783
-        ],
-        "address": "新北市泰山區全興村全興路212號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1874,
-        "name": "泰山區公有市場1F-無障礙廁所",
-        "coords": [
-            25.056075,
-            121.433783
-        ],
-        "address": "新北市泰山區全興村全興路212號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府市場處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1974,
-        "name": "新北市坪林茶業博物館1F-男廁",
-        "coords": [
-            24.93431157,
-            121.71276569
-        ],
-        "address": "新北市坪林區水德村水聳淒坑19-1號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1975,
-        "name": "三芝公車站-男女廁",
-        "coords": [
-            25.25919412,
-            121.5021687
-        ],
-        "address": "新北市三芝區埔頭村淡金路二段4號對面",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市三芝區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1976,
-        "name": "台灣中油經國南海站-男廁",
-        "coords": [
-            25.261225,
-            121.502774
-        ],
-        "address": "新北市三芝區埔坪村埔坪村北海路2段168號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1977,
-        "name": "石門老梅公地-無障礙廁所",
-        "coords": [
-            25.29123699,
-            121.54575205
-        ],
-        "address": "新北市石門區老梅村公地16-1號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市石門區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1978,
-        "name": "菁桐火車站-男廁",
-        "coords": [
-            25.023918,
-            121.723725
-        ],
-        "address": "新北市平溪區菁桐村菁桐街2號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 交通部台灣鐵路管理局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1979,
-        "name": "平溪活動中心2F-男廁",
-        "coords": [
-            25.024719,
-            121.737007
-        ],
-        "address": "新北市平溪區石底村公園街17號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市平溪區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1993,
-        "name": "中油林口加油站-男廁",
-        "coords": [
-            25.077864,
-            121.396947
-        ],
-        "address": "新北市林口區林口村中山路1號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1994,
-        "name": "石碇湳窟1F-男廁",
-        "coords": [
-            24.991071,
-            121.661158
-        ],
-        "address": "新北市石碇區潭邊村無",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市石碇區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1995,
-        "name": "石碇皇帝殿1F-男廁",
-        "coords": [
-            24.99092,
-            121.660898
-        ],
-        "address": "新北市石碇區潭邊村無",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新北市石碇區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2036,
@@ -10450,6 +11818,272 @@
         "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2083,
+        "name": "中油永盛加油站-無障礙廁所",
+        "coords": [
+            24.98387966,
+            121.42514706
+        ],
+        "address": "新北市樹林區樹東里中華路1之1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中油永盛加油站。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2084,
+        "name": "中油永盛加油站-性別友善廁所",
+        "coords": [
+            24.984093,
+            121.425255
+        ],
+        "address": "新北市樹林區樹東里中華路1之1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中油永盛加油站。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2085,
+        "name": "中油永錡大安加油站-女廁",
+        "coords": [
+            24.983651,
+            121.411693
+        ],
+        "address": "新北市樹林區東昇里大安路576號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司永錡大安加油站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2086,
+        "name": "柑園加油站北大站-男廁",
+        "coords": [
+            24.946021,
+            121.385634
+        ],
+        "address": "新北市樹林區南園里佳園路三段227號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 柑園股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2089,
+        "name": "家樂福樹林店-男廁",
+        "coords": [
+            24.997108,
+            121.421329
+        ],
+        "address": "新北市樹林區潭底里大安路118號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 家樂福股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2090,
+        "name": "台灣中油三多加油站-男廁",
+        "coords": [
+            25.00822267,
+            121.41140985
+        ],
+        "address": "新北市樹林區猐寮里中正路433號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2091,
+        "name": "車容坊城林橋加油站-女廁",
+        "coords": [
+            24.98427352,
+            121.42510414
+        ],
+        "address": "新北市樹林區樹東里中華路2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 車容坊股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2092,
+        "name": "肯德基樹林中山店-女廁",
+        "coords": [
+            24.99185139,
+            121.42380595
+        ],
+        "address": "新北市樹林區樹福里中山路1段67號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣百勝肯德基股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2093,
+        "name": "中油和信加油站-女廁",
+        "coords": [
+            25.008721,
+            121.416151
+        ],
+        "address": "新北市樹林區猐寮里中正路280-2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 中油和信加油站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2097,
+        "name": "中油樹林加油站-女廁",
+        "coords": [
+            24.999541,
+            121.430116
+        ],
+        "address": "新北市樹林區圳福里樹新路207號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2098,
+        "name": "台亞俊英加油站-女廁",
+        "coords": [
+            25.013269,
+            121.424009
+        ],
+        "address": "新北市樹林區圳民里俊英街280號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台亞俊英加油站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2099,
+        "name": "鶯歌火車站2F男廁",
+        "coords": [
+            24.954349,
+            121.355341
+        ],
+        "address": "新北市鶯歌區東鶯里文化路68-1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部台灣鐵路管理局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2105,
+        "name": "肯德基樹林中山店-男廁",
+        "coords": [
+            24.991901,
+            121.423782
+        ],
+        "address": "新北市樹林區樹福里中山路1段67號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺灣百勝肯德基股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2106,
+        "name": "新北市立圖書館鶯歌分館3F-女廁",
+        "coords": [
+            24.957359,
+            121.349518
+        ],
+        "address": "新北市鶯歌區西鶯里中山路150號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2111,
         "name": "比漾廣場2F-男廁",
         "coords": [
@@ -10716,6 +12350,44 @@
         "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2144,
+        "name": "溪洲市場2F-女廁",
+        "coords": [
+            25.013537,
+            121.516669
+        ],
+        "address": "新北市永和區勵行里勵行街44號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2160,
+        "name": "永和區永安市民活動中心2F-混合廁所",
+        "coords": [
+            25.00433916,
+            121.51418567
+        ],
+        "address": "新北市永和區永樂里安樂路431號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府永和區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2169,
         "name": "比漾廣場5F-男廁",
         "coords": [
@@ -10754,6 +12426,63 @@
         "description": "管理單位: 臺北大眾捷運股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2208,
+        "name": "麥當勞永和中山店2F-男廁",
+        "coords": [
+            25.008558,
+            121.508392
+        ],
+        "address": "新北市永和區保安里中山路1段214號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 和德昌股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2209,
+        "name": "比漾廣場2F-女廁",
+        "coords": [
+            25.007837,
+            121.507646
+        ],
+        "address": "新北市永和區保安里中山路1段238號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 安橋公寓大廈管理維護股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2210,
+        "name": "麥當勞永和店2F-男廁",
+        "coords": [
+            25.01324,
+            121.515483
+        ],
+        "address": "新北市永和區勵行里永和路2段170號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 和德昌股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2225,
         "name": "遠百公司永和店B1-混合廁所",
         "coords": [
@@ -10771,6 +12500,25 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 遠百企業股份有限公司。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2263,
+        "name": "五股圖書館3F-女廁",
+        "coords": [
+            25.082392,
+            121.439872
+        ],
+        "address": "新北市五股區五股村工商路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
         "id": 2284,
@@ -10864,6 +12612,82 @@
             "free": true
         },
         "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2316,
+        "name": "台塑中泰加油站-女廁",
+        "coords": [
+            25.056971,
+            121.436047
+        ],
+        "address": "新北市泰山區福泰村泰林路2段32號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台塑石化股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2317,
+        "name": "全國新五路加油站-男廁",
+        "coords": [
+            25.060908,
+            121.441126
+        ],
+        "address": "新北市泰山區楓樹村新五路1段89號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 全國加油站股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2318,
+        "name": "辭修公園-男廁",
+        "coords": [
+            25.057922,
+            121.425576
+        ],
+        "address": "新北市泰山區同榮村辭修路48號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市泰山區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2319,
+        "name": "泰山區公有市場2F東側-男廁",
+        "coords": [
+            25.056313,
+            121.433644
+        ],
+        "address": "新北市泰山區全興村全興路212號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
@@ -11037,6 +12861,348 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市五股區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2368,
+        "name": "全國新五路加油站-女廁",
+        "coords": [
+            25.060908,
+            121.441126
+        ],
+        "address": "新北市泰山區楓樹村新五路1段89號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 全國加油站股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2369,
+        "name": "泰山瓊仔湖福德宮-男廁",
+        "coords": [
+            25.05139,
+            121.423065
+        ],
+        "address": "新北市泰山區義學村瓊仔湖18號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 泰山瓊仔湖福德宮。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2370,
+        "name": "泰山貴子圖書館4F-男廁",
+        "coords": [
+            25.039866,
+            121.423627
+        ],
+        "address": "新北市泰山區貴子村工專路22號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2371,
+        "name": "湳興公有市場-男廁",
+        "coords": [
+            25.007044,
+            121.455312
+        ],
+        "address": "新北市板橋區新興里中興路63號",
+        "type": "商業營業場所",
+        "rating": 4.5,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 優等級。"
+    },
+    {
+        "id": 2372,
+        "name": "泰山區公有市場2F東側-女廁",
+        "coords": [
+            25.056313,
+            121.433644
+        ],
+        "address": "新北市泰山區全興村全興路212號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2373,
+        "name": "泰山圖書館5F北側-無障礙廁所",
+        "coords": [
+            25.056075,
+            121.433783
+        ],
+        "address": "新北市泰山區全興村全興路212號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2376,
+        "name": "五股圖書館4F-女廁",
+        "coords": [
+            25.082392,
+            121.439872
+        ],
+        "address": "新北市五股區五股村工商路1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2377,
+        "name": "中油昇易加油站-男廁",
+        "coords": [
+            25.078218,
+            121.437812
+        ],
+        "address": "新北市五股區德音村新五路2段129號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 昇易加油站實業有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2378,
+        "name": "中油聯華五股站-男廁",
+        "coords": [
+            25.086734,
+            121.44165
+        ],
+        "address": "新北市五股區成泰村成泰路二段250號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 聯華能源股份有限公司五股站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2379,
+        "name": "泰山瓊仔湖福德宮-女廁",
+        "coords": [
+            25.05139,
+            121.423065
+        ],
+        "address": "新北市泰山區義學村瓊仔湖18號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 泰山瓊仔湖福德宮。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2380,
+        "name": "泰山貴子圖書館3F-女廁",
+        "coords": [
+            25.039969,
+            121.423446
+        ],
+        "address": "新北市泰山區貴子村工專路22號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2381,
+        "name": "中油車容坊五洲站-女廁",
+        "coords": [
+            25.0323293,
+            121.42071605
+        ],
+        "address": "新北市泰山區貴和村新北大道7段2號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 車容坊股份有限公司五洲加油站。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2382,
+        "name": "湳興公有市場-女廁",
+        "coords": [
+            25.007044,
+            121.455312
+        ],
+        "address": "新北市板橋區新興里中興路63號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2384,
+        "name": "中油泰山加油站-女廁",
+        "coords": [
+            25.064357,
+            121.426766
+        ],
+        "address": "新北市泰山區山腳村泰林路2段424號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2385,
+        "name": "顯應祖師泰山巖-男廁",
+        "coords": [
+            25.06068,
+            121.432043
+        ],
+        "address": "新北市泰山區山腳村明志路1段254號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 顯應祖師泰山巖。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2386,
+        "name": "泰山區綜合運動場-男廁",
+        "coords": [
+            25.054983,
+            121.428349
+        ],
+        "address": "新北市泰山區同榮村公園路52號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府體育局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2387,
+        "name": "泰山區公有市場1F東側-男廁",
+        "coords": [
+            25.056313,
+            121.433644
+        ],
+        "address": "新北市泰山區全興村全興路212號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2388,
+        "name": "泰山區公有市場1F南側-男廁",
+        "coords": [
+            25.056075,
+            121.433783
+        ],
+        "address": "新北市泰山區全興村全興路212號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2394,
@@ -11305,6 +13471,25 @@
         "description": "管理單位: 新北市政府市場處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2432,
+        "name": "泰山區公有市場1F-無障礙廁所",
+        "coords": [
+            25.056075,
+            121.433783
+        ],
+        "address": "新北市泰山區全興村全興路212號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府市場處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2453,
         "name": "永豐閱覽室2F-男廁",
         "coords": [
@@ -11531,6 +13716,177 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新北市坪林區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2675,
+        "name": "新北市坪林茶業博物館1F-男廁",
+        "coords": [
+            24.93431157,
+            121.71276569
+        ],
+        "address": "新北市坪林區水德村水聳淒坑19-1號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2676,
+        "name": "三芝公車站-男女廁",
+        "coords": [
+            25.25919412,
+            121.5021687
+        ],
+        "address": "新北市三芝區埔頭村淡金路二段4號對面",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市三芝區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2677,
+        "name": "台灣中油經國南海站-男廁",
+        "coords": [
+            25.261225,
+            121.502774
+        ],
+        "address": "新北市三芝區埔坪村埔坪村北海路2段168號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2678,
+        "name": "石門老梅公地-無障礙廁所",
+        "coords": [
+            25.29123699,
+            121.54575205
+        ],
+        "address": "新北市石門區老梅村公地16-1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市石門區公所。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2679,
+        "name": "菁桐火車站-男廁",
+        "coords": [
+            25.023918,
+            121.723725
+        ],
+        "address": "新北市平溪區菁桐村菁桐街2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 交通部台灣鐵路管理局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2680,
+        "name": "平溪活動中心2F-男廁",
+        "coords": [
+            25.024719,
+            121.737007
+        ],
+        "address": "新北市平溪區石底村公園街17號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市平溪區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2694,
+        "name": "中油林口加油站-男廁",
+        "coords": [
+            25.077864,
+            121.396947
+        ],
+        "address": "新北市林口區林口村中山路1號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2695,
+        "name": "石碇湳窟1F-男廁",
+        "coords": [
+            24.991071,
+            121.661158
+        ],
+        "address": "新北市石碇區潭邊村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市石碇區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2696,
+        "name": "石碇皇帝殿1F-男廁",
+        "coords": [
+            24.99092,
+            121.660898
+        ],
+        "address": "新北市石碇區潭邊村無",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新北市石碇區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2703,

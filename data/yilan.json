@@ -76,7 +76,102 @@
         "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1653,
+        "id": 1910,
+        "name": "武荖坑-環保館-男廁",
+        "coords": [
+            24.60384102,
+            121.81346571
+        ],
+        "address": "宜蘭縣蘇澳鎮新城里新城南路43-30號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1911,
+        "name": "礁溪轉運站旅遊服務中心1F北側-無障礙廁所",
+        "coords": [
+            24.83074961,
+            121.77642578
+        ],
+        "address": "宜蘭縣礁溪鄉玉石村公園路16-1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府工商旅遊處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1912,
+        "name": "龍潭湖風景區-男廁",
+        "coords": [
+            24.79282093,
+            121.74037797
+        ],
+        "address": "宜蘭縣礁溪鄉龍潭村環湖路1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府工商旅遊處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1913,
+        "name": "台亞宜蘭冬山加油站-性別友善廁所",
+        "coords": [
+            24.633719,
+            121.789804
+        ],
+        "address": "宜蘭縣冬山鄉安平村冬山路一段1071號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 台亞宜蘭冬山加油站。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1914,
+        "name": "三星加油站-男廁",
+        "coords": [
+            24.66719942,
+            121.65772998
+        ],
+        "address": "宜蘭縣三星鄉集慶村三星路四段235號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1961,
         "name": "羅東加油站-男廁",
         "coords": [
             24.697491,
@@ -95,7 +190,7 @@
         "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1654,
+        "id": 1962,
         "name": "五結加油站-男廁",
         "coords": [
             24.68228215,
@@ -114,223 +209,33 @@
         "description": "管理單位: 五結加油站。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1665,
-        "name": "礁溪轉運站旅遊服務中心1F南側-男廁",
+        "id": 1973,
+        "name": "湯圍溝公園-無障礙廁所",
         "coords": [
-            24.83060307,
-            121.77659744
+            24.82750785,
+            121.7710796
         ],
-        "address": "宜蘭縣礁溪鄉玉石村公園路16號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 宜蘭縣政府工商旅遊處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1666,
-        "name": "東澳加油站-男廁",
-        "coords": [
-            24.5203387,
-            121.83331812
-        ],
-        "address": "宜蘭縣蘇澳鎮東澳里蘇花路三段210號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 東澳加油站。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1667,
-        "name": "大同加油站-男廁",
-        "coords": [
-            24.67149849,
-            121.60433069
-        ],
-        "address": "宜蘭縣大同鄉崙埤村泰雅路1段92號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1668,
-        "name": "新水加油站-男廁",
-        "coords": [
-            24.68067971,
-            121.82724908
-        ],
-        "address": "宜蘭縣五結鄉季新村五濱路二段206號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1669,
-        "name": "羅東火車站-女廁",
-        "coords": [
-            24.6779564,
-            121.77443612
-        ],
-        "address": "宜蘭縣羅東鎮大新里公正路2號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1686,
-        "name": "仁山植物園八角亭-男廁",
-        "coords": [
-            24.621495,
-            121.754818
-        ],
-        "address": "宜蘭縣冬山鄉中山村新寮路482號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 宜蘭縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1687,
-        "name": "蘇澳加油站-男廁",
-        "coords": [
-            24.59633797,
-            121.84696868
-        ],
-        "address": "宜蘭縣蘇澳鎮蘇西里中山路一段196號",
-        "type": "商業營業場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1688,
-        "name": "礁溪火車站-男廁",
-        "coords": [
-            24.82694444,
-            121.7754167
-        ],
-        "address": "宜蘭縣礁溪鄉德陽村溫泉路1號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1771,
-        "name": "南方澳南天宮-男廁",
-        "coords": [
-            24.58186058,
-            121.86492205
-        ],
-        "address": "宜蘭縣蘇澳鎮南正里江夏路17號",
-        "type": "宗教禮儀場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 南方澳南天宮管理委員會。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1778,
-        "name": "南澳鄉立圖書館-男廁",
-        "coords": [
-            24.46622904,
-            121.80386049
-        ],
-        "address": "宜蘭縣南澳鄉南澳村蘇花路二段381號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 南澳鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1826,
-        "name": "礁溪鄉公所2F-男廁(含無障礙)",
-        "coords": [
-            24.82364774,
-            121.77124321
-        ],
-        "address": "宜蘭縣礁溪鄉六結村中山路2段3號",
-        "type": "民眾洽公場所",
+        "address": "宜蘭縣礁溪鄉德陽村仁愛路一五巷六號",
+        "type": "公園",
         "rating": 4.8,
         "features": {
             "accessible": true,
-            "baby": false,
+            "baby": true,
             "free": true
         },
         "status": "open",
         "openingHours": "24 小時營業",
-        "description": "管理單位: 宜蘭縣礁溪鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+        "description": "管理單位: 宜蘭縣政府工商旅遊處。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1827,
-        "name": "三清宮停車場-男廁",
+        "id": 1974,
+        "name": "香格里拉休閒農場-男廁",
         "coords": [
-            24.64069125,
-            121.72965422
+            24.63219419,
+            121.72888041
         ],
-        "address": "宜蘭縣冬山鄉得安村三清路123號",
-        "type": "宗教禮儀場所",
+        "address": "宜蘭縣冬山鄉大進村大進路1-1號",
+        "type": "商業營業場所",
         "rating": 4.8,
         "features": {
             "accessible": false,
@@ -339,17 +244,36 @@
         },
         "status": "open",
         "openingHours": "24 小時營業",
-        "description": "管理單位: 道教總廟三清宮。公廁類別: 男廁所。公廁評級: 特優級。"
+        "description": "管理單位: 財政部國有財產署。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1880,
-        "name": "民生市場2F-男廁",
+        "id": 1975,
+        "name": "頭城加油站-女廁",
         "coords": [
-            24.67712913,
-            121.77084893
+            24.86433785,
+            121.82846842
         ],
-        "address": "宜蘭縣羅東鎮集祥里民生路6號",
+        "address": "宜蘭縣頭城鎮武營里開蘭路300號",
         "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1976,
+        "name": "羅東運動公園籃球場(P2)-男廁",
+        "coords": [
+            24.68216812,
+            121.75149947
+        ],
+        "address": "宜蘭縣羅東鎮北成里公正路666號",
+        "type": "公園",
         "rating": 4.8,
         "features": {
             "accessible": false,
@@ -358,17 +282,17 @@
         },
         "status": "busy",
         "openingHours": "24 小時營業",
-        "description": "管理單位: 羅東鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+        "description": "管理單位: 宜蘭縣立體育場。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1902,
-        "name": "民生市場2F-女廁",
+        "id": 1977,
+        "name": "蘇澳運動公園-性別友善廁所",
         "coords": [
-            24.67711451,
-            121.77081674
+            24.59919259,
+            121.83573022
         ],
-        "address": "宜蘭縣羅東鎮集祥里民生路6號",
-        "type": "商業營業場所",
+        "address": "宜蘭縣蘇澳鎮聖愛里聖愛路56號",
+        "type": "公園",
         "rating": 4.8,
         "features": {
             "accessible": false,
@@ -377,7 +301,26 @@
         },
         "status": "open",
         "openingHours": "24 小時營業",
-        "description": "管理單位: 羅東鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
+        "description": "管理單位: 蘇澳鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1978,
+        "name": "太平山國家森林遊樂區-男廁",
+        "coords": [
+            24.49219146,
+            121.5363839
+        ],
+        "address": "宜蘭縣大同鄉太平村太平山莊1號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 農業部林業及自然保育署宜蘭分署。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 1999,
@@ -397,6 +340,158 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2000,
+        "name": "礁溪轉運站旅遊服務中心1F南側-男廁",
+        "coords": [
+            24.83060307,
+            121.77659744
+        ],
+        "address": "宜蘭縣礁溪鄉玉石村公園路16號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府工商旅遊處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2001,
+        "name": "東澳加油站-男廁",
+        "coords": [
+            24.5203387,
+            121.83331812
+        ],
+        "address": "宜蘭縣蘇澳鎮東澳里蘇花路三段210號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東澳加油站。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2002,
+        "name": "大同加油站-男廁",
+        "coords": [
+            24.67149849,
+            121.60433069
+        ],
+        "address": "宜蘭縣大同鄉崙埤村泰雅路1段92號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2003,
+        "name": "新水加油站-男廁",
+        "coords": [
+            24.68067971,
+            121.82724908
+        ],
+        "address": "宜蘭縣五結鄉季新村五濱路二段206號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2004,
+        "name": "羅東火車站-女廁",
+        "coords": [
+            24.6779564,
+            121.77443612
+        ],
+        "address": "宜蘭縣羅東鎮大新里公正路2號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2021,
+        "name": "仁山植物園八角亭-男廁",
+        "coords": [
+            24.621495,
+            121.754818
+        ],
+        "address": "宜蘭縣冬山鄉中山村新寮路482號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣政府。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2022,
+        "name": "蘇澳加油站-男廁",
+        "coords": [
+            24.59633797,
+            121.84696868
+        ],
+        "address": "宜蘭縣蘇澳鎮蘇西里中山路一段196號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 經濟部台灣中油股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2023,
+        "name": "礁溪火車站-男廁",
+        "coords": [
+            24.82694444,
+            121.7754167
+        ],
+        "address": "宜蘭縣礁溪鄉德陽村溫泉路1號",
+        "type": "交通",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 國營臺灣鐵路股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2031,
@@ -684,6 +779,82 @@
         "description": "管理單位: 協天廟管理委員會。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
+        "id": 2218,
+        "name": "南方澳南天宮-男廁",
+        "coords": [
+            24.58186058,
+            121.86492205
+        ],
+        "address": "宜蘭縣蘇澳鎮南正里江夏路17號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 南方澳南天宮管理委員會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2253,
+        "name": "南澳鄉立圖書館-男廁",
+        "coords": [
+            24.46622904,
+            121.80386049
+        ],
+        "address": "宜蘭縣南澳鄉南澳村蘇花路二段381號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 南澳鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2329,
+        "name": "礁溪鄉公所2F-男廁(含無障礙)",
+        "coords": [
+            24.82364774,
+            121.77124321
+        ],
+        "address": "宜蘭縣礁溪鄉六結村中山路2段3號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 宜蘭縣礁溪鄉公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2330,
+        "name": "三清宮停車場-男廁",
+        "coords": [
+            24.64069125,
+            121.72965422
+        ],
+        "address": "宜蘭縣冬山鄉得安村三清路123號",
+        "type": "宗教禮儀場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 道教總廟三清宮。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
         "id": 2412,
         "name": "礁溪鄉公所1F-女廁(含無障礙)",
         "coords": [
@@ -701,6 +872,44 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 宜蘭縣礁溪鄉公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2438,
+        "name": "民生市場2F-男廁",
+        "coords": [
+            24.67712913,
+            121.77084893
+        ],
+        "address": "宜蘭縣羅東鎮集祥里民生路6號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 羅東鎮公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2488,
+        "name": "民生市場2F-女廁",
+        "coords": [
+            24.67711451,
+            121.77081674
+        ],
+        "address": "宜蘭縣羅東鎮集祥里民生路6號",
+        "type": "商業營業場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 羅東鎮公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
         "id": 7843,
