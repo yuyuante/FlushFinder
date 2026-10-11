@@ -1,25 +1,6 @@
 [
     {
-        "id": 1353,
-        "name": "學甲區衛生所1F男廁",
-        "coords": [
-            23.230229,
-            120.182002
-        ],
-        "address": "臺南市學甲區仁得里建國路３８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1359,
+        "id": 1167,
         "name": "學甲區衛生所1F女廁",
         "coords": [
             23.230229,
@@ -38,7 +19,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1360,
+        "id": 1168,
         "name": "西港區公所2F女廁",
         "coords": [
             23.12311,
@@ -57,7 +38,7 @@
         "description": "管理單位: 西港區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1361,
+        "id": 1169,
         "name": "佳里戶政事務所西港辦公處混合廁",
         "coords": [
             23.122703,
@@ -76,7 +57,7 @@
         "description": "管理單位: 佳里戶政事務所西港辦公處。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1366,
+        "id": 1174,
         "name": "佳里區公所4F女廁",
         "coords": [
             23.165189,
@@ -95,7 +76,7 @@
         "description": "管理單位: 佳里區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1367,
+        "id": 1175,
         "name": "西港區公所2F男廁",
         "coords": [
             23.12311,
@@ -114,7 +95,7 @@
         "description": "管理單位: 西港區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1368,
+        "id": 1176,
         "name": "七股區衛生所女廁",
         "coords": [
             23.140185,
@@ -133,7 +114,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1369,
+        "id": 1177,
         "name": "七股區公所3F女廁",
         "coords": [
             23.140368,
@@ -152,7 +133,7 @@
         "description": "管理單位: 七股區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1372,
+        "id": 1180,
         "name": "奇美博物館展示區3F南側女廁",
         "coords": [
             22.934451,
@@ -171,7 +152,7 @@
         "description": "管理單位: 臺南市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1373,
+        "id": 1181,
         "name": "學甲區公所1F女廁",
         "coords": [
             23.230353,
@@ -190,7 +171,7 @@
         "description": "管理單位: 學甲區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1374,
+        "id": 1182,
         "name": "七股區公所2F男廁",
         "coords": [
             23.140368,
@@ -209,7 +190,7 @@
         "description": "管理單位: 七股區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1375,
+        "id": 1183,
         "name": "七股區公所3F男廁",
         "coords": [
             23.140368,
@@ -228,7 +209,7 @@
         "description": "管理單位: 七股區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1376,
+        "id": 1184,
         "name": "北門區衛生所2F男廁",
         "coords": [
             23.270339,
@@ -247,7 +228,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1377,
+        "id": 1185,
         "name": "新化戶政事務所新化辦公處1F女廁",
         "coords": [
             23.03297,
@@ -266,7 +247,7 @@
         "description": "管理單位: 新化戶政事務所新化辦公處。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1381,
+        "id": 1189,
         "name": "學甲區公所1F男廁",
         "coords": [
             23.230353,
@@ -285,7 +266,7 @@
         "description": "管理單位: 學甲區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1382,
+        "id": 1190,
         "name": "七股區公所1F女廁",
         "coords": [
             23.140368,
@@ -304,7 +285,7 @@
         "description": "管理單位: 七股區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1383,
+        "id": 1191,
         "name": "七股區公所2F女廁",
         "coords": [
             23.140368,
@@ -323,7 +304,7 @@
         "description": "管理單位: 七股區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1384,
+        "id": 1192,
         "name": "北門區衛生所1F無障礙廁",
         "coords": [
             23.270339,
@@ -342,501 +323,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1386,
-        "name": "新化戶政事務所新化辦公處1F男廁",
-        "coords": [
-            23.03297,
-            120.310207
-        ],
-        "address": "臺南市新化區東榮里和平街３１巷１１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新化戶政事務所新化辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1388,
-        "name": "佳里區公所4F男廁",
-        "coords": [
-            23.165189,
-            120.177161
-        ],
-        "address": "臺南市佳里區六安里忠孝路５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 佳里區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1389,
-        "name": "北門區公所1F女廁",
-        "coords": [
-            23.267732,
-            120.125413
-        ],
-        "address": "臺南市北門區北門村舊埕１０８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 北門區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1390,
-        "name": "北門區公所2F男廁",
-        "coords": [
-            23.267732,
-            120.125413
-        ],
-        "address": "臺南市北門區北門村舊埕１０８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 北門區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1391,
-        "name": "善化戶政事務所善化辦公處1F男廁",
-        "coords": [
-            23.127185,
-            120.289038
-        ],
-        "address": "臺南市善化區文昌里光復路２６９號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 善化戶政事務所善化辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1392,
-        "name": "善化流浪動物保護之家1F女廁",
-        "coords": [
-            23.148706,
-            120.331662
-        ],
-        "address": "臺南市善化區昌隆里東勢寮１號之１９",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市動物防疫保護處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1393,
-        "name": "新市區公所1F混合廁",
-        "coords": [
-            23.078997,
-            120.29506
-        ],
-        "address": "臺南市新市區新市村中興街１２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新市區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1394,
-        "name": "新市區公所3F混合廁",
-        "coords": [
-            23.078997,
-            120.29506
-        ],
-        "address": "臺南市新市區新市村中興街１２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新市區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1396,
-        "name": "西港區公所1F男廁",
-        "coords": [
-            23.12311,
-            120.203431
-        ],
-        "address": "臺南市西港區西港村文化路１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 西港區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1397,
-        "name": "西港區衛生所男廁",
-        "coords": [
-            23.123296,
-            120.203287
-        ],
-        "address": "臺南市西港區西港村中山路３６８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1398,
-        "name": "新化區衛生所1F男廁",
-        "coords": [
-            23.034446,
-            120.304896
-        ],
-        "address": "臺南市新化區豐榮里健康路１４３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1399,
-        "name": "新化區衛生所1F女廁",
-        "coords": [
-            23.034446,
-            120.304896
-        ],
-        "address": "臺南市新化區豐榮里健康路１４３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1400,
-        "name": "善化流浪動物保護之家1F男廁",
-        "coords": [
-            23.148706,
-            120.331662
-        ],
-        "address": "臺南市善化區昌隆里東勢寮１號之１９",
-        "type": "民眾洽公場所",
-        "rating": 4.5,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市動物防疫保護處。公廁類別: 男廁所。公廁評級: 優等級。"
-    },
-    {
-        "id": 1401,
-        "name": "新市區衛生所2F混合廁",
-        "coords": [
-            23.078944,
-            120.294998
-        ],
-        "address": "臺南市新市區新市村中興街１２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1402,
-        "name": "山上區衛生所女廁",
-        "coords": [
-            23.098591,
-            120.358077
-        ],
-        "address": "臺南市山上區山上村山上３５之２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1403,
-        "name": "七股區衛生所男廁",
-        "coords": [
-            23.140185,
-            120.138649
-        ],
-        "address": "臺南市七股區大埕村大埕379號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1404,
-        "name": "新化區公所1F男廁",
-        "coords": [
-            23.038497,
-            120.31085
-        ],
-        "address": "臺南市新化區護國里中山路１３０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新化區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1405,
-        "name": "新化區公所2F男廁",
-        "coords": [
-            23.038497,
-            120.31085
-        ],
-        "address": "臺南市新化區護國里中山路１３０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新化區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1406,
-        "name": "善化區公所1F女廁",
-        "coords": [
-            23.132382,
-            120.296754
-        ],
-        "address": "臺南市善化區光文里建國路１９０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 善化區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1407,
-        "name": "善化區公所2F女廁",
-        "coords": [
-            23.132382,
-            120.296754
-        ],
-        "address": "臺南市善化區光文里建國路１９０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 善化區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1408,
-        "name": "山上區公所1F女廁",
-        "coords": [
-            23.103411,
-            120.352701
-        ],
-        "address": "臺南市山上區南洲村南洲３２５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 山上區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1409,
-        "name": "山上區公所2F女廁",
-        "coords": [
-            23.103411,
-            120.352701
-        ],
-        "address": "臺南市山上區南洲村南洲３２５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 山上區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1410,
-        "name": "玉井戶政事務所玉井辦公處混合廁",
-        "coords": [
-            23.119393,
-            120.459047
-        ],
-        "address": "臺南市玉井區玉田村中山路２之１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府警察局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1412,
-        "name": "西港區公所1F女廁",
-        "coords": [
-            23.12311,
-            120.203431
-        ],
-        "address": "臺南市西港區西港村文化路１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 西港區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1413,
-        "name": "西港區衛生所無障礙廁",
-        "coords": [
-            23.123296,
-            120.203287
-        ],
-        "address": "臺南市西港區西港村中山路３６８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1414,
-        "name": "永康戶政事務所新市辦公處混合廁",
-        "coords": [
-            23.07866,
-            120.295329
-        ],
-        "address": "臺南市新市區新市村光華街２４２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 永康戶政事務所新市辦公處。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1415,
+        "id": 1194,
         "name": "新市區衛生所1F混合廁",
         "coords": [
             23.078944,
@@ -855,7 +342,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1416,
+        "id": 1195,
         "name": "山上區公所3F男廁",
         "coords": [
             23.103411,
@@ -869,12 +356,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 山上區公所。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1417,
+        "id": 1196,
         "name": "山上區公所3F女廁",
         "coords": [
             23.103411,
@@ -893,7 +380,7 @@
         "description": "管理單位: 山上區公所。公廁類別: 女廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1418,
+        "id": 1197,
         "name": "楠西區公所1F男廁",
         "coords": [
             23.17415,
@@ -912,7 +399,7 @@
         "description": "管理單位: 楠西區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1419,
+        "id": 1198,
         "name": "學甲戶政事務所北門辦公處男廁",
         "coords": [
             23.26554,
@@ -931,7 +418,7 @@
         "description": "管理單位: 學甲戶政事務所北門辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1420,
+        "id": 1199,
         "name": "新化區公所1F女廁",
         "coords": [
             23.038497,
@@ -950,7 +437,7 @@
         "description": "管理單位: 新化區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1421,
+        "id": 1200,
         "name": "善化區公所1F男廁",
         "coords": [
             23.132382,
@@ -964,12 +451,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 善化區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1422,
+        "id": 1201,
         "name": "善化區公所3F男廁",
         "coords": [
             23.132382,
@@ -988,7 +475,7 @@
         "description": "管理單位: 善化區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1423,
+        "id": 1202,
         "name": "善化戶政事務所善化辦公處1F女廁",
         "coords": [
             23.127185,
@@ -1007,7 +494,7 @@
         "description": "管理單位: 善化戶政事務所善化辦公處。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1424,
+        "id": 1203,
         "name": "新市區公所2F混合廁",
         "coords": [
             23.078997,
@@ -1021,12 +508,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新市區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1425,
+        "id": 1204,
         "name": "山上區衛生所男廁",
         "coords": [
             23.098591,
@@ -1045,7 +532,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1426,
+        "id": 1205,
         "name": "玉井戶政事務所左鎮辦公處混合廁",
         "coords": [
             23.05546,
@@ -1064,7 +551,7 @@
         "description": "管理單位: 玉井戶政事務所左鎮辦公處。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1427,
+        "id": 1206,
         "name": "善化區衛生所1F男廁",
         "coords": [
             23.132796,
@@ -1083,7 +570,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1428,
+        "id": 1207,
         "name": "善化區衛生所2F混合廁",
         "coords": [
             23.132796,
@@ -1102,7 +589,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1429,
+        "id": 1208,
         "name": "安定區公所1F男廁",
         "coords": [
             23.12162,
@@ -1116,12 +603,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 安定區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1430,
+        "id": 1209,
         "name": "安定區衛生所無障礙廁",
         "coords": [
             23.121552,
@@ -1140,7 +627,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1431,
+        "id": 1210,
         "name": "山上區公所1F男廁",
         "coords": [
             23.103411,
@@ -1159,7 +646,7 @@
         "description": "管理單位: 山上區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1432,
+        "id": 1211,
         "name": "玉井區衛生所混合廁",
         "coords": [
             23.122236,
@@ -1173,12 +660,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1433,
+        "id": 1212,
         "name": "左鎮區公所1F男廁",
         "coords": [
             23.056776,
@@ -1197,7 +684,7 @@
         "description": "管理單位: 左鎮區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1434,
+        "id": 1213,
         "name": "左鎮區衛生所無障礙廁",
         "coords": [
             23.056698,
@@ -1216,7 +703,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1435,
+        "id": 1214,
         "name": "七股區公所1F男廁",
         "coords": [
             23.140368,
@@ -1235,7 +722,7 @@
         "description": "管理單位: 七股區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1436,
+        "id": 1215,
         "name": "北門區公所1F男廁",
         "coords": [
             23.267732,
@@ -1254,7 +741,7 @@
         "description": "管理單位: 北門區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1437,
+        "id": 1216,
         "name": "新化區公所2F女廁",
         "coords": [
             23.038497,
@@ -1268,12 +755,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 新化區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1438,
+        "id": 1217,
         "name": "善化區公所2F男廁",
         "coords": [
             23.132382,
@@ -1292,7 +779,7 @@
         "description": "管理單位: 善化區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1439,
+        "id": 1218,
         "name": "安定區公所1F女廁",
         "coords": [
             23.12162,
@@ -1311,7 +798,7 @@
         "description": "管理單位: 安定區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1440,
+        "id": 1219,
         "name": "山上區公所2F男廁",
         "coords": [
             23.103411,
@@ -1325,12 +812,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 山上區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1441,
+        "id": 1220,
         "name": "南化區公所1F男廁",
         "coords": [
             23.042406,
@@ -1349,7 +836,7 @@
         "description": "管理單位: 南化區公所。公廁類別: 男廁所。公廁評級: 優等級。"
     },
     {
-        "id": 1442,
+        "id": 1221,
         "name": "仁德戶政事務所仁德辦公處1F女廁",
         "coords": [
             22.972277,
@@ -1368,7 +855,7 @@
         "description": "管理單位: 仁德戶政事務所仁德辦公處。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1443,
+        "id": 1222,
         "name": "善化區公所3F女廁",
         "coords": [
             23.132382,
@@ -1387,7 +874,7 @@
         "description": "管理單位: 善化區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1444,
+        "id": 1223,
         "name": "善化區衛生所1F女廁",
         "coords": [
             23.132796,
@@ -1406,520 +893,7 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1445,
-        "name": "安定區衛生所性別友善廁",
-        "coords": [
-            23.12165,
-            120.237317
-        ],
-        "address": "臺南市安定區安定村安定59之1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1446,
-        "name": "玉井戶政事務所楠西辦公處男廁",
-        "coords": [
-            23.174021,
-            120.48647
-        ],
-        "address": "臺南市楠西區楠西村中正路２３２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 玉井戶政事務所楠西辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1447,
-        "name": "左鎮區衛生所性別友善廁",
-        "coords": [
-            23.056698,
-            120.408982
-        ],
-        "address": "臺南市左鎮區中正村中正１７２號之１５",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1448,
-        "name": "仁德戶政事務所仁德辦公處1F男廁",
-        "coords": [
-            22.972277,
-            120.251222
-        ],
-        "address": "臺南市仁德區仁德村中山路606巷3號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁德戶政事務所仁德辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1449,
-        "name": "歸仁區公所1F女廁",
-        "coords": [
-            22.967248,
-            120.293937
-        ],
-        "address": "臺南市歸仁區後市村中山路二段2號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 歸仁區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1450,
-        "name": "歸仁文化中心行政大樓3F親子廁",
-        "coords": [
-            22.964103,
-            120.298059
-        ],
-        "address": "臺南市歸仁區看西村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 親子廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1451,
-        "name": "楠西區公所1F女廁",
-        "coords": [
-            23.17415,
-            120.486321
-        ],
-        "address": "臺南市楠西區楠西村中正路２３０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 楠西區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1452,
-        "name": "南化區衛生所混合廁",
-        "coords": [
-            23.044531,
-            120.479306
-        ],
-        "address": "臺南市南化區南化村南化２２６之１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1453,
-        "name": "仁德區公所1F男廁",
-        "coords": [
-            22.972434,
-            120.251681
-        ],
-        "address": "臺南市仁德區仁德村中正路三段5號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁德區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1454,
-        "name": "仁德區公所1F女廁",
-        "coords": [
-            22.972434,
-            120.251681
-        ],
-        "address": "臺南市仁德區仁德村中正路三段5號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁德區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1455,
-        "name": "歸仁文化中心行政大樓2F男廁",
-        "coords": [
-            22.964103,
-            120.298059
-        ],
-        "address": "臺南市歸仁區許厝村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1456,
-        "name": "歸仁文化中心行政大樓2F女廁",
-        "coords": [
-            22.964103,
-            120.298059
-        ],
-        "address": "臺南市歸仁區許厝村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1457,
-        "name": "龍崎區公所2F女廁",
-        "coords": [
-            22.96321,
-            120.365009
-        ],
-        "address": "臺南市龍崎區崎頂村新市子１０３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 龍崎區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1458,
-        "name": "永康區公所1F性別友善廁",
-        "coords": [
-            23.026362,
-            120.256974
-        ],
-        "address": "臺南市永康區永康里中山南路６５５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 永康區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1459,
-        "name": "楠西區公所2F男廁",
-        "coords": [
-            23.17415,
-            120.486321
-        ],
-        "address": "臺南市楠西區楠西村中正路２３０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 楠西區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1460,
-        "name": "楠西區公所2F女廁",
-        "coords": [
-            23.17415,
-            120.486321
-        ],
-        "address": "臺南市楠西區楠西村中正路２３０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 楠西區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1461,
-        "name": "仁德區公所2F左側男廁",
-        "coords": [
-            22.972434,
-            120.251681
-        ],
-        "address": "臺南市仁德區仁德村中正路三段5號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁德區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1462,
-        "name": "歸仁文化中心行政大樓1F男廁",
-        "coords": [
-            22.964103,
-            120.298059
-        ],
-        "address": "臺南市歸仁區許厝村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1463,
-        "name": "歸仁文化中心行政大樓1F女廁",
-        "coords": [
-            22.964103,
-            120.298059
-        ],
-        "address": "臺南市歸仁區許厝村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1464,
-        "name": "龍崎區衛生所1F混合廁",
-        "coords": [
-            22.965225,
-            120.361931
-        ],
-        "address": "臺南市龍崎區崎頂村新市子１５８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1465,
-        "name": "龍崎區衛生所1F無障礙廁",
-        "coords": [
-            22.965225,
-            120.361931
-        ],
-        "address": "臺南市龍崎區崎頂村新市子１５８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1467,
-        "name": "南化區衛生所無障礙廁",
-        "coords": [
-            23.044531,
-            120.479306
-        ],
-        "address": "臺南市南化區南化村南化２２６之１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1468,
-        "name": "歸仁區公所2F男廁",
-        "coords": [
-            22.967248,
-            120.293937
-        ],
-        "address": "臺南市歸仁區後市村中山路二段2號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 歸仁區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1469,
-        "name": "歸仁區公所調解委員會混合廁",
-        "coords": [
-            22.967302,
-            120.294284
-        ],
-        "address": "臺南市歸仁區後市村中山路二段2號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 歸仁區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1470,
-        "name": "歸仁文化中心行政大樓3F女廁",
-        "coords": [
-            22.964103,
-            120.298059
-        ],
-        "address": "臺南市歸仁區許厝村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1471,
-        "name": "歸仁文化中心行政大樓B1女廁",
-        "coords": [
-            22.964103,
-            120.298059
-        ],
-        "address": "臺南市歸仁區許厝村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1472,
-        "name": "永康地政事務所男廁",
-        "coords": [
-            23.016322,
-            120.260809
-        ],
-        "address": "臺南市永康區永康里文化路５５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府地政局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1482,
+        "id": 1232,
         "name": "仁德區衛生所1F女廁",
         "coords": [
             22.972713,
@@ -1933,12 +907,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1483,
+        "id": 1233,
         "name": "仁德區公所3F左側男廁",
         "coords": [
             22.972434,
@@ -1957,7 +931,7 @@
         "description": "管理單位: 仁德區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1484,
+        "id": 1234,
         "name": "歸仁分局無障礙廁",
         "coords": [
             22.94696,
@@ -1976,7 +950,7 @@
         "description": "管理單位: 臺南市政府警察局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1485,
+        "id": 1235,
         "name": "歸仁文化中心行政大樓B1男廁",
         "coords": [
             22.964103,
@@ -1995,7 +969,7 @@
         "description": "管理單位: 臺南市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1486,
+        "id": 1236,
         "name": "關廟區公所1F男廁",
         "coords": [
             22.962977,
@@ -2014,7 +988,7 @@
         "description": "管理單位: 關廟區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1487,
+        "id": 1237,
         "name": "永康區公所3F男廁",
         "coords": [
             23.026362,
@@ -2033,7 +1007,7 @@
         "description": "管理單位: 永康區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1490,
+        "id": 1240,
         "name": "歸仁戶政事務所歸仁辦公處男廁",
         "coords": [
             22.947604,
@@ -2047,12 +1021,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 歸仁戶政事務所歸仁辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1491,
+        "id": 1241,
         "name": "歸仁區公所2F女廁",
         "coords": [
             22.967248,
@@ -2071,7 +1045,7 @@
         "description": "管理單位: 歸仁區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1492,
+        "id": 1242,
         "name": "龍崎區公所1F女廁",
         "coords": [
             22.96321,
@@ -2090,7 +1064,7 @@
         "description": "管理單位: 龍崎區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1493,
+        "id": 1243,
         "name": "永康戶政事務所永康辦公處男廁",
         "coords": [
             23.020987,
@@ -2109,178 +1083,7 @@
         "description": "管理單位: 永康戶政事務所永康辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1504,
-        "name": "仁德區衛生所1F性別友善廁",
-        "coords": [
-            22.972713,
-            120.251475
-        ],
-        "address": "臺南市仁德區仁德村中山路606巷2號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1505,
-        "name": "仁德區公所2F左側女廁",
-        "coords": [
-            22.972434,
-            120.251681
-        ],
-        "address": "臺南市仁德區仁德村中正路三段5號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁德區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1506,
-        "name": "仁德區公所3F左側女廁",
-        "coords": [
-            22.972434,
-            120.251681
-        ],
-        "address": "臺南市仁德區仁德村中正路三段5號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 仁德區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1507,
-        "name": "關廟區衛生所1F混合廁",
-        "coords": [
-            22.963003,
-            120.327288
-        ],
-        "address": "臺南市關廟區山西村中正路１０００號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1508,
-        "name": "龍崎區公所1F男廁",
-        "coords": [
-            22.96321,
-            120.365009
-        ],
-        "address": "臺南市龍崎區崎頂村新市子１０３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 龍崎區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1509,
-        "name": "龍崎區公所2F男廁",
-        "coords": [
-            22.96321,
-            120.365009
-        ],
-        "address": "臺南市龍崎區崎頂村新市子１０３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 龍崎區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1510,
-        "name": "永康區公所2F女廁",
-        "coords": [
-            23.026362,
-            120.256974
-        ],
-        "address": "臺南市永康區永康里中山南路６５５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 永康區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1512,
-        "name": "歸仁戶政事務所關廟辦公處混合廁",
-        "coords": [
-            22.960975,
-            120.325968
-        ],
-        "address": "臺南市關廟區關廟村文衡路１９號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 歸仁戶政事務所。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1513,
-        "name": "永康區衛生所1F男廁",
-        "coords": [
-            23.016461,
-            120.261116
-        ],
-        "address": "臺南市永康區永康里文化路５１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1536,
+        "id": 1257,
         "name": "歸仁區公所1F男廁",
         "coords": [
             22.967248,
@@ -2294,12 +1097,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 歸仁區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1537,
+        "id": 1258,
         "name": "永康區衛生所1F女廁",
         "coords": [
             23.016461,
@@ -2318,7 +1121,1907 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1975,
+        "id": 1562,
+        "name": "柳營區圖書館西邊1F女廁",
+        "coords": [
+            23.278558,
+            120.311387
+        ],
+        "address": "臺南市柳營區士林村柳營路二段59號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 柳營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1563,
+        "name": "學甲區圖書館2F女廁",
+        "coords": [
+            23.230217,
+            120.18197
+        ],
+        "address": "臺南市學甲區仁得里建國路３８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 學甲區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1570,
+        "name": "新營市立文化中心1F男廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1571,
+        "name": "新營市立文化中心3F女廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1572,
+        "name": "歸仁文化中心演藝廳1F男廁",
+        "coords": [
+            22.96385,
+            120.298433
+        ],
+        "address": "臺南市歸仁區許厝村信義南路78號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1573,
+        "name": "新營市立文化中心2F男廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1575,
+        "name": "新營區圖書館2F男廁",
+        "coords": [
+            23.295207,
+            120.273832
+        ],
+        "address": "臺南市新營區太北里太子宮４５之８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1576,
+        "name": "鹽水區圖書館1F女廁",
+        "coords": [
+            23.316336,
+            120.26638
+        ],
+        "address": "臺南市鹽水區橋南里月津路１４之１號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 鹽水區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1577,
+        "name": "下營區圖書館1F親子廁",
+        "coords": [
+            23.235292,
+            120.264443
+        ],
+        "address": "臺南市下營區下營村文化街117號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 下營區公所。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1578,
+        "name": "六甲區圖書館4F女廁",
+        "coords": [
+            23.231852,
+            120.347466
+        ],
+        "address": "臺南市六甲區水林村中山路２０２號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 六甲區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1579,
+        "name": "西港區圖書館1F男廁",
+        "coords": [
+            23.1234,
+            120.203404
+        ],
+        "address": "臺南市西港區西港村中山路３７０號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西港區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1580,
+        "name": "七股區圖書館1F女廁",
+        "coords": [
+            23.140285,
+            120.138984
+        ],
+        "address": "臺南市七股區大埕村大埕377號之1",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 七股區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1584,
+        "name": "臺南市政府社會福利服務中心2F男廁",
+        "coords": [
+            23.312575,
+            120.314066
+        ],
+        "address": "臺南市新營區新北里府西路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府社會局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1585,
+        "name": "嘉南高爾夫球場2F女廁",
+        "coords": [
+            23.168316,
+            120.370734
+        ],
+        "address": "臺南市官田區社子村六雙２１號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉南開發事業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1586,
+        "name": "佳里區圖書館2F男廁",
+        "coords": [
+            23.168757,
+            120.177347
+        ],
+        "address": "臺南市佳里區六安里安北路１１８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 佳里區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1587,
+        "name": "學甲區圖書館4F男廁",
+        "coords": [
+            23.230217,
+            120.18197
+        ],
+        "address": "臺南市學甲區仁得里建國路３８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 學甲區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1588,
+        "name": "西港區圖書館1F女廁",
+        "coords": [
+            23.1234,
+            120.203404
+        ],
+        "address": "臺南市西港區西港村中山路３７０號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 西港區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1592,
+        "name": "官田區圖書館1F男廁",
+        "coords": [
+            23.192703,
+            120.314112
+        ],
+        "address": "臺南市官田區隆田村中山路一段１２９號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 官田區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1593,
+        "name": "永康區圖書館2F男廁",
+        "coords": [
+            23.01888,
+            120.2597
+        ],
+        "address": "臺南市永康區永康里永大二路８８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 永康區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1594,
+        "name": "新營市立文化中心1F女廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1595,
+        "name": "歸仁文化中心演藝廳1F女廁",
+        "coords": [
+            22.96385,
+            120.298433
+        ],
+        "address": "臺南市歸仁區許厝村信義南路78號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1596,
+        "name": "新營戶政事務所新營辦公處1F女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區民權里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新營戶政事務所新營辦公處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1597,
+        "name": "新營區公所南側1F男廁",
+        "coords": [
+            23.310277,
+            120.316641
+        ],
+        "address": "臺南市新營區大宏里中正路３０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1599,
+        "name": "歸仁區圖書館1F混合廁",
+        "coords": [
+            22.971937,
+            120.297563
+        ],
+        "address": "臺南市歸仁區歸仁村大德路127號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 歸仁區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1600,
+        "name": "關廟區圖書館1F性別友善廁",
+        "coords": [
+            22.960066,
+            120.324243
+        ],
+        "address": "臺南市關廟區關廟村文化街１號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 關廟區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1601,
+        "name": "新營市立文化中心4F女廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1602,
+        "name": "新營市立文化中心4F男廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1603,
+        "name": "臺南市政府財政稅務局新營分局1F男廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府財政稅務局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1604,
+        "name": "臺南市政府財政稅務局新營分局1F女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府財政稅務局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1605,
+        "name": "臺南市政府消防局民治辦公室1F混合廁",
+        "coords": [
+            23.322724,
+            120.309443
+        ],
+        "address": "臺南市新營區護鎮里三興街３８０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府消防局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1608,
+        "name": "臺南市政府社會福利服務中心3F女廁",
+        "coords": [
+            23.312575,
+            120.314066
+        ],
+        "address": "臺南市新營區新北里府西路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府社會局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1609,
+        "name": "東山區圖書館女廁",
+        "coords": [
+            23.326055,
+            120.4042
+        ],
+        "address": "臺南市東山區東山村東山２２５號之４",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 東山區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1610,
+        "name": "嘉南高爾夫球場2F男廁",
+        "coords": [
+            23.168316,
+            120.370734
+        ],
+        "address": "臺南市官田區社子村六雙２１號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 嘉南開發事業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1611,
+        "name": "佳里區圖書館1F女廁",
+        "coords": [
+            23.168833,
+            120.177374
+        ],
+        "address": "臺南市佳里區六安里安北路１１８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 佳里區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1617,
+        "name": "新營市立文化中心音樂廳1F左側男廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1618,
+        "name": "臺南市新營體育場體育館1F北側女廁",
+        "coords": [
+            23.321244,
+            120.30953
+        ],
+        "address": "臺南市新營區護鎮里長榮路二段７８號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1619,
+        "name": "臺南市新營體育場體育館1F南側女廁",
+        "coords": [
+            23.321244,
+            120.30953
+        ],
+        "address": "臺南市新營區護鎮里長榮路二段７８號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1620,
+        "name": "臺南市政府衛生局東興辦公室3F女廁",
+        "coords": [
+            23.315418,
+            120.322855
+        ],
+        "address": "臺南市新營區新東里東興路１６３號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1621,
+        "name": "臺南市政府衛生局東興辦公室4F女廁",
+        "coords": [
+            23.315418,
+            120.322855
+        ],
+        "address": "臺南市新營區新東里東興路１６３號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1622,
+        "name": "白河區公所1F女廁",
+        "coords": [
+            23.351225,
+            120.415846
+        ],
+        "address": "臺南市白河區永安里三民路381號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白河區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1623,
+        "name": "白河區衛生所男廁",
+        "coords": [
+            23.352084,
+            120.415802
+        ],
+        "address": "臺南市白河區永安里國光路５號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1624,
+        "name": "東山區衛生所1F無障礙廁",
+        "coords": [
+            23.326329,
+            120.404723
+        ],
+        "address": "臺南市東山區東山村東山２３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1625,
+        "name": "下營區公所2F女廁",
+        "coords": [
+            23.235551,
+            120.26441
+        ],
+        "address": "臺南市下營區下營村中山路一段170號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 下營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1626,
+        "name": "臺南市新營體育場田徑場外北側男廁",
+        "coords": [
+            23.32077,
+            120.314261
+        ],
+        "address": "臺南市新營區埤寮里長榮路二段７８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府體育局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1627,
+        "name": "臺南市新營體育場田徑場外北側女廁",
+        "coords": [
+            23.320794,
+            120.314139
+        ],
+        "address": "臺南市新營區埤寮里長榮路二段７８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府體育局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1628,
+        "name": "後壁區衛生所男廁",
+        "coords": [
+            23.365579,
+            120.362255
+        ],
+        "address": "臺南市後壁區後壁村後壁３號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1629,
+        "name": "白河戶政事務所東山辦公處混合廁",
+        "coords": [
+            23.325845,
+            120.403538
+        ],
+        "address": "臺南市東山區東山村東山２１９號之１",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市白河戶政事務所東山辦公處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1630,
+        "name": "麻豆區公所2F男廁",
+        "coords": [
+            23.184912,
+            120.258409
+        ],
+        "address": "臺南市麻豆區中興里忠孝路２５０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 麻豆區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1631,
+        "name": "麻豆區公所2F女廁",
+        "coords": [
+            23.184912,
+            120.258409
+        ],
+        "address": "臺南市麻豆區中興里忠孝路２５０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 麻豆區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1634,
+        "name": "新營市立文化中心3F男廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1635,
+        "name": "歸仁文化中心演藝廳1F無障礙廁",
+        "coords": [
+            22.96304229,
+            120.3003788
+        ],
+        "address": "臺南市歸仁區看西村信義南路78號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1636,
+        "name": "佳里公園親子廁",
+        "coords": [
+            23.16846,
+            120.178302
+        ],
+        "address": "臺南市佳里區六安里安北路",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 佳里區公所。公廁類別: 親子廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1637,
+        "name": "新營區公所南側2F女廁",
+        "coords": [
+            23.310277,
+            120.316641
+        ],
+        "address": "臺南市新營區大宏里中正路３０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1638,
+        "name": "臺南市政府衛生局東興辦公室1F女廁",
+        "coords": [
+            23.315418,
+            120.322855
+        ],
+        "address": "臺南市新營區新東里東興路１６３號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1639,
+        "name": "臺南市政府衛生局東興辦公室4F男廁",
+        "coords": [
+            23.315418,
+            120.322855
+        ],
+        "address": "臺南市新營區新東里東興路１６３號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1640,
+        "name": "白河區公所1F男廁",
+        "coords": [
+            23.351225,
+            120.415846
+        ],
+        "address": "臺南市白河區永安里三民路381號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 白河區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1641,
+        "name": "官田區衛生所1F混合廁",
+        "coords": [
+            23.193116,
+            120.316097
+        ],
+        "address": "臺南市官田區隆田村中山路一段１２８號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1642,
+        "name": "動物防疫保護處1F男廁",
+        "coords": [
+            23.319682,
+            120.318992
+        ],
+        "address": "臺南市新營區新北里長榮路一段５０１號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市動物防疫保護處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1643,
+        "name": "新營區公所南側2F男廁",
+        "coords": [
+            23.310277,
+            120.316641
+        ],
+        "address": "臺南市新營區大宏里中正路３０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 新營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1644,
+        "name": "新營區衛生所1F女廁",
+        "coords": [
+            23.307675,
+            120.317361
+        ],
+        "address": "臺南市新營區大宏里三民路７２號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1645,
+        "name": "麻豆區公所1F男廁",
+        "coords": [
+            23.184912,
+            120.258409
+        ],
+        "address": "臺南市麻豆區中興里忠孝路２５０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 麻豆區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1646,
+        "name": "下營區公所1F女廁",
+        "coords": [
+            23.235551,
+            120.26441
+        ],
+        "address": "臺南市下營區下營村中山路一段170號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 下營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1653,
+        "name": "臺南市政府衛生局東興辦公室2F女廁",
+        "coords": [
+            23.315418,
+            120.322855
+        ],
+        "address": "臺南市新營區新東里東興路１６３號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1654,
+        "name": "柳營區調解委員會混合廁",
+        "coords": [
+            23.278258,
+            120.310984
+        ],
+        "address": "臺南市柳營區士林村士賢街２號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 柳營區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1655,
+        "name": "麻豆戶政事務所麻豆辦公處混合廁",
+        "coords": [
+            23.182323,
+            120.247352
+        ],
+        "address": "臺南市麻豆區中興里中華街３５號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 麻豆戶政事務所麻豆辦公處。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1656,
+        "name": "麻豆戶政事務所下營辦公處男廁",
+        "coords": [
+            23.237555,
+            120.266803
+        ],
+        "address": "臺南市下營區下營村人和一街15號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 麻豆戶政事務所下營辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1657,
+        "name": "下營區公所2F男廁",
+        "coords": [
+            23.235551,
+            120.26441
+        ],
+        "address": "臺南市下營區下營村中山路一段170號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 下營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1661,
+        "name": "新營市立文化中心音樂廳1F左側女廁",
+        "coords": [
+            23.308544,
+            120.315891
+        ],
+        "address": "臺南市新營區民權里中正路２３號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1662,
+        "name": "動物防疫保護處1F女廁",
+        "coords": [
+            23.319682,
+            120.318992
+        ],
+        "address": "臺南市新營區新北里長榮路一段５０１號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市動物防疫保護處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1663,
+        "name": "臺南市政府消防局民治辦公室2F混合廁",
+        "coords": [
+            23.322724,
+            120.309443
+        ],
+        "address": "臺南市新營區護鎮里三興街３８０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府消防局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1664,
+        "name": "臺南市政府消防局民治辦公室3F混合廁",
+        "coords": [
+            23.322724,
+            120.309443
+        ],
+        "address": "臺南市新營區護鎮里三興街３８０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府消防局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1665,
+        "name": "臺南市新營體育場環保局後方男廁",
+        "coords": [
+            23.321679,
+            120.3129
+        ],
+        "address": "臺南市新營區護鎮里長榮路二段７８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府體育局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1666,
+        "name": "臺南市新營體育場環保局後方女廁",
+        "coords": [
+            23.321679,
+            120.3129
+        ],
+        "address": "臺南市新營區護鎮里長榮路二段７８號",
+        "type": "文化育樂活動場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府體育局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1667,
+        "name": "後壁區公所1F性別友善廁",
+        "coords": [
+            23.365947,
+            120.36197
+        ],
+        "address": "臺南市後壁區後壁村後壁１２９號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 後壁區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1668,
+        "name": "麻豆區公所3F右邊男廁",
+        "coords": [
+            23.184912,
+            120.258409
+        ],
+        "address": "臺南市麻豆區中興里忠孝路２５０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 麻豆區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1673,
+        "name": "麻豆區公所3F女廁",
+        "coords": [
+            23.184912,
+            120.258409
+        ],
+        "address": "臺南市麻豆區中興里忠孝路２５０號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 麻豆區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1720,
+        "name": "臺南市政府民治市政中心1F東側女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1721,
+        "name": "臺南市政府民治市政中心1F西側女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1730,
+        "name": "臺南市政府民治市政中心3F東側男廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1731,
+        "name": "臺南市政府民治市政中心3F西側女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1732,
+        "name": "臺南市政府南瀛大樓7F女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1742,
+        "name": "臺南市政府民治市政中心3F東側女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1743,
+        "name": "臺南市政府民治市政中心3F西側男廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1744,
+        "name": "臺南市政府世紀大樓2F女廁",
+        "coords": [
+            23.311614,
+            120.314071
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1745,
+        "name": "臺南市政府世紀大樓3F男廁",
+        "coords": [
+            23.311614,
+            120.314071
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1746,
+        "name": "臺南市政府世紀大樓10F男廁",
+        "coords": [
+            23.311614,
+            120.314071
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1753,
+        "name": "臺南市政府南瀛大樓1F女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1754,
+        "name": "臺南市政府南瀛大樓7F男廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1755,
+        "name": "臺南市政府世紀大樓4F女廁",
+        "coords": [
+            23.311614,
+            120.314071
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1756,
+        "name": "臺南市政府世紀大樓8F男廁",
+        "coords": [
+            23.311614,
+            120.314071
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1761,
+        "name": "臺南市政府世紀大樓2F男廁",
+        "coords": [
+            23.311614,
+            120.314071
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1769,
+        "name": "臺南市政府南瀛大樓4F女廁",
+        "coords": [
+            23.311664,
+            120.314686
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1770,
+        "name": "臺南市政府世紀大樓6F男廁",
+        "coords": [
+            23.311614,
+            120.314071
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1771,
+        "name": "臺南市政府世紀大樓7F男廁",
+        "coords": [
+            23.311614,
+            120.314071
+        ],
+        "address": "臺南市新營區忠政里民治路３６號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1930,
+        "name": "官田戶政事務所六甲辦公處混合廁",
+        "coords": [
+            23.232023,
+            120.346838
+        ],
+        "address": "臺南市六甲區水林村中山路２１２號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 臺南市政府警察局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1931,
+        "name": "六甲區公所3F男廁",
+        "coords": [
+            23.231797,
+            120.347468
+        ],
+        "address": "臺南市六甲區水林村中山路２０２號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 六甲區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1942,
+        "name": "佳里區公所1F男廁",
+        "coords": [
+            23.165189,
+            120.177161
+        ],
+        "address": "臺南市佳里區六安里忠孝路５號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 佳里區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1950,
+        "name": "六甲區公所1F男廁",
+        "coords": [
+            23.231797,
+            120.347468
+        ],
+        "address": "臺南市六甲區水林村中山路２０２號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 六甲區公所。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1951,
+        "name": "大內區公所1F男廁",
+        "coords": [
+            23.119133,
+            120.356767
+        ],
+        "address": "臺南市大內區大內村內庄１號",
+        "type": "民眾洽公場所",
+        "rating": 3.2,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 大內區公所。公廁類別: 男廁所。公廁評級: 不合格。"
+    },
+    {
+        "id": 1952,
+        "name": "佳里區公所1F女廁",
+        "coords": [
+            23.165189,
+            120.177161
+        ],
+        "address": "臺南市佳里區六安里忠孝路５號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 佳里區公所。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 2085,
         "name": "鹽水區圖書館1F男廁",
         "coords": [
             23.316336,
@@ -2337,7 +3040,7 @@
         "description": "管理單位: 鹽水區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1976,
+        "id": 2086,
         "name": "東山區圖書館男廁",
         "coords": [
             23.326055,
@@ -2351,12 +3054,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 東山區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1977,
+        "id": 2087,
         "name": "麻豆區圖書館3F男廁",
         "coords": [
             23.182885,
@@ -2375,7 +3078,7 @@
         "description": "管理單位: 麻豆區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1984,
+        "id": 2094,
         "name": "柳營區圖書館東邊1F男廁",
         "coords": [
             23.278558,
@@ -2389,12 +3092,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 柳營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1985,
+        "id": 2095,
         "name": "後壁區圖書館男廁",
         "coords": [
             23.366222,
@@ -2413,7 +3116,7 @@
         "description": "管理單位: 後壁區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1988,
+        "id": 2098,
         "name": "臺南市政府社會福利服務中心2F女廁",
         "coords": [
             23.312575,
@@ -2432,7 +3135,7 @@
         "description": "管理單位: 臺南市政府社會局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1989,
+        "id": 2099,
         "name": "鹽水區圖書館2F男廁",
         "coords": [
             23.316336,
@@ -2451,7 +3154,7 @@
         "description": "管理單位: 鹽水區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1990,
+        "id": 2100,
         "name": "麻豆區圖書館3F女廁",
         "coords": [
             23.182885,
@@ -2470,7 +3173,7 @@
         "description": "管理單位: 麻豆區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1991,
+        "id": 2101,
         "name": "佳里區圖書館1F男廁",
         "coords": [
             23.168833,
@@ -2489,7 +3192,7 @@
         "description": "管理單位: 佳里區公所。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1992,
+        "id": 2102,
         "name": "學甲區圖書館3F女廁",
         "coords": [
             23.230217,
@@ -2503,12 +3206,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 學甲區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1996,
+        "id": 2106,
         "name": "臺南市政府社會福利服務中心3F男廁",
         "coords": [
             23.312575,
@@ -2527,7 +3230,7 @@
         "description": "管理單位: 臺南市政府社會局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1997,
+        "id": 2107,
         "name": "新營區圖書館2F女廁",
         "coords": [
             23.295207,
@@ -2546,7 +3249,7 @@
         "description": "管理單位: 新營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1998,
+        "id": 2108,
         "name": "六甲區圖書館4F男廁",
         "coords": [
             23.231852,
@@ -2582,652 +3285,6 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 七股區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2116,
-        "name": "柳營區圖書館西邊1F女廁",
-        "coords": [
-            23.278558,
-            120.311387
-        ],
-        "address": "臺南市柳營區士林村柳營路二段59號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 柳營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2117,
-        "name": "學甲區圖書館2F女廁",
-        "coords": [
-            23.230217,
-            120.18197
-        ],
-        "address": "臺南市學甲區仁得里建國路３８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 學甲區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2124,
-        "name": "新營市立文化中心1F男廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2125,
-        "name": "新營市立文化中心3F女廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2126,
-        "name": "歸仁文化中心演藝廳1F男廁",
-        "coords": [
-            22.96385,
-            120.298433
-        ],
-        "address": "臺南市歸仁區許厝村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2127,
-        "name": "新營市立文化中心2F男廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2129,
-        "name": "新營區圖書館2F男廁",
-        "coords": [
-            23.295207,
-            120.273832
-        ],
-        "address": "臺南市新營區太北里太子宮４５之８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2130,
-        "name": "鹽水區圖書館1F女廁",
-        "coords": [
-            23.316336,
-            120.26638
-        ],
-        "address": "臺南市鹽水區橋南里月津路１４之１號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 鹽水區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2131,
-        "name": "下營區圖書館1F親子廁",
-        "coords": [
-            23.235292,
-            120.264443
-        ],
-        "address": "臺南市下營區下營村文化街117號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 下營區公所。公廁類別: 親子廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2132,
-        "name": "六甲區圖書館4F女廁",
-        "coords": [
-            23.231852,
-            120.347466
-        ],
-        "address": "臺南市六甲區水林村中山路２０２號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 六甲區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2133,
-        "name": "西港區圖書館1F男廁",
-        "coords": [
-            23.1234,
-            120.203404
-        ],
-        "address": "臺南市西港區西港村中山路３７０號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 西港區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2134,
-        "name": "七股區圖書館1F女廁",
-        "coords": [
-            23.140285,
-            120.138984
-        ],
-        "address": "臺南市七股區大埕村大埕377號之1",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 七股區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2138,
-        "name": "臺南市政府社會福利服務中心2F男廁",
-        "coords": [
-            23.312575,
-            120.314066
-        ],
-        "address": "臺南市新營區新北里府西路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府社會局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2139,
-        "name": "嘉南高爾夫球場2F女廁",
-        "coords": [
-            23.168316,
-            120.370734
-        ],
-        "address": "臺南市官田區社子村六雙２１號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 嘉南開發事業股份有限公司。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2140,
-        "name": "佳里區圖書館2F男廁",
-        "coords": [
-            23.168757,
-            120.177347
-        ],
-        "address": "臺南市佳里區六安里安北路１１８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 佳里區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2141,
-        "name": "學甲區圖書館4F男廁",
-        "coords": [
-            23.230217,
-            120.18197
-        ],
-        "address": "臺南市學甲區仁得里建國路３８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 學甲區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2142,
-        "name": "西港區圖書館1F女廁",
-        "coords": [
-            23.1234,
-            120.203404
-        ],
-        "address": "臺南市西港區西港村中山路３７０號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 西港區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2146,
-        "name": "官田區圖書館1F男廁",
-        "coords": [
-            23.192703,
-            120.314112
-        ],
-        "address": "臺南市官田區隆田村中山路一段１２９號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 官田區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2147,
-        "name": "永康區圖書館2F男廁",
-        "coords": [
-            23.01888,
-            120.2597
-        ],
-        "address": "臺南市永康區永康里永大二路８８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 永康區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2148,
-        "name": "新營市立文化中心1F女廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2149,
-        "name": "歸仁文化中心演藝廳1F女廁",
-        "coords": [
-            22.96385,
-            120.298433
-        ],
-        "address": "臺南市歸仁區許厝村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2150,
-        "name": "新營戶政事務所新營辦公處1F女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區民權里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新營戶政事務所新營辦公處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2151,
-        "name": "新營區公所南側1F男廁",
-        "coords": [
-            23.310277,
-            120.316641
-        ],
-        "address": "臺南市新營區大宏里中正路３０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2153,
-        "name": "歸仁區圖書館1F混合廁",
-        "coords": [
-            22.971937,
-            120.297563
-        ],
-        "address": "臺南市歸仁區歸仁村大德路127號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 歸仁區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2154,
-        "name": "關廟區圖書館1F性別友善廁",
-        "coords": [
-            22.960066,
-            120.324243
-        ],
-        "address": "臺南市關廟區關廟村文化街１號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 關廟區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2155,
-        "name": "新營市立文化中心4F女廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2156,
-        "name": "新營市立文化中心4F男廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2157,
-        "name": "臺南市政府財政稅務局新營分局1F男廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府財政稅務局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2158,
-        "name": "臺南市政府財政稅務局新營分局1F女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府財政稅務局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2159,
-        "name": "臺南市政府消防局民治辦公室1F混合廁",
-        "coords": [
-            23.322724,
-            120.309443
-        ],
-        "address": "臺南市新營區護鎮里三興街３８０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府消防局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2162,
-        "name": "臺南市政府社會福利服務中心3F女廁",
-        "coords": [
-            23.312575,
-            120.314066
-        ],
-        "address": "臺南市新營區新北里府西路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府社會局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2163,
-        "name": "東山區圖書館女廁",
-        "coords": [
-            23.326055,
-            120.4042
-        ],
-        "address": "臺南市東山區東山村東山２２５號之４",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 東山區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2164,
-        "name": "嘉南高爾夫球場2F男廁",
-        "coords": [
-            23.168316,
-            120.370734
-        ],
-        "address": "臺南市官田區社子村六雙２１號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 嘉南開發事業股份有限公司。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2165,
-        "name": "佳里區圖書館1F女廁",
-        "coords": [
-            23.168833,
-            120.177374
-        ],
-        "address": "臺南市佳里區六安里安北路１１８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 佳里區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
         "id": 2171,
@@ -3477,424 +3534,6 @@
         "description": "管理單位: 佳里區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 2199,
-        "name": "新營市立文化中心音樂廳1F左側男廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2200,
-        "name": "臺南市新營體育場體育館1F北側女廁",
-        "coords": [
-            23.321244,
-            120.30953
-        ],
-        "address": "臺南市新營區護鎮里長榮路二段７８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2201,
-        "name": "臺南市新營體育場體育館1F南側女廁",
-        "coords": [
-            23.321244,
-            120.30953
-        ],
-        "address": "臺南市新營區護鎮里長榮路二段７８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2202,
-        "name": "臺南市政府衛生局東興辦公室3F女廁",
-        "coords": [
-            23.315418,
-            120.322855
-        ],
-        "address": "臺南市新營區新東里東興路１６３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2203,
-        "name": "臺南市政府衛生局東興辦公室4F女廁",
-        "coords": [
-            23.315418,
-            120.322855
-        ],
-        "address": "臺南市新營區新東里東興路１６３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2204,
-        "name": "白河區公所1F女廁",
-        "coords": [
-            23.351225,
-            120.415846
-        ],
-        "address": "臺南市白河區永安里三民路381號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 白河區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2205,
-        "name": "白河區衛生所男廁",
-        "coords": [
-            23.352084,
-            120.415802
-        ],
-        "address": "臺南市白河區永安里國光路５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2206,
-        "name": "東山區衛生所1F無障礙廁",
-        "coords": [
-            23.326329,
-            120.404723
-        ],
-        "address": "臺南市東山區東山村東山２３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2207,
-        "name": "下營區公所2F女廁",
-        "coords": [
-            23.235551,
-            120.26441
-        ],
-        "address": "臺南市下營區下營村中山路一段170號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 下營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2208,
-        "name": "臺南市新營體育場田徑場外北側男廁",
-        "coords": [
-            23.32077,
-            120.314261
-        ],
-        "address": "臺南市新營區埤寮里長榮路二段７８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府體育局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2209,
-        "name": "臺南市新營體育場田徑場外北側女廁",
-        "coords": [
-            23.320794,
-            120.314139
-        ],
-        "address": "臺南市新營區埤寮里長榮路二段７８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府體育局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2210,
-        "name": "後壁區衛生所男廁",
-        "coords": [
-            23.365579,
-            120.362255
-        ],
-        "address": "臺南市後壁區後壁村後壁３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2211,
-        "name": "白河戶政事務所東山辦公處混合廁",
-        "coords": [
-            23.325845,
-            120.403538
-        ],
-        "address": "臺南市東山區東山村東山２１９號之１",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市白河戶政事務所東山辦公處。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2212,
-        "name": "麻豆區公所2F男廁",
-        "coords": [
-            23.184912,
-            120.258409
-        ],
-        "address": "臺南市麻豆區中興里忠孝路２５０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 麻豆區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2213,
-        "name": "麻豆區公所2F女廁",
-        "coords": [
-            23.184912,
-            120.258409
-        ],
-        "address": "臺南市麻豆區中興里忠孝路２５０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 麻豆區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2216,
-        "name": "新營市立文化中心3F男廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2217,
-        "name": "歸仁文化中心演藝廳1F無障礙廁",
-        "coords": [
-            22.96304229,
-            120.3003788
-        ],
-        "address": "臺南市歸仁區看西村信義南路78號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2218,
-        "name": "佳里公園親子廁",
-        "coords": [
-            23.16846,
-            120.178302
-        ],
-        "address": "臺南市佳里區六安里安北路",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 佳里區公所。公廁類別: 親子廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2219,
-        "name": "新營區公所南側2F女廁",
-        "coords": [
-            23.310277,
-            120.316641
-        ],
-        "address": "臺南市新營區大宏里中正路３０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2220,
-        "name": "臺南市政府衛生局東興辦公室1F女廁",
-        "coords": [
-            23.315418,
-            120.322855
-        ],
-        "address": "臺南市新營區新東里東興路１６３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2221,
-        "name": "臺南市政府衛生局東興辦公室4F男廁",
-        "coords": [
-            23.315418,
-            120.322855
-        ],
-        "address": "臺南市新營區新東里東興路１６３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2222,
-        "name": "白河區公所1F男廁",
-        "coords": [
-            23.351225,
-            120.415846
-        ],
-        "address": "臺南市白河區永安里三民路381號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 白河區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
         "id": 2223,
         "name": "柳營區公所1F女廁",
         "coords": [
@@ -4123,367 +3762,6 @@
         "description": "管理單位: 官田區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 2252,
-        "name": "官田區衛生所1F混合廁",
-        "coords": [
-            23.193116,
-            120.316097
-        ],
-        "address": "臺南市官田區隆田村中山路一段１２８號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2253,
-        "name": "動物防疫保護處1F男廁",
-        "coords": [
-            23.319682,
-            120.318992
-        ],
-        "address": "臺南市新營區新北里長榮路一段５０１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市動物防疫保護處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2254,
-        "name": "新營區公所南側2F男廁",
-        "coords": [
-            23.310277,
-            120.316641
-        ],
-        "address": "臺南市新營區大宏里中正路３０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 新營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2255,
-        "name": "新營區衛生所1F女廁",
-        "coords": [
-            23.307675,
-            120.317361
-        ],
-        "address": "臺南市新營區大宏里三民路７２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2256,
-        "name": "麻豆區公所1F男廁",
-        "coords": [
-            23.184912,
-            120.258409
-        ],
-        "address": "臺南市麻豆區中興里忠孝路２５０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 麻豆區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2257,
-        "name": "下營區公所1F女廁",
-        "coords": [
-            23.235551,
-            120.26441
-        ],
-        "address": "臺南市下營區下營村中山路一段170號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 下營區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2264,
-        "name": "臺南市政府衛生局東興辦公室2F女廁",
-        "coords": [
-            23.315418,
-            120.322855
-        ],
-        "address": "臺南市新營區新東里東興路１６３號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2265,
-        "name": "柳營區調解委員會混合廁",
-        "coords": [
-            23.278258,
-            120.310984
-        ],
-        "address": "臺南市柳營區士林村士賢街２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 柳營區公所。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2266,
-        "name": "麻豆戶政事務所麻豆辦公處混合廁",
-        "coords": [
-            23.182323,
-            120.247352
-        ],
-        "address": "臺南市麻豆區中興里中華街３５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 麻豆戶政事務所麻豆辦公處。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2267,
-        "name": "麻豆戶政事務所下營辦公處男廁",
-        "coords": [
-            23.237555,
-            120.266803
-        ],
-        "address": "臺南市下營區下營村人和一街15號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 麻豆戶政事務所下營辦公處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2268,
-        "name": "下營區公所2F男廁",
-        "coords": [
-            23.235551,
-            120.26441
-        ],
-        "address": "臺南市下營區下營村中山路一段170號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 下營區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2272,
-        "name": "新營市立文化中心音樂廳1F左側女廁",
-        "coords": [
-            23.308544,
-            120.315891
-        ],
-        "address": "臺南市新營區民權里中正路２３號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府文化局民治文化中心管理科。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2273,
-        "name": "動物防疫保護處1F女廁",
-        "coords": [
-            23.319682,
-            120.318992
-        ],
-        "address": "臺南市新營區新北里長榮路一段５０１號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市動物防疫保護處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2274,
-        "name": "臺南市政府消防局民治辦公室2F混合廁",
-        "coords": [
-            23.322724,
-            120.309443
-        ],
-        "address": "臺南市新營區護鎮里三興街３８０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府消防局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2275,
-        "name": "臺南市政府消防局民治辦公室3F混合廁",
-        "coords": [
-            23.322724,
-            120.309443
-        ],
-        "address": "臺南市新營區護鎮里三興街３８０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府消防局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2276,
-        "name": "臺南市新營體育場環保局後方男廁",
-        "coords": [
-            23.321679,
-            120.3129
-        ],
-        "address": "臺南市新營區護鎮里長榮路二段７８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府體育局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2277,
-        "name": "臺南市新營體育場環保局後方女廁",
-        "coords": [
-            23.321679,
-            120.3129
-        ],
-        "address": "臺南市新營區護鎮里長榮路二段７８號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府體育局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2278,
-        "name": "後壁區公所1F性別友善廁",
-        "coords": [
-            23.365947,
-            120.36197
-        ],
-        "address": "臺南市後壁區後壁村後壁１２９號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 後壁區公所。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2279,
-        "name": "麻豆區公所3F右邊男廁",
-        "coords": [
-            23.184912,
-            120.258409
-        ],
-        "address": "臺南市麻豆區中興里忠孝路２５０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 麻豆區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
         "id": 2280,
         "name": "官田區公所1F男廁",
         "coords": [
@@ -4693,63 +3971,6 @@
         "description": "管理單位: 臺南市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 2312,
-        "name": "麻豆區公所3F女廁",
-        "coords": [
-            23.184912,
-            120.258409
-        ],
-        "address": "臺南市麻豆區中興里忠孝路２５０號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 麻豆區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2359,
-        "name": "臺南市政府民治市政中心1F東側女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2360,
-        "name": "臺南市政府民治市政中心1F西側女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
         "id": 2366,
         "name": "衛生福利部嘉南療養院1F急診女廁",
         "coords": [
@@ -4862,158 +4083,6 @@
         "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2397,
-        "name": "臺南市政府民治市政中心3F東側男廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2398,
-        "name": "臺南市政府民治市政中心3F西側女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2399,
-        "name": "臺南市政府南瀛大樓7F女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2409,
-        "name": "臺南市政府民治市政中心3F東側女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2410,
-        "name": "臺南市政府民治市政中心3F西側男廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2411,
-        "name": "臺南市政府世紀大樓2F女廁",
-        "coords": [
-            23.311614,
-            120.314071
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2412,
-        "name": "臺南市政府世紀大樓3F男廁",
-        "coords": [
-            23.311614,
-            120.314071
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2413,
-        "name": "臺南市政府世紀大樓10F男廁",
-        "coords": [
-            23.311614,
-            120.314071
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
         "id": 2423,
@@ -5320,158 +4389,6 @@
         "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 2448,
-        "name": "臺南市政府南瀛大樓1F女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2449,
-        "name": "臺南市政府南瀛大樓7F男廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2450,
-        "name": "臺南市政府世紀大樓4F女廁",
-        "coords": [
-            23.311614,
-            120.314071
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2451,
-        "name": "臺南市政府世紀大樓8F男廁",
-        "coords": [
-            23.311614,
-            120.314071
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2456,
-        "name": "臺南市政府世紀大樓2F男廁",
-        "coords": [
-            23.311614,
-            120.314071
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2464,
-        "name": "臺南市政府南瀛大樓4F女廁",
-        "coords": [
-            23.311664,
-            120.314686
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2465,
-        "name": "臺南市政府世紀大樓6F男廁",
-        "coords": [
-            23.311614,
-            120.314071
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2466,
-        "name": "臺南市政府世紀大樓7F男廁",
-        "coords": [
-            23.311614,
-            120.314071
-        ],
-        "address": "臺南市新營區忠政里民治路３６號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府秘書處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
         "id": 2480,
         "name": "臺南市政府南瀛大樓4F男廁",
         "coords": [
@@ -5643,82 +4560,6 @@
         "description": "管理單位: 六甲區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 2822,
-        "name": "官田戶政事務所六甲辦公處混合廁",
-        "coords": [
-            23.232023,
-            120.346838
-        ],
-        "address": "臺南市六甲區水林村中山路２１２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 臺南市政府警察局。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2823,
-        "name": "六甲區公所3F男廁",
-        "coords": [
-            23.231797,
-            120.347468
-        ],
-        "address": "臺南市六甲區水林村中山路２０２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 六甲區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2834,
-        "name": "佳里區公所1F男廁",
-        "coords": [
-            23.165189,
-            120.177161
-        ],
-        "address": "臺南市佳里區六安里忠孝路５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 佳里區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2842,
-        "name": "六甲區公所1F男廁",
-        "coords": [
-            23.231797,
-            120.347468
-        ],
-        "address": "臺南市六甲區水林村中山路２０２號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 六甲區公所。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
         "id": 2843,
         "name": "六甲區公所2F女廁",
         "coords": [
@@ -5831,44 +4672,6 @@
         "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 大內區公所。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 2872,
-        "name": "大內區公所1F男廁",
-        "coords": [
-            23.119133,
-            120.356767
-        ],
-        "address": "臺南市大內區大內村內庄１號",
-        "type": "民眾洽公場所",
-        "rating": 3.2,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 大內區公所。公廁類別: 男廁所。公廁評級: 不合格。"
-    },
-    {
-        "id": 2873,
-        "name": "佳里區公所1F女廁",
-        "coords": [
-            23.165189,
-            120.177161
-        ],
-        "address": "臺南市佳里區六安里忠孝路５號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 佳里區公所。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
         "id": 2988,

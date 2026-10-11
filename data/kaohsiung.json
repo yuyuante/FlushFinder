@@ -1,6 +1,6 @@
 [
     {
-        "id": 1759,
+        "id": 1368,
         "name": "(北鳳)鳳山區衛生所-1F女廁",
         "coords": [
             22.627363,
@@ -14,12 +14,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1774,
+        "id": 1383,
         "name": "(北鳳)鳳山區戶政事務所-1F性別友善廁所",
         "coords": [
             22.627376,
@@ -38,7 +38,7 @@
         "description": "管理單位: 高雄市政府民政局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1775,
+        "id": 1384,
         "name": "(北鳳)稅捐稽徵處(鳳山分處，右側)-2F女廁",
         "coords": [
             22.620476,
@@ -52,12 +52,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市稅捐稽徵處。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1782,
+        "id": 1391,
         "name": "(北鳳)稅捐稽徵處(鳳山分處，左側)-1F男廁",
         "coords": [
             22.620476,
@@ -76,7 +76,7 @@
         "description": "管理單位: 高雄市稅捐稽徵處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1783,
+        "id": 1392,
         "name": "(北鳳)稅捐稽徵處(鳳山分處，左側)-1F女廁",
         "coords": [
             22.620476,
@@ -90,12 +90,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市稅捐稽徵處。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1805,
+        "id": 1414,
         "name": "(北鳳)稅捐稽徵處(鳳山分處，右側)-2F男廁",
         "coords": [
             22.620476,
@@ -114,7 +114,7 @@
         "description": "管理單位: 高雄市稅捐稽徵處。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1806,
+        "id": 1415,
         "name": "(北鳳)婦幼青少年館(東側)-1F男廁",
         "coords": [
             22.629892,
@@ -133,7 +133,7 @@
         "description": "管理單位: 高雄市政府社會局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1807,
+        "id": 1416,
         "name": "(北鳳)視聽教室-2F男廁",
         "coords": [
             22.629892,
@@ -147,12 +147,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市政府社會局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1809,
+        "id": 1418,
         "name": "(北鳳)鳳山區衛生所-1F無障礙廁所",
         "coords": [
             22.627363,
@@ -171,387 +171,7 @@
         "description": "管理單位: 高雄市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1810,
-        "name": "(北鳳)稅捐稽徵處(鳳山分處，左側)-2F男廁",
-        "coords": [
-            22.620476,
-            120.347948
-        ],
-        "address": "高雄市鳳山區協和里國泰路二段136號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市稅捐稽徵處。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1811,
-        "name": "(北鳳)婦幼青少年館(東側)-1F女廁",
-        "coords": [
-            22.629892,
-            120.347424
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段120號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府社會局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1812,
-        "name": "(北鳳)視聽教室-1F男廁",
-        "coords": [
-            22.629892,
-            120.347424
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段120號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府社會局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1813,
-        "name": "(北鳳)青少年館(西側)-1F女廁",
-        "coords": [
-            22.629892,
-            120.347424
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段120號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府社會局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1814,
-        "name": "(北鳳)高雄市政府教育局-2F女廁",
-        "coords": [
-            22.630572,
-            120.343796
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段132號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府教育局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1815,
-        "name": "(北鳳)高雄市政府海洋局(東側)-3F女廁",
-        "coords": [
-            22.630572,
-            120.343796
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段132號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府海洋局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1820,
-        "name": "(北鳳)鳳山區衛生所-1F男廁",
-        "coords": [
-            22.627363,
-            120.362696
-        ],
-        "address": "高雄市鳳山區新興里經武路34巷2號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1821,
-        "name": "(北鳳)婦幼青少年館(東側)-2F性別友善廁所",
-        "coords": [
-            22.629892,
-            120.347424
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段120號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府社會局。公廁類別: 性別友善廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1822,
-        "name": "(北鳳)青少年館(西側)-2F女廁",
-        "coords": [
-            22.629892,
-            120.347424
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段120號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府社會局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1823,
-        "name": "(北鳳)高雄市政府農業局-6F男廁",
-        "coords": [
-            22.630572,
-            120.343796
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段132號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府農業局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1826,
-        "name": "(北鳳)婦幼青少年館(東側)-1F無障礙廁所",
-        "coords": [
-            22.629892,
-            120.347424
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段120號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府社會局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1827,
-        "name": "(北鳳)視聽教室-1F女廁",
-        "coords": [
-            22.629892,
-            120.347424
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段120號",
-        "type": "社福機構、集會場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府社會局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1828,
-        "name": "(北鳳)高雄市政府海洋局(西側)-3F男廁",
-        "coords": [
-            22.630572,
-            120.343796
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段132號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府海洋局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1829,
-        "name": "林園區衛生所-2F男廁",
-        "coords": [
-            22.507664,
-            120.395238
-        ],
-        "address": "高雄市林園區林園里林園北路186號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1830,
-        "name": "林園區衛生所-3F男廁",
-        "coords": [
-            22.507664,
-            120.395238
-        ],
-        "address": "高雄市林園區林園里林園北路186號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1831,
-        "name": "澄清湖風景區(第一景，大門口)-女廁",
-        "coords": [
-            22.6535811,
-            120.349077
-        ],
-        "address": "高雄市鳥松區鳥松里大埤路32號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府觀光局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1832,
-        "name": "(北鳳)高雄市政府觀光局(西側)-1F男廁",
-        "coords": [
-            22.630572,
-            120.343796
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段132號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府觀光局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1833,
-        "name": "(北鳳)鳳山行政中心(大禮堂)-1F混合廁所",
-        "coords": [
-            22.630572,
-            120.343796
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段132號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府行政暨國際處。公廁類別: 混合廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1834,
-        "name": "(北鳳)教育局工程管理科-2F女廁",
-        "coords": [
-            22.630572,
-            120.343796
-        ],
-        "address": "高雄市鳳山區忠孝里光復路2段132號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府教育局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1835,
-        "name": "澄清湖風景區(兒童樂園)-男廁",
-        "coords": [
-            22.6577497,
-            120.3460561
-        ],
-        "address": "高雄市鳥松區鳥松里大埤路32號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府工務局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1836,
+        "id": 1419,
         "name": "澄清湖風景區(兒童樂園)-女廁",
         "coords": [
             22.6577497,
@@ -570,7 +190,7 @@
         "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1837,
+        "id": 1420,
         "name": "澄清湖風景區-遊客中心-男廁 ",
         "coords": [
             22.6548979,
@@ -589,7 +209,7 @@
         "description": "管理單位: 高雄市政府工務局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1838,
+        "id": 1421,
         "name": "澄清湖風景區-遊客中心-女廁 ",
         "coords": [
             22.6548979,
@@ -608,7 +228,7 @@
         "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1839,
+        "id": 1422,
         "name": "高雄市政府環境保護局-A棟4F-女廁",
         "coords": [
             22.64963824,
@@ -627,7 +247,7 @@
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1840,
+        "id": 1423,
         "name": "(南鳳)鳳山區戶政事務所-4F無障礙廁所",
         "coords": [
             22.597585,
@@ -641,12 +261,12 @@
             "baby": true,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市政府民政局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1841,
+        "id": 1424,
         "name": "林園區衛生所-2F女廁",
         "coords": [
             22.507664,
@@ -660,12 +280,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1842,
+        "id": 1425,
         "name": "澄清湖風景區(第一景，大門口)-無障礙廁所",
         "coords": [
             22.6535811,
@@ -684,7 +304,7 @@
         "description": "管理單位: 高雄市政府觀光局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1843,
+        "id": 1426,
         "name": "澄清湖風景區-泡茶區男廁2-女廁",
         "coords": [
             22.6621518,
@@ -703,7 +323,7 @@
         "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1844,
+        "id": 1427,
         "name": "澄清湖風景區-寧靜園-女廁 ",
         "coords": [
             22.6545953,
@@ -722,7 +342,7 @@
         "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1845,
+        "id": 1428,
         "name": "高雄圓山大飯店B1-女廁-無障礙廁所",
         "coords": [
             22.65492301,
@@ -741,7 +361,7 @@
         "description": "管理單位: 財團法人台灣敦睦聯誼會。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1846,
+        "id": 1429,
         "name": "高雄市政府環境保護局-B棟8F-女廁",
         "coords": [
             22.64998726,
@@ -760,7 +380,7 @@
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1847,
+        "id": 1430,
         "name": "高雄市政府環境保護局-A棟4F-男廁",
         "coords": [
             22.64964071,
@@ -779,7 +399,7 @@
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1848,
+        "id": 1431,
         "name": "高雄市政府環境保護局-A棟4F-無障礙廁所",
         "coords": [
             22.64963081,
@@ -793,12 +413,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1849,
+        "id": 1432,
         "name": "高雄市政府環境保護局-B棟3F-女廁",
         "coords": [
             22.64997241,
@@ -812,12 +432,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1850,
+        "id": 1433,
         "name": "高雄市政府環境保護局-B棟4F-女廁",
         "coords": [
             22.65000211,
@@ -836,7 +456,7 @@
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1851,
+        "id": 1434,
         "name": "高雄市政府環境保護局-B棟4F-無障礙廁所",
         "coords": [
             22.64999221,
@@ -855,7 +475,7 @@
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1852,
+        "id": 1435,
         "name": "高雄市立圖書館-岡山文化中心分館3F-女廁",
         "coords": [
             22.783081,
@@ -874,7 +494,7 @@
         "description": "管理單位: 高雄市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1853,
+        "id": 1436,
         "name": "情人碼頭-海上劇場-1F男廁",
         "coords": [
             22.8789105,
@@ -893,7 +513,7 @@
         "description": "管理單位: 高雄市政府海洋局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1854,
+        "id": 1437,
         "name": "情人碼頭-海上劇場-1F女廁",
         "coords": [
             22.8789105,
@@ -912,7 +532,7 @@
         "description": "管理單位: 高雄市政府海洋局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1855,
+        "id": 1438,
         "name": "旗山區衛生所-男廁",
         "coords": [
             22.89009,
@@ -931,7 +551,7 @@
         "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1856,
+        "id": 1439,
         "name": "(北鳳)稅捐稽徵處(鳳山分處，左側)-2F女廁",
         "coords": [
             22.620476,
@@ -945,12 +565,12 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
+        "status": "open",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市稅捐稽徵處。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1857,
+        "id": 1440,
         "name": "(北鳳)青少年館(西側)-1F男廁",
         "coords": [
             22.629892,
@@ -964,12 +584,12 @@
             "baby": false,
             "free": true
         },
-        "status": "open",
+        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市政府社會局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1858,
+        "id": 1441,
         "name": "(北鳳)青少年館(西側)-1F無障礙廁所",
         "coords": [
             22.629892,
@@ -988,7 +608,7 @@
         "description": "管理單位: 高雄市政府社會局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1859,
+        "id": 1442,
         "name": "(北鳳)高雄市政府青年局(西側)-2F女廁",
         "coords": [
             22.630572,
@@ -1007,7 +627,7 @@
         "description": "管理單位: 高雄市政府青年局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1860,
+        "id": 1443,
         "name": "(北鳳)高雄市政府民政局-5F女廁",
         "coords": [
             22.630572,
@@ -1026,7 +646,7 @@
         "description": "管理單位: 高雄市政府民政局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1861,
+        "id": 1444,
         "name": "(北鳳)高雄市政府農業局-6F女廁",
         "coords": [
             22.630572,
@@ -1045,7 +665,7 @@
         "description": "管理單位: 高雄市政府農業局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1862,
+        "id": 1445,
         "name": "(南鳳)鳳山區戶政事務所-4F女廁",
         "coords": [
             22.597585,
@@ -1064,13 +684,13 @@
         "description": "管理單位: 高雄市政府民政局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1863,
-        "name": "高雄市政府環境保護局-B棟2F-無障礙廁所",
+        "id": 1446,
+        "name": "高雄市政府環境保護局-A棟3F-無障礙廁所",
         "coords": [
-            22.65001944,
-            120.34891605
+            22.64963329,
+            120.34882218
         ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
+        "address": "高雄市鳥松區鳥松里澄清路834號",
         "type": "民眾洽公場所",
         "rating": 4.8,
         "features": {
@@ -1083,10 +703,86 @@
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1864,
-        "name": "高雄市政府環境保護局-B棟5F-男廁",
+        "id": 1447,
+        "name": "高雄市政府環境保護局-A棟6F-男廁",
         "coords": [
-            22.65000706,
+            22.64962091,
+            120.34880877
+        ],
+        "address": "高雄市鳥松區鳥松里澄清路834號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1448,
+        "name": "高雄市政府環境保護局-A棟6F-無障礙廁所",
+        "coords": [
+            22.64961596,
+            120.34887314
+        ],
+        "address": "高雄市鳥松區鳥松里澄清路834號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1449,
+        "name": "高雄市政府環境保護局-B棟2F-女廁",
+        "coords": [
+            22.64995756,
+            120.34894824
+        ],
+        "address": "高雄市鳥松區鳥松里澄清路834-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1450,
+        "name": "高雄市政府環境保護局-B棟3F-男廁",
+        "coords": [
+            22.64998726,
+            120.34891069
+        ],
+        "address": "高雄市鳥松區鳥松里澄清路834-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1451,
+        "name": "高雄市政府環境保護局-B棟5F-女廁",
+        "coords": [
+            22.64998726,
             120.34894288
         ],
         "address": "高雄市鳥松區鳥松里澄清路834-1號",
@@ -1097,184 +793,13 @@
             "baby": false,
             "free": true
         },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1865,
-        "name": "高雄市立圖書館-岡山文化中心分館1F-女廁",
-        "coords": [
-            22.783081,
-            120.298849
-        ],
-        "address": "高雄市岡山區大遼里岡山南路43號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
         "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1866,
-        "name": "皮影戲館1F-男廁",
-        "coords": [
-            22.783081,
-            120.298849
-        ],
-        "address": "高雄市岡山區大遼里岡山南路42號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市市立歷史博物館。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1867,
-        "name": "燕巢區衛生所-2F男廁",
-        "coords": [
-            22.79303,
-            120.361659
-        ],
-        "address": "高雄市燕巢區南燕村中興路2號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1868,
-        "name": "燕巢區戶政事務所-無障礙廁所",
-        "coords": [
-            22.793088,
-            120.362298
-        ],
-        "address": "高雄市燕巢區南燕村中民路585-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府民政局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1869,
-        "name": "澄清湖風景區-中興塔停車場-女廁",
-        "coords": [
-            22.6673461,
-            120.3431832
-        ],
-        "address": "高雄市鳥松區鳥松里大埤路32號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1870,
-        "name": "勞工澄清服務中心公園-男廁",
-        "coords": [
-            22.651972,
-            120.358006
-        ],
-        "address": "高雄市鳥松區鳥松里大埤路32號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府工務局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1871,
-        "name": "高雄市政府環境保護局-A棟5F-男廁",
-        "coords": [
-            22.64964071,
-            120.34885168
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1872,
-        "name": "高雄市政府環境保護局-A棟5F-女廁",
-        "coords": [
-            22.64965062,
-            120.34883022
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
         "openingHours": "24 小時營業",
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1873,
-        "name": "高雄市政府環境保護局-B棟3F-無障礙廁所",
-        "coords": [
-            22.65002934,
-            120.34893483
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1874,
-        "name": "高雄市政府環境保護局-B棟4F-男廁",
+        "id": 1452,
+        "name": "高雄市政府環境保護局-B棟6F-男廁",
         "coords": [
             22.64998726,
             120.34892678
@@ -1292,388 +817,8 @@
         "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1875,
-        "name": "岡山區衛生所1F-男廁",
-        "coords": [
-            22.79605194,
-            120.29105306
-        ],
-        "address": "高雄市岡山區壽天里公園路50號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1876,
-        "name": "岡山區衛生所1F-女廁",
-        "coords": [
-            22.79606677,
-            120.29103696
-        ],
-        "address": "高雄市岡山區壽天里公園路50號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1877,
-        "name": "高雄市政府環境保護局-A棟2F-男廁",
-        "coords": [
-            22.64963081,
-            120.34886241
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1878,
-        "name": "高雄市政府環境保護局-A棟2F-無障礙廁所",
-        "coords": [
-            22.64963081,
-            120.34881145
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1879,
-        "name": "高雄市政府環境保護局-A棟7F-男廁",
-        "coords": [
-            22.64961596,
-            120.34886777
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1880,
-        "name": "高雄市政府環境保護局-A棟7F-無障礙廁所",
-        "coords": [
-            22.64965062,
-            120.34882486
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1881,
-        "name": "高雄市政府環境保護局-A棟8F-女廁",
-        "coords": [
-            22.64962091,
-            120.34888923
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環保局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1882,
-        "name": "高雄市政府環境保護局(B棟)1F-女廁",
-        "coords": [
-            22.64999716,
-            120.34891069
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1883,
-        "name": "高雄市政府環境保護局-B棟6F-女廁",
-        "coords": [
-            22.65001202,
-            120.3489241
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1884,
-        "name": "高雄市政府環境保護局-B棟7F-男廁",
-        "coords": [
-            22.65000954,
-            120.34892678
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1885,
-        "name": "澄清湖風景區-烤肉區-男廁",
-        "coords": [
-            22.6644781,
-            120.3451345
-        ],
-        "address": "高雄市鳥松區鳥松里大埤路32號",
-        "type": "觀光地區及風景區",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府工務局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1886,
-        "name": "澄清湖風景區-中興塔停車場-男廁",
-        "coords": [
-            22.6673461,
-            120.3431832
-        ],
-        "address": "高雄市鳥松區鳥松里大埤路32號",
-        "type": "交通",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府工務局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1887,
-        "name": "勞工澄清服務中心公園-女廁",
-        "coords": [
-            22.651972,
-            120.358006
-        ],
-        "address": "高雄市鳥松區鳥松里大埤路32號",
-        "type": "公園",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1888,
-        "name": "高雄圓山大飯店B1-男廁-無障礙廁所",
-        "coords": [
-            22.65492301,
-            120.3465718
-        ],
-        "address": "高雄市鳥松區大華里圓山路2號",
-        "type": "其他",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 財團法人台灣敦睦聯誼會。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1889,
-        "name": "高雄市政府環境保護局-A棟3F-男廁",
-        "coords": [
-            22.64964071,
-            120.34882486
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1890,
-        "name": "高雄市政府環境保護局-A棟3F-女廁",
-        "coords": [
-            22.64964071,
-            120.34882486
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1891,
-        "name": "高雄市政府環境保護局-A棟5F-無障礙廁所",
-        "coords": [
-            22.64961596,
-            120.34885168
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1892,
-        "name": "高雄市政府環境保護局-B棟2F-男廁",
-        "coords": [
-            22.64997241,
-            120.34893215
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1893,
-        "name": "高雄市政府環境保護局-B棟5F-無障礙廁所",
-        "coords": [
-            22.65001944,
-            120.3488946
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1894,
-        "name": "岡山區衛生所1F-無障礙廁所",
-        "coords": [
-            22.79613526,
-            120.29102921
-        ],
-        "address": "高雄市岡山區壽天里公園路50號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1895,
-        "name": "高雄市立圖書館-岡山文化中心分館2F-男廁",
+        "id": 1453,
+        "name": "高雄市立圖書館-岡山文化中心分館2F-女廁",
         "coords": [
             22.783081,
             120.298849
@@ -1688,299 +833,14 @@
         },
         "status": "open",
         "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
+        "description": "管理單位: 高雄市政府文化局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1896,
-        "name": "燕巢區衛生所-1F女廁",
+        "id": 1454,
+        "name": "湖內區衛生所2F-男廁",
         "coords": [
-            22.79303,
-            120.361659
-        ],
-        "address": "高雄市燕巢區南燕村中興路2號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1897,
-        "name": "燕巢區衛生所-2F無障礙廁所",
-        "coords": [
-            22.79303,
-            120.361659
-        ],
-        "address": "高雄市燕巢區南燕村中興路2號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1898,
-        "name": "高雄圓山大飯店-東側5F-男廁",
-        "coords": [
-            22.65492301,
-            120.3465718
-        ],
-        "address": "高雄市鳥松區大華里圓山路2號",
-        "type": "其他",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 財團法人台灣敦睦聯誼會。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1899,
-        "name": "高雄市政府環境保護局-A棟1F-無障礙廁所",
-        "coords": [
-            22.64959616,
-            120.34886777
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": true,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1900,
-        "name": "高雄市政府環境保護局-A棟2F-女廁",
-        "coords": [
-            22.64961596,
-            120.34878731
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1901,
-        "name": "高雄市政府環境保護局-A棟7F-女廁",
-        "coords": [
-            22.64962091,
-            120.34884632
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1902,
-        "name": "高雄市政府環境保護局-A棟8F-男廁",
-        "coords": [
-            22.64963576,
-            120.34884363
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1903,
-        "name": "高雄市政府環境保護局-B棟1F-男廁",
-        "coords": [
-            22.65003677,
-            120.34893751
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1904,
-        "name": "高雄市政府環境保護局-B棟1F-無障礙廁所",
-        "coords": [
-            22.65001202,
-            120.34893751
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1905,
-        "name": "高雄市政府環境保護局-B棟6F-無障礙廁所",
-        "coords": [
-            22.65000459,
-            120.34890532
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": true,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1906,
-        "name": "高雄市政府環境保護局-B棟8F-男廁",
-        "coords": [
-            22.64997736,
-            120.34894824
-        ],
-        "address": "高雄市鳥松區鳥松里澄清路834-1號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1907,
-        "name": "高雄市立圖書館-岡山文化中心分館1F-男廁",
-        "coords": [
-            22.783081,
-            120.298849
-        ],
-        "address": "高雄市岡山區大遼里岡山南路43號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1908,
-        "name": "皮影戲館1F-女廁",
-        "coords": [
-            22.783081,
-            120.298849
-        ],
-        "address": "高雄市岡山區大遼里岡山南路42號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市市立歷史博物館。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1909,
-        "name": "皮影戲館4F-男廁",
-        "coords": [
-            22.783081,
-            120.298849
-        ],
-        "address": "高雄市岡山區大遼里岡山南路42號",
-        "type": "文化育樂活動場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市市立歷史博物館。公廁類別: 男廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1910,
-        "name": "田寮區衛生所-女廁",
-        "coords": [
-            22.873011,
-            120.359378
-        ],
-        "address": "高雄市田寮區南安里崗北路32號",
-        "type": "民眾洽公場所",
-        "rating": 4.8,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "open",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
-    },
-    {
-        "id": 1911,
-        "name": "湖內區衛生所1F-男廁",
-        "coords": [
-            22.90497698,
-            120.22229433
+            22.90511534,
+            120.22231579
         ],
         "address": "高雄市湖內區海埔里湖中路203號",
         "type": "民眾洽公場所",
@@ -1995,13 +855,32 @@
         "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1912,
-        "name": "高雄市警察局(旗山分局)-女廁",
+        "id": 1455,
+        "name": "情人碼頭-旅客服務中心-男廁",
         "coords": [
-            22.887891,
-            120.483031
+            22.8776162,
+            120.2129421
         ],
-        "address": "高雄市旗山區湄洲里華中街1號",
+        "address": "高雄市茄萣區崎漏里東方路一段219號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府海洋局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1456,
+        "name": "旗山區衛生所-女廁",
+        "coords": [
+            22.89009,
+            120.479877
+        ],
+        "address": "高雄市旗山區湄洲里中正路197號",
         "type": "民眾洽公場所",
         "rating": 4.8,
         "features": {
@@ -2011,16 +890,35 @@
         },
         "status": "busy",
         "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府警察局。公廁類別: 女廁所。公廁評級: 特優級。"
+        "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1913,
-        "name": "六龜區衛生所1F-女廁",
+        "id": 1457,
+        "name": "(南鳳)鳳山區戶政事務所-4F男廁",
         "coords": [
-            22.99836643,
-            120.63333079
+            22.597585,
+            120.334907
         ],
-        "address": "高雄市六龜區六龜里民治路16號",
+        "address": "高雄市鳳山區富甲里五甲二路472號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府民政局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1458,
+        "name": "林園區衛生所-3F女廁",
+        "coords": [
+            22.507664,
+            120.395238
+        ],
+        "address": "高雄市林園區林園里林園北路186號",
         "type": "民眾洽公場所",
         "rating": 4.8,
         "features": {
@@ -2033,13 +931,336 @@
         "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1914,
-        "name": "皮影戲館2F-女廁",
+        "id": 1459,
+        "name": "澄清湖風景區(第一景，大門口)-男廁",
+        "coords": [
+            22.6535811,
+            120.349077
+        ],
+        "address": "高雄市鳥松區鳥松里大埤路32號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府觀光局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1460,
+        "name": "澄清湖風景區-泡茶區男廁1-無障礙廁所",
+        "coords": [
+            22.6612691,
+            120.3423074
+        ],
+        "address": "高雄市鳥松區鳥松里大埤路32號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府工務局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1461,
+        "name": "澄清湖風景區-烤肉區-女廁",
+        "coords": [
+            22.6644781,
+            120.3451345
+        ],
+        "address": "高雄市鳥松區鳥松里大埤路32號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1462,
+        "name": "勞工澄清服務中心公園-無障礙廁所",
+        "coords": [
+            22.651972,
+            120.358006
+        ],
+        "address": "高雄市鳥松區鳥松里大埤路32號",
+        "type": "公園",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府工務局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1463,
+        "name": "高雄圓山大飯店-西側5F-男廁",
+        "coords": [
+            22.65492301,
+            120.3465718
+        ],
+        "address": "高雄市鳥松區大華里圓山路2號",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 財團法人台灣敦睦聯誼會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1464,
+        "name": "高雄市政府環境保護局-A棟1F-男廁",
+        "coords": [
+            22.64961101,
+            120.34880072
+        ],
+        "address": "高雄市鳥松區鳥松里澄清路834號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府環境保護局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1465,
+        "name": "(北鳳)視聽教室-1F無障礙廁所",
+        "coords": [
+            22.629892,
+            120.347424
+        ],
+        "address": "高雄市鳳山區忠孝里光復路2段120號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府社會局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1466,
+        "name": "(北鳳)視聽教室-2F女廁",
+        "coords": [
+            22.629892,
+            120.347424
+        ],
+        "address": "高雄市鳳山區忠孝里光復路2段120號",
+        "type": "社福機構、集會場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府社會局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1467,
+        "name": "(北鳳)高雄市政府教育局(西側)-3F男廁",
+        "coords": [
+            22.630572,
+            120.343796
+        ],
+        "address": "高雄市鳳山區忠孝里光復路2段132號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府教育局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1468,
+        "name": "林園區衛生所-1F男廁",
+        "coords": [
+            22.507664,
+            120.395238
+        ],
+        "address": "高雄市林園區林園里林園北路186號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1469,
+        "name": "林園區衛生所-1F無障礙廁所",
+        "coords": [
+            22.507664,
+            120.395238
+        ],
+        "address": "高雄市林園區林園里林園北路186號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": true,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府衛生局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1470,
+        "name": "澄清湖風景區-忠靈塔-女廁",
+        "coords": [
+            22.6658527,
+            120.3477684
+        ],
+        "address": "高雄市鳥松區鳥松里大埤路32號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1471,
+        "name": "澄清湖風景區-傳習齋-女廁",
+        "coords": [
+            22.6569032,
+            120.352594
+        ],
+        "address": "高雄市鳥松區鳥松里大埤路32號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府工務局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1472,
+        "name": "高雄圓山大飯店1F-男廁",
+        "coords": [
+            22.65492301,
+            120.3465718
+        ],
+        "address": "高雄市鳥松區大華里圓山路2號",
+        "type": "其他",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": true,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 財團法人台灣敦睦聯誼會。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1473,
+        "name": "湖內區衛生所1F-女廁",
+        "coords": [
+            22.90501651,
+            120.22229433
+        ],
+        "address": "高雄市湖內區海埔里湖中路203號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1474,
+        "name": "六龜區衛生所1F-男廁",
+        "coords": [
+            22.99839359,
+            120.63335091
+        ],
+        "address": "高雄市六龜區六龜里民治路16號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1475,
+        "name": "旗山區戶政事務所-甲仙辦公室1F-混合廁所",
+        "coords": [
+            23.08365014,
+            120.58946192
+        ],
+        "address": "高雄市甲仙區東安里和安街42之1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府民政局。公廁類別: 混合廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1478,
+        "name": "高雄市立圖書館-岡山文化中心分館3F-男廁",
         "coords": [
             22.783081,
             120.298849
         ],
-        "address": "高雄市岡山區大遼里岡山南路42號",
+        "address": "高雄市岡山區大遼里岡山南路43號",
         "type": "文化育樂活動場所",
         "rating": 4.8,
         "features": {
@@ -2049,11 +1270,11 @@
         },
         "status": "open",
         "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市立市歷史博物館。公廁類別: 女廁所。公廁評級: 特優級。"
+        "description": "管理單位: 高雄市政府文化局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1915,
-        "name": "燕巢區衛生所-1F男廁",
+        "id": 1479,
+        "name": "燕巢區衛生所-3F男廁",
         "coords": [
             22.79303,
             120.361659
@@ -2071,26 +1292,140 @@
         "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1916,
-        "name": "路竹戶政事務所田寮辦公處-無障礙廁所",
+        "id": 1480,
+        "name": "燕巢區衛生所-3F女廁",
         "coords": [
-            22.870353,
-            120.359403
+            22.79303,
+            120.361659
         ],
-        "address": "高雄市田寮區南安里崗安路71之3號",
+        "address": "高雄市燕巢區南燕村中興路2號",
         "type": "民眾洽公場所",
         "rating": 4.8,
         "features": {
-            "accessible": true,
-            "baby": true,
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "busy",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1481,
+        "name": "情人碼頭-北側劇場-1F男廁",
+        "coords": [
+            22.8793492,
+            120.2109613
+        ],
+        "address": "高雄市茄萣區崎漏里東方路一段239號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
             "free": true
         },
         "status": "open",
         "openingHours": "24 小時營業",
-        "description": "管理單位: 高雄市政府民政局。公廁類別: 無障礙廁所。公廁評級: 特優級。"
+        "description": "管理單位: 高雄市政府海洋局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1918,
+        "id": 1482,
+        "name": "情人碼頭-北側劇場-1F女廁",
+        "coords": [
+            22.8793492,
+            120.2109613
+        ],
+        "address": "高雄市茄萣區崎漏里東方路一段239號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府海洋局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1486,
+        "name": "燕巢區戶政事務所-女廁",
+        "coords": [
+            22.793088,
+            120.362298
+        ],
+        "address": "高雄市燕巢區南燕村中民路585-1號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府民政局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1487,
+        "name": "田寮區衛生所-男廁",
+        "coords": [
+            22.873011,
+            120.359378
+        ],
+        "address": "高雄市田寮區南安里崗北路32號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府衛生局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1494,
+        "name": "情人碼頭-旅客服務中心-女廁",
+        "coords": [
+            22.8776125,
+            120.2128996
+        ],
+        "address": "高雄市茄萣區崎漏里東方路一段219號",
+        "type": "觀光地區及風景區",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府海洋局。公廁類別: 女廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1495,
+        "name": "旗山區戶政事務所-男廁",
+        "coords": [
+            22.89028,
+            120.479922
+        ],
+        "address": "高雄市旗山區湄洲里延平一路503號",
+        "type": "民眾洽公場所",
+        "rating": 4.8,
+        "features": {
+            "accessible": false,
+            "baby": false,
+            "free": true
+        },
+        "status": "open",
+        "openingHours": "24 小時營業",
+        "description": "管理單位: 高雄市政府民政局。公廁類別: 男廁所。公廁評級: 特優級。"
+    },
+    {
+        "id": 1502,
         "name": "湖內區衛生所2F-女廁",
         "coords": [
             22.90489791,
@@ -2109,7 +1444,7 @@
         "description": "管理單位: 高雄市政府衛生局。公廁類別: 女廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1919,
+        "id": 1503,
         "name": "高雄市警察局(旗山分局)-男廁",
         "coords": [
             22.887891,
@@ -2128,7 +1463,7 @@
         "description": "管理單位: 高雄市政府警察局。公廁類別: 男廁所。公廁評級: 特優級。"
     },
     {
-        "id": 1955,
+        "id": 1539,
         "name": "旗山區戶政事務所-女廁",
         "coords": [
             22.89028,

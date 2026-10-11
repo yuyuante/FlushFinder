@@ -1,24 +1,5 @@
 [
     {
-        "id": 1136,
-        "name": "料羅海濱公園男廁",
-        "coords": [
-            24.41639585,
-            118.43413827
-        ],
-        "address": "金門縣金湖鎮料羅里金港路",
-        "type": "公園",
-        "rating": 3.9,
-        "features": {
-            "accessible": false,
-            "baby": false,
-            "free": true
-        },
-        "status": "busy",
-        "openingHours": "24 小時營業",
-        "description": "管理單位: 金湖鎮公所。公廁類別: 男廁所。公廁評級: 普通級。"
-    },
-    {
         "id": 3646,
         "name": "汶沙里菜市場男廁",
         "coords": [
